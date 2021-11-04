@@ -240,9 +240,9 @@
           "tank has wheels": "pictureY"
         },
         "WEAPONS": [
-          "L30A",
-          "Coax",
-          "GPMG"
+          "L30A1",
+          "L94A1",
+          "L7A2"
         ],
         "DATA": {},
         "ARMOUR": {},
