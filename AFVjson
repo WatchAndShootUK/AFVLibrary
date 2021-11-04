@@ -231,11 +231,10 @@
           "1993",
           "2002"
         ],
-        "COO": {
-          "United Kingdom": [
-            "Oman"
-          ]
-        },
+        "COO": [
+          "United Kingdom",
+          "Oman"
+        ],
         "R_FEAT": {
           "tank has a fucking big gun": "pictureX",
           "tank has wheels": "pictureY"
