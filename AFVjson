@@ -245,7 +245,10 @@
           "L7A2"
         ],
         "DATA": {},
-        "ARMOUR": {},
+        "ARMOUR": [
+          "Base armour is metal and shit",
+          ""
+        ],
         "IMAGES": [
           "challenger21"
         ]
