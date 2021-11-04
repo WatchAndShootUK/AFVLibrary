@@ -1,294 +1,257 @@
-{"1.0.0": {
-  "RECCE": {},
-  "MBT": {
-    "T-62*": {
-      "T-62M": {
+{
+  "1.0.0": {
+    "RECCE": {},
+    "MBT": {
+      "T-62*": {
+        "T-62M": {
+          "COO": {
+            "Russian Federation": [
+              "UKR",
+              "KZ",
+              "CHINA"
+            ]
+          },
+          "MA": [
+            "gun1"
+          ],
+          "SA": {},
+          "ARMOUR": {},
+          "DATA": {},
+          "IMAGES": {}
+        },
+        "T-62MV": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "TO-62": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        }
+      },
+      "T-64*": {
+        "T-64A": {
+          "COO": {
+            "Russian Federation": [
+              "UKR",
+              "KZ",
+              "CHINA"
+            ]
+          },
+          "MA": [
+            "gun1",
+            "",
+            ""
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-64BV": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-64BM": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        }
+      },
+      "T-72*": {
+        "T-72AV": {
+          "COO": {
+            "Russian Federation": [
+              "UKR",
+              "KZ",
+              "CHINA"
+            ]
+          },
+          "MA": [
+            "gun1",
+            "",
+            ""
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-72B1": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-72BA": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-72B3": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        }
+      },
+      "T-80*": {
+        "T-80BV": {
+          "COO": {
+            "Russian Federation": [
+              "UKR",
+              "KZ",
+              "CHINA"
+            ]
+          },
+          "MA": [
+            "gun1",
+            "",
+            ""
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-80U": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-80BVM": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        }
+      },
+      "T-90*": {
+        "T-90A": {
+          "COO": {
+            "Russian Federation": [
+              "UKR",
+              "KZ",
+              "CHINA"
+            ]
+          },
+          "MA": [
+            "gun1",
+            "",
+            ""
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-90M": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "T-90MS": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        }
+      },
+      "Challenger 2": {
+        "MANUFACTURE": [
+          "BAE Systems UK",
+          "1993",
+          "2002"
+        ],
         "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
+          "United Kingdom": [
+            "Oman"
           ]
         },
-        "MA": [
-          "gun1"
+        "R_FEAT": {
+          "tank has a fucking big gun": "pictureX",
+          "tank has wheels": "pictureY"
+        },
+        "WEAPONS": [
+          "L30A",
+          "Coax",
+          "GPMG"
         ],
-        "SA": {},
+        "DATA": {},
         "ARMOUR": {},
-        "DATA": {},
-        "IMAGES": {}
-      },
-      "T-62MV": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "TO-62": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      }
-    },
-    "T-64*": {
-      "T-64A": {
-        "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
-          ]
-        },
-        "MA": [
-          "gun1",
-          "",
-          ""
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-64BV": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-64BM": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      }
-    },
-    "T-72*": {
-      "T-72AV": {
-        "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
-          ]
-        },
-        "MA": [
-          "gun1",
-          "",
-          ""
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-72B1": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-72BA": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-72B3": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      }
-    },
-    "T-80*": {
-      "T-80BV": {
-        "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
-          ]
-        },
-        "MA": [
-          "gun1",
-          "",
-          ""
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-80U": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-80BVM": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      }
-    },
-    "T-90*": {
-      "T-90A": {
-        "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
-          ]
-        },
-        "MA": [
-          "gun1",
-          "",
-          ""
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-90M": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "T-90MS": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      }
-    },
-    "Challenger 2": {
-      "MANUFACTURE": [
-        "BAE Systems UK",
-        "1993",
-        "2002"
-      ],
-      "COO": [
-        "United Kingdom",
-        "Oman"
-      ],
-      "R_FEAT": {
-        "tank has a fucking big gun": "pictureX",
-        "tank has wheels": "pictureY"
-      },
-      "WEAPONS": [
-        "L30A",
-        "Coax",
-        "GPMG"
-      ],
-      "DATA": {},
-      "ARMOUR": {},
-      "IMAGES": [
-        "challenger21"
-      ]
-    },
-    "K2": {
-      "COO": {
-        "Russian Federation": [
-          "UKR",
-          "KZ",
-          "CHINA"
+        "IMAGES": [
+          "challenger21"
         ]
       },
-      "MA": [
-        "gun1",
-        "",
-        ""
-      ],
-      "SA": {},
-      "WEIGHT": {},
-      "DATA": {},
-      "IMAGES": {},
-      "ARMOUR": {}
-    },
-    "LeClerc": {
-      "COO": {
-        "Russian Federation": [
-          "UKR",
-          "KZ",
-          "CHINA"
-        ]
-      },
-      "MA": [
-        "gun1",
-        "",
-        ""
-      ],
-      "SA": {},
-      "WEIGHT": {},
-      "DATA": {},
-      "IMAGES": {},
-      "ARMOUR": {}
-    },
-    "Leopard 2*": {
-      "Leopard 2A4": {
+      "K2": {
         "COO": {
           "Russian Federation": [
             "UKR",
@@ -307,42 +270,7 @@
         "IMAGES": {},
         "ARMOUR": {}
       },
-      "Leopard 2PL": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "Leopard 2A6": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      },
-      "Leopardo 2E": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
-      }
-    },
-    "M1 Abrams*": {
-      "M1A1": {
+      "LeClerc": {
         "COO": {
           "Russian Federation": [
             "UKR",
@@ -361,21 +289,115 @@
         "IMAGES": {},
         "ARMOUR": {}
       },
-      "M1A2": {
-        "COO": {},
-        "MA": [
-          "gun2"
-        ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
+      "Leopard 2*": {
+        "Leopard 2A4": {
+          "COO": {
+            "Russian Federation": [
+              "UKR",
+              "KZ",
+              "CHINA"
+            ]
+          },
+          "MA": [
+            "gun1",
+            "",
+            ""
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "Leopard 2PL": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "Leopard 2A6": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "Leopardo 2E": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        }
       },
-      "M1A2 SEPv3": {
-        "COO": {},
+      "M1 Abrams*": {
+        "M1A1": {
+          "COO": {
+            "Russian Federation": [
+              "UKR",
+              "KZ",
+              "CHINA"
+            ]
+          },
+          "MA": [
+            "gun1",
+            "",
+            ""
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "M1A2": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        },
+        "M1A2 SEPv3": {
+          "COO": {},
+          "MA": [
+            "gun2"
+          ],
+          "SA": {},
+          "WEIGHT": {},
+          "DATA": {},
+          "IMAGES": {},
+          "ARMOUR": {}
+        }
+      },
+      "Type 99A": {
+        "COO": {
+          "Russian Federation": [
+            "UKR",
+            "KZ",
+            "CHINA"
+          ]
+        },
         "MA": [
-          "gun2"
+          "gun1",
+          "",
+          ""
         ],
         "SA": {},
         "WEIGHT": {},
@@ -384,59 +406,40 @@
         "ARMOUR": {}
       }
     },
-    "Type 99A": {
-      "COO": {
-        "Russian Federation": [
-          "UKR",
-          "KZ",
-          "CHINA"
-        ]
+    "IFV": {},
+    "AT": {},
+    "AD": {},
+    "ARTILLERY": {},
+    "EW": {},
+    "COMD": {},
+    "ENG": {},
+    "RW ATTACK": {},
+    "RW UTILITY": {},
+    "CAPABILITIES": {
+      "WEAPONS": {
+        "Direct": {
+          "L30A1": {}
+        },
+        "Indirect": {
+          "L30A1": {}
+        },
+        "Anti-Aircraft Artillery": {
+          "L30A1": {}
+        },
+        "Surface to Air Missile": {
+          "L30A1": {}
+        },
+        "Anti-Tank": {
+          "L30A1": {}
+        },
+        "Machine Gun": {
+          "L30A1": {}
+        }
       },
-      "MA": [
-        "gun1",
-        "",
-        ""
-      ],
-      "SA": {},
-      "WEIGHT": {},
-      "DATA": {},
-      "IMAGES": {},
+      "SENSORS": {
+        "Radars": {}
+      },
       "ARMOUR": {}
     }
-  },
-  "IFV": {},
-  "AT": {},
-  "AD": {},
-  "ARTILLERY": {},
-  "EW": {},
-  "COMD": {},
-  "ENG": {},
-  "RW ATTACK": {},
-  "RW UTILITY": {},
-  "CAPABILITIES": {
-    "WEAPONS": {
-      "Direct": {
-        "L30A1": {}
-      },
-      "Indirect": {
-        "L30A1": {}
-      },
-      "Anti-Aircraft Artillery": {
-        "L30A1": {}
-      },
-      "Surface to Air Missile": {
-        "L30A1": {}
-      },
-      "Anti-Tank": {
-        "L30A1": {}
-      },
-      "Machine Gun": {
-        "L30A1": {}
-      }
-    },
-    "SENSORS": {
-      "Radars": {}
-    },
-    "ARMOUR": {}
   }
-}}
+}
