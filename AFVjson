@@ -417,7 +417,15 @@
     "CAPABILITIES": {
       "WEAPONS": {
         "Direct": {
-          "L30A1": {}
+          "L30A1": {
+            "Name": "Royal Ordnance Rifled Gun",
+            "Calibre": "120mm",
+            "Effective Range": {
+              "APFSDS": 3000,
+              "HESH": 5000,
+              "Smoke": 5000
+            }
+          }
         },
         "Indirect": {
           "L30A1": {}
@@ -432,7 +440,19 @@
           "L30A1": {}
         },
         "Machine Gun": {
-          "L30A1": {}
+          "L94A1": {
+            "Name": "7.62 Chain Gun",
+            "Calibre": "7.62mm NATO",
+            "Effective Range": 1800
+          },
+          "L7A2": {
+            "Name": "General Purpose Machine Gun",
+            "Calibre": "7.62mm NATO",
+            "Effective Range": {
+              "Direct": "1800",
+              "Indirect": "3500"
+            }
+          }
         }
       },
       "SENSORS": {
