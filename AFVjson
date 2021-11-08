@@ -1,5 +1,5 @@
 {
-  "1.0.2": {
+  "1.0.3": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -430,18 +430,10 @@
             }
           }
         },
-        "Indirect": {
-          "L30A1": {}
-        },
-        "Anti-Aircraft Artillery": {
-          "L30A1": {}
-        },
-        "Surface to Air Missile": {
-          "L30A1": {}
-        },
-        "Anti-Tank": {
-          "L30A1": {}
-        },
+        "Indirect": {},
+        "Anti-Aircraft Artillery": {},
+        "Surface to Air Missile": {},
+        "Anti-Tank": {},
         "Machine Gun": {
           "L94A1": {
             "Name": "7.62 Chain Gun",
