@@ -460,19 +460,16 @@
       "AMMUNITION": {
         "APFSDS": {
           "Name": "Armour Piercing Fin Stabilised Discarding Sabot",
-          "Description": "This does some shit",
           "Designation": "APFSDS",
           "Uses": "Kills armoured stuff"
         },
         "HESH": {
           "Name": "High Explosive Squash Head",
-          "Description": "This does some shit",
           "Designation": "HESH",
           "Uses": "Kills light armour and stuff"
         },
         "Smoke": {
           "Name": "Smoke Discharging Round",
-          "Description": "This does some shit",
           "Designation": "Smoke",
           "Uses": "Blind the enemy, screen friendlies, burn baddies"
         }
