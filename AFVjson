@@ -1,5 +1,5 @@
 {
-  "1.0.5": {
+  "1.0.6": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -424,11 +424,11 @@
             "Name": "Royal Ordnance Rifled Gun",
             "Designation": "L30A1",
             "Calibre": "120mm",
-            "Description": "This is a tank gun.",
+            "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
             "Effective Range": {
-              "APFSDS": 3000,
-              "HESH": 5000,
-              "Smoke": 5000
+              "APFSDS": "3000m",
+              "HESH": "5000m",
+              "Smoke": "5000m"
             },
             "Ammunition": [
               "APFSDS",
