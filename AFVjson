@@ -424,6 +424,7 @@
             "Name": "Royal Ordnance Rifled Gun",
             "Designation": "L30A1",
             "Calibre": "120mm",
+            "Description": "This is a tank gun.",
             "Effective Range": {
               "APFSDS": 3000,
               "HESH": 5000,
