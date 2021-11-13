@@ -1,5 +1,5 @@
 {
-  "1.0.3": {
+  "1.0.4": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -422,12 +422,18 @@
         "Direct": {
           "L30A1": {
             "Name": "Royal Ordnance Rifled Gun",
+            "Designation": "L30A1",
             "Calibre": "120mm",
             "Effective Range": {
               "APFSDS": 3000,
               "HESH": 5000,
               "Smoke": 5000
-            }
+            },
+            "Ammunition": [
+              "APFSDS",
+              "HESH",
+              "Smoke"
+            ]
           }
         },
         "Indirect": {},
@@ -450,7 +456,7 @@
           }
         }
       },
-      "SENSORS": {
+      "EW": {
         "Radars": {}
       },
       "ARMOUR": {}
