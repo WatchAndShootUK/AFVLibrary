@@ -1,5 +1,5 @@
 {
-  "1.0.9": {
+  "1.0.11": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -448,7 +448,9 @@
             "Designation": "L94A1",
             "Calibre": "7.62mm NATO",
             "Description": "The L94A1 Chain Gun was specifically designed by Hughes Helicopters Company for use in armoured vehicles, despite the common myth amongst British troops that it was designed for use in helicopters, it was originally designed for use in the M60 Patton MBT. All the spent casings are ejected out of the turret, this prevents casings building up inside the vehicle, the barrel and ejection chute also act as a fume extractor.",
-            "Effective Range": "1800m",
+            "Effective Range": {
+              "Direct": "1800m"
+            },
             "Ammunition": [
               "Ball",
               "Tracer"
