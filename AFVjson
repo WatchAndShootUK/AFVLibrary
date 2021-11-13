@@ -459,6 +459,10 @@
             "Calibre": "7.62mm NATO",
             "Designation": "L7A2",
             "Description": "The L7A2 GPMG is a 7.62x51mm belt fed general purpose machine gun, one of the most widely exported machine guns in the world. It is typically mounted on vehicles using pintle mounts, RWS systems or coaxially. The L7A2 is the British Designation other designations are the M240(US), FN MAG(Belgian) and C6 GPMG (Canadian) to name a few.",
+            "Ammunition": [
+              "Ball",
+              "Tracer"
+            ],
             "Effective Range": {
               "Direct": "1800",
               "Indirect": "3500"
@@ -471,6 +475,16 @@
           "Designation": "APFSDS",
           "Name": "Armour Piercing Fin Stabilised Discarding Sabot",
           "Uses": "Kills armoured stuff"
+        },
+        "Ball": {
+          "Designation": "Ball",
+          "Name": "Ball",
+          "Uses": "Basic round"
+        },
+        "Tracer": {
+          "Designation": "Tracer",
+          "Name": "Tracer",
+          "Uses": "Basic tracer round"
         },
         "HESH": {
           "Designation": "HESH",
