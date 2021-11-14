@@ -1,5 +1,5 @@
 {
-  "1.0.12": {
+  "1.0.13": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -244,7 +244,15 @@
           "L94A1",
           "L7A2"
         ],
-        "DATA": {},
+        "DATA": {
+          "Weight": "75t",
+          "Length": "13.50m",
+          "Width": "4.2m",
+          "Height": "2.49m",
+          "Range": "400km",
+          "Speed": "37mph",
+          "HP": "1200hp"
+        },
         "ARMOUR": [
           "The Challenger 2's base armour is Chobham/Dorchester Level 2 (Classified).",
           "UK Applique"
