@@ -1,5 +1,5 @@
 {
-  "1.0.11": {
+  "1.0.12": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -503,7 +503,15 @@
         "Radars": {}
       },
       "ARMOUR": {
-        "": ""
+        "UK Applique": {
+          "Name": "UK Applique",
+          "Description": "some shit about applique armour",
+          "Images": {
+            "ukapplique1": "app1",
+            "ukapplique2": "app2",
+            "ukapplique3": "app3"
+          }
+        }
       }
     }
   }
