@@ -1,5 +1,5 @@
 {
-  "1.0.13": {
+  "1.0.14": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -236,8 +236,9 @@
           "Oman"
         ],
         "R_FEAT": {
-          "tank has a fucking big gun": "pictureX",
-          "tank has wheels": "pictureY"
+          "Turret, heavy sloping on the front with flat sides. 2 banks of 4 SGD’s either side of the gun, above the L30A1 is the mount for the TI sight, the gunners sight is on the right hand side with the commanders independent periscope behind the gunners sight.": "rfeatchallenger21",
+          "Hull, heavy sloping across the front glacis plate, cutout for the drivers position with a single periscope. Drivers splash plate with cutouts for both headlights. 6 roadwheels with prominent gap between 3rd-4th and 5th-6th, exhausts on both sides at the rear quarter for thermal signature.": "rfeatchallenger22",
+          "OES Variant\nDorchester block on the lower glacis\nNERA plates across the upper glacis\nBoth Hull sides have NERA blocks with Bar armour across the rear quarter \nTurret has NERA blocks across the sides with bar armour across the rear quarter\nECM Module at the rear of the turret\nGPMG mount replaced with RWS": "rfeatchallenger23"
         },
         "WEAPONS": [
           "L30A1",
