@@ -261,7 +261,8 @@
         "IMAGES": [
           "challenger21"
         ],
-        "DESCRIPTION": "Challenger 2 is an advancement on the Challenger 1, development began in 1986 by Vickers Defence Systems(now part of BAE). It only has 3% commonality of parts with the Challenger 1, it has many new features including TI, FCS, Main Armament and Powerpack. It has seen operational service in Kosovo, Bosnia and Iraq, in the former it performed outstandingly compared to contempary tanks in theatre."
+        "DESCRIPTION": "Challenger 2 is an advancement on the Challenger 1, development began in 1986 by Vickers Defence Systems(now part of BAE). It only has 3% commonality of parts with the Challenger 1, it has many new features including TI, FCS, Main Armament and Powerpack. It has seen operational service in Kosovo, Bosnia and Iraq, in the former it performed outstandingly compared to contempary tanks in theatre.",
+        "CREW": 4
       },
       "K2": {
         "COO": {
