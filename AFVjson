@@ -1,5 +1,5 @@
 {
-  "1.0.23": {
+  "1.0.24": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -608,9 +608,9 @@
             }
           },
           "DShK": {
-            "Name": "Pulemyot Kalashnikova",
-            "Calibre": "7.62mm",
-            "Designation": "PKT",
+            "Name": "Degtyaryov-Shpagin large-calibre",
+            "Calibre": "12.7mm",
+            "Designation": "DShK",
             "Description": "The DShK 1938 is a Soviet heavy machine gun with a V-shaped butterfly trigger, firing the 12.7×108mm cartridge. The weapon was also used as a heavy infantry machine gun, in which case it was frequently deployed with a two-wheeled mounting and a single-sheet armour-plate shield.",
             "Ammunition": [
               "Ball",
