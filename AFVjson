@@ -1,8 +1,49 @@
 {
-  "1.0.15": {
+  "1.0.16": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
+        "T-62": {
+          "MANUFACTURE": [
+            "BAE Systems UK",
+            "1993",
+            "2002"
+          ],
+          "COO": [
+            "United Kingdom",
+            "Oman"
+          ],
+          "R_FEAT": {
+            "Turret, heavy sloping on the front with flat sides. 2 banks of 4 SGD’s either side of the gun, above the L30A1 is the mount for the TI sight, the gunners sight is on the right hand side with the commanders independent periscope behind the gunners sight.": "rfeatchallenger21",
+            "Hull, heavy sloping across the front glacis plate, cutout for the drivers position with a single periscope. Drivers splash plate with cutouts for both headlights. 6 roadwheels with prominent gap between 3rd-4th and 5th-6th, exhausts on both sides at the rear quarter for thermal signature.": "rfeatchallenger22",
+            "OES Variant\nDorchester block on the lower glacis\nNERA plates across the upper glacis\nBoth Hull sides have NERA blocks with Bar armour across the rear quarter \nTurret has NERA blocks across the sides with bar armour across the rear quarter\nECM Module at the rear of the turret\nGPMG mount replaced with RWS": "rfeatchallenger23"
+          },
+          "WEAPONS": [
+            "L30A1",
+            "L94A1",
+            "L7A2"
+          ],
+          "DATA": {
+            "Weight": "75t",
+            "Length": "13.50m",
+            "Width": "4.2m",
+            "Height": "2.49m",
+            "Range": "400km",
+            "Speed": "37mph",
+            "HP": "1200hp"
+          },
+          "ARMOUR": [
+            "The Challenger 2's base armour is Chobham/Dorchester Level 2 (Classified).",
+            "UK Applique"
+          ],
+          "IMAGES": [
+            "challenger21",
+            "challenger22",
+            "challenger23"
+          ],
+          "DESCRIPTION": "Challenger 2 is an advancement on the Challenger 1, development began in 1986 by Vickers Defence Systems(now part of BAE). It only has 3% commonality of parts with the Challenger 1, it has many new features including TI, FCS, Main Armament and Powerpack. It has seen operational service in Kosovo, Bosnia and Iraq, in the former it performed outstandingly compared to contempary tanks in theatre.",
+          "CREW": 4
+        },
         "T-62M": {
           "COO": {
             "Russian Federation": [
@@ -511,17 +552,14 @@
           "Uses": "Blind the enemy, screen friendlies, burn baddies"
         }
       },
-      "EW": {
-        "Radars": {}
-      },
       "ARMOUR": {
         "UK Applique": {
           "Name": "UK Applique",
-          "Description": "some shit about applique armour",
+          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
           "Images": {
-            "ukapplique1": "app1",
-            "ukapplique2": "app2",
-            "ukapplique3": "app3"
+            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
+            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
+            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
           }
         }
       }
