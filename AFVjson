@@ -1,5 +1,5 @@
 {
-  "1.0.19": {
+  "1.0.20": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -542,6 +542,22 @@
               "APFSDS",
               "HESH",
               "Smoke"
+            ]
+          },
+          "2A20": {
+            "Name": "U-5TS Smoothbore Gun",
+            "Designation": "2A20",
+            "Calibre": "115mm",
+            "Description": "The 2A20 (GRAU designation) is a 115mm smoothbore gun designed Artillery Plant No.9 in 1958.",
+            "Effective Range": {
+              "HVAPFSDS": "1600m",
+              "HEAT": "2500m",
+              "HE": "2500m"
+            },
+            "Ammunition": [
+              "HVAPFSDS",
+              "HEAT",
+              "HE"
             ]
           }
         },
