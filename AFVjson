@@ -1,5 +1,5 @@
 {
-  "1.0.18": {
+  "1.0.19": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -49,14 +49,13 @@
           "IMAGES": [
             "t621",
             "t622",
-            "t622"
+            "t623"
           ],
           "DESCRIPTION": "T-62 is a Soviet MBT introduced in ‘61 as a further development of the T-55, it was the first production tank to be armed with a smoothbore gun, it prompted western militaries to begin experimenting with smoothbore as well as developing new munitions to defeat the T-62, still in use today and manufactured in very large numbers, estimated to be around 23,000 tanks.",
           "CREW": 4,
           "R_FEAT": {
-            "Turret, heavy sloping on the front with flat sides. 2 banks of 4 SGD’s either side of the gun, above the L30A1 is the mount for the TI sight, the gunners sight is on the right hand side with the commanders independent periscope behind the gunners sight.": "rfeatchallenger21",
-            "Hull, heavy sloping across the front glacis plate, cutout for the drivers position with a single periscope. Drivers splash plate with cutouts for both headlights. 6 roadwheels with prominent gap between 3rd-4th and 5th-6th, exhausts on both sides at the rear quarter for thermal signature.": "rfeatchallenger22",
-            "OES Variant\nDorchester block on the lower glacis\nNERA plates across the upper glacis\nBoth Hull sides have NERA blocks with Bar armour across the rear quarter \nTurret has NERA blocks across the sides with bar armour across the rear quarter\nECM Module at the rear of the turret\nGPMG mount replaced with RWS": "rfeatchallenger23"
+            "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
+            "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
           }
         },
         "T-62M": {
