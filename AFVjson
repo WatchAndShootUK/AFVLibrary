@@ -97,7 +97,7 @@
           "DESCRIPTION": "The T-62M is an extensive modification of the T-62, it has the new Volna FCS, BDD Appliqué armour system, KTD-2 LRF, new TShSM-41U gunners sight, 1K13 sight for the use of the 9K116-2 Sheksna GLATGM, BV-62 Ballistic Computer and a newer engine.",
           "CREW": 4,
           "R_FEAT": {
-            "": "rfeatt62m2"
+            "Turret, new gunners sight, prominent box on LHS, KTD-2 LRF fitted above the gun, BDD Appliqué armour fitted to the turret cheeks. Hull, Appliqué armour on the front glacis plate along with more armour on the lower glacis plate": "rfeatt62m1"
           }
         },
         "T-62MV": {
