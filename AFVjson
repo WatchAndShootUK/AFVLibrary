@@ -1,5 +1,5 @@
 {
-  "1.0.24": {
+  "1.0.25": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -66,23 +66,11 @@
           ],
           "COO": [
             "Soviet Union",
-            "Afghanistan",
-            "Algeria",
-            "Angola",
             "Cuba",
-            "Egypt",
-            "Eritrea",
-            "Ethiopia",
-            "Iran",
-            "Libya",
-            "Mongolia",
-            "North Korea",
             "Russian Federation",
             "Syria",
-            "Tajikistan",
             "Uzbekistan",
-            "Vietnam",
-            "Yemen"
+            "Vietnam"
           ],
           "WEAPONS": [
             "2A20",
@@ -90,28 +78,26 @@
             "DShK"
           ],
           "DATA": {
-            "Weight": "37t",
+            "Weight": "42t",
             "Length": "9.34m",
             "Width": "3.30m",
             "Height": "2.40m",
             "Range": "350km",
             "Speed": "31mph",
-            "HP": "581hp"
+            "HP": "610hp"
           },
           "ARMOUR": [
-            "Base armour is a blend of cast and welded steel."
+            "Cast steel"
           ],
           "IMAGES": [
-            "t621",
-            "t622",
-            "t622"
+            "t62m1",
+            "t62m2",
+            "t62m3"
           ],
-          "DESCRIPTION": "T-62 is a Soviet MBT introduced in ‘61 as a further development of the T-55, it was the first production tank to be armed with a smoothbore gun, it prompted western militaries to begin experimenting with smoothbore as well as developing new munitions to defeat the T-62, still in use today and manufactured in very large numbers, estimated to be around 23,000 tanks.",
+          "DESCRIPTION": "The T-62M is an extensive modification of the T-62, it has the new Volna FCS, BDD Appliqué armour system, KTD-2 LRF, new TShSM-41U gunners sight, 1K13 sight for the use of the 9K116-2 Sheksna GLATGM, BV-62 Ballistic Computer and a newer engine.",
           "CREW": 4,
           "R_FEAT": {
-            "Turret, heavy sloping on the front with flat sides. 2 banks of 4 SGD’s either side of the gun, above the L30A1 is the mount for the TI sight, the gunners sight is on the right hand side with the commanders independent periscope behind the gunners sight.": "rfeatchallenger21",
-            "Hull, heavy sloping across the front glacis plate, cutout for the drivers position with a single periscope. Drivers splash plate with cutouts for both headlights. 6 roadwheels with prominent gap between 3rd-4th and 5th-6th, exhausts on both sides at the rear quarter for thermal signature.": "rfeatchallenger22",
-            "OES Variant\nDorchester block on the lower glacis\nNERA plates across the upper glacis\nBoth Hull sides have NERA blocks with Bar armour across the rear quarter \nTurret has NERA blocks across the sides with bar armour across the rear quarter\nECM Module at the rear of the turret\nGPMG mount replaced with RWS": "rfeatchallenger23"
+            "": "rfeatt62m2"
           }
         },
         "T-62MV": {
