@@ -1,5 +1,5 @@
 {
-  "1.0.20": {
+  "1.0.21": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -592,6 +592,20 @@
               "Direct": "1800m",
               "Indirect": "3500m"
             }
+          },
+          "PKT": {
+            "Name": "Pulemyot Kalashnikova (Kalashnikov's machine gun)",
+            "Calibre": "7.62mm",
+            "Designation": "PKT",
+            "Description": "Designed in the Soviet Union and currently in production in Russia, the original PK machine gun was introduced in 1961 and the improved PKM variant was introduced in 1969. The PKM was designed to replace the SGM and RP-46 machine guns that were previously in Soviet service.",
+            "Ammunition": [
+              "Ball",
+              "Tracer"
+            ],
+            "Effective Range": {
+              "Direct": "1800m",
+              "Indirect": "4000m"
+            }
           }
         }
       },
@@ -599,6 +613,11 @@
         "APFSDS": {
           "Designation": "APFSDS",
           "Name": "Armour Piercing Fin Stabilised Discarding Sabot",
+          "Uses": "Kills armoured stuff"
+        },
+        "HVAPFSDS": {
+          "Designation": "APFSDS",
+          "Name": "High Velocity Armour Piercing Fin Stabilised Discarding Sabot",
           "Uses": "Kills armoured stuff"
         },
         "Ball": {
@@ -612,6 +631,16 @@
           "Uses": "Basic tracer round"
         },
         "HESH": {
+          "Designation": "HESH",
+          "Name": "High Explosive Squash Head",
+          "Uses": "Kills light armour and stuff"
+        },
+        "HEAT": {
+          "Designation": "HESH",
+          "Name": "High Explosive Squash Head",
+          "Uses": "Kills light armour and stuff"
+        },
+        "HE": {
           "Designation": "HESH",
           "Name": "High Explosive Squash Head",
           "Uses": "Kills light armour and stuff"
