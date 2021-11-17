@@ -1,5 +1,5 @@
 {
-  "1.0.21": {
+  "1.0.23": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -594,7 +594,7 @@
             }
           },
           "PKT": {
-            "Name": "Pulemyot Kalashnikova (Kalashnikov's machine gun)",
+            "Name": "Pulemyot Kalashnikova",
             "Calibre": "7.62mm",
             "Designation": "PKT",
             "Description": "Designed in the Soviet Union and currently in production in Russia, the original PK machine gun was introduced in 1961 and the improved PKM variant was introduced in 1969. The PKM was designed to replace the SGM and RP-46 machine guns that were previously in Soviet service.",
@@ -605,6 +605,24 @@
             "Effective Range": {
               "Direct": "1800m",
               "Indirect": "4000m"
+            }
+          },
+          "DShK": {
+            "Name": "Pulemyot Kalashnikova",
+            "Calibre": "7.62mm",
+            "Designation": "PKT",
+            "Description": "The DShK 1938 is a Soviet heavy machine gun with a V-shaped butterfly trigger, firing the 12.7×108mm cartridge. The weapon was also used as a heavy infantry machine gun, in which case it was frequently deployed with a two-wheeled mounting and a single-sheet armour-plate shield.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Direct": "2000m",
+              "Indirect": "2500m"
             }
           }
         }
@@ -641,6 +659,26 @@
           "Uses": "Kills light armour and stuff"
         },
         "HE": {
+          "Designation": "HESH",
+          "Name": "High Explosive Squash Head",
+          "Uses": "Kills light armour and stuff"
+        },
+        "HEI": {
+          "Designation": "HESH",
+          "Name": "High Explosive Squash Head",
+          "Uses": "Kills light armour and stuff"
+        },
+        "AP": {
+          "Designation": "HESH",
+          "Name": "High Explosive Squash Head",
+          "Uses": "Kills light armour and stuff"
+        },
+        "API-WP": {
+          "Designation": "HESH",
+          "Name": "High Explosive Squash Head",
+          "Uses": "Kills light armour and stuff"
+        },
+        "Tandem": {
           "Designation": "HESH",
           "Name": "High Explosive Squash Head",
           "Uses": "Kills light armour and stuff"
