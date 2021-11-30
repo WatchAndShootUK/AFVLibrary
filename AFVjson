@@ -1,5 +1,5 @@
 {
-  "1.0.25": {
+  "1.0.28": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -87,7 +87,8 @@
             "HP": "610hp"
           },
           "ARMOUR": [
-            "Cast steel"
+            "Cast Armour",
+            "BDD Applique"
           ],
           "IMAGES": [
             "t62m1",
@@ -101,15 +102,44 @@
           }
         },
         "T-62MV": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1961",
+            "1975"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A20",
+            "PKT",
+            "DShK"
+          ],
+          "DATA": {
+            "Weight": "42t",
+            "Length": "9.34m",
+            "Width": "3.30m",
+            "Height": "2.40m",
+            "Range": "350km",
+            "Speed": "31mph",
+            "HP": "610hp"
+          },
+          "ARMOUR": [
+            "Cast Armour",
+            "Kontakt-1 ERA"
+          ],
+          "IMAGES": [
+            "t62mv1",
+            "t62mv2",
+            "t62mv3"
+          ],
+          "DESCRIPTION": "T-62MV is a further T-62 upgrade, it has all the upgrades of the T-62M minus the BDD appliqué kit, that is now replaced with Kontakt-1 ERA. Kontakt-1 is fitted down the sides of the hull, the front glacis plate and on the turret front, this gives it much better performance against chemical energy munitions. V standing for \"Vzryvnoi\"-Explosive.",
+          "CREW": 4,
+          "R_FEAT": {
+            "Turret, new gunners sight, prominent box on LHS, KTD-2 LRF fitted above the gun, BDD Appliqué armour fitted to the turret cheeks. Hull, Appliqué armour on the front glacis plate along with more armour on the lower glacis plate": "rfeatt62mv1",
+            "The Turret fitting has the typical ‘clamshell’ layout, along the front of the vehicle it covers the front glacis apart from the headlight fitting, it also has bricks down the sides": "rfeatt62mv2",
+            "The fittings for the ERA, that give them that distinctive clamshell appearance": "rfeatt62mv3"
+          }
         },
         "TO-62": {
           "COO": {},
