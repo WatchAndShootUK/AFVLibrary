@@ -1,5 +1,5 @@
 {
-  "1.0.30": {
+  "1.0.31": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -43,7 +43,6 @@
             "Speed": "31mph",
             "HP": "581hp"
           },
-          "ARMOUR": [],
           "IMAGES": [
             "t621",
             "t622",
@@ -127,7 +126,7 @@
             "HP": "610hp"
           },
           "ARMOUR": [
-            "Kontakt-1 ERA"
+            "Kontakt-1"
           ],
           "IMAGES": [
             "t62mv1",
@@ -180,33 +179,95 @@
             "t64a3"
           ],
           "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
-          "CREW": 4,
+          "CREW": 3,
           "R_FEAT": {
             "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
             "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
           }
         },
         "T-64BV": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "MANUFACTURE": [
+            "KMDB",
+            "1963",
+            "1987"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "COO": [
+            "Soviet Union",
+            "Democratic Republic of the Congo",
+            "Transnistria",
+            "Ukraine",
+            "Uzbekistan"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "38t",
+            "Length": "9.225m",
+            "Width": "3.415m",
+            "Height": "2.172m",
+            "Range": "500km",
+            "Speed": "35mph",
+            "HP": "700hp"
+          },
+          "ARMOUR": [
+            "Combination K"
+          ],
+          "IMAGES": [
+            "t64a1",
+            "t64a2",
+            "t64a3"
+          ],
+          "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
+          "CREW": 3,
+          "R_FEAT": {
+            "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
+            "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
+          }
         },
         "T-64BM": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "MANUFACTURE": [
+            "KMDB",
+            "1963",
+            "1987"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "COO": [
+            "Soviet Union",
+            "Democratic Republic of the Congo",
+            "Transnistria",
+            "Ukraine",
+            "Uzbekistan"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "38t",
+            "Length": "9.225m",
+            "Width": "3.415m",
+            "Height": "2.172m",
+            "Range": "500km",
+            "Speed": "35mph",
+            "HP": "700hp"
+          },
+          "ARMOUR": [
+            "Combination K"
+          ],
+          "IMAGES": [
+            "t64a1",
+            "t64a2",
+            "t64a3"
+          ],
+          "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
+          "CREW": 3,
+          "R_FEAT": {
+            "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
+            "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
+          }
         }
       },
       "T-72*": {
@@ -776,24 +837,24 @@
           }
         },
         "BDD Applique": {
-          "Name": "UK Applique",
-          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
+          "Name": "BDD Applique",
+          "Description": "BDD Is an Appliqué armour kit designed in the USSR and fitted to the T-55M and T-62M series of tanks, it consists of a turret package covering the front cheeks and a hull package covering the front and lower glacis plate.",
           "Images": {
-            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
-            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
-            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
+            "bddapplique": "BDD Armour package is an appliqué pack fitted on the T-62M, fitted here on the the turret cheeks.",
+            "bddapplique2": "It can be seen here fitted to the turret cheeks and front and lower glacis plates.",
+            "bddapplique3": "It is a combination of spaced armour, it consists of a thick steel outer, with thinner angled plates inside, the gaps are filled with polyurethane, it adds a significant protective element against HEAT munitions."
           }
         },
         "Combination K": {
           "Name": "Combination K",
-          "Description": "Combination-K is an interesting design, the turret is made of steel, it has cavities for ceramic spheres.",
+          "Description": "Combination K is an early generation composite armour designed by Alexander Morozov.",
           "Images": {
-            "combinationk": "The hull is made from glass reinforced plastic, you can see here the layers of composites in the frontal hull, this variant being a later build model (T-64B), denoted by 5 layers of sandwich array.",
-            "combinationk2": "This tank was destroyed in Ukraine."
+            "combinationk": "Combination-K is an interesting design, the turret is made of steel, it has cavities for ceramic spheres.",
+            "combinationk2": "The hull is made from glass reinforced plastic, you can see here the layers of composites in the frontal hull, this variant being a later build model (T-64B), denoted by 5 layers of sandwich array. This tank was destroyed in Ukraine."
           }
         },
         "Kontakt-1": {
-          "Name": "UK Applique",
+          "Name": "Kontakt-1",
           "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
           "Images": {
             "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
