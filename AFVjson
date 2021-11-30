@@ -1,5 +1,5 @@
 {
-  "1.0.33": {
+  "1.0.37": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -44,7 +44,9 @@
             "HP": "581hp"
           },
           "IMAGES": [
-            "t621"
+            "t621",
+            "t622",
+            "t623"
           ],
           "DESCRIPTION": "T-62 is a Soviet MBT introduced in ‘61 as a further development of the T-55, it was the first production tank to be armed with a smoothbore gun, it prompted western militaries to begin experimenting with smoothbore as well as developing new munitions to defeat the T-62, still in use today and manufactured in very large numbers, estimated to be around 23,000 tanks.",
           "CREW": 4,
@@ -127,9 +129,7 @@
             "Kontakt-1"
           ],
           "IMAGES": [
-            "t62mv1",
-            "t62mv2",
-            "t62mv3"
+            "t62mv1"
           ],
           "DESCRIPTION": "T-62MV is a further T-62 upgrade, it has all the upgrades of the T-62M minus the BDD appliqué kit, that is now replaced with Kontakt-1 ERA. Kontakt-1 is fitted down the sides of the hull, the front glacis plate and on the turret front, this gives it much better performance against chemical energy munitions. V standing for \"Vzryvnoi\"-Explosive.",
           "CREW": 4,
@@ -179,8 +179,9 @@
           "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
           "CREW": 3,
           "R_FEAT": {
-            "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
-            "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
+            "Turret, the T-64A moves away from the classic frying pan shape due to the use of composite armour, you can see it has much thicker cheek armour. It has an IR searchlight to the left of the gun, directly above the IR searchlight is the TPD-43 gunners primary sight, with the NV sight behind that. The CMDR sits on the right, with the GNR on the left. The snorkel is stowed at rear of the turret laterally. Sometimes they are fitted with stowage bins as seen on this photo.": "t64a1",
+            "Hull, The hull has a heavy sloping front glacis, with a prominent V shape splash plate for the driver, the driver has a single vision periscope, there are 3 prominent lines running down the mud guards. The suspension is of a distinctive design, it has 6 small ‘pork pie’ roadwheels, equally spaced throughout with 4 top rollers (visible when the side skirts are removed).": "rfeatt64a2",
+            "The rear view of the T-64A, the exhaust is fitted at the rear, given the tank is commonly confused with the T-72 it is a key feature to note that the thermal signature is at the rear from the exhaust, not the side like the T-72.": "rfeatt64a3"
           }
         },
         "T-64BV": {
@@ -648,10 +649,10 @@
             ]
           },
           "2A46": {
-            "Name": "D-81TM Smoothbore Gun",
+            "Name": "D-81 Smoothbore Gun",
             "Designation": "2A46",
             "Calibre": "125mm",
-            "Description": "The 2A46 (also called D-81TM) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
+            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
             "Effective Range": {
               "APFSDS": "3000m",
               "HE": "400m",
@@ -743,10 +744,10 @@
             }
           },
           "NSVT": {
-            "Name": "Degtyaryov-Shpagin large-calibre",
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
             "Calibre": "12.7mm",
-            "Designation": "DShK",
-            "Description": "The DShK 1938 is a Soviet heavy machine gun with a V-shaped butterfly trigger, firing the 12.7×108mm cartridge. The weapon was also used as a heavy infantry machine gun, in which case it was frequently deployed with a two-wheeled mounting and a single-sheet armour-plate shield.",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
             "Ammunition": [
               "Ball",
               "Tracer",
@@ -756,8 +757,8 @@
               "Tandem"
             ],
             "Effective Range": {
-              "Direct": "2000m",
-              "Indirect": "2500m"
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
             }
           }
         }
