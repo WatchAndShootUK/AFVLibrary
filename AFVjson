@@ -1,5 +1,5 @@
 {
-  "1.0.37": {
+  "1.0.38": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -149,10 +149,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Democratic Republic of the Congo",
-            "Transnistria",
-            "Ukraine",
-            "Uzbekistan"
+            "Ukraine"
           ],
           "WEAPONS": [
             "2A46",
@@ -199,31 +196,31 @@
           ],
           "WEAPONS": [
             "2A46",
-            "PKMT",
+            "PKT",
             "NSVT"
           ],
           "DATA": {
-            "Weight": "38t",
+            "Weight": "42.5t",
             "Length": "9.225m",
             "Width": "3.415m",
             "Height": "2.172m",
-            "Range": "500km",
-            "Speed": "35mph",
-            "HP": "700hp"
+            "Range": "600km",
+            "Speed": "45mph",
+            "HP": "1000hp"
           },
           "ARMOUR": [
-            "Combination K"
+            "Combination K",
+            "Kontakt-1"
           ],
           "IMAGES": [
-            "t64a1",
-            "t64a2",
-            "t64a3"
+            "t64bv1",
+            "t64bv2",
+            "t64bv3"
           ],
-          "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
+          "DESCRIPTION": "",
           "CREW": 3,
           "R_FEAT": {
-            "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
-            "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
+            "": "rfeatt64bv2"
           }
         },
         "T-64BM": {
@@ -698,20 +695,6 @@
             }
           },
           "PKT": {
-            "Name": "Pulemyot Kalashnikova",
-            "Calibre": "7.62mm",
-            "Designation": "PKT",
-            "Description": "Designed in the Soviet Union and currently in production in Russia, the original PK machine gun was introduced in 1961 and the improved PKM variant was introduced in 1969. The PKM was designed to replace the SGM and RP-46 machine guns that were previously in Soviet service.",
-            "Ammunition": [
-              "Ball",
-              "Tracer"
-            ],
-            "Effective Range": {
-              "Direct": "1800m",
-              "Indirect": "4000m"
-            }
-          },
-          "PKMT": {
             "Name": "Pulemyot Kalashnikova",
             "Calibre": "7.62mm",
             "Designation": "PKT",
