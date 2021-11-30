@@ -1,5 +1,5 @@
 {
-  "1.0.29": {
+  "1.0.30": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -141,17 +141,6 @@
             "The Turret fitting has the typical ‘clamshell’ layout, along the front of the vehicle it covers the front glacis apart from the headlight fitting, it also has bricks down the sides": "rfeatt62mv2",
             "The fittings for the ERA, that give them that distinctive clamshell appearance": "rfeatt62mv3"
           }
-        },
-        "TO-62": {
-          "COO": {},
-          "MA": [
-            "gun2"
-          ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
         }
       },
       "T-64*": {
@@ -186,9 +175,9 @@
             "Combination K"
           ],
           "IMAGES": [
-            "t621",
-            "t622",
-            "t623"
+            "t64a1",
+            "t64a2",
+            "t64a3"
           ],
           "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
           "CREW": 4,
@@ -781,7 +770,7 @@
           "Name": "UK Applique",
           "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
           "Images": {
-            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
+            "ukapplique": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
             "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
             "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
           }
@@ -799,7 +788,7 @@
           "Name": "Combination K",
           "Description": "Combination-K is an interesting design, the turret is made of steel, it has cavities for ceramic spheres.",
           "Images": {
-            "combinationk1": "The hull is made from glass reinforced plastic, you can see here the layers of composites in the frontal hull, this variant being a later build model (T-64B), denoted by 5 layers of sandwich array.",
+            "combinationk": "The hull is made from glass reinforced plastic, you can see here the layers of composites in the frontal hull, this variant being a later build model (T-64B), denoted by 5 layers of sandwich array.",
             "combinationk2": "This tank was destroyed in Ukraine."
           }
         },
