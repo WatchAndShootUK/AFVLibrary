@@ -1,5 +1,5 @@
 {
-  "1.0.31": {
+  "1.0.32": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -158,7 +158,7 @@
           ],
           "WEAPONS": [
             "2A46",
-            "PKMT",
+            "PKT",
             "NSVT"
           ],
           "DATA": {
@@ -650,19 +650,19 @@
             ]
           },
           "2A46": {
-            "Name": "U-5TS Smoothbore Gun",
-            "Designation": "2A20",
-            "Calibre": "115mm",
-            "Description": "The 2A20 (GRAU designation) is a 115mm smoothbore gun designed Artillery Plant No.9 in 1958.",
+            "Name": "D-81TM Smoothbore Gun",
+            "Designation": "2A46",
+            "Calibre": "125mm",
+            "Description": "The 2A46 (also called D-81TM) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
             "Effective Range": {
-              "HVAPFSDS": "1600m",
-              "HEAT": "2500m",
-              "HE": "2500m"
+              "APFSDS/HEAT": "3000m",
+              "HE": "400m",
+              "ATGM": "5000m"
             },
             "Ammunition": [
-              "HVAPFSDS",
-              "HEAT",
-              "HE"
+              "APFSDS",
+              "HE",
+              "ATGM"
             ]
           }
         },
@@ -855,11 +855,12 @@
         },
         "Kontakt-1": {
           "Name": "Kontakt-1",
-          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
+          "Description": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
           "Images": {
-            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
-            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
-            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
+            "kontakt-1": "Here this T-80BV has Kontakt-1 fitted, you can see the blocks provide coverage across most of the frontal arc.",
+            "kontakt-12": "Kontakt-1 is an ERA designed in the USSR, it is fitted to a lot of Russian tanks, this can be denoted by the suffix ‘V-Vzryvnoi’ meaning explosive, example:T-80BV.",
+            "kontakt-13": "Sometimes Kontakt-1 is fitted in the ‘clamshell’ style that you could see on the previous photo of the T-80BV, whereas in some variants like this T-72B1 it is mounted directly on to the turret instead.",
+            "kontakt-14": "In this diagram by V.A Grigoryan you can see how Kontakt-1 works. The operating principle of the armour lies in the disruption of shaped charge jets through the violent separation of the steel plates sandwiching the explosive layer upon detonation. The column of numbers 'N' to the left indicates the number of reactive plates that a shaped charge jet must pass through depending on the point of impact."
           }
         },
         "Kontakt-5": {
