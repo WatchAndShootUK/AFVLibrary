@@ -1,5 +1,5 @@
 {
-  "1.0.32": {
+  "1.0.33": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -653,7 +653,7 @@
             "Calibre": "125mm",
             "Description": "The 2A46 (also called D-81TM) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
             "Effective Range": {
-              "APFSDS/HEAT": "3000m",
+              "APFSDS": "3000m",
               "HE": "400m",
               "ATGM": "5000m"
             },
@@ -789,6 +789,11 @@
           "Uses": "Kills light armour and stuff"
         },
         "HEAT": {
+          "Designation": "HESH",
+          "Name": "High Explosive Squash Head",
+          "Uses": "Kills light armour and stuff"
+        },
+        "ATGM": {
           "Designation": "HESH",
           "Name": "High Explosive Squash Head",
           "Uses": "Kills light armour and stuff"
