@@ -1,5 +1,5 @@
 {
-  "1.0.45": {
+  "1.0.47": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -359,7 +359,7 @@
             "The T-72B later production models began to leave the factory with Kontakt-1 ERA fitted, across the turret front and hull front. When compared to other tanks the ERA almost looks poorly fitted, almost like they were trying to fit it in any place possible.": "rfeatt72b2",
             "T-72B1’s shown with no ERA fitted in Georgia, 2008. This shows the mounts, unlike other models the mounts for the Kontakt-1 are directly on the hull, unlike clamshell mounting brackets. The ERA was probably fitted in theatre.": "rfeatt72b3",
             "T-72B1 has a different sighting system, the 1K13 sight found on the T-72A, it also cannot fire GLATGM, this is a key recognising feature.": "rfeatt72b4",
-            "Shown here, the T-72B has a sight door whereas the T-72B1 doesn’t.": "test1"
+            "Shown here, the T-72B has a sight door whereas the T-72B1 doesn’t.": "rfeatt72b5"
           }
         },
         "T-72AV": {
