@@ -1,5 +1,5 @@
 {
-  "1.0.42": {
+  "1.0.43": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -302,7 +302,8 @@
           "IMAGES": [
             "t72a1",
             "t72a2",
-            "t72a3"
+            "t72a3",
+            "t72a4"
           ],
           "DESCRIPTION": "The T-72A is a Soviet/Russian MBT first entering service in 1979, it is an upgrade on the older T-72 including an LRF, an upgraded FCS, thicker composite armour on the turret and hull front. It is one of the most widely used tanks in the world, still in use today. The T-72 was first designed as an emergency model to be produced in a time of war, this was because it was cheaper to produce than the complex T-64.",
           "CREW": 3,
