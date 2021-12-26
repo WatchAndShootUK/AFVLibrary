@@ -1,5 +1,5 @@
 {
-  "1.0.38": {
+  "1.0.39": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -184,8 +184,8 @@
         "T-64BV": {
           "MANUFACTURE": [
             "KMDB",
-            "1963",
-            "1987"
+            "1985",
+            "1991"
           ],
           "COO": [
             "Soviet Union",
@@ -217,24 +217,22 @@
             "t64bv2",
             "t64bv3"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The T-64B is an extensive modification of the T-64A, including redesigned armour, a new 1A33 FCS, the ability to fire the 9K112 Kobra(AT-8 Songster) GLATGM and Stabilisation upgrades to name a few, this upgrade brought it in line with the newer tanks in service like the T-72 and T-80, the T-64BV was fitted with Kontakt-1 ERA on the hull and turret, it is still in service today, mainly with the Ukrainian Land Forces. The T-64BV is still produced to this day in Ukraine.",
           "CREW": 3,
           "R_FEAT": {
-            "": "rfeatt64bv2"
+            "Turret, Kontakt-1 fitted liberally around the turret. Fitted in a clamshell design with a double row of bricks, rather than a single row that you’ll see on other T-Series, the searchlight remains on the left side of the gun, with 2 SGD banks of 4 on the rear left of the turret.": "rfeatt64bv1",
+            "Along the hull there is again Kontakt-1 placed liberally across the front glacis plate, with a 1 brick row along the upper lower glacis, the hull also contain ERA bricks along the sides approximately 3/4 the way down.": "rfeatt64bv2",
+            "For comparison this is a T-72AV, you can see that the ERA is fitted in the clamshell design I mentioned but in a one brick row style instead of 2 brick rows like on the T-64BV": "rfeatt64bv3"
           }
         },
         "T-64BM": {
           "MANUFACTURE": [
-            "KMDB",
-            "1963",
-            "1987"
+            "Malyshev Factory",
+            "2005",
+            "Present"
           ],
           "COO": [
-            "Soviet Union",
-            "Democratic Republic of the Congo",
-            "Transnistria",
-            "Ukraine",
-            "Uzbekistan"
+            "Ukraine"
           ],
           "WEAPONS": [
             "2A46",
@@ -242,27 +240,29 @@
             "NSVT"
           ],
           "DATA": {
-            "Weight": "38t",
+            "Weight": "45t",
             "Length": "9.225m",
-            "Width": "3.415m",
+            "Width": "3.615m",
             "Height": "2.172m",
             "Range": "500km",
             "Speed": "35mph",
             "HP": "700hp"
           },
           "ARMOUR": [
-            "Combination K"
+            "Combination K",
+            "Nozh ERA"
           ],
           "IMAGES": [
-            "t64a1",
-            "t64a2",
-            "t64a3"
+            "t64bm1",
+            "t64bm2",
+            "t64bm3"
           ],
-          "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
+          "DESCRIPTION": "The T-64BM ‘Bulat’ is a Ukrainian modification of a T-64B, Ukraine has around 2000 T-64’s in various states, due to the Kharkov plant within Ukraine, this was once a Soviet powerhouse for building tanks, after the collapse of the USSR it fell in to Ukraine’s hands, who were left with thousands of ageing models of T-64’s.\nThis modification is extensive, featuring a new autoloader, upgraded power pack, new Nozh (Knife) ERA.",
           "CREW": 3,
           "R_FEAT": {
-            "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
-            "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
+            "The turret of the T-64BM looks very similar to that of the T-80U, some ways to differentiate are with the smoke grenade discharges at the rear sides of the turret rather than across the front, you can also see a meteorological sensor at the rear of the turret for the FCS, the T-80U has an IR searchlight and gaps either side of the gun where there is no ERA, the T-64BM does not have this. It also has a commanders sight different to the T-64BM.": "t64bm1",
+            "On the Hull the front glacis plate has ERA snugly fitted giving it a much thicker appearance, there are also ERA panels down the sides towards the front. The roadwheels remain the same as the standard T-64, this is a good feature, as well as the drivers periscope being singular whereas T-80U has 3 periscopes.": "t64bm2",
+            "This is a T-80U, easily confused with the T-64BM, you will notice the differences I mentioned before in ERA, Commanders sight, Meteorological sensor, IR searchlight and SGD’s. Also the obvious differences in roadwheels, Drivers periscopes.": "rfeatt64bm3"
           }
         }
       },
@@ -851,6 +851,15 @@
           }
         },
         "Kontakt-5": {
+          "Name": "UK Applique",
+          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
+          "Images": {
+            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
+            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
+            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
+          }
+        },
+        "Nozh ERA": {
           "Name": "UK Applique",
           "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
           "Images": {
