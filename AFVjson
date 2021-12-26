@@ -1,5 +1,5 @@
 {
-  "1.0.40": {
+  "1.0.41": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -267,57 +267,96 @@
         }
       },
       "T-72*": {
-        "T-72AV": {
-          "COO": {
-            "Russian Federation": [
-              "UKR",
-              "KZ",
-              "CHINA"
-            ]
+        "T-72A": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1979",
+            1985
+          ],
+          "COO": [
+            "Soviet Union",
+            "Azerbaijan",
+            "Democratic Republic of the Congo",
+            "Georgia",
+            "Syria",
+            "North Macedonia",
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "46t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
           },
-          "MA": [
-            "gun1",
-            "",
-            ""
+          "ARMOUR": [
+            "T72 Armour"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "IMAGES": [
+            "t72a1",
+            "t72a2",
+            "t72a3"
+          ],
+          "DESCRIPTION": "The T-72A is a Soviet/Russian MBT first entering service in 1979, it is an upgrade on the older T-72 including an LRF, an upgraded FCS, thicker composite armour on the turret and hull front. It is one of the most widely used tanks in the world, still in use today. The T-72 was first designed as an emergency model to be produced in a time of war, this was because it was cheaper to produce than the complex T-64.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-72A is easily confused with a T-64A, ways to differentiate between the turret are the SGD’s, on the right side a 5 dischargers in a ‘U’ configuration, on the left side there’s a row of 6 with one above the 6th discharger. There’s also a lack of storage boxes around the left front cheek, the IR searchlight now moves to the right hand side of the gun, the snorkel at the rear is also much smaller than that of the T-64A.": "rfeatt72a1",
+            "Moving to the hull, there are 6 equally spaced roadwheels, with a single pin track design signifying the tank isn’t as modern, the exhaust is on the rear left unlike the T-64’s which is on the rear. On the front you will see a ‘V’ shaped splash plate for the driver, with a single vision periscope.": "t72a1",
+            "This is a view in TI, the heat from the exhaust will be significant on the left hand side. The exhaust points downwards so this will leave a prominent signature on the ground.": "rfeatt72a3"
+          }
         },
-        "T-72B1": {
-          "COO": {},
-          "MA": [
-            "gun2"
+        "T-72B": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1985",
+            "Present"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
-        },
-        "T-72BA": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "COO": [
+            "Soviet Union",
+            "Azerbaijan",
+            "Democratic Republic of the Congo",
+            "Georgia",
+            "Syria",
+            "North Macedonia",
+            "Russian Federation"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
-        },
-        "T-72B3": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "DATA": {
+            "Weight": "46t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "T72 Armour",
+            "Kontakt-1"
+          ],
+          "IMAGES": [
+            "t72b1",
+            "t72b2",
+            "t72b3"
+          ],
+          "DESCRIPTION": "",
+          "CREW": 3,
+          "R_FEAT": {
+            "": "",
+            " (copy)": "",
+            " (copy 2)": ""
+          }
         }
       },
       "T-80*": {
