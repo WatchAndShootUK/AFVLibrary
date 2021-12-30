@@ -1,5 +1,5 @@
 {
-  "1.0.48": {
+  "1.0.49": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -368,6 +368,7 @@
             "Present"
           ],
           "COO": [
+            "Soviet Union",
             "Democratic Republic of the Congo",
             "Kenya",
             "Sudan",
@@ -407,8 +408,8 @@
         "T-72BA": {
           "MANUFACTURE": [
             "Uralvagonzavod",
-            "1985",
-            "Present"
+            "1998",
+            2005
           ],
           "COO": [
             "Soviet Union",
@@ -425,7 +426,7 @@
             "NSVT"
           ],
           "DATA": {
-            "Weight": "43t",
+            "Weight": "45t",
             "Length": "9.54m",
             "Width": "3.59m",
             "Height": "2.23m",
@@ -435,19 +436,19 @@
           },
           "ARMOUR": [
             "T72 Armour",
-            "Kontakt-1"
+            "Kontakt-5"
           ],
           "IMAGES": [
             "t72b1",
             "t72b2",
             "t72b3"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "T-72BA is used to refer to several late model T-72B builds, that were stripped down, refurbished and upgraded certain parts at UralVagonZavod between 1998-2005. Because the upgrade was performed on various T-72B’s with different mounts for ERA there can be some deviation between models, but there are several features on every T-72BA. Approximately 750 were produced.\nThese include a new engine with an upgraded exhaust, new twin pin tracks from the T-90A (sometimes known as Vickers style tracks) and a meteorological sensor for the 1A40 FCS. \nThe T72BA also has upgraded Kontakt-5 ERA.",
           "CREW": 3,
           "R_FEAT": {
-            "": "",
-            " (copy)": "",
-            " (copy 2)": ""
+            "The T-72BA recognising features, these will help to differentiate between a T-72B Obr.1989 and a T-72B3, it retains the IR Searchlight, unlike T-72B3 in which the searchlight is omitted, a key feature is the DWE-BS wind sensor towards the rear of the turret. The Kontakt-5 ERA will help you recognise that it is a T-72BA, not an AV/B/B1.": "rfeatt72ba1",
+            "Seen here is a T-72B Obr.1989, you will notice the lack of the crosswind sensor on the rear of the turret.": "rfeatt72ba2",
+            "Here is a T-72B3, you will notice the lack of IR searchlight, the Sosna-U sighting system on the left side. A point to note is on T-72BA it has ERA bricks fitted in a 4-4 format on either side of the turret, on T-72B3 it is a 4-5 configuration due to the omitting of the IR searchlight, another point is the confusion between T-72B Obr.1989/BA and B3 with the T-90A, the way to differentiate is that on T-72’s the ERA has gaps between them, on T-90A there are no gaps.": "rfeatt72ba3"
           }
         },
         "T-72B3": {
