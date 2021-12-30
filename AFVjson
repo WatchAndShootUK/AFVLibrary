@@ -1,5 +1,5 @@
 {
-  "1.0.51": {
+  "1.0.52": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -401,8 +401,8 @@
           "CREW": 3,
           "R_FEAT": {
             "The T-72AV shares most of its recognising features with the T-72A, apart from the Kontakt-1 fitted, this gives it a distinctive appearance. The bricks are fitted in a single brick clamshell design, this is key feature to help with recognising it against other T-Series tanks with Kontakt-1.": "t72avrfeat1",
-            "The hull ERA is similar to other T-Series tanks with it being fitted across the front glacis with gaps for headlights and towing eyes.": "t72avrfeat1",
-            "This is a T-64BV, which the T-72AV is easily confused with. You can see the difference in ERA layout across the turret, remember that T-64BV has a double brick clamshell, T-72AV has a single brick clamshell mount.": "t72avrfeat1"
+            "The hull ERA is similar to other T-Series tanks with it being fitted across the front glacis with gaps for headlights and towing eyes.": "t72avrfeat2",
+            "This is a T-64BV, which the T-72AV is easily confused with. You can see the difference in ERA layout across the turret, remember that T-64BV has a double brick clamshell, T-72AV has a single brick clamshell mount.": "t72avrfeat3"
           }
         },
         "T-72BA": {
@@ -500,16 +500,10 @@
         "T-72B3 Obr.2016": {
           "MANUFACTURE": [
             "Uralvagonzavod",
-            "1985",
+            "2016",
             "Present"
           ],
           "COO": [
-            "Soviet Union",
-            "Azerbaijan",
-            "Democratic Republic of the Congo",
-            "Georgia",
-            "Syria",
-            "North Macedonia",
             "Russian Federation"
           ],
           "WEAPONS": [
@@ -528,19 +522,20 @@
           },
           "ARMOUR": [
             "T72 Armour",
-            "Kontakt-1"
+            "Kontakt-5"
           ],
           "IMAGES": [
-            "t72b1",
-            "t72b2",
-            "t72b3"
+            "t72b3obr20161",
+            "t72b3obr20162",
+            "t72b3obr20163"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The T-72B3 Obr.2016 is the latest iteration of the T-72 family, it includes upgrades to the ERA (Relikt package), a new powerpack, new FCS to name a few. You may see photos of some T-72B3’s with a commanders independent sight fitted, this is incorrectly stated to be a T-72B3 Obr.2016, it is a T-72B3 Obr.2014 made for the Tank Biathlon.",
           "CREW": 3,
           "R_FEAT": {
-            "": "",
-            " (copy)": "",
-            " (copy 2)": ""
+            "The T-72B3 Obr.2016 is the latest iteration of the T-72 family, it has many upgrades, mostly internal. The recognising upgrades is the new Relikt armour package on the turret sides, you will see the ‘soft ERA’ packages fitted down the hull sides this is part of the 2S24 UBH urban survival package, which isn’t fitted to all variants. Also the addition of bar armour at the rear.": "rfeatt72b3obr20161",
+            "Here is a standard T-72B3 Obr.2016, you will notice the lack of the UBH urban survival armour down the sides.": "rfeatt72b3obr20162",
+            "There is also additional Relikt armour on the turret sides seen here, as well as the bar armour addition at the rear of the turret. The main differences between this and the original T-72B3 is the relikt armour package.": "rfeatt72b3obr20163",
+            "Thermal view of the T-72B3 Obr.2016, you can see the difference in visual heat displayed due to the new side skirts, in a hull down position it would be quite difficult to PID.": "rfeatt72b3obr20164"
           }
         }
       },
