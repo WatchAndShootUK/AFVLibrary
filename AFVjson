@@ -1,5 +1,5 @@
 {
-  "1.0.49": {
+  "1.0.50": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -412,13 +412,12 @@
             2005
           ],
           "COO": [
-            "Soviet Union",
+            "Russian Federation",
             "Azerbaijan",
             "Democratic Republic of the Congo",
             "Georgia",
             "Syria",
-            "North Macedonia",
-            "Russian Federation"
+            "North Macedonia"
           ],
           "WEAPONS": [
             "2A46",
@@ -439,9 +438,9 @@
             "Kontakt-5"
           ],
           "IMAGES": [
-            "t72b1",
-            "t72b2",
-            "t72b3"
+            "t72ba1",
+            "t72ba2",
+            "t72ba3"
           ],
           "DESCRIPTION": "T-72BA is used to refer to several late model T-72B builds, that were stripped down, refurbished and upgraded certain parts at UralVagonZavod between 1998-2005. Because the upgrade was performed on various T-72B’s with different mounts for ERA there can be some deviation between models, but there are several features on every T-72BA. Approximately 750 were produced.\nThese include a new engine with an upgraded exhaust, new twin pin tracks from the T-90A (sometimes known as Vickers style tracks) and a meteorological sensor for the 1A40 FCS. \nThe T72BA also has upgraded Kontakt-5 ERA.",
           "CREW": 3,
