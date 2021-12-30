@@ -1,5 +1,5 @@
 {
-  "1.0.52": {
+  "1.0.53": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -522,7 +522,9 @@
           },
           "ARMOUR": [
             "T72 Armour",
-            "Kontakt-5"
+            "Kontakt-5",
+            "Relikt",
+            "Bar Armour"
           ],
           "IMAGES": [
             "t72b3obr20161",
