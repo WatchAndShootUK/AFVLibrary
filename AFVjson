@@ -1,5 +1,5 @@
 {
-  "1.0.50": {
+  "1.0.51": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -453,17 +453,16 @@
         "T-72B3": {
           "MANUFACTURE": [
             "Uralvagonzavod",
-            "1985",
+            "2010",
             "Present"
           ],
           "COO": [
-            "Soviet Union",
+            "Russian Federation",
             "Azerbaijan",
             "Democratic Republic of the Congo",
             "Georgia",
             "Syria",
-            "North Macedonia",
-            "Russian Federation"
+            "North Macedonia"
           ],
           "WEAPONS": [
             "2A46",
@@ -481,19 +480,21 @@
           },
           "ARMOUR": [
             "T72 Armour",
-            "Kontakt-1"
+            "Kontakt-5"
           ],
           "IMAGES": [
-            "t72b1",
-            "t72b2",
-            "t72b3"
+            "t72b31",
+            "t72b32",
+            "t72b33",
+            "t72b34"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The T-72B3 is the workhorse of the Russian Ground Forces, equipping most of the armoured brigades, it is an extensive overhaul of the tank, it has an upgraded gun, new Kalina FCS, Sosna-U TI sight, new engine, new sighting systems, new twin pin tracks to name a few new features. These upgrades bring it close to the T-90A in terms of firepower and protection.",
           "CREW": 3,
           "R_FEAT": {
-            "": "",
-            " (copy)": "",
-            " (copy 2)": ""
+            "The T-72B3 is extensively modified, as you will see here. It has new tracks and a new layout of Kontakt-5. You may see photos of T-72B3’s with long side skirts and cage armour, those variants are T-72B3 Obr.2016’s to save confusion.": "rfeatt72b31",
+            "You will see the new upgrades to the turret, the new Kontakt-5 ERA, the lack of IR searchlight indicating a TI capability, also the new Sosna-U sight on the left side of the turret, the ERA has gaps in between the bricks, unlike T-90A which fit snugly together.": "rfeatt72b32",
+            "With this photo from bellingcat, it highlights the Sosna-U sight and the meteorological sensor, these are good features to help you recognise it against a separate model.": "rfeatt72b33",
+            "This is a T-72B3 through a thermal sight (turret is traversed rearwards).": "rfeatt72b34"
           }
         },
         "T-72B3 Obr.2016": {
