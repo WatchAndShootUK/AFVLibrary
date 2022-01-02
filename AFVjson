@@ -1,5 +1,5 @@
 {
-  "1.0.56": {
+  "1.0.60": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -630,44 +630,91 @@
       },
       "T-90*": {
         "T-90A": {
-          "COO": {
-            "Russian Federation": [
-              "UKR",
-              "KZ",
-              "CHINA"
-            ]
-          },
-          "MA": [
-            "gun1",
-            "",
-            ""
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1992",
+            "Present"
           ],
-          "SA": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "COO": [
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "KORD"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Kontakt-5",
+            "Shtora"
+          ],
+          "IMAGES": [
+            "t90a1",
+            "t90a2",
+            "t90a3",
+            "t90a4"
+          ],
+          "DESCRIPTION": "The T-90A is an extensive modification and modernisation of the T-72B, including a brand new welded turret, new engine, new FCS, new armour layout and so on. It shares features with the T-80U, it also has the Shtora ECM to disrupt ATGM guidance. It was until the T-14, Russia’s most modern tank series.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-90A is basically a hybrid between the T-72B(Hull) and T-80U (Turret), recognising features for the turret is the new layout of Kontakt-5 which has no gaps in between the ERA mounts, the Shtora-1 APS fitted to the turret front, commonly known as the ‘eyes’. The hull remains visually similar to a T-72BA with the Kontakt-5 blocks on the front glacis plate, along with the 3 armour plates on the front of the hull sides.": "rfeatt90a1",
+            "You will see here what it looks like when the shtora-1 APS system is switched on, it’s a very distinctive red glow.": "rfeatt90a2",
+            "This closeup shows the layout, you can see the laser warning sensors above the gun, the new gunners night sight and the meteorological sensor indicating this is a tank with a modern FCS. You can see that it has SGD’s in 2 banks on either side of the turret": "rfeatt90a3",
+            "Here is a rare photo of a turret of a T-90A with no ERA, you can see the sharpness of the design, the turret is now welded giving it a much more western look, some early production T-90’s have older cast turrets. This shows the quality of Russian tank storage, when the high numbers of Russian tanks are pushed as a means of scaremongering, this is actually the tanks that make up those numbers.": "rfeatt90a4",
+            "Here is a T-72B which shows the roundness of the turret due to it being cast, not welded.": "rfeatt90a5",
+            "This photo shows a T-90A in production before the composite armour is added to the turret front.": "rfeatt90a6",
+            "T-90A thermal view.": "rfeatt90a7"
+          }
         },
         "T-90M": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "2017",
+            "Present"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
-        },
-        "T-90MS": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "COO": [
+            "Russian Federation"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "KORD"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Relikt",
+            "Shtora"
+          ],
+          "IMAGES": [
+            "t90m1",
+            "t90m2",
+            "t90m3",
+            "t90m4"
+          ],
+          "DESCRIPTION": "The T-90M is a heavily modernised T-90, completely modernising almost all features of the tank, it has a new gun, new FCS, new sights, new GPS systems, new Relikt ERA and a new engine to name a few, it is the latest version of T-90, also the most modern tank in the Russian Army.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-90M looks like a completely new tank, the turret resembles that of the T-80BVM due to the application of the new Relikt ERA, which gives it that distinctive flying saucer shape. On the T-90M it’s fitted with a mesh RPG net on the bottom half of the turret.": "rfeatt90m1",
+            "The turret is highly modernised, you will see the LWS boxes either side of the MA, there is also what appears to be an MRS at the end of the gun barrel, indicating a highly modernised FCS. The gunner has a new sight, behind it you will see the Meteorological sensor. The commander now has a remote weapon station with an independent sight with it, giving the T-90M the hunter-killer capability which it’s taken Russian tank building a while to catch up on.": "rfeatt90m2",
+            "The hull looks very similar to the T-72B3 due to it having the new long side skirts, the bar armour around the rear quarter and the new exhaust system. The front glacis plate is now very heavily armoured with Relikt. You can also see here the long length of the turret. At the rear left there is a large square, this is a good recognising feature, as the high modernisation of the tank now gives this tank a very western style silhouette.": "rfeatt90m3",
+            "Another view of the turret showing the gunners sight, met sensor and the SGD’s.": "rfeatt90m4"
+          }
         }
       },
       "Challenger 2": {
@@ -754,23 +801,49 @@
         }
       },
       "LeClerc": {
-        "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
-          ]
-        },
-        "MA": [
-          "gun1",
-          "",
-          ""
+        "MANUFACTURE": [
+          "Nexter Systems",
+          "1990",
+          2007
         ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
+        "COO": [
+          "France",
+          "UAE",
+          "Jordan"
+        ],
+        "WEAPONS": [
+          "CN120-26",
+          "M2",
+          "KORD"
+        ],
+        "DATA": {
+          "Weight": "41t",
+          "Length": "9.54m",
+          "Width": "3.59m",
+          "Height": "2.23m",
+          "Range": "480-550km",
+          "Speed": "60kph",
+          "HP": "780hp"
+        },
+        "ARMOUR": [
+          "Composite",
+          "ERA"
+        ],
+        "IMAGES": [
+          "leclerc1",
+          "leclerc2",
+          "leclerc3",
+          "leclerc4"
+        ],
+        "DESCRIPTION": "The Leclerc tank is a main battle tank built by GIAT, now Nexter of France. It was named in honor of General Philippe Leclerc de Hauteclocque, who led the French element of the drive towards Paris while in command of the Free French 2nd Armoured Division (2e DB) in World War II. The Leclerc is in service with the French Army, Jordanian Army and the United Arab Emirates Army.",
+        "CREW": 3,
+        "R_FEAT": {
+          "": "rfeatleclerc1",
+          " (copy)": "rfeatleclerc2",
+          " (copy 2)": "rfeatleclerc3",
+          " (copy 3)": "rfeatleclerc4",
+          " (copy 4)": "rfeatleclerc5"
+        }
       },
       "Leopard 2*": {
         "Leopard 2A4": {
@@ -887,6 +960,51 @@
         "DATA": {},
         "IMAGES": {},
         "ARMOUR": {}
+      },
+      "TEMPLATE (copy)": {
+        "MANUFACTURE": [
+          "",
+          "",
+          ""
+        ],
+        "COO": [
+          ""
+        ],
+        "WEAPONS": [
+          "",
+          "",
+          ""
+        ],
+        "DATA": {
+          "Weight": "41t",
+          "Length": "9.54m",
+          "Width": "3.59m",
+          "Height": "2.23m",
+          "Range": "480-550km",
+          "Speed": "60kph",
+          "HP": "780hp"
+        },
+        "ARMOUR": [
+          "",
+          ""
+        ],
+        "IMAGES": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": "",
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat",
+          " (copy 2)": "rfeat",
+          " (copy 3)": "rfeat",
+          " (copy 4)": "rfeat",
+          " (copy 5)": "rfeat",
+          " (copy 6)": "rfeat"
+        }
       }
     },
     "IFV": {},
@@ -950,6 +1068,22 @@
             ]
           },
           "CN08": {
+            "Name": "D-81 Smoothbore Gun",
+            "Designation": "2A46",
+            "Calibre": "125mm",
+            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
+            "Effective Range": {
+              "APFSDS": "3000m",
+              "HE": "400m",
+              "ATGM": "5000m"
+            },
+            "Ammunition": [
+              "APFSDS",
+              "HE",
+              "ATGM"
+            ]
+          },
+          "CN120-26": {
             "Name": "D-81 Smoothbore Gun",
             "Designation": "2A46",
             "Calibre": "125mm",
@@ -1063,6 +1197,42 @@
             }
           },
           "K6": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "KORD": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "M2": {
             "Name": "NSV \"Cliff\" Heavy Machine Gun",
             "Calibre": "12.7mm",
             "Designation": "NSVT",
