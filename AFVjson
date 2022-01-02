@@ -1,5 +1,5 @@
 {
-  "1.0.58": {
+  "1.0.56": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -643,7 +643,6 @@
             ""
           ],
           "SA": {},
-          "WEIGHT": {},
           "DATA": {},
           "IMAGES": {},
           "ARMOUR": {}
@@ -712,23 +711,47 @@
         "CREW": 4
       },
       "K2": {
-        "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
-          ]
-        },
-        "MA": [
-          "gun1",
-          "",
-          ""
+        "MANUFACTURE": [
+          "Hyundai Rotem",
+          "1995",
+          2008
         ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
+        "COO": [
+          "South Korea"
+        ],
+        "WEAPONS": [
+          "CN08",
+          "K6"
+        ],
+        "DATA": {
+          "Weight": "41t",
+          "Length": "9.54m",
+          "Width": "3.59m",
+          "Height": "2.23m",
+          "Range": "480-550km",
+          "Speed": "60kph",
+          "HP": "780hp"
+        },
+        "ARMOUR": [
+          "NERA",
+          "ERA",
+          "KSAP"
+        ],
+        "IMAGES": [
+          "k21",
+          "k22",
+          "k23",
+          "k24"
+        ],
+        "DESCRIPTION": "The K2 Black Panther is a next generation South Korean main battle tank designed by the South Korean Agency for Defense Development and manufactured by Hyundai Rotem. The K2 Black Panther combines an auto-loaded 55 caliber 120 mm main gun, advanced composite armour along with hard and soft-kill active protection systems.",
+        "CREW": 3,
+        "R_FEAT": {
+          "": "",
+          " (copy)": "",
+          " (copy 2)": "",
+          " (copy 3)": "",
+          " (copy 4)": ""
+        }
       },
       "LeClerc": {
         "COO": {
@@ -925,6 +948,22 @@
               "HE",
               "ATGM"
             ]
+          },
+          "CN08": {
+            "Name": "D-81 Smoothbore Gun",
+            "Designation": "2A46",
+            "Calibre": "125mm",
+            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
+            "Effective Range": {
+              "APFSDS": "3000m",
+              "HE": "400m",
+              "ATGM": "5000m"
+            },
+            "Ammunition": [
+              "APFSDS",
+              "HE",
+              "ATGM"
+            ]
           }
         },
         "Indirect": {},
@@ -1006,6 +1045,24 @@
             }
           },
           "NSVT": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "K6": {
             "Name": "NSV \"Cliff\" Heavy Machine Gun",
             "Calibre": "12.7mm",
             "Designation": "NSVT",
@@ -1139,6 +1196,36 @@
           }
         },
         "Nozh ERA": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "ERA": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "NERA": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "KSAP": {
           "Name": "Nozh ERA",
           "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
           "Images": {
