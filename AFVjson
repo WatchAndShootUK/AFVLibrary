@@ -1,5 +1,5 @@
 {
-  "1.0.54": {
+  "1.0.56": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -498,7 +498,7 @@
       "T-80*": {
         "T-80BV": {
           "MANUFACTURE": [
-            "Leningrad Kirov Plant",
+            "LKZ Plant",
             "1985",
             1996
           ],
@@ -536,6 +536,52 @@
             "The ERA on the right side is 5 bricks long, the left side is much longer, the ERA on the front glacis is in a widened almost ‘U’ Shape. The snorkel is also a lot thicker than that of T-72.": "rfeatt80bv3",
             "You will see here the 4 ERA bricks covering the SGD’s on the right side, also the tracks  now consist of a dual pin design, showing it’s a more modern tank.": "rfeatt80bv4",
             "Seen here at the rear of this T-80BV you will notice the exhaust is at the rear of the vehicle, this gives a huge thermal signature at the rear, but also helps you noticing that it’s a T-80 due to the lack of an exhaust on the sides.": "rfeatt80bv5"
+          }
+        },
+        "T-80U": {
+          "MANUFACTURE": [
+            "LKZ Plant",
+            "1985",
+            1992
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Kontakt-5"
+          ],
+          "IMAGES": [
+            "t80bv1",
+            "t80bv2",
+            "t80bv3",
+            "t80bv4"
+          ],
+          "DESCRIPTION": "The T-80U (U-Improved) is an improved version of the T-80, this design was quite revolutionary and led the west to design new APFSDS rounds. The tank was equipped with the new Kontakt-5 armour, a better turret, improved sights, a new engine and thermal sights. The T-80U also has an organic trench digging system fitted due to the lower glacis. Due to the blame on the T-80 series from Grozny the T-80U never saw action, although the T-80UD was involved in firing at the presidential palace during the Russian constitutional crisis.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-80U changes a lot compared to the T-80BV, you will see the Kontakt-5 armour fitted around the turret with flaps covering them, the SGD’s are strangely, fitted over the top of the ERA, with 2 banks of 4. The turret also has a large fitting prominent at the rear, it is stowage for the snorkel adapters for the GT engine, the T-80UD would not have these due to it being diesel.": "rfeatt80u1",
+            "There are Kontakt-5 ERA plates fitted across the frontal glacis plate, also 3 mounts down the sides of the hull. There are 4 Kontakt-5 mounts on the left turret cheek, with 3 on the right to make way for the IR searchlight.": "rfeatt80u2",
+            "At the rear as previously mentioned on T-80BV you will see the exhaust for the GT engine, which will give off a huge heat signature in TI.": "rfeatt80u3",
+            "A heavily camouflaged T-80U.": "rfeatt80u4",
+            "The Snorkel Adapter Stowage.": "rfeatt80u5",
+            "Trench digging equipment.": "rfeatt80u6",
+            "Thermal View Front": "rfeatt80u7",
+            "Thermal View Rear, showing the heat from the exhaust on idle.": "rfeatt80u8",
+            "Thermal View Left Side": "rfeatt80u9"
           }
         }
       },
