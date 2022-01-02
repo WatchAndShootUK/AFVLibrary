@@ -1,5 +1,5 @@
 {
-  "1.0.57": {
+  "1.0.58": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -582,6 +582,49 @@
             "Thermal View Front": "rfeatt80u7",
             "Thermal View Rear, showing the heat from the exhaust on idle.": "rfeatt80u8",
             "Thermal View Left Side": "rfeatt80u9"
+          }
+        },
+        "T-80BVM": {
+          "MANUFACTURE": [
+            "Omsk",
+            "2017",
+            "Present"
+          ],
+          "COO": [
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Kontakt-5",
+            "Relikt"
+          ],
+          "IMAGES": [
+            "t80bvm1",
+            "t80bvm2",
+            "t80bvm3",
+            "t80bvm4"
+          ],
+          "DESCRIPTION": "The T-80BVM is a modernised T-80BV, fitted with a new Relikt ERA armour package, which reportedly reduces APFSDS effectiveness by 50%, it has a new 2A46M-4 Gun, Sosna-U sight, a newer GT engine and is reportedly fitted with a passive CM system. It was first shown in 2017 and entered service in 2018. It is sometimes called the T-80BVM Arctic, it’s also incorrectly called a T-80BV Obr.2017.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-80BVM is almost unrecognisable now, with the completely new turret armour package. You will notice the changes, the large Relikt armour blocks that have no gaps in between them, there is a block which faces upwards more then the rest on the left side of the gun, the new Sosna-U thermal sight replacing the old IR sight, the meteorological sensor behind the sight which shows it has a modern FCS.": "rfeatt80bvm1",
+            "Close up of the turret showing the armour layout, including the new sighting systems.": "rfeatt80bvm2",
+            "You will notice the extreme thickness of the ERA blocks on the hull, bringing the front glacis plate almost inline with side fuel panniers. The Tank now has long side skirts with bar armour at the rear, the same that you see fitted to T-72B3 Obr.2016": "rfeatt80bvm3",
+            "I find a good recognising feature of the T-80BVM Is that the turret had a very distinctive ‘flying saucer’ shape due to the Relikt armour package.": "rfeatt80bvm4",
+            "Along with the T-80BV, the T-80BVM is mostly reserved for use by units in the Far North, or Far Eastern regions of Russia, as it’s more suited to these biomes with the GT engine that performs better in the cold than the diesel powered T-72/T-90’s.": "rfeatt80bvm5"
           }
         }
       },
