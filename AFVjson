@@ -1,5 +1,5 @@
 {
-  "1.0.60": {
+  "1.0.61": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -793,11 +793,9 @@
         "DESCRIPTION": "The K2 Black Panther is a next generation South Korean main battle tank designed by the South Korean Agency for Defense Development and manufactured by Hyundai Rotem. The K2 Black Panther combines an auto-loaded 55 caliber 120 mm main gun, advanced composite armour along with hard and soft-kill active protection systems.",
         "CREW": 3,
         "R_FEAT": {
-          "": "",
-          " (copy)": "",
-          " (copy 2)": "",
-          " (copy 3)": "",
-          " (copy 4)": ""
+          "The K2 Black Panther is quite a distinctive tank with a very modern look, you will notice the hull is heavily based on the M1 Abrams series of tanks, the turret is of its own design, with a very prominent large gun mantlet, a prominent cut out for the gunners sight on the left side of the turret, also the rails down the side of the turret. There is a noticeable horizontal part of the frontal hull dividing the upper and lower glacis plates.": "rfeatk21",
+          "The turret is almost wedge shaped, it is thinner at the front and gradually goes thicker towards the rear; you will notice the right rounded commanders panoramic sight in front of his hatch, the driver is seated on the left with 3 periscopes.": "rfeatk22.jpg",
+          "At this view of the rear you’ll see the large bustle rack for crew stowage, there is a prominent cutout for the final drive, there is also louvred for the cooling fans and the exhaust at the rear left.": "rfeatk23"
         }
       },
       "LeClerc": {
@@ -813,8 +811,7 @@
         ],
         "WEAPONS": [
           "CN120-26",
-          "M2",
-          "KORD"
+          "M2"
         ],
         "DATA": {
           "Weight": "41t",
@@ -1083,7 +1080,7 @@
               "ATGM"
             ]
           },
-          "CN120-26": {
+          "F1": {
             "Name": "D-81 Smoothbore Gun",
             "Designation": "2A46",
             "Calibre": "125mm",
