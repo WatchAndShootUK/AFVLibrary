@@ -1362,6 +1362,15 @@
             "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
           }
         },
+        "Relikt": {
+          "Name": "UK Applique",
+          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
+          "Images": {
+            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
+            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
+            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
+          }
+        },
         "Nozh ERA": {
           "Name": "Nozh ERA",
           "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
