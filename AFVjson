@@ -1,5 +1,5 @@
 {
-  "1.0.53": {
+  "1.0.54": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -267,52 +267,6 @@
         }
       },
       "T-72*": {
-        "T-72A": {
-          "MANUFACTURE": [
-            "Uralvagonzavod",
-            "1979",
-            1985
-          ],
-          "COO": [
-            "Soviet Union",
-            "Azerbaijan",
-            "Democratic Republic of the Congo",
-            "Georgia",
-            "Syria",
-            "North Macedonia",
-            "Russian Federation"
-          ],
-          "WEAPONS": [
-            "2A46",
-            "PKMT",
-            "NSVT"
-          ],
-          "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
-          },
-          "ARMOUR": [
-            "T72 Armour"
-          ],
-          "IMAGES": [
-            "t72a1",
-            "t72a2",
-            "t72a3",
-            "t72a4"
-          ],
-          "DESCRIPTION": "The T-72A is a Soviet/Russian MBT first entering service in 1979, it is an upgrade on the older T-72 including an LRF, an upgraded FCS, thicker composite armour on the turret and hull front. It is one of the most widely used tanks in the world, still in use today. The T-72 was first designed as an emergency model to be produced in a time of war, this was because it was cheaper to produce than the complex T-64.",
-          "CREW": 3,
-          "R_FEAT": {
-            "The T-72A is easily confused with a T-64A, ways to differentiate between the turret are the SGD’s, on the right side a 5 dischargers in a ‘U’ configuration, on the left side there’s a row of 6 with one above the 6th discharger. There’s also a lack of storage boxes around the left front cheek, the IR searchlight now moves to the right hand side of the gun, the snorkel at the rear is also much smaller than that of the T-64A.": "rfeatt72a1",
-            "Moving to the hull, there are 6 equally spaced roadwheels, with a single pin track design signifying the tank isn’t as modern, the exhaust is on the rear left unlike the T-64’s which is on the rear. On the front you will see a ‘V’ shaped splash plate for the driver, with a single vision periscope.": "t72a1",
-            "This is a view in TI, the heat from the exhaust will be significant on the left hand side. The exhaust points downwards so this will leave a prominent signature on the ground.": "rfeatt72a3"
-          }
-        },
         "T-72B": {
           "MANUFACTURE": [
             "Uralvagonzavod",
@@ -543,45 +497,46 @@
       },
       "T-80*": {
         "T-80BV": {
-          "COO": {
-            "Russian Federation": [
-              "UKR",
-              "KZ",
-              "CHINA"
-            ]
+          "MANUFACTURE": [
+            "Leningrad Kirov Plant",
+            "1985",
+            1996
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
           },
-          "MA": [
-            "gun1",
-            "",
-            ""
+          "ARMOUR": [
+            "Kontakt-1"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
-        },
-        "T-80U": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "IMAGES": [
+            "t80bv1",
+            "t80bv2",
+            "t80bv3",
+            "t80bv4"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
-        },
-        "T-80BVM": {
-          "COO": {},
-          "MA": [
-            "gun2"
-          ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "DESCRIPTION": "The T-80BV is an upgrade of the T-80B, although typically a ‘V’ signals the fitting of Kontakt-1, the T-80BV is actually quite different from the T-80B, it includes thicker composite armour on the hull as well as the Kontakt-1 ERA. The T-80BV is famous for the myth of its poor performance in Chechnya, records of T-80 and T-72 losses barely differ, it was just due to the embarrassment that it was blamed, the Russian Army failed to blame the poor crew training and corruption, a lot of tanks went in to Grozny with no ERA due to the plastic explosive being sold off by crews.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-80BV differs a lot from previous vehicles covered, the turret is based on that of the T-64B, the hull is of a new design, noticeable features on the hull are the drivers position, it has 3 periscopes opposed to every other T-Series tank which has 1 periscope, the suspension is of a new layout, smaller roadwheels with thick rubber fitted, the road wheels have prominent gaps between the 1st and 2nd, 5th and 6th. You will also notice the rubber flaps on the lower glacis, it has 2 rubber flaps, to save confusion remember it has 2, as the Polish PT-91 has 5 flaps.": "rfeatt80bv1",
+            "The turret has some distinctive features, the larger 1G46 gunners primary sight, behind that you will see the TPN-3-49 sight, which has a much more square shape than the sight on the T-72. On the right side in front of the commanders hatch, notice the long rectangle, it is the 1G42 kobra guidance box(with cover fitted), the smoke grenade dischargers fitted at both sides of the turret behind the ERA, the ERA fitted in a one brick clamshell design, the IR searchlight on the right side of the MA.": "rfeatt80bv2",
+            "The ERA on the right side is 5 bricks long, the left side is much longer, the ERA on the front glacis is in a widened almost ‘U’ Shape. The snorkel is also a lot thicker than that of T-72.": "rfeatt80bv3",
+            "You will see here the 4 ERA bricks covering the SGD’s on the right side, also the tracks  now consist of a dual pin design, showing it’s a more modern tank.": "rfeatt80bv4",
+            "Seen here at the rear of this T-80BV you will notice the exhaust is at the rear of the vehicle, this gives a huge thermal signature at the rear, but also helps you noticing that it’s a T-80 due to the lack of an exhaust on the sides.": "rfeatt80bv5"
+          }
         }
       },
       "T-90*": {
