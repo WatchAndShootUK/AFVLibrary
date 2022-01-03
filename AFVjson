@@ -1,5 +1,5 @@
 {
-  "1.0.64": {
+  "1.0.65": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -921,6 +921,44 @@
             "With the new turret come new recognising features for you too learn, this includes the new larger L/55 gun, the new wedge shaped turret, on the turret you’ll see the new gunners sight, a big difference here is the commanders sight is now behind the commanders hatch. The SGD’s are fitted in double rows at the rear of the turret side.": "rfeatleopard2a61",
             "On the hull you will notice the side skirts are of a different design, they feature 2 foot steps in the centre of the vehicle side. You will see the rear turret stowage which has 2 triangular shaped stowage bins at both sides on the rear.": "rfeatleopard2a62",
             "Leopard 2A6 CAN in Afghanistan, these are equipped with bar armour due to the low AT threat, this is to mitigate RPG damage.": "rfeatleopard2a63"
+          }
+        },
+        "Leopard 2PL": {
+          "MANUFACTURE": [
+            "Bumar-Labedy",
+            "2019",
+            "Present"
+          ],
+          "COO": [
+            "Poland"
+          ],
+          "WEAPONS": [
+            "Rheinmetall 120mm",
+            "MG 3"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Spaced ML armour"
+          ],
+          "IMAGES": [
+            "leopard2pl1",
+            "leopard2pl2",
+            "leopard2pl3"
+          ],
+          "DESCRIPTION": "The Leopard 2PL is a modernised Leopard 2A4 in partnership with Rheinmetall and the Polska Grupa Zbrojeniowa (Polish Armaments Group), upgrades include. Commanders and Gunners sights, Additional turret armour, new turret stowage, and new gun stabilisation to name a few. Anti-splinter liners have been installed inside the tank to protect the crew inside the vehicle against shrapnel in the event of a puncture or hit.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The biggest differences with the Leopard 2PL are with the turret, you will see the turret appears much wider and much more armoured due to the armour package fitted; it could be easily confused with the Leclerc due to the placement of the gunners sight and armour layout.": "rfeatleopard2pl1",
+            "The gunners sight has a prominent cutout in the armour, behind that as with all leopards is the commanders panoramic sight, the gun mantlet and length of the turret give the appearance that the MA is much shorter than it actually is.": "rfeatleopard2pl2",
+            "The SGD’s are placed at the rear of the turret in a gap, you will find it hard to see these when the turret is traversed forward, this will be pertinent when looking at the side of the vehicle.": "rfeatleopard2pl3"
           }
         }
       },
