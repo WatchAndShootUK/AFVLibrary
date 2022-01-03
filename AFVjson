@@ -1,5 +1,5 @@
 {
-  "1.0.62": {
+  "1.0.64": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -735,7 +735,7 @@
         "WEAPONS": [
           "L30A1",
           "L94A1",
-          "L7A2"
+          "FN MAG"
         ],
         "DATA": {
           "Weight": "75t",
@@ -835,65 +835,93 @@
         "DESCRIPTION": "The Leclerc tank is a main battle tank built by GIAT, now Nexter of France. It was named in honor of General Philippe Leclerc de Hauteclocque, who led the French element of the drive towards Paris while in command of the Free French 2nd Armoured Division (2e DB) in World War II. The Leclerc is in service with the French Army, Jordanian Army and the United Arab Emirates Army.",
         "CREW": 3,
         "R_FEAT": {
-          "": "rfeatleclerc1",
-          " (copy)": "rfeatleclerc2",
-          " (copy 2)": "rfeatleclerc3",
-          " (copy 3)": "rfeatleclerc4",
-          " (copy 4)": "rfeatleclerc5"
+          "The Leclerc has a lot of recognising features as it’s quite a distinctive tank, the turret is long and has a lot of prominent features including the large gunners sight, the commanders panoramic sight (bucket shaped) on the left, the smoke grenade cut outs at the rear turret sides.": "rfeatleclerc1",
+          "The gun is distinctive in its lack of fume extractor and it’s completely covered in a thermal shroud, there are periscopes on each side of the turret for the commander and gunner, the hull has a highly slopes upper glacis plate with 2 headlight mounts on top of each mudguard, the driver sits on the left side with 2 periscopes.": "rfeatleclerc2",
+          "At the rear of the Leclerc you’ll see a large stowage box and bustle rack on the rear of the turret, moving down the large exhaust at the rear left which almost looks like a drain pipe.": "rfeatleclerc3",
+          "Thermal view of the Leclerc showing the exhaust at the rear.": "rfeatleclerc4",
+          "Thermal View of the Leclerc": "rfeatleclerc5"
         }
       },
       "Leopard 2*": {
         "Leopard 2A4": {
-          "COO": {
-            "Russian Federation": [
-              "UKR",
-              "KZ",
-              "CHINA"
-            ]
+          "MANUFACTURE": [
+            "KMW",
+            "1985",
+            1992
+          ],
+          "COO": [
+            "Germany"
+          ],
+          "WEAPONS": [
+            "Rheinmetall 120mm",
+            "MG 3",
+            "FN MAG",
+            "MG 87"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
           },
-          "MA": [
-            "gun1",
-            "",
-            ""
+          "ARMOUR": [
+            "Spaced ML armour"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
-        },
-        "Leopard 2PL": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "IMAGES": [
+            "leopard2a41",
+            "leopard2a42"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "DESCRIPTION": "The Leopard 2A4 is the 4th variant of the Leopard 2 line of MBT’s it has been upgraded from the previous iteration, having a fire and explosion suppression system, a new digital FCS and an improved turret with titanium/tungsten composite armour. It’s been license produced in Switzerland as the Pz.87 and exported widely, some export variants are modified to suit the nation purchasing.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The Leopard 2A4 is distinguishable between other Leopard variants by looking at the turret, the turret has flat frontal cheeks, the gunners sight is on the right side of the gun in a cutout portion of the armour, the commanders sight behind it in front of the commanders hatch. Down the rear sides the turret there are SGD’s in rows.": "rfeatleopard2a41",
+            "Looking at the hull, it has 7 equally spaced roadwheels, there are 2 footsteps in the side skirts, there’s also 3 armour plates on the front quarter of the hull sides.": "rfeatleopard2a42",
+            "The upper glacis plate is almost horizontal, the driver sits on the right side with 3 periscopes; sometimes you will see CES items on the sloped front as seen here with track link.": "rfeatleopard2a43",
+            "The rear of the Leopard 2A4 shows Louvre covers for the engine fans, below them you’ll see the dual circular exhausts at the rear. In the centre you have the cross shaped convoy light commonly used by NATO vehicles.": "rfeatleopard2a44",
+            "Leopard 2A4 Thermal left side view.": "rfeatleopard2a45",
+            "Leopard 2A4 Thermal right side view.": "rfeatleopard2a46"
+          }
         },
         "Leopard 2A6": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "MANUFACTURE": [
+            "KMW",
+            "2003",
+            2018
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
-        },
-        "Leopardo 2E": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "COO": [
+            "Germany"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "WEAPONS": [
+            "Rheinmetall 120mm",
+            "MG 3",
+            "FN MAG",
+            "MG 87"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Spaced ML armour"
+          ],
+          "IMAGES": [
+            "leopard2a61"
+          ],
+          "DESCRIPTION": "The Leopard 2A6 was one of the biggest jumps in modernisation of the Leopard 2 series, it has new composite armour around the turret including the ability of adding ERA the tank now has the newer, larger 120mm L/55 gun, this gives it the most powerful gun out of NATO tanks, with high accuracy and power it outguns all contemporary tanks, until the Challenger 3 is put in service. Again with the Leopard 2 series, there are variations between models due to export country requirements and needs.",
+          "CREW": 4,
+          "R_FEAT": {
+            "With the new turret come new recognising features for you too learn, this includes the new larger L/55 gun, the new wedge shaped turret, on the turret you’ll see the new gunners sight, a big difference here is the commanders sight is now behind the commanders hatch. The SGD’s are fitted in double rows at the rear of the turret side.": "rfeatleopard2a61",
+            "On the hull you will notice the side skirts are of a different design, they feature 2 foot steps in the centre of the vehicle side. You will see the rear turret stowage which has 2 triangular shaped stowage bins at both sides on the rear.": "rfeatleopard2a62",
+            "Leopard 2A6 CAN in Afghanistan, these are equipped with bar armour due to the low AT threat, this is to mitigate RPG damage.": "rfeatleopard2a63"
+          }
         }
       },
       "M1 Abrams*": {
@@ -1095,6 +1123,22 @@
               "HE",
               "ATGM"
             ]
+          },
+          "Rheinmetall 120mm": {
+            "Name": "D-81 Smoothbore Gun",
+            "Designation": "2A46",
+            "Calibre": "125mm",
+            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
+            "Effective Range": {
+              "APFSDS": "3000m",
+              "HE": "400m",
+              "ATGM": "5000m"
+            },
+            "Ammunition": [
+              "APFSDS",
+              "HE",
+              "ATGM"
+            ]
           }
         },
         "Indirect": {},
@@ -1230,6 +1274,60 @@
             }
           },
           "M2": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "MG 3": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "FN MAG": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "MG 87": {
             "Name": "NSV \"Cliff\" Heavy Machine Gun",
             "Calibre": "12.7mm",
             "Designation": "NSVT",
@@ -1402,6 +1500,56 @@
           }
         },
         "KSAP": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "Shtora": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "Spaced ML Armour": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "Composite Armour": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "Welded Plate Armour": {
+          "Name": "Nozh ERA",
+          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
+          "Images": {
+            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
+            "nozhera2": "Nozh \"Knife\" ERA.",
+            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
+            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+          }
+        },
+        "Cast Steel Armour": {
           "Name": "Nozh ERA",
           "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
           "Images": {
