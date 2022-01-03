@@ -1,5 +1,5 @@
 {
-  "1.0.66": {
+  "1.0.70": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -885,7 +885,7 @@
             "Leopard 2A4 Thermal right side view.": "rfeatleopard2a46"
           }
         },
-        "Leopard 2E": {
+        "Leopardo 2E": {
           "MANUFACTURE": [
             "Santa Bárbara Sistemas",
             "2003",
@@ -911,15 +911,15 @@
             "Composite Armour"
           ],
           "IMAGES": [
-            "leopard2e1",
-            "leopard2e2"
+            "leopardo2e1",
+            "leopardo2e2"
           ],
           "DESCRIPTION": "The Leopardo 2E is a Spanish modernised Leopard, produced and designed almost indigenously by Spain, it includes thicker armour on the turret and glacis plate than the 2A6, it also uses a Spanish C&C system and also has the longer more powerful L/55 120mm gun.",
           "CREW": 4,
           "R_FEAT": {
-            "You will notice the thicker armour on the hull front straight away, the headlight mounts are also in armoured boxes on the upper glacis, this is different to the German Leopard. The addition of bar armour is common for variants deploying on operations.": "rfeatleopard2e1",
-            "The final drive differs to the standard Leopard 2 with a more circular final drive, as opposed to the 'cogged' shape found on other Leopard 2.": "rfeatleopard2e2",
-            "Seen here at the rear of the turret you will notice the Spanish addition of SABBLIR ERA, these are the X shaped boxes.": "rfeatleopard2e3"
+            "You will notice the thicker armour on the hull front straight away, the headlight mounts are also in armoured boxes on the upper glacis, this is different to the German Leopard. The addition of bar armour is common for variants deploying on operations.": "rfeatleopardo2e1",
+            "The final drive differs to the standard Leopard 2 with a more circular final drive, as opposed to the 'cogged' shape found on other Leopard 2.": "rfeatleopardo2e2",
+            "Seen here at the rear of the turret you will notice the Spanish addition of SABBLIR ERA, these are the X shaped boxes.": "rfeatleopardo2e3"
           }
         },
         "Leopard 2A6": {
