@@ -1,7 +1,8 @@
 {
-  "1.0.72": {
+  "1.0.73": {
     "RECCE": {},
     "MBT": {
+      "Foreword": "Main battle tanks (MBTs) are the backbone of land forces. A main battle tank is defined as an armoured vehicle that provides direct fire and manoeuvrability.",
       "T-62*": {
         "T-62": {
           "MANUFACTURE": [
@@ -1090,23 +1091,45 @@
         }
       },
       "Type 99A": {
-        "COO": {
-          "Russian Federation": [
-            "UKR",
-            "KZ",
-            "CHINA"
-          ]
-        },
-        "MA": [
-          "gun1",
-          "",
-          ""
+        "MANUFACTURE": [
+          "Norinco",
+          "2007",
+          "Present"
         ],
-        "SA": {},
-        "WEIGHT": {},
-        "DATA": {},
-        "IMAGES": {},
-        "ARMOUR": {}
+        "COO": [
+          "China"
+        ],
+        "R_FEAT": {
+          "": "rfeattype99a1",
+          " (copy)": "rfeattype99a2",
+          " (copy 2)": "rfeattype99a3",
+          " (copy 3)": "rfeattype99a4"
+        },
+        "WEAPONS": [
+          "ZPT-98",
+          "QJC-88"
+        ],
+        "DATA": {
+          "Weight": "75t",
+          "Length": "13.50m",
+          "Width": "4.2m",
+          "Height": "2.49m",
+          "Range": "400km",
+          "Speed": "37mph",
+          "HP": "1200hp"
+        },
+        "ARMOUR": [
+          "Composite Armour",
+          "ERA",
+          "LSDW"
+        ],
+        "IMAGES": [
+          "type99a1",
+          "type99a1",
+          "type99a1"
+        ],
+        "DESCRIPTION": "",
+        "CREW": 3
       }
     },
     "IFV": {},
