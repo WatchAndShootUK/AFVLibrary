@@ -1,5 +1,5 @@
 {
-  "1.0.76": {
+  "1.0.77": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -1123,8 +1123,8 @@
         ],
         "IMAGES": [
           "type99a1",
-          "type99a1",
-          "type99a1"
+          "type99a2",
+          "type99a3"
         ],
         "DESCRIPTION": "The Type 99A is China’s main in service MBT, making the core of China’s manoeuvre brigades. It takes a big leap for China’s tank production, which before this was mainly copies/heavily inspired soviet designs, it seems to be inspired from western tanks more than its predecessors which were heavily soviet influenced.",
         "CREW": 3
