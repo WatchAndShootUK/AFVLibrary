@@ -1,8 +1,7 @@
 {
-  "1.0.73": {
+  "1.0.76": {
     "RECCE": {},
     "MBT": {
-      "Foreword": "Main battle tanks (MBTs) are the backbone of land forces. A main battle tank is defined as an armoured vehicle that provides direct fire and manoeuvrability.",
       "T-62*": {
         "T-62": {
           "MANUFACTURE": [
@@ -1100,10 +1099,9 @@
           "China"
         ],
         "R_FEAT": {
-          "": "rfeattype99a1",
-          " (copy)": "rfeattype99a2",
-          " (copy 2)": "rfeattype99a3",
-          " (copy 3)": "rfeattype99a4"
+          "The Type 99A has a much more western appearance, the frontal turret has a sharp, sleek look. It’s got ERA across the whole frontal turret, you can see the small squares. The gunners primary sight is a prominent rectangle on the left side of the turret, with a large box shape elevated behind his hatch, this is part of active protection system. The commander has a panoramic sight in front of his hatch with a meteorological sensor behind his hatch, above the 125mm MA you’ll see a small box, this is again part of the active protection system. On the turret sides you’ll see the SGD’s with a bank of 5 either side, behind that is a large ERA fitting around the bustle rack.": "rfeattype99a1",
+          "The Type 99A’s hull has ERA on the front plate, with a thin drivers splash plate. The driver has 2 periscopes, the right periscope is smaller than the left, the hull gradually slopes upwards as it goes to the back, giving a raised superstructure look at the rear like an M1 Abrams series of MBT’s. There are 2 small square exhausts on either side. Along the hull sides there are 5 square holes, presumably footsteps, the tank has 6 roadwheels with prominent gaps between the 3rd-4th and 4th-5th.": "rfeattype99a2",
+          "The tracks are of a modern dual pin design, the lower glacis has what appears to be either a trench digger or C-IED armour, if this is factually confirmed to be either of these I will update it. There are 6 ERA bricks on the first layer of the hull, ending each to provide space for the headlights.": "rfeattype99a3"
         },
         "WEAPONS": [
           "ZPT-98",
@@ -1128,11 +1126,862 @@
           "type99a1",
           "type99a1"
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "The Type 99A is China’s main in service MBT, making the core of China’s manoeuvre brigades. It takes a big leap for China’s tank production, which before this was mainly copies/heavily inspired soviet designs, it seems to be inspired from western tanks more than its predecessors which were heavily soviet influenced.",
         "CREW": 3
       }
     },
-    "IFV": {},
+    "IFV": {
+      "BMP*": {
+        "BMP-1": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-1P": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-1D": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-2": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-2D": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-2M": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-3": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-3M": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      },
+      "BMD*": {
+        "BMD-1": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMD-1P": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMD-2": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMD-2M": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMD-3": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BMP-4M": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      },
+      "MT-LB*": {
+        "MT-LBM 6MB": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "MT-LBM Toros": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      },
+      "Warrior": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "M2 Bradley*": {
+        "M2 Bradley": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "M2A4 Bradley": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      },
+      "Puma": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "Marder": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "ASCOD*": {
+        "AJAX": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "Pizzaro": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      },
+      "CV90": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      }
+    },
     "AT": {},
     "AD": {},
     "ARTILLERY": {},
@@ -1225,6 +2074,22 @@
             ]
           },
           "Rheinmetall 120mm": {
+            "Name": "D-81 Smoothbore Gun",
+            "Designation": "2A46",
+            "Calibre": "125mm",
+            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
+            "Effective Range": {
+              "APFSDS": "3000m",
+              "HE": "400m",
+              "ATGM": "5000m"
+            },
+            "Ammunition": [
+              "APFSDS",
+              "HE",
+              "ATGM"
+            ]
+          },
+          "ZPT-98": {
             "Name": "D-81 Smoothbore Gun",
             "Designation": "2A46",
             "Calibre": "125mm",
@@ -1446,6 +2311,24 @@
             }
           },
           "MG 87": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "QJC-88": {
             "Name": "NSV \"Cliff\" Heavy Machine Gun",
             "Calibre": "12.7mm",
             "Designation": "NSVT",
