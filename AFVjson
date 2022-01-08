@@ -1,5 +1,5 @@
 {
-  "1.0.70": {
+  "1.0.71": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -1001,45 +1001,136 @@
       },
       "M1 Abrams*": {
         "M1A1": {
-          "COO": {
-            "Russian Federation": [
-              "UKR",
-              "KZ",
-              "CHINA"
-            ]
-          },
-          "MA": [
-            "gun1",
-            "",
-            ""
+          "MANUFACTURE": [
+            "General Dynamics",
+            "1986",
+            "1992"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "COO": [
+            "United States of America",
+            "Moroco",
+            "Taiwain"
+          ],
+          "R_FEAT": {
+            "The M1A1 Abrams has a quintessential modern western tank design, heavily sloping armour, low hull with a large turret, straight lines and angled armour due to the fitting of composites. The turret has very slab like flat cheeks, the 120mm gun has a prominent fume extractor which is bulbous towards the top rather than cylindrical, the gun also has an MRS system at the end indicating advanced FCS. The way that you can identify an M1A1 to later models is via the lack of a commanders panoramic sight. The smoke grenade dischargers are fitted to the immediate turret sides, giving an ‘ears’ like appearance, although they’re covered in this photo.": "rfeatm1a11",
+            "The gunner has a prominent raises box sight, moving on to the hull the driver is sat centrally with 3 periscopes, the hull superstructure is raised towards the rear to accommodate for the GT engine. The tracks have a modern dual pin design similar to that of Challenger 2, it has 7 roadwheels with a prominent gap between the 1st and 2nd, the rest are equally spaced, with a cutout for the final drive at the rear. A thing I’ve always noticed personally is the periscopes have a purple/pink/red tint on them depending on lighting, you may see this in some photos.": "rfeatm1a12",
+            "The rear of the M1 shows the engine louvres and exhaust for the GT engine, notice the rear lights are in circular covers. You can also see the bustle rack at the rear for stowage.": "rfeatm1a13",
+            "M1 Abrams thermal view.": "rfeatm1a14",
+            "M1 Abrams thermal left side view.": "rfeatm1a15",
+            "M1 Abrams thermal view rear.": "rfeatm1a16"
+          },
+          "WEAPONS": [
+            "M256",
+            "M2",
+            "M240"
+          ],
+          "DATA": {
+            "Weight": "75t",
+            "Length": "13.50m",
+            "Width": "4.2m",
+            "Height": "2.49m",
+            "Range": "400km",
+            "Speed": "37mph",
+            "HP": "1200hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "TUSK"
+          ],
+          "IMAGES": [
+            "m1a11",
+            "m1a12",
+            "m1a13"
+          ],
+          "DESCRIPTION": "Upgraded from the M1, new features include pressurised CBRN system, new stowage layout, new blow-off panels and the new M256 120mm smoothbore gun, hugely increasing lethality.",
+          "CREW": 4
         },
         "M1A2": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "MANUFACTURE": [
+            "General Dynamics",
+            "1992",
+            "2017"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "COO": [
+            "United States of America",
+            "Kuwait",
+            "Saudi Arabia"
+          ],
+          "R_FEAT": {
+            "": "rfeatm1a21",
+            " (copy)": "rfeatm1a22",
+            " (copy 2)": "rfeatm1a23"
+          },
+          "WEAPONS": [
+            "M256",
+            "M2",
+            "M240"
+          ],
+          "DATA": {
+            "Weight": "75t",
+            "Length": "13.50m",
+            "Width": "4.2m",
+            "Height": "2.49m",
+            "Range": "400km",
+            "Speed": "37mph",
+            "HP": "1200hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "TUSK",
+            "Trophy"
+          ],
+          "IMAGES": [
+            "m1a21",
+            "m1a22",
+            "m1a23"
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4
         },
         "M1A2 SEPv3": {
-          "COO": {},
-          "MA": [
-            "gun2"
+          "MANUFACTURE": [
+            "General Dynamics",
+            "2017",
+            "Present"
           ],
-          "SA": {},
-          "WEIGHT": {},
-          "DATA": {},
-          "IMAGES": {},
-          "ARMOUR": {}
+          "COO": [
+            "United States of America",
+            "Australia",
+            "Egypt",
+            "Iraq"
+          ],
+          "R_FEAT": {
+            "": "rfeatm1a2v31",
+            " (copy)": "rfeatm1a2v32",
+            " (copy 2)": "rfeatm1a2v33"
+          },
+          "WEAPONS": [
+            "M256",
+            "M2",
+            "M240"
+          ],
+          "DATA": {
+            "Weight": "75t",
+            "Length": "13.50m",
+            "Width": "4.2m",
+            "Height": "2.49m",
+            "Range": "400km",
+            "Speed": "37mph",
+            "HP": "1200hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "TUSK",
+            "Trophy"
+          ],
+          "IMAGES": [
+            "m1a2v31",
+            "m1a2v32",
+            "m1a2v33"
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4
         }
       },
       "Type 99A": {
@@ -1060,51 +1151,6 @@
         "DATA": {},
         "IMAGES": {},
         "ARMOUR": {}
-      },
-      "TEMPLATE (copy)": {
-        "MANUFACTURE": [
-          "",
-          "",
-          ""
-        ],
-        "COO": [
-          ""
-        ],
-        "WEAPONS": [
-          "",
-          "",
-          ""
-        ],
-        "DATA": {
-          "Weight": "41t",
-          "Length": "9.54m",
-          "Width": "3.59m",
-          "Height": "2.23m",
-          "Range": "480-550km",
-          "Speed": "60kph",
-          "HP": "780hp"
-        },
-        "ARMOUR": [
-          "",
-          ""
-        ],
-        "IMAGES": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": "",
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat",
-          " (copy 2)": "rfeat",
-          " (copy 3)": "rfeat",
-          " (copy 4)": "rfeat",
-          " (copy 5)": "rfeat",
-          " (copy 6)": "rfeat"
-        }
       }
     },
     "IFV": {},
