@@ -1,5 +1,5 @@
 {
-  "1.0.71": {
+  "1.0.72": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -1042,14 +1042,14 @@
             "m1a12",
             "m1a13"
           ],
-          "DESCRIPTION": "Upgraded from the M1, new features include pressurised CBRN system, new stowage layout, new blow-off panels and the new M256 120mm smoothbore gun, hugely increasing lethality.",
+          "DESCRIPTION": "The M1 Abrams is the primary MBT series of the United States of America. The M1A1 is upgraded from the M1. New features include pressurised CBRN system, new stowage layout, new blow-off panels and the new M256 120mm smoothbore gun, hugely increasing lethality.",
           "CREW": 4
         },
         "M1A2": {
           "MANUFACTURE": [
             "General Dynamics",
             "1992",
-            "2017"
+            "Present"
           ],
           "COO": [
             "United States of America",
@@ -1057,9 +1057,10 @@
             "Saudi Arabia"
           ],
           "R_FEAT": {
-            "": "rfeatm1a21",
-            " (copy)": "rfeatm1a22",
-            " (copy 2)": "rfeatm1a23"
+            "The M1A2 baseline only really has one new recognising feature which is the addition of the commanders panoramic sight on the left side of the turret in front of the loaders hatch.": "rfeatm1a21",
+            "Shown here is an M1A2SEPV2 model, you can tell this by the CROWS above the gunners primary sight.": "rfeatm1a22",
+            "Here is an M1A2SEPV2 model with the TUSK fitted, you can see the addition of ERA along the sides, the CROWS is sometimes swapped with a transparent armoured cupola for the Cmdr and Op, similar to those seen fitted to HMMVW’s in Iraq/Afghanistan.": "rfeatm1a23",
+            "Here you can see the armoured cupolas in a better view, as mentioned with the similarity to the cupola on the HMMVW you can see one in the background.": "rfeatm1a24"
           },
           "WEAPONS": [
             "M256",
@@ -1077,59 +1078,14 @@
           },
           "ARMOUR": [
             "Composite Armour",
-            "TUSK",
-            "Trophy"
+            "TUSK"
           ],
           "IMAGES": [
             "m1a21",
             "m1a22",
             "m1a23"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4
-        },
-        "M1A2 SEPv3": {
-          "MANUFACTURE": [
-            "General Dynamics",
-            "2017",
-            "Present"
-          ],
-          "COO": [
-            "United States of America",
-            "Australia",
-            "Egypt",
-            "Iraq"
-          ],
-          "R_FEAT": {
-            "": "rfeatm1a2v31",
-            " (copy)": "rfeatm1a2v32",
-            " (copy 2)": "rfeatm1a2v33"
-          },
-          "WEAPONS": [
-            "M256",
-            "M2",
-            "M240"
-          ],
-          "DATA": {
-            "Weight": "75t",
-            "Length": "13.50m",
-            "Width": "4.2m",
-            "Height": "2.49m",
-            "Range": "400km",
-            "Speed": "37mph",
-            "HP": "1200hp"
-          },
-          "ARMOUR": [
-            "Composite Armour",
-            "TUSK",
-            "Trophy"
-          ],
-          "IMAGES": [
-            "m1a2v31",
-            "m1a2v32",
-            "m1a2v33"
-          ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The M1A2 is the second major upgrade for the M1 Abrams series of MBT’s, the M1A2 is the baseline for the SEP models (System enhancement package), SEPV1 is an armour upgrade, SEPV2 adds a CROWS, improved interfaces, new operating system improved armour with the TUSK (Tank Urban Survival Kit) and an upgraded transmission. The SEPV3 will be rightly covered on its own page.",
           "CREW": 4
         }
       },
@@ -1431,6 +1387,24 @@
             }
           },
           "FN MAG": {
+            "Name": "NSV \"Cliff\" Heavy Machine Gun",
+            "Calibre": "12.7mm",
+            "Designation": "NSVT",
+            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
+            "Ammunition": [
+              "Ball",
+              "Tracer",
+              "AP",
+              "API-WP",
+              "HEI",
+              "Tandem"
+            ],
+            "Effective Range": {
+              "Air Targets": "1500m",
+              "Ground Targets": "2000m"
+            }
+          },
+          "M240": {
             "Name": "NSV \"Cliff\" Heavy Machine Gun",
             "Calibre": "12.7mm",
             "Designation": "NSVT",
