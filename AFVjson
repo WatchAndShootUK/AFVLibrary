@@ -1,5 +1,5 @@
 {
-  "1.0.82": {
+  "1.0.83": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -1275,10 +1275,12 @@
             "bmp25"
           ],
           "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
-          "CREW": 4,
+          "CREW": "3+8",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The main recognising features of the BMP-2 is the newer 2 man turret, it is much wider and larger than the BMP-1. The turret has a new 30mm 2A42 cannon, it is much longer and thinner than that of the 73mm, it has a rectangular muzzle brake.": "rfeatbmp21",
+            "The AT-5 launch tube is now fitted centrally on top of the turret, there are also SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rfeatbmp22",
+            "BMP-2 left hand thermal view.": "rfeatbmp23",
+            "BMP-2 left hand thermal view. (copy)": "rfeatbmp24"
           }
         },
         "BMP-2D": {
