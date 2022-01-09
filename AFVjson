@@ -1,5 +1,5 @@
 {
-  "1.0.81": {
+  "1.0.82": {
     "RECCE": {},
     "MBT": {
       "T-62*": {
@@ -1142,9 +1142,9 @@
             "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A28",
+            "9M14",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1170,17 +1170,17 @@
         },
         "BMP-1P": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Kurganmashzavod",
+            1966,
+            1982
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A28",
+            "9M14",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1192,30 +1192,31 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmp11",
+            "bmp12",
+            "bmp13"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BMP-1 was a soviet produced IFV, BMP literally stands for ‘infantry fighting vehicle 1) it was the first of its kind, the first true IFV, combining the carrying capability and the armaments of a light tank to create a hybrid. It was widely produced, with Romania still producing models today. It also has an amphibious capability.",
+          "CREW": "3+8",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "": "rfeatbmp11",
+            " (copy)": "rfeatbmp12",
+            " (copy 2)": "rfeatbmp13"
           }
         },
         "BMP-1D": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Kurganmashzavod",
+            1966,
+            1982
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A28",
+            "9M14",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1227,15 +1228,16 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmp11",
+            "bmp12",
+            "bmp13"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BMP-1 was a soviet produced IFV, BMP literally stands for ‘infantry fighting vehicle 1) it was the first of its kind, the first true IFV, combining the carrying capability and the armaments of a light tank to create a hybrid. It was widely produced, with Romania still producing models today. It also has an amphibious capability.",
+          "CREW": "3+8",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "": "rfeatbmp11",
+            " (copy)": "rfeatbmp12",
+            " (copy 2)": "rfeatbmp13"
           }
         },
         "BMP-2": {
@@ -1248,9 +1250,10 @@
             "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A42",
+            "9M113",
+            "9M111",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1277,17 +1280,18 @@
         },
         "BMP-2D": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Kurganmashzavod",
+            1980,
+            1991
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A42",
+            "9M113",
+            "9M111",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1299,11 +1303,13 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmp21",
+            "bmp22",
+            "bmp23",
+            "bmp24",
+            "bmp25"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1312,17 +1318,18 @@
         },
         "BMP-2M": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Kurganmashzavod",
+            1980,
+            1991
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A42",
+            "9M113",
+            "9M111",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1334,11 +1341,13 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmp21",
+            "bmp22",
+            "bmp23",
+            "bmp24",
+            "bmp25"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1355,9 +1364,10 @@
             "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A70",
+            "2A72",
+            "PKT",
+            "9M117"
           ],
           "DATA": {
             "Weight": "",
@@ -1375,7 +1385,7 @@
             "bmp34"
           ],
           "DESCRIPTION": "The BMP-3 is a radical modernisation of the BMP series, it is of a completely new design. It is one of the most heavily armed IFV’s in service, with a 100mm main which can fire GLATGM, a 30mm coaxial gun, as well as a 7.62mm coax. It is also amphibious like most of the Russian IFV/APC’s in service. Russia are currently modifying their BMP 3’s.",
-          "CREW": 4,
+          "CREW": "3+7",
           "R_FEAT": {
             "": "rfeat",
             " (copy)": "rfeat"
@@ -1383,17 +1393,18 @@
         },
         "BMP-3M": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Kurganmashzavod",
+            1986,
+            2021
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A70",
+            "2A72",
+            "PKT",
+            "9M117"
           ],
           "DATA": {
             "Weight": "",
@@ -1405,12 +1416,13 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmp31",
+            "bmp32",
+            "bmp33",
+            "bmp34"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BMP-3 is a radical modernisation of the BMP series, it is of a completely new design. It is one of the most heavily armed IFV’s in service, with a 100mm main which can fire GLATGM, a 30mm coaxial gun, as well as a 7.62mm coax. It is also amphibious like most of the Russian IFV/APC’s in service. Russia are currently modifying their BMP 3’s.",
+          "CREW": "3+7",
           "R_FEAT": {
             "": "rfeat",
             " (copy)": "rfeat"
@@ -1420,17 +1432,17 @@
       "BMD*": {
         "BMD-1": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Volgograd Tractor Plan",
+            1968,
+            1987
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A28",
+            "PKT",
+            "9S428"
           ],
           "DATA": {
             "Weight": "",
@@ -1442,12 +1454,12 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmd11",
+            "bmd12",
+            "bmd13"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BMD-1 is based on the BMP-1, but is produced for the airborne forces (VDV), BMD literally standards for ‘Combat vehicle of the airborne’. It shares commonality with the BMP-1, the turret and armaments are the same, it also is the basis for the BTR-D series of vehicles.",
+          "CREW": "2+6",
           "R_FEAT": {
             "": "rfeat",
             " (copy)": "rfeat"
@@ -1490,17 +1502,17 @@
         },
         "BMD-2": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Volgograd Tractor Plant",
+            1985,
+            1991
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A42",
+            "PKT",
+            "9P135M"
           ],
           "DATA": {
             "Weight": "",
@@ -1512,12 +1524,12 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmd21",
+            "bmd22",
+            "bmd23"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BMD-2 is an upgrade of the BMD-1, originally it was supposed to replace the BMD-1 but due to the declining economy of the USSR in the 80’s this never materialised, it has a new turret and a slightly modified hull, it has the 30mm 2A42 gun from the BMP-1/BMD-1.",
+          "CREW": "2+6",
           "R_FEAT": {
             "": "rfeat",
             " (copy)": "rfeat"
