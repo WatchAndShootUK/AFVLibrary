@@ -1163,9 +1163,12 @@
           "DESCRIPTION": "The BMP-1 was a soviet produced IFV, BMP literally stands for ‘infantry fighting vehicle 1) it was the first of its kind, the first true IFV, combining the carrying capability and the armaments of a light tank to create a hybrid. It was widely produced, with Romania still producing models today. It also has an amphibious capability.",
           "CREW": "3+8",
           "R_FEAT": {
-            "": "rfeatbmp11",
-            " (copy)": "rfeatbmp12",
-            " (copy 2)": "rfeatbmp13"
+            "The BMP-1 is quite a distinguishable vehicle, you will notice the short 73mm low velocity cannon, leading to the small 1 man ‘frying pan’ turret. Above the 73mm gun you will see the AT-3 Sagger/9M14 Malyutka missile,it is exposed rather than in a launch tube. The hull is boat shaped showing it’s amphibious capability, you can see the trim vane is raised in this photo.": "rfeatbmp11",
+            "The driver sits at the front left with 4 periscopes, behind him sits the vehicle/section commander, moving towards the rear you’ll see there are periscopes for the dismounts as well as the teardrop shaped firing ports, the roadwheels have a prominent gap between 4th-5th and 5th 6th, the final drive is at the front indicating the engine is frontally mounted.": "rfeatbmp12",
+            "Here is a close view of the driver, commanders and gunners positions.": "rfeatbmp13",
+            "A close view of the AT-3/9M14 Missile fitted above the main gun.": "rfeatbmp14",
+            "BMP-1 left hand side thermal picture.": "rfeatbmp15",
+            "BMP-2 right hand side thermal picture.": "rfeatbmp16"
           }
         },
         "BMP-1P": {
