@@ -1,6 +1,44 @@
 {
-  "1.0.83": {
-    "RECCE": {},
+  "1.0.85": {
+    "RECCE": {
+      "BRDM-2": {
+        "MANUFACTURE": [
+          "GAZ",
+          "1962",
+          "1989"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "R_FEAT": {
+          "The BRDM-2 has a small one man ‘frying pan’ conical shaped turret, mounting the weapon systems centrally; it has no hatch. The commander and driver sit in the front hull side by side with 2 windows with armoured shutters, they also have periscopes above the windows for when they close the shutters. The hull is boat shaped with a large plate on the lower glacis, this is the trim vane for amphibious operations and can be internally raised by the driver. The side of the vehicle has a prominent bulge of viewing blocks in the centre below the turret on either side. There are 2 exhausts, one either side they look like the type of back box you’d see on an older car/van and give a good thermal signature.": "rfbrdm21",
+          "There are 4 headlights overall, 2 day 2 IR, IR lights being on the outside. The lower hull has flat sides after the lip that goes around the hull for its amphibious capabilities, the roadwheels have large rounded cutouts, there are 2 half moon shaped cutouts in between the roadwheels.": "rfbrdm22",
+          "BRDM-2 thermal signature": "rfbrdm23"
+        },
+        "WEAPONS": [
+          "KPVT",
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "ARMOUR": [
+          "Welded Steel"
+        ],
+        "IMAGES": [
+          "brdm21",
+          "brdm21"
+        ],
+        "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
+        "CREW": 4
+      }
+    },
     "MBT": {
       "T-62*": {
         "T-62": {
