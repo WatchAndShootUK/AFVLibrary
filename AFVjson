@@ -1,5 +1,5 @@
 {
-  "1.0.85": {
+  "1.0.86": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -28,12 +28,10 @@
           "Speed": "",
           "HP": ""
         },
-        "ARMOUR": [
-          "Welded Steel"
-        ],
+        "ARMOUR": [],
         "IMAGES": [
           "brdm21",
-          "brdm21"
+          "brdm22"
         ],
         "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
         "CREW": 4
