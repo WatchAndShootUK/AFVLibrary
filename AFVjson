@@ -1,5 +1,5 @@
 {
-  "1.0.87": {
+  "1.0.88": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1422,8 +1422,12 @@
           "DESCRIPTION": "The BMP-3 is a radical modernisation of the BMP series, it is of a completely new design. It is one of the most heavily armed IFV’s in service, with a 100mm main which can fire GLATGM, a 30mm coaxial gun, as well as a 7.62mm coax. It is also amphibious like most of the Russian IFV/APC’s in service. Russia are currently modifying their BMP 3’s.",
           "CREW": "3+7",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BMP-3 isa completely new iteration with a newly designed hull and turret, the turrethas a similar shape to the BMP-2 except it is larger. It has a much longer100mm main gun with a 30mm coax, to the right of the gun is an IR searchlight,\non either side of the gun are 3 SGD’s. At the rear turret it has 2 whip antennaeither side, the gunners sight is a large box shape on the left side of theturret roof.": "rfbmp31",
+            "The hullstill resembles a boat shape due to its amphibious capability, there are 3hatches at the front of the hull, 1 for the driver and 2 for dismounts, whenseated they can also operate the 2 hull MG’s. The driver has 5 periscopes, theother 2 hatches have 1 each.": "rfbmp32",
+            "The hullremains flat sided all along, the right side has a long rectangular exhaust,\nthe tracks are skinny, it has small roadwheels with prominent gaps between the2nd-3rd and 5th-6th, with the final drive at the rear, unlike most IFV’s.": "rfbmp33",
+            "Here is aview of infantry dismounting a BMP-3, the rear doors are small and openoutwards with the ceiling hatches providing most of the opening to dismount.": "rfbmp34",
+            "Thermal view. (copy)": "rfbmp35",
+            "Thermal view.": "rfbmp36"
           }
         }
       },
