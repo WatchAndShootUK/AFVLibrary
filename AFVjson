@@ -1,5 +1,5 @@
 {
-  "1.0.86": {
+  "1.0.87": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -35,6 +35,42 @@
         ],
         "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
         "CREW": 4
+      },
+      "BRM-1K": {
+        "MANUFACTURE": [
+          "Kurganmashzavod",
+          "1973",
+          "1988"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "R_FEAT": {
+          "The mostprominent recognising features on this vehicle is the new wider turret,\nalthough reminiscent and easily confused with BMP-2, remembering the 73mm 2A28gun is key to saving confusion, as well as that is the difference sightingsystems and also the PSNR-5K radar at the rear (when raised). Another featureis the addition of the 6 SGD’s fitted around the turret, 3 on either side.\nFiring ports have been reduced from 8(BMP-1) to 3.": "rfbrm1k1",
+          "Some morerecognising features are the difference in periscopes in the hull; the driversperiscopes remain the same but what was the BMP-1 Commanders position now hasonly 1 periscope instead of 3. You can see at the rear it changes from 4hatches to 2 on the infantry compartment, it now contains operators for theradar and other devices.": "rfbrm1k2",
+          "Underneaththe moss and tree bark is a BRM-1K, you can see the radar cover is open,\nalthough the radar itself is not raised.": "rfbrm1k3",
+          "PSNR-5K in the raisedposition.": "rfbrm1k4"
+        },
+        "WEAPONS": [
+          "2A28",
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "ARMOUR": [],
+        "IMAGES": [
+          "brm1k1",
+          "brm1k2"
+        ],
+        "DESCRIPTION": "A dedicated combat recce variant of the BMP-1, it retains the same hull but has a new larger 2 man turret with new capabilities, including new sighting sytems, terrain surveying and mine detection devices and the PSNR-5K ‘Tall mike’ radar system. It has the autoloader for the 73mm 2A28 removed and carries significantly less rounds; due to its role not needing as much ammunition to the recce nature of the vehicle. The BRM-1K is usually found in recce coys of armoured/mechanised brigades.",
+        "CREW": 7
       }
     },
     "MBT": {
@@ -1210,16 +1246,16 @@
         "BMP-1P": {
           "MANUFACTURE": [
             "Kurganmashzavod",
-            1966,
-            1982
+            1979,
+            "Unknown"
           ],
           "COO": [
             "Soviet Union"
           ],
           "WEAPONS": [
-            "2A28",
-            "9M14",
-            "PKT"
+            "Grom",
+            "PKT",
+            "9M113"
           ],
           "DATA": {
             "Weight": "",
@@ -1231,31 +1267,30 @@
             "HP": ""
           },
           "IMAGES": [
-            "bmp11",
-            "bmp12",
-            "bmp13"
+            "bmp1p1",
+            "bmp1p2",
+            "bmp1p3"
           ],
-          "DESCRIPTION": "The BMP-1 was a soviet produced IFV, BMP literally stands for ‘infantry fighting vehicle 1) it was the first of its kind, the first true IFV, combining the carrying capability and the armaments of a light tank to create a hybrid. It was widely produced, with Romania still producing models today. It also has an amphibious capability.",
+          "DESCRIPTION": "The BMP-1Pwas the first large modernisation of the BMP-1, lessons learnt from the 1973Yom Kippur war and the Angolan civil war, firepower was enhanced with theaddition of the AT-5 Spandrel/9M113 Konkurs ATGM, this massively increasedfirepower and armour protection, with the downside that the gunner had to exithis hatch and stand outside to fire and guide the missile.",
           "CREW": "3+8",
           "R_FEAT": {
-            "": "rfeatbmp11",
-            " (copy)": "rfeatbmp12",
-            " (copy 2)": "rfeatbmp13"
+            "Recognisingfeatures of the BMP-1P, there is only one main feature which is the addition ofthe new ATGM fitted to the top of the turret, whilst this is a small feature,\nit is a key one as this greatly increases how threatening this variant is, dueto the increase in range, armour penetration and missile speed. Whereas theBMP-1 has the AT-3 Sagger fitted above the gun as a bare missile, the BMP-1Pnow has an AT-5 on the top right of the turret.\nAlthough thismay seem intricate and unnecessary to learn, the change in ATGM hugely changesthe potency of this IFV, for example the effective range of the AT-3 comparedto the AT-5 is as follows, AT-3-3km, AT-5-4km. This significantly enhances thelethality of these vehicles, therefore showing the need to recognise thedifferences with these vehicles.": "rfeatbmp1p1"
           }
         },
-        "BMP-1D": {
+        "BMP-1M": {
           "MANUFACTURE": [
-            "Kurganmashzavod",
-            1966,
-            1982
+            "KBP",
+            1998,
+            "Unknown"
           ],
           "COO": [
-            "Soviet Union"
+            "Russian Federation"
           ],
           "WEAPONS": [
-            "2A28",
-            "9M14",
-            "PKT"
+            "2A72",
+            "PKTM",
+            "9M113",
+            "9K38"
           ],
           "DATA": {
             "Weight": "",
@@ -1267,16 +1302,16 @@
             "HP": ""
           },
           "IMAGES": [
-            "bmp11",
-            "bmp12",
-            "bmp13"
+            "bmp1m1",
+            "bmp1m2",
+            "bmp1m3"
           ],
-          "DESCRIPTION": "The BMP-1 was a soviet produced IFV, BMP literally stands for ‘infantry fighting vehicle 1) it was the first of its kind, the first true IFV, combining the carrying capability and the armaments of a light tank to create a hybrid. It was widely produced, with Romania still producing models today. It also has an amphibious capability.",
+          "DESCRIPTION": "The BMP-1Pwas the first large modernisation of the BMP-1, lessons learnt from the 1973Yom Kippur war and the Angolan civil war, firepower was enhanced with theaddition of the AT-5 Spandrel/9M113 Konkurs ATGM, this massively increasedfirepower and armour protection, with the downside that the gunner had to exithis hatch and stand outside to fire and guide the missile.",
           "CREW": "3+8",
           "R_FEAT": {
-            "": "rfeatbmp11",
-            " (copy)": "rfeatbmp12",
-            " (copy 2)": "rfeatbmp13"
+            "The BMP-1M isa modernised BMP-1 with a new TKB-799 Kliver turret, this includes new weaponsystems, the 30mm 2A72 has prominent rails on the exterior of the barrel, the 4ATGM pods are a key indicator, they can be replaced with 4 SAM’s too, meaningthe launch tubes will be skinnier, on the left of the turret there is a largesighting system.": "rfeatbmp1m1",
+            "This photoshows the sighting system in full view, it has 2 pill shaped sights with theone on the left being shorter.": "rfeatbmp1m2",
+            "A key pointto note with the BMP-1M is the Ukrainian variant, the BMP-1U, the 2 vehiclesare very easily confused, key points to remember is the turret differences. Ithas 2 ATGM launchers instead of 4, it has 6 SGD’s around the front lowerturret, the BMP-1M does not have this cylindrical lower part of the turret.": "rfeatbmp1m3"
           }
         },
         "BMP-2": {
@@ -1319,58 +1354,20 @@
             "BMP-2 left hand thermal view. (copy)": "rfeatbmp24"
           }
         },
-        "BMP-2D": {
-          "MANUFACTURE": [
-            "Kurganmashzavod",
-            1980,
-            1991
-          ],
-          "COO": [
-            "Soviet Union"
-          ],
-          "WEAPONS": [
-            "2A42",
-            "9M113",
-            "9M111",
-            "PKT"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "bmp21",
-            "bmp22",
-            "bmp23",
-            "bmp24",
-            "bmp25"
-          ],
-          "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
         "BMP-2M": {
           "MANUFACTURE": [
-            "Kurganmashzavod",
-            1980,
-            1991
+            "KBP",
+            2010,
+            2020
           ],
           "COO": [
-            "Soviet Union"
+            "Russian Federation"
           ],
           "WEAPONS": [
             "2A42",
-            "9M113",
-            "9M111",
-            "PKT"
+            "PKMT",
+            "9M113M",
+            "AGS-30"
           ],
           "DATA": {
             "Weight": "",
@@ -1382,57 +1379,17 @@
             "HP": ""
           },
           "IMAGES": [
-            "bmp21",
-            "bmp22",
-            "bmp23",
-            "bmp24",
-            "bmp25"
+            "bmp2m1",
+            "bmp2m2"
           ],
-          "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
-          "CREW": 4,
+          "DESCRIPTION": "The BMP-2M\n‘Berezhok’ is a modernised BMP-2, it has a new berezhok turret, with mostly thesame armaments aside from the addition of 2 launchers either side of the turretfor the AT-14 Spriggan/9M113M Kornet-M and an AGS-30 GMG on the rear turretroof, as well as a new day/night sight from the BMD-4. The upgrades bring it upto a much more modern standard, massively enhancing lethality.",
+          "CREW": "3+7",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The hullremains the same, the turret noticeably has the differences with the ATGMmounts either side, unlike the BMP-2 which has the mount on top of the turret.\nAnother noticeable difference is the cluster of SGD’s which sit at the front ofthe turret either side of the MA. Moving rearwards you will see the AGS-30 atthe turret rear, when firing you will see it is elevated.": "rfbmp2m1",
+            "On this photo youwill see the new sighting systems, a new panoramic sight for the cmdr and a newgunners sight, Cmdr’s on the right and Gunners on the left, you can also see abetter view of the launchers and SGD’s, the SGD’s are mounted on the sides on previousiterations of the BMP-2.": "rfbmp2m2"
           }
         },
         "BMP-3": {
-          "MANUFACTURE": [
-            "Kurganmashzavod",
-            1986,
-            2021
-          ],
-          "COO": [
-            "Soviet Union"
-          ],
-          "WEAPONS": [
-            "2A70",
-            "2A72",
-            "PKT",
-            "9M117"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "bmp31",
-            "bmp32",
-            "bmp33",
-            "bmp34"
-          ],
-          "DESCRIPTION": "The BMP-3 is a radical modernisation of the BMP series, it is of a completely new design. It is one of the most heavily armed IFV’s in service, with a 100mm main which can fire GLATGM, a 30mm coaxial gun, as well as a 7.62mm coax. It is also amphibious like most of the Russian IFV/APC’s in service. Russia are currently modifying their BMP 3’s.",
-          "CREW": "3+7",
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "BMP-3M": {
           "MANUFACTURE": [
             "Kurganmashzavod",
             1986,
