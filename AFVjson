@@ -1,5 +1,5 @@
 {
-  "1.0.88": {
+  "1.0.89": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1309,9 +1309,9 @@
           "DESCRIPTION": "The BMP-1Pwas the first large modernisation of the BMP-1, lessons learnt from the 1973Yom Kippur war and the Angolan civil war, firepower was enhanced with theaddition of the AT-5 Spandrel/9M113 Konkurs ATGM, this massively increasedfirepower and armour protection, with the downside that the gunner had to exithis hatch and stand outside to fire and guide the missile.",
           "CREW": "3+8",
           "R_FEAT": {
-            "The BMP-1M isa modernised BMP-1 with a new TKB-799 Kliver turret, this includes new weaponsystems, the 30mm 2A72 has prominent rails on the exterior of the barrel, the 4ATGM pods are a key indicator, they can be replaced with 4 SAM’s too, meaningthe launch tubes will be skinnier, on the left of the turret there is a largesighting system.": "rfeatbmp1m1",
-            "This photoshows the sighting system in full view, it has 2 pill shaped sights with theone on the left being shorter.": "rfeatbmp1m2",
-            "A key pointto note with the BMP-1M is the Ukrainian variant, the BMP-1U, the 2 vehiclesare very easily confused, key points to remember is the turret differences. Ithas 2 ATGM launchers instead of 4, it has 6 SGD’s around the front lowerturret, the BMP-1M does not have this cylindrical lower part of the turret.": "rfeatbmp1m3"
+            "The BMP-1M isa modernised BMP-1 with a new TKB-799 Kliver turret, this includes new weaponsystems, the 30mm 2A72 has prominent rails on the exterior of the barrel, the 4ATGM pods are a key indicator, they can be replaced with 4 SAM’s too, meaningthe launch tubes will be skinnier, on the left of the turret there is a largesighting system.": "rfbmp1m1",
+            "This photoshows the sighting system in full view, it has 2 pill shaped sights with theone on the left being shorter.": "rfbmp1m2",
+            "A key pointto note with the BMP-1M is the Ukrainian variant, the BMP-1U, the 2 vehiclesare very easily confused, key points to remember is the turret differences. Ithas 2 ATGM launchers instead of 4, it has 6 SGD’s around the front lowerturret, the BMP-1M does not have this cylindrical lower part of the turret.": "rfbmp1m3"
           }
         },
         "BMP-2": {
@@ -1348,8 +1348,8 @@
           "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
           "CREW": "3+8",
           "R_FEAT": {
-            "The main recognising features of the BMP-2 is the newer 2 man turret, it is much wider and larger than the BMP-1. The turret has a new 30mm 2A42 cannon, it is much longer and thinner than that of the 73mm, it has a rectangular muzzle brake.": "rfeatbmp21",
-            "The AT-5 launch tube is now fitted centrally on top of the turret, there are also SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rfeatbmp22",
+            "The main recognising features of the BMP-2 is the newer 2 man turret, it is much wider and larger than the BMP-1. The turret has a new 30mm 2A42 cannon, it is much longer and thinner than that of the 73mm, it has a rectangular muzzle brake.": "rfbmp21",
+            "The AT-5 launch tube is now fitted centrally on top of the turret, there are also SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rbmp22",
             "BMP-2 left hand thermal view.": "rfeatbmp23",
             "BMP-2 left hand thermal view. (copy)": "rfeatbmp24"
           }
