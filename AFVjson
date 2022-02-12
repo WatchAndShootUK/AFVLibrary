@@ -1,5 +1,5 @@
 {
-  "1.0.89": {
+  "1.0.90": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1348,10 +1348,10 @@
           "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
           "CREW": "3+8",
           "R_FEAT": {
-            "The main recognising features of the BMP-2 is the newer 2 man turret, it is much wider and larger than the BMP-1. The turret has a new 30mm 2A42 cannon, it is much longer and thinner than that of the 73mm, it has a rectangular muzzle brake.": "rfbmp21",
-            "The AT-5 launch tube is now fitted centrally on top of the turret, there are also SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rbmp22",
+            "The main recognising features of the BMP-2 is the newer 2 man turret, it is much wider and larger than the BMP-1. The turret has a new 30mm 2A42 cannon, it is much longer and thinner than that of the 73mm, it has a rectangular muzzle brake.": "rfeatbmp21",
+            "The AT-5 launch tube is now fitted centrally on top of the turret, there are also SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rfeatbmp22",
             "BMP-2 left hand thermal view.": "rfeatbmp23",
-            "BMP-2 left hand thermal view. (copy)": "rfeatbmp24"
+            "BMP-2 right hand thermal view.": "rfeatbmp24"
           }
         },
         "BMP-2M": {
@@ -1426,15 +1426,15 @@
             "The hullstill resembles a boat shape due to its amphibious capability, there are 3hatches at the front of the hull, 1 for the driver and 2 for dismounts, whenseated they can also operate the 2 hull MG’s. The driver has 5 periscopes, theother 2 hatches have 1 each.": "rfbmp32",
             "The hullremains flat sided all along, the right side has a long rectangular exhaust,\nthe tracks are skinny, it has small roadwheels with prominent gaps between the2nd-3rd and 5th-6th, with the final drive at the rear, unlike most IFV’s.": "rfbmp33",
             "Here is aview of infantry dismounting a BMP-3, the rear doors are small and openoutwards with the ceiling hatches providing most of the opening to dismount.": "rfbmp34",
-            "Thermal view. (copy)": "rfbmp35",
-            "Thermal view.": "rfbmp36"
+            "Thermal view.": "rfbmp35",
+            "Birds eye thermal view.": "rfbmp36"
           }
         }
       },
       "BMD*": {
         "BMD-1": {
           "MANUFACTURE": [
-            "Volgograd Tractor Plan",
+            "Volgograd TractorPlant",
             1968,
             1987
           ],
@@ -1444,7 +1444,7 @@
           "WEAPONS": [
             "2A28",
             "PKT",
-            "9S428"
+            "AT-3 Sagger"
           ],
           "DATA": {
             "Weight": "",
@@ -1460,26 +1460,27 @@
             "bmd12",
             "bmd13"
           ],
-          "DESCRIPTION": "The BMD-1 is based on the BMP-1, but is produced for the airborne forces (VDV), BMD literally standards for ‘Combat vehicle of the airborne’. It shares commonality with the BMP-1, the turret and armaments are the same, it also is the basis for the BTR-D series of vehicles.",
+          "DESCRIPTION": "The BMD-1 is based onthe BMP-1, but is produced for the airborne forces (VDV), BMD literallytranslates to ‘Combat vehicle of the airborne’. It shares commonality with theBMP-1, the turret and armaments are the same, it is also the basis for theBTR-D series of APC’s.",
           "CREW": "2+6",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BMD-1 isa much smaller version of the BMP-1 for airborne use, the turret is the same asthat on the BMP-1, small conical shaped and armed with the 73mm 2A28 Grom maingun, it also has the AT-3 Sagger/9M14 Malyutka ATGM fitted above the gunmantlet. The hull still retains a boat-like shape due to its amphibiouscapabilities; it has a splash plate at the front which is folded down fornormal operations.": "rfbmd11",
+            "This is howthe turret appears when the missile is fitted; it is a bare missile rather thana launch tube.": "rfbmd12",
+            "The front hasan air intake grille centrally mounted in front of the drivers hatch, thedriver has 3 periscopes for his position with the 2 hatches either side of themhaving 1 hatch for the right and 2 for the left, on the running gear it has 2prominent top rollers, with 5 equally spaced roadwheels with the final drive atthe rear. The antenna whip is at the rear left.": "rfbmd13"
           }
         },
         "BMD-1P": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Volgograd TractorPlant",
+            1977,
+            1987
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A28",
+            "PKT",
+            "AT-5 Spandrel"
           ],
           "DATA": {
             "Weight": "",
@@ -1491,15 +1492,13 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmd1p1",
+            "bmd1p2"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BMD-1P isa BMD-1 upgraded with the newer more effective AT-5 Spandrel/9P135M-1 (Konkurs)\nATGM replacing the older AT-3 Sagger/9M14 Malyutka.",
+          "CREW": "2+6",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "Similar tothe BMP-1P, the only change with the BMD-1P is with the ATGM change, the mainvisible difference is the ATGM now being a large elevated launch tube on theturret, whereas the BMD-1 has the bare missile fitted above the armament.\nAlthough thismay seem intricate and unnecessary to learn, the change in ATGM hugely changesthe potency of these IFV’s for example the effective range of the AT-3 comparedto the AT-5 is as follows AT-3-3km, AT-5-4km. This significantly enhances thelethality of these vehicles, therefore showing the need to recognise thedifferences with these vehicles.": "rfbmd1p1"
           }
         },
         "BMD-2": {
@@ -1514,7 +1513,7 @@
           "WEAPONS": [
             "2A42",
             "PKT",
-            "9P135M"
+            "AT-5 Spandrel"
           ],
           "DATA": {
             "Weight": "",
@@ -1530,26 +1529,27 @@
             "bmd22",
             "bmd23"
           ],
-          "DESCRIPTION": "The BMD-2 is an upgrade of the BMD-1, originally it was supposed to replace the BMD-1 but due to the declining economy of the USSR in the 80’s this never materialised, it has a new turret and a slightly modified hull, it has the 30mm 2A42 gun from the BMP-1/BMD-1.",
+          "DESCRIPTION": "The BMD-2 isan upgrade of the BMD-1, it was originally supposed to completely replace theBMD-1 but due to the declining economy of the USSR, this never materialised andit served alongside it. It has a new turret and a slightly modified hull, ithas the 30mm 2A42 gun from the BMP-2.",
           "CREW": "2+6",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BMD-2retains the same hull as the BMD-1, aside from some small changes. The turretis the biggest change, it is completely new, it is taller and has less of aconical shape, it has more of a ‘bucket’ shape than the classic soviet ‘fryingpan’ turret shape. Its armed with a 30mm 2A42 Gun-the same as the BMP-2 whichgives a prominent recognition feature with the square muzzle brake.": "rfbmd21",
+            "When in anoperational setting you will see the ATGM mount on top of the turret.\nThe hull hasan air inlet grille at the front centre in front of the drivers hatch, whichhas 3 periscopes, the hatches either side of the drivers have 1 periscope onthe right, and 2 on the left hatch.\nBelow the airinlet is the splash plate for amphibious operations, moving to the running gearit has 5 equally spaced small ‘pork pie’ roadwheels, with the final drive atthe rear.": "rfbmd22",
+            "The rear of the BMD-2has a large gap in the centre, there are 2 exhausts, one either side seen here,\nthe black rectangles. Below the exhausts are the openings for the water jets.\nThe antenna whip is at the rear left.": "rfbmd23"
           }
         },
         "BMD-2M": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "KBP",
+            2012,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Russian Federation"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A42",
+            "PKT",
+            "AT-14 Spriggan "
           ],
           "DATA": {
             "Weight": "",
@@ -1561,30 +1561,32 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmd3m1",
+            "bmd3m2"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "Modernised BMP-2M,\nfitted with new stabilisation systems for the 30mm gun, TI sight for thegunner, new ATGM and a new crew compartment, it massively enhances thelethality for such a small, light vehicle.",
+          "CREW": "2+6",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BMD-2M isaptly nicknamed the ‘mini-berezhok’ due to its features being reminiscent ofthe BMP-2M Berezhok, it retains the same turret and armament from the BMD-2 andadds more capabilities, the most prominent being the new AT-14 Spriggan/9M133Kornet ATGM mount on the side of the right side of the turret. It contains 2missile launch tubes, on the left side of the turret it has the new thermalsight. The hull exterior and recognising features remain the same as thestandard BMD-2.": "rfmbd2m1",
+            "On this closeup of the turret you can see the upgrades in full display, towards the rear ofthe turret you can see a wind sensor, due to most photographs being at armsexpos and being prototypes, there are some differences, for example on thisphoto there are no SGD’s fitted.": "rfbmd2m2",
+            "For a quickreference to tell apart from the BMP-2M is the lack of launch tubes on bothsides of the turret like the BMP-2M has, also the tall thermal sight is a biggiveaway.": "rfbmd2m3"
           }
         },
         "BMD-3": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "VolgogradTractor Factory",
+            1985,
+            1997
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A42",
+            "PKT",
+            "AGS-30",
+            "AT-5 Spandrel",
+            "RPK"
           ],
           "DATA": {
             "Weight": "",
@@ -1596,15 +1598,16 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmd31",
+            "bmd32"
           ],
           "DESCRIPTION": "",
-          "CREW": 4,
+          "CREW": "3+5",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The turret isreminiscent of the BMP-2, it is wider than that of the BMD-2 and is now a 2 manturret, it has the ATGM launch tube on the top of the turret-mounted centrally,\n(Not mounted on this photo). It has 3 SGD's on either side of the turret. TheBMD-3’s new hull has the general overall shape of the BMD style hull but isactually larger and has some new differences, the front hull has a lip whichsplits the upper and lower glacis plate, on either side of the upper glacisplate you can see the hull mounted weapon systems, moving up you can see thecentrally mounted drivers position with 3 periscopes, he has 2 dismounts eitherside of his position.": "rfbmd31",
+            "Here you cansee the hatches on the front hull, as well as the ATGM launch mount in thecentre of the hatches on the turret, towards the rear you can see thesimilarity with the previous iterations.": "rfbmd32",
+            "The ATGMlaunch tube is visible in this photo, moving down, the vehicle has 5 equallyspaced diecast roadwheels, there are 4 top rollers for the track.": "rfbmd33",
+            "Here is a size comparison of the series. Left to right - BMD-3, BMD-2, BMD-1": "rfbmd34"
           }
         },
         "BMP-4M": {
