@@ -1,5 +1,5 @@
 {
-  "1.0.91": {
+  "1.0.92": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -362,7 +362,6 @@
             "Speed": "60kph",
             "HP": "840hp"
           },
-          "ARMOUR": [],
           "IMAGES": [
             "t72a1",
             "t72a2",
