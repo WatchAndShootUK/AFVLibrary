@@ -1,5 +1,5 @@
 {
-  "1.0.95": {
+  "1.0.96": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1718,17 +1718,16 @@
       "BTR*": {
         "BTR-80A": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "AMP",
+            1994,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Russian Federation"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A72",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1740,15 +1739,15 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "btr80a1",
+            "btr80a2",
+            "btr80a3"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BTR-80A is an upgraded BTR-80 fitted with a BPPU turret, up-armed with a 30mm cannon, it enhances the lethality of the standard BTR-80.",
+          "CREW": "3+7",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BTR-80A is characterised by the new turret, the turret is slanted rearwards, it has 3 SGD’s either side of the gun, the gun is prominent with its single cylindrical bulge towards the end. On the far right of the turret(not in shot) there is a seperate mount for the 7.62mm PKT, above the gun is the IR Searchlight.": "rfbtr80a1",
+            "On this shot you can see the PKT mount, the hull remains the same as the standard BTR-80, for a guide on the BTR-80 find it under APC’s.": "rfbtr80a2"
           }
         },
         "BTR-82A": {
@@ -2241,7 +2240,7 @@
           },
           "IMAGES": [
             "btr801",
-            "br802"
+            "btr802"
           ],
           "DESCRIPTION": "The BTR-80 is an upgraded BTR-70, There are many upgrades to the platform, it now has a single engine, 6 81mm SGD’s, a turret redesign, redesigned firing ports and a new dismount door.",
           "CREW": "3+7",
@@ -2396,6 +2395,41 @@
             "": "rfeat",
             " (copy)": "rfeat"
           }
+        }
+      },
+      "BMO-T": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
         }
       },
       "ZSL-10": {
