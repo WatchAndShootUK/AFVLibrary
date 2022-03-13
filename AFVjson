@@ -1,5 +1,5 @@
 {
-  "1.0.97": {
+  "1.0.98": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -928,8 +928,7 @@
         },
         "ARMOUR": [
           "Composite Armour",
-          "Explosive Reactive Armour",
-          "KSAP"
+          "Explosive Reactive Armour"
         ],
         "IMAGES": [
           "k21",
@@ -4040,429 +4039,486 @@
         }
       }
     },
-    "CIEW": {},
-    "ENG": {},
-    "RW": {},
-    "FW": {},
+    "CIEW": {
+      "Empty vehicle": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      }
+    },
+    "ENG": {
+      "Empty vehicle": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      }
+    },
+    "RW": {
+      "Mi-24": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "Mi-28": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "Mi-35": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "KA-52": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      }
+    },
+    "FW": {
+      "MiG-31": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "MiG-29": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "SU-27": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "SU-30": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "SU-34": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "SU-35": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
+      "SU-57": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      }
+    },
     "CAPABILITIES": {
       "WEAPONS": {
-        "Direct": {
-          "L30A1": {
-            "Name": "Royal Ordnance Rifled Gun",
-            "Designation": "L30A1",
-            "Calibre": "120mm",
-            "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
-            "Effective Range": {
-              "APFSDS": "3000m",
-              "HESH": "5000m",
-              "Smoke": "5000m"
-            },
-            "Ammunition": [
-              "APFSDS",
+        "L30A1": {
+          "Name": "Royal Ordnance Rifled Gun",
+          "Designation": "L30A1",
+          "Calibre": "120mm",
+          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "Ammunition": {
+            "CR2": [
               "HESH",
-              "Smoke"
+              0,
+              5000
             ]
-          },
-          "2A20": {
-            "Name": "U-5TS Smoothbore Gun",
-            "Designation": "2A20",
-            "Calibre": "115mm",
-            "Description": "The 2A20 (GRAU designation) is a 115mm smoothbore gun designed Artillery Plant No.9 in 1958.",
-            "Effective Range": {
-              "HVAPFSDS": "1600m",
-              "HEAT": "2500m",
-              "HE": "2500m"
-            },
-            "Ammunition": [
-              "HVAPFSDS",
-              "HEAT",
-              "HE"
-            ]
-          },
-          "2A46": {
-            "Name": "D-81 Smoothbore Gun",
-            "Designation": "2A46",
-            "Calibre": "125mm",
-            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
-            "Effective Range": {
-              "APFSDS": "3000m",
-              "HE": "400m",
-              "ATGM": "5000m"
-            },
-            "Ammunition": [
-              "APFSDS",
-              "HE",
-              "ATGM"
-            ]
-          },
-          "CN08": {
-            "Name": "D-81 Smoothbore Gun",
-            "Designation": "2A46",
-            "Calibre": "125mm",
-            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
-            "Effective Range": {
-              "APFSDS": "3000m",
-              "HE": "400m",
-              "ATGM": "5000m"
-            },
-            "Ammunition": [
-              "APFSDS",
-              "HE",
-              "ATGM"
-            ]
-          },
-          "F1": {
-            "Name": "D-81 Smoothbore Gun",
-            "Designation": "2A46",
-            "Calibre": "125mm",
-            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
-            "Effective Range": {
-              "APFSDS": "3000m",
-              "HE": "400m",
-              "ATGM": "5000m"
-            },
-            "Ammunition": [
-              "APFSDS",
-              "HE",
-              "ATGM"
-            ]
-          },
-          "Rheinmetall 120mm": {
-            "Name": "D-81 Smoothbore Gun",
-            "Designation": "2A46",
-            "Calibre": "125mm",
-            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
-            "Effective Range": {
-              "APFSDS": "3000m",
-              "HE": "400m",
-              "ATGM": "5000m"
-            },
-            "Ammunition": [
-              "APFSDS",
-              "HE",
-              "ATGM"
-            ]
-          },
-          "ZPT-98": {
-            "Name": "D-81 Smoothbore Gun",
-            "Designation": "2A46",
-            "Calibre": "125mm",
-            "Description": "The 2A46 (also called D-81) is a 125 mm/L48 smoothbore cannon of Soviet origin used in several main battle tanks. It was designed by OKB-9 in Sverdlovsk. It was developed by the Spetstekhnika Design Bureau in Ekaterinburg in the 1960s originally for the T-64A tank.",
-            "Effective Range": {
-              "APFSDS": "3000m",
-              "HE": "400m",
-              "ATGM": "5000m"
-            },
-            "Ammunition": [
-              "APFSDS",
-              "HE",
-              "ATGM"
-            ]
-          }
-        },
-        "Indirect": {},
-        "Anti-Aircraft Artillery": {},
-        "Surface to Air Missile": {},
-        "Anti-Tank": {},
-        "Machine Gun": {
-          "L94A1": {
-            "Name": "7.62 Chain Gun",
-            "Designation": "L94A1",
-            "Calibre": "7.62mm NATO",
-            "Description": "The L94A1 Chain Gun was specifically designed by Hughes Helicopters Company for use in armoured vehicles, despite the common myth amongst British troops that it was designed for use in helicopters, it was originally designed for use in the M60 Patton MBT. All the spent casings are ejected out of the turret, this prevents casings building up inside the vehicle, the barrel and ejection chute also act as a fume extractor.",
-            "Effective Range": {
-              "Direct": "1800m"
-            },
-            "Ammunition": [
-              "Ball",
-              "Tracer"
-            ]
-          },
-          "L7A2": {
-            "Name": "General Purpose Machine Gun",
-            "Calibre": "7.62mm",
-            "Designation": "L7A2",
-            "Description": "The L7A2 GPMG is a 7.62x51mm belt fed general purpose machine gun, one of the most widely exported machine guns in the world. It is typically mounted on vehicles using pintle mounts, RWS systems or coaxially. The L7A2 is the British Designation other designations are the M240(US), FN MAG(Belgian) and C6 GPMG (Canadian) to name a few.",
-            "Ammunition": [
-              "Ball",
-              "Tracer"
-            ],
-            "Effective Range": {
-              "Direct": "1800m",
-              "Indirect": "3500m"
-            }
-          },
-          "PKT": {
-            "Name": "Pulemyot Kalashnikova",
-            "Calibre": "7.62mm",
-            "Designation": "PKT",
-            "Description": "Designed in the Soviet Union and currently in production in Russia, the original PK machine gun was introduced in 1961 and the improved PKM variant was introduced in 1969. The PKM was designed to replace the SGM and RP-46 machine guns that were previously in Soviet service.",
-            "Ammunition": [
-              "Ball",
-              "Tracer"
-            ],
-            "Effective Range": {
-              "Direct": "1800m",
-              "Indirect": "4000m"
-            }
-          },
-          "PKMT": {
-            "Name": "Pulemyot Kalashnikova",
-            "Calibre": "7.62mm",
-            "Designation": "PKT",
-            "Description": "Designed in the Soviet Union and currently in production in Russia, the original PK machine gun was introduced in 1961 and the improved PKM variant was introduced in 1969. The PKM was designed to replace the SGM and RP-46 machine guns that were previously in Soviet service.",
-            "Ammunition": [
-              "Ball",
-              "Tracer"
-            ],
-            "Effective Range": {
-              "Direct": "1800m",
-              "Indirect": "4000m"
-            }
-          },
-          "DShK": {
-            "Name": "Degtyaryov-Shpagin large-calibre",
-            "Calibre": "12.7mm",
-            "Designation": "DShK",
-            "Description": "The DShK 1938 is a Soviet heavy machine gun with a V-shaped butterfly trigger, firing the 12.7×108mm cartridge. The weapon was also used as a heavy infantry machine gun, in which case it was frequently deployed with a two-wheeled mounting and a single-sheet armour-plate shield.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Direct": "2000m",
-              "Indirect": "2500m"
-            }
-          },
-          "NSVT": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "K6": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "KORD": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "M2": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "MG 3": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "FN MAG": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "M240": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "MG 87": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
-          },
-          "QJC-88": {
-            "Name": "NSV \"Cliff\" Heavy Machine Gun",
-            "Calibre": "12.7mm",
-            "Designation": "NSVT",
-            "Description": "The NSV \"Cliff\" is a 12.7mm caliber heavy machine gun of Soviet origin, named after the designers, G. I. Nikitin, Y. S. Sokolov and V. I. Volkov. It was designed to replace the DShK machine gun and was adopted by the Soviet Army in 1971. The NSV weighs 25 kg (55 lb), has a rate of fire of 700–800 rounds per minute.",
-            "Ammunition": [
-              "Ball",
-              "Tracer",
-              "AP",
-              "API-WP",
-              "HEI",
-              "Tandem"
-            ],
-            "Effective Range": {
-              "Air Targets": "1500m",
-              "Ground Targets": "2000m"
-            }
           }
         }
       },
       "AMMUNITION": {
-        "APFSDS": {
-          "Designation": "APFSDS",
-          "Name": "Armour Piercing Fin Stabilised Discarding Sabot",
-          "Uses": "Kills armoured stuff"
-        },
-        "HVAPFSDS": {
-          "Designation": "APFSDS",
-          "Name": "High Velocity Armour Piercing Fin Stabilised Discarding Sabot",
-          "Uses": "Kills armoured stuff"
-        },
-        "Ball": {
-          "Designation": "Ball",
-          "Name": "Ball",
-          "Uses": "Basic round"
-        },
-        "Tracer": {
-          "Designation": "Tracer",
-          "Name": "Tracer",
-          "Uses": "Basic tracer round"
-        },
-        "HESH": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
-        "HEAT": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
-        "ATGM": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
-        "HE": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
-        "HEI": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
-        "AP": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
-        "API-WP": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
-        "Tandem": {
-          "Designation": "HESH",
-          "Name": "High Explosive Squash Head",
-          "Uses": "Kills light armour and stuff"
-        },
         "Smoke": {
           "Designation": "Smoke",
           "Name": "Smoke Round",
@@ -4470,32 +4526,6 @@
         }
       },
       "ARMOUR": {
-        "UK Applique": {
-          "Name": "UK Applique",
-          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
-          "Images": {
-            "ukapplique": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
-            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
-            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
-          }
-        },
-        "BDD Applique": {
-          "Name": "BDD Applique",
-          "Description": "BDD Is an Appliqué armour kit designed in the USSR and fitted to the T-55M and T-62M series of tanks, it consists of a turret package covering the front cheeks and a hull package covering the front and lower glacis plate.",
-          "Images": {
-            "bddapplique": "BDD Armour package is an appliqué pack fitted on the T-62M, fitted here on the the turret cheeks.",
-            "bddapplique2": "It can be seen here fitted to the turret cheeks and front and lower glacis plates.",
-            "bddapplique3": "It is a combination of spaced armour, it consists of a thick steel outer, with thinner angled plates inside, the gaps are filled with polyurethane, it adds a significant protective element against HEAT munitions."
-          }
-        },
-        "Combination K": {
-          "Name": "Combination K",
-          "Description": "Combination K is an early generation composite armour designed by Alexander Morozov.",
-          "Images": {
-            "combinationk": "Combination-K is an interesting design, the turret is made of steel, it has cavities for ceramic spheres.",
-            "combinationk2": "The hull is made from glass reinforced plastic, you can see here the layers of composites in the frontal hull, this variant being a later build model (T-64B), denoted by 5 layers of sandwich array. This tank was destroyed in Ukraine."
-          }
-        },
         "Kontakt-1": {
           "Name": "Kontakt-1",
           "Description": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
@@ -4507,111 +4537,12 @@
           }
         },
         "Kontakt-5": {
-          "Name": "UK Applique",
-          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
+          "Name": "",
+          "Description": "",
           "Images": {
-            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
-            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
-            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
-          }
-        },
-        "Relikt": {
-          "Name": "UK Applique",
-          "Description": "OES variant including NERA Composite blocks, further Dorchester blocks, as well as slat armour at the rear.",
-          "Images": {
-            "ukapplique1": "Chobham/Dorchester block across the front glacis, NERA panels down both sides of the hull.",
-            "ukapplique2": "NERA panels down the side of the turret with bar armour at the rear quarter",
-            "ukapplique3": "Bar armour around the rear quarter of the engine compartment."
-          }
-        },
-        "Nozh ERA": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "ERA": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "NERA": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "KSAP": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "Shtora": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "Spaced ML Armour": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "Composite Armour": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "Welded Plate Armour": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
-          }
-        },
-        "Cast Steel Armour": {
-          "Name": "Nozh ERA",
-          "Description": "Nozh is a Ukrainian explosive reactive armour designed by KMDB, Nozh modules are fitted to the T-64BM as well as the Pakistani Al-Khalid tank. It is designed in a way to reduce the chance of a chain reaction of armour modules, something that has been observed to happen on Kontakt-1.",
-          "Images": {
-            "nozhera": "Nozh ERA fitted to the turret of a Ukrainian T64-BM.",
-            "nozhera2": "Nozh \"Knife\" ERA.",
-            "nozhera3": "This is a T-64BV destroyed in Eastern Ukraine, you can see the chain reaction of Kontakt-1 on the turret and the hull.",
-            "nozhera4": "Open view of Nozh Explosive Reactive Armour (ERA) panel."
+            "image1": "",
+            "image2": "",
+            "image3": ""
           }
         }
       }
