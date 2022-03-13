@@ -5024,9 +5024,11 @@
       },
       "AMMUNITION": {
         "Smoke": {
-          "Designation": "Smoke",
-          "Name": "Smoke Round",
-          "Uses": "Blind the enemy, screen friendlies, burn baddies"
+          "NAME": "Smoke Round",
+          "IMAGES": {
+            "Smoke rounds can be used to blind the enemy.": "smoke1",
+            "Smoke rounds can also screen friendly forces with either White Phos or built up smoke.": "smoke2"
+          }
         }
       },
       "ARMOUR": {
