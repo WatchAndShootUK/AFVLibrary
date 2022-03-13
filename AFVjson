@@ -1,5 +1,5 @@
 {
-  "1.0.93": {
+  "1.0.94": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2111,17 +2111,16 @@
       "BTR*": {
         "BTR-70": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "GAZ",
+            1972,
+            1986
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "KPVT",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -2133,15 +2132,17 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "btr701",
+            "btr702",
+            "btr703"
           ],
           "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BTR-70 has a boat shaped hull in line with its amphibious capability, the front has a splash plate which is folded down normally unless preparing for a crossing. There are 2 armoured windows with shutters, seen here in the raised position, above them are periscopes for when the shutters are closed. At the front centre there is a one man conical turret with a 14.5mm KPVT and 7.62mm Coax PKT.": "rfbtr701",
+            " The side retains the boat shape, there are 4 road wheels with a prominent gap between the 2nd and 3rd road wheels to make room for the dismount door, there are 2 footsteps, in between each pair of road wheels they are triangular in shape with a squared off end. The rear of the BTR-70 slopes downwards and has 2 exhausts either side, they are cylindrical in shape, these are a good indicator for TI. There is an angled ‘teardrop’ shape at the rear centre for the water jet.": "rfbtr702",
+            "BTR-70 TI rear view.": "rfbtr703",
+            "BTR-70 right hand view TI.": "rfbtr704"
           }
         },
         "BTR-80": {
@@ -4031,11 +4032,10 @@
         }
       }
     },
-    "EW": {},
-    "COMD": {},
+    "CIEW": {},
     "ENG": {},
-    "RW ATTACK": {},
-    "RW UTILITY": {},
+    "RW": {},
+    "FW": {},
     "CAPABILITIES": {
       "WEAPONS": {
         "Direct": {
