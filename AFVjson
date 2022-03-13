@@ -1,5 +1,5 @@
 {
-  "1.0.94": {
+  "1.0.95": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -103,7 +103,7 @@
           "gazt2"
         ],
         "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
-        "CREW": 4
+        "CREW": "2+9"
       }
     },
     "MBT": {
@@ -1715,6 +1715,78 @@
           }
         }
       },
+      "BTR*": {
+        "BTR-80A": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BTR-82A": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      },
       "MT-LB*": {
         "MT-LBM 6MB": {
           "MANUFACTURE": [
@@ -2136,8 +2208,8 @@
             "btr702",
             "btr703"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BTR-70 is a Soviet APC produced as the successor to the BTR-60, It improved on an array of features, including new entry/exit hatches for the dismounts, thicker armour and more firing ports, the BTR-70 retained a feature from the BTR-60 which was the twin engine design, this meant that if one engine was damaged or inoperable the other engine could still drive the vehicle alone, albeit slowly. The original prototype of the BTR-70 actually had the turret from the BMP-1, this was changed due to costs. The BTR-70 in Russian service is solely used by the Russian Naval Infantry.",
+          "CREW": "3+7",
           "R_FEAT": {
             "The BTR-70 has a boat shaped hull in line with its amphibious capability, the front has a splash plate which is folded down normally unless preparing for a crossing. There are 2 armoured windows with shutters, seen here in the raised position, above them are periscopes for when the shutters are closed. At the front centre there is a one man conical turret with a 14.5mm KPVT and 7.62mm Coax PKT.": "rfbtr701",
             " The side retains the boat shape, there are 4 road wheels with a prominent gap between the 2nd and 3rd road wheels to make room for the dismount door, there are 2 footsteps, in between each pair of road wheels they are triangular in shape with a squared off end. The rear of the BTR-70 slopes downwards and has 2 exhausts either side, they are cylindrical in shape, these are a good indicator for TI. There is an angled ‘teardrop’ shape at the rear centre for the water jet.": "rfbtr702",
@@ -2147,17 +2219,16 @@
         },
         "BTR-80": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "GAZ",
+            1986,
+            2016
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "KPVT",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -2169,120 +2240,17 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "btr801",
+            "br802"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BTR-80 is an upgraded BTR-70, There are many upgrades to the platform, it now has a single engine, 6 81mm SGD’s, a turret redesign, redesigned firing ports and a new dismount door.",
+          "CREW": "3+7",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "BTR-80A": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "BTR-82": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "BTR-82A": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BTR-80 differs from the BTR-70 in a number of ways, the commanders position now has a new firing port, the firing ports are circular and face forward, you can see here they are in a row along the upper hull side, on BTR-70 the firing ports are teardrop shaped and do not face forward. There is a handrail above the firing ports, the door is redesigned and now has 2 parts, the upper and lower door.": "rfbtr801",
+            "Seen here is the door previously mentioned, a point to note is that the footsteps in between the roadwheels are now squared off at the bottom, whereas on the BTR-70 they’re rounded, although this depends on variant, it can be commonly used as a distinctive feature, using the other features alongside it.": "rfbtr802",
+            "On this photo you can see the changes to the superstructure, the hull is squared off at the rear rather than sloping. The exhausts are straight down the side of the hull, the upper hull has brake lights on either side, the tear drop water jet cover remains in the same place.": "rfbtr803",
+            "BTR-80 TI left side view.": "rfbtr804",
+            "BTR-80 front TI view.": "rfbtr805"
           }
         }
       },
