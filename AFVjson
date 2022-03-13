@@ -1,5 +1,5 @@
 {
-  "1.0.96": {
+  "1.0.97": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -189,7 +189,7 @@
             "HP": "610hp"
           },
           "ARMOUR": [
-            "BDD Applique"
+            "Composite Armour"
           ],
           "IMAGES": [
             "t62m1",
@@ -231,6 +231,7 @@
             "HP": "610hp"
           },
           "ARMOUR": [
+            "Composite Armour",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -271,7 +272,7 @@
             "HP": "700hp"
           },
           "ARMOUR": [
-            "Combination K"
+            "Composite Armour"
           ],
           "IMAGES": [
             "t64a1",
@@ -314,7 +315,7 @@
             "HP": "1000hp"
           },
           "ARMOUR": [
-            "Combination K",
+            "Composite Armour",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -354,7 +355,7 @@
             "HP": "700hp"
           },
           "ARMOUR": [
-            "Combination K",
+            "Composite Armour",
             "Nozh ERA"
           ],
           "IMAGES": [
@@ -438,7 +439,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "T72 Armour",
+            "Composite Armour",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -484,7 +485,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "T72 Armour",
+            "Composite Armour",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -529,7 +530,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "T72 Armour",
+            "Composite Armour",
             "Kontakt-5"
           ],
           "IMAGES": [
@@ -574,7 +575,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "T72 Armour",
+            "Composite Armour",
             "Kontakt-5"
           ],
           "IMAGES": [
@@ -616,10 +617,9 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "T72 Armour",
+            "Composite Armour",
             "Kontakt-5",
-            "Relikt",
-            "Bar Armour"
+            "Relikt"
           ],
           "IMAGES": [
             "t72b3obr20161",
@@ -661,6 +661,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
+            "Composite Armour",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -703,6 +704,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
+            "Composite Armour",
             "Kontakt-5"
           ],
           "IMAGES": [
@@ -749,6 +751,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
+            "Composite Armour",
             "Kontakt-5",
             "Relikt"
           ],
@@ -794,6 +797,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
+            "Composite Armour",
             "Kontakt-5",
             "Shtora"
           ],
@@ -839,6 +843,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
+            "Composite Armour",
             "Relikt",
             "Shtora"
           ],
@@ -888,7 +893,8 @@
           "HP": "1200hp"
         },
         "ARMOUR": [
-          "UK Applique"
+          "Composite Armour",
+          "Explosive Reactive Armour"
         ],
         "IMAGES": [
           "challenger21",
@@ -921,8 +927,8 @@
           "HP": "780hp"
         },
         "ARMOUR": [
-          "NERA",
-          "ERA",
+          "Composite Armour",
+          "Explosive Reactive Armour",
           "KSAP"
         ],
         "IMAGES": [
@@ -964,8 +970,8 @@
           "HP": "780hp"
         },
         "ARMOUR": [
-          "Composite",
-          "ERA"
+          "Composite Armour",
+          "Explosive Reactive Armour"
         ],
         "IMAGES": [
           "leclerc1",
@@ -1009,7 +1015,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
-            "Spaced ML armour"
+            "Composite Armour"
           ],
           "IMAGES": [
             "leopard2a41",
@@ -1088,7 +1094,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
-            "Spaced ML armour"
+            "Composite Armour"
           ],
           "IMAGES": [
             "leopard2a61"
@@ -1124,7 +1130,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
-            "Spaced ML armour"
+            "Composite Armour"
           ],
           "IMAGES": [
             "leopard2pl1",
@@ -1259,7 +1265,7 @@
         },
         "ARMOUR": [
           "Composite Armour",
-          "ERA",
+          "Explosive Reactive Armour",
           "LSDW"
         ],
         "IMAGES": [
