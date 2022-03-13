@@ -1,5 +1,5 @@
 {
-  "1.0.92": {
+  "1.0.93": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -28,7 +28,6 @@
           "Speed": "",
           "HP": ""
         },
-        "ARMOUR": [],
         "IMAGES": [
           "brdm21",
           "brdm22"
@@ -64,13 +63,47 @@
           "Speed": "",
           "HP": ""
         },
-        "ARMOUR": [],
         "IMAGES": [
           "brm1k1",
           "brm1k2"
         ],
         "DESCRIPTION": "A dedicated combat recce variant of the BMP-1, it retains the same hull but has a new larger 2 man turret with new capabilities, including new sighting sytems, terrain surveying and mine detection devices and the PSNR-5K ‘Tall mike’ radar system. It has the autoloader for the 73mm 2A28 removed and carries significantly less rounds; due to its role not needing as much ammunition to the recce nature of the vehicle. The BRM-1K is usually found in recce coys of armoured/mechanised brigades.",
         "CREW": 7
+      },
+      "GAZ Tigr": {
+        "MANUFACTURE": [
+          "GAZ",
+          "2005",
+          "Present"
+        ],
+        "COO": [
+          "Russian Federation"
+        ],
+        "R_FEAT": {
+          "The Gaz-Tigr is classed as an Infantry Mobility Vehicle, it has a hatch on top with pintle mounts for the mentioned weapons, the windows are armoured glass, down the sides there are 2 small pill shaped windows. The front engine bay is curved towards the front with a raised section in the centre. The front has bull bars with 2 circular headlights, with indicators on each side, moving down there is a mount for the winch.": "rfgazt1",
+          "The GAZ-Tigr-M Is a modernised version with a RWS, The RWS is the small turret-like system on top replacing the pintle mount, identifiable by the SGD’s and TI sight. It also features a new armoured hood, seen with the more prominent bulge.": "rfgazt2",
+          "GAZ-Tigr-M TI view.": "rfgazt3"
+        },
+        "WEAPONS": [
+          "KORD",
+          "PKP",
+          "AGS-17"
+        ],
+        "DATA": {
+          "Weight": "7,200kg",
+          "Length": "5.7m",
+          "Width": "2.4m",
+          "Height": "2.4m",
+          "Range": "1000km",
+          "Speed": "87mph",
+          "HP": "180hp"
+        },
+        "IMAGES": [
+          "gazt1",
+          "gazt2"
+        ],
+        "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
+        "CREW": 4
       }
     },
     "MBT": {
