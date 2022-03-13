@@ -1309,10 +1309,10 @@
           "DESCRIPTION": "The BMP-1 was a soviet produced IFV, BMP literally stands for ‘infantry fighting vehicle 1) it was the first of its kind, the first true IFV, combining the carrying capability and the armaments of a light tank to create a hybrid. It was widely produced, with Romania still producing models today. It also has an amphibious capability.",
           "CREW": "3+8",
           "R_FEAT": {
-            "The BMP-1 is quite a distinguishable vehicle, you will notice the short 73mm low velocity cannon, leading to the small 1 man ‘frying pan’ turret. Above the 73mm gun you will see the AT-3 Sagger/9M14 Malyutka missile,it is exposed rather than in a launch tube. The hull is boat shaped showing it’s amphibious capability, you can see the trim vane is raised in this photo.": "rfeatbmp11",
+            "The BMP-1 is quite a distinguishable vehicle, you will notice the short 73mm low velocity cannon, leading to the small 1 man ‘frying pan’ turret. Above the 73mm gun you will see the 9M14 Sagger/9M14 Malyutka missile,it is exposed rather than in a launch tube. The hull is boat shaped showing it’s amphibious capability, you can see the trim vane is raised in this photo.": "rfeatbmp11",
             "The driver sits at the front left with 4 periscopes, behind him sits the vehicle/section commander, moving towards the rear you’ll see there are periscopes for the dismounts as well as the teardrop shaped firing ports, the roadwheels have a prominent gap between 4th-5th and 5th 6th, the final drive is at the front indicating the engine is frontally mounted.": "rfeatbmp12",
             "Here is a close view of the driver, commanders and gunners positions.": "rfeatbmp13",
-            "A close view of the AT-3/9M14 Missile fitted above the main gun.": "rfeatbmp14",
+            "A close view of the 9M14/9M14 Missile fitted above the main gun.": "rfeatbmp14",
             "BMP-1 left hand side thermal picture.": "rfeatbmp15",
             "BMP-2 right hand side thermal picture.": "rfeatbmp16"
           }
@@ -1345,10 +1345,10 @@
             "bmp1p2",
             "bmp1p3"
           ],
-          "DESCRIPTION": "The BMP-1P was the first large modernisation of the BMP-1, lessons learnt from the 1973Yom Kippur war and the Angolan civil war, firepower was enhanced with theaddition of the AT-5 Spandrel/9M113 Konkurs ATGM, this massively increasedfirepower and armour protection, with the downside that the gunner had to exithis hatch and stand outside to fire and guide the missile.",
+          "DESCRIPTION": "The BMP-1P was the first large modernisation of the BMP-1, lessons learnt from the 1973Yom Kippur war and the Angolan civil war, firepower was enhanced with theaddition of the 9M113 Spandrel/9M113 Konkurs ATGM, this massively increasedfirepower and armour protection, with the downside that the gunner had to exithis hatch and stand outside to fire and guide the missile.",
           "CREW": "3+8",
           "R_FEAT": {
-            "Recognising features of the BMP-1P, there is only one main feature which is the addition ofthe new ATGM fitted to the top of the turret, whilst this is a small feature,\nit is a key one as this greatly increases how threatening this variant is, dueto the increase in range, armour penetration and missile speed. Whereas theBMP-1 has the AT-3 Sagger fitted above the gun as a bare missile, the BMP-1Pnow has an AT-5 on the top right of the turret.\nAlthough thismay seem intricate and unnecessary to learn, the change in ATGM hugely changesthe potency of this IFV, for example the effective range of the AT-3 comparedto the AT-5 is as follows, AT-3-3km, AT-5-4km. This significantly enhances thelethality of these vehicles, therefore showing the need to recognise thedifferences with these vehicles.": "rfeatbmp1p1"
+            "Recognising features of the BMP-1P, there is only one main feature which is the addition ofthe new ATGM fitted to the top of the turret, whilst this is a small feature,\nit is a key one as this greatly increases how threatening this variant is, dueto the increase in range, armour penetration and missile speed. Whereas theBMP-1 has the 9M14 Sagger fitted above the gun as a bare missile, the BMP-1Pnow has an 9M113 on the top right of the turret.\nAlthough thismay seem intricate and unnecessary to learn, the change in ATGM hugely changesthe potency of this IFV, for example the effective range of the 9M14 comparedto the 9M113 is as follows, 9M14-3km, 9M113-4km. This significantly enhances thelethality of these vehicles, therefore showing the need to recognise thedifferences with these vehicles.": "rfeatbmp1p1"
           }
         },
         "BMP-1M": {
@@ -1419,11 +1419,11 @@
             "bmp24",
             "bmp25"
           ],
-          "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/AT-5 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
+          "DESCRIPTION": "The BMP-2 is an upgrade of the BMP-1, it brings a new, larger 2 man turret with a new 30mm 2A42 Auto-cannon, newer 9M133 Kornet/9M113 Spandrel ATGM, it removes 2 of the 4 hatches from the BMP-1. The BMP-2 forms the backbone of most Ex Soviet countries IFV capability, as well as a lot of other countries around the world.",
           "CREW": "3+8",
           "R_FEAT": {
             "The main recognising features of the BMP-2 is the newer 2 man turret, it is much wider and larger than the BMP-1. The turret has a new 30mm 2A42 cannon, it is much longer and thinner than that of the 73mm, it has a rectangular muzzle brake.": "rfeatbmp21",
-            "The AT-5 launch tube is now fitted centrally on top of the turret, there are also SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rfeatbmp22",
+            "The 9M113 launch tube is now fitted centrally on top of the turret, there are also SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rfeatbmp22",
             "BMP-2 left hand thermal view.": "rfeatbmp23",
             "BMP-2 right hand thermal view.": "rfeatbmp24"
           }
@@ -1456,7 +1456,7 @@
             "bmp2m1",
             "bmp2m2"
           ],
-          "DESCRIPTION": "The BMP-2M ‘Berezhok’ is a modernised BMP-2, it has a new berezhok turret, with mostly thesame armaments aside from the addition of 2 launchers either side of the turretfor the AT-14 Spriggan/9M113M Kornet-M and an AGS-30 GMG on the rear turretroof, as well as a new day/night sight from the BMD-4. The upgrades bring it upto a much more modern standard, massively enhancing lethality.",
+          "DESCRIPTION": "The BMP-2M ‘Berezhok’ is a modernised BMP-2, it has a new berezhok turret, with mostly thesame armaments aside from the addition of 2 launchers either side of the turretfor the 9M133 Spriggan/9M113M Kornet-M and an AGS-30 GMG on the rear turretroof, as well as a new day/night sight from the BMD-4. The upgrades bring it upto a much more modern standard, massively enhancing lethality.",
           "CREW": "3+7",
           "R_FEAT": {
             "The hull remains the same, the turret noticeably has the differences with the ATGMmounts either side, unlike the BMP-2 which has the mount on top of the turret.\nAnother noticeable difference is the cluster of SGD’s which sit at the front ofthe turret either side of the MA. Moving rearwards you will see the AGS-30 atthe turret rear, when firing you will see it is elevated.": "rfbmp2m1",
@@ -1518,7 +1518,7 @@
           "WEAPONS": [
             "2A28",
             "PKT",
-            "AT-3 Sagger"
+            "9M14 Sagger"
           ],
           "DATA": {
             "Weight": "",
@@ -1537,7 +1537,7 @@
           "DESCRIPTION": "The BMD-1 is based on the BMP-1, but is produced for the airborne forces (VDV), BMD literallytranslates to ‘Combat vehicle of the airborne’. It shares commonality with theBMP-1, the turret and armaments are the same, it is also the basis for theBTR-D series of APC’s.",
           "CREW": "2+6",
           "R_FEAT": {
-            "The BMD-1 is a much smaller version of the BMP-1 for airborne use, the turret is the same asthat on the BMP-1, small conical shaped and armed with the 73mm 2A28 Grom maingun, it also has the AT-3 Sagger/9M14 Malyutka ATGM fitted above the gunmantlet. The hull still retains a boat-like shape due to its amphibiouscapabilities; it has a splash plate at the front which is folded down fornormal operations.": "rfbmd11",
+            "The BMD-1 is a much smaller version of the BMP-1 for airborne use, the turret is the same asthat on the BMP-1, small conical shaped and armed with the 73mm 2A28 Grom maingun, it also has the 9M14 Sagger/9M14 Malyutka ATGM fitted above the gunmantlet. The hull still retains a boat-like shape due to its amphibiouscapabilities; it has a splash plate at the front which is folded down fornormal operations.": "rfbmd11",
             "This is how the turret appears when the missile is fitted; it is a bare missile rather thana launch tube.": "rfbmd12",
             "The front has an air intake grille centrally mounted in front of the drivers hatch, thedriver has 3 periscopes for his position with the 2 hatches either side of themhaving 1 hatch for the right and 2 for the left, on the running gear it has 2prominent top rollers, with 5 equally spaced roadwheels with the final drive atthe rear. The antenna whip is at the rear left.": "rfbmd13"
           }
@@ -1554,7 +1554,7 @@
           "WEAPONS": [
             "2A28",
             "PKT",
-            "AT-5 Spandrel"
+            "9M113 Spandrel"
           ],
           "DATA": {
             "Weight": "",
@@ -1569,10 +1569,10 @@
             "bmd1p1",
             "bmd1p2"
           ],
-          "DESCRIPTION": "The BMD-1P isa BMD-1 upgraded with the newer more effective AT-5 Spandrel/9P135M-1 (Konkurs)\nATGM replacing the older AT-3 Sagger/9M14 Malyutka.",
+          "DESCRIPTION": "The BMD-1P isa BMD-1 upgraded with the newer more effective 9M113 Spandrel/9P135M-1 (Konkurs)\nATGM replacing the older 9M14 Sagger/9M14 Malyutka.",
           "CREW": "2+6",
           "R_FEAT": {
-            "Similar to the BMP-1P, the only change with the BMD-1P is with the ATGM change, the mainvisible difference is the ATGM now being a large elevated launch tube on theturret, whereas the BMD-1 has the bare missile fitted above the armament.\nAlthough thismay seem intricate and unnecessary to learn, the change in ATGM hugely changesthe potency of these IFV’s for example the effective range of the AT-3 comparedto the AT-5 is as follows AT-3-3km, AT-5-4km. This significantly enhances thelethality of these vehicles, therefore showing the need to recognise thedifferences with these vehicles.": "rfbmd1p1"
+            "Similar to the BMP-1P, the only change with the BMD-1P is with the ATGM change, the mainvisible difference is the ATGM now being a large elevated launch tube on theturret, whereas the BMD-1 has the bare missile fitted above the armament.\nAlthough thismay seem intricate and unnecessary to learn, the change in ATGM hugely changesthe potency of these IFV’s for example the effective range of the 9M14 comparedto the 9M113 is as follows 9M14-3km, 9M113-4km. This significantly enhances thelethality of these vehicles, therefore showing the need to recognise thedifferences with these vehicles.": "rfbmd1p1"
           }
         },
         "BMD-2": {
@@ -1587,7 +1587,7 @@
           "WEAPONS": [
             "2A42",
             "PKT",
-            "AT-5 Spandrel"
+            "9M113 Spandrel"
           ],
           "DATA": {
             "Weight": "",
@@ -1623,7 +1623,7 @@
           "WEAPONS": [
             "2A42",
             "PKT",
-            "AT-14 Spriggan "
+            "9M133 Spriggan "
           ],
           "DATA": {
             "Weight": "",
@@ -1641,7 +1641,7 @@
           "DESCRIPTION": "Modernised BMP-2M,\nfitted with new stabilisation systems for the 30mm gun, TI sight for thegunner, new ATGM and a new crew compartment, it massively enhances thelethality for such a small, light vehicle.",
           "CREW": "2+6",
           "R_FEAT": {
-            "The BMD-2M is aptly nicknamed the ‘mini-berezhok’ due to its features being reminiscent ofthe BMP-2M Berezhok, it retains the same turret and armament from the BMD-2 andadds more capabilities, the most prominent being the new AT-14 Spriggan/9M133Kornet ATGM mount on the side of the right side of the turret. It contains 2missile launch tubes, on the left side of the turret it has the new thermalsight. The hull exterior and recognising features remain the same as thestandard BMD-2.": "rfbmd2m1",
+            "The BMD-2M is aptly nicknamed the ‘mini-berezhok’ due to its features being reminiscent ofthe BMP-2M Berezhok, it retains the same turret and armament from the BMD-2 andadds more capabilities, the most prominent being the new 9M133 Spriggan/9M133Kornet ATGM mount on the side of the right side of the turret. It contains 2missile launch tubes, on the left side of the turret it has the new thermalsight. The hull exterior and recognising features remain the same as thestandard BMD-2.": "rfbmd2m1",
             "On this close up of the turret you can see the upgrades in full display, towards the rear ofthe turret you can see a wind sensor, due to most photographs being at armsexpos and being prototypes, there are some differences, for example on thisphoto there are no SGD’s fitted.": "rfbmd2m2",
             "For a quick reference to tell apart from the BMP-2M is the lack of launch tubes on bothsides of the turret like the BMP-2M has, also the tall thermal sight is a biggiveaway.": "rfbmd2m3"
           }
@@ -1659,7 +1659,7 @@
             "2A42",
             "PKT",
             "AGS-30",
-            "AT-5 Spandrel",
+            "9M113 Spandrel",
             "RPK"
           ],
           "DATA": {
