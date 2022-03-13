@@ -1,5 +1,5 @@
 {
-  "1.0.90": {
+  "1.0.91": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -339,6 +339,43 @@
         }
       },
       "T-72*": {
+        "T-72A": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1969",
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "43t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "840hp"
+          },
+          "ARMOUR": [],
+          "IMAGES": [
+            "t72a1",
+            "t72a2",
+            "t72a3"
+          ],
+          "DESCRIPTION": "The T-72A is a Soviet/Russian MBT first entering service in 1979, it is an upgrade on the older T-72 including an LRF, an upgraded FCS, thicker composite armour on the turret and hull front. It is one of the most widely used tanks in the world, still in use today. The T-72 was first designed as an emergency model to be produced in a time of war, this was because it was cheaper to produce than the complex T-64.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-72A is easily confused with a T-64A, ways to differentiate between the turret are the SGD’s, on the right side a 5 dischargers in a ‘U’ configuration, on the left side there’s a row of 6 with one above the 6th discharger. There’s also a lack of storage boxes around the left front cheek, the IR searchlight now moves to the right hand side of the gun, the snorkel at the rear is also much smaller than that of the T-64A.": "rfeatt72a1",
+            "Moving to the hull, there are 6 equally spaced roadwheels, with a single pin track design signifying the tank isn’t as modern, the exhaust is on the rear left unlike the T-64’s which is on the rear. On the front you will see a ‘V’ shaped splash plate for the driver, with a single vision periscope.": "rfeatt72a2",
+            "This is a view in TI, the heat from the exhaust will be significant on the left hand side. The exhaust points downwards so this will leave a prominent signature on the ground.": "rfeatt72a3"
+          }
+        },
         "T-72B": {
           "MANUFACTURE": [
             "Uralvagonzavod",
