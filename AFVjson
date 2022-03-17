@@ -4508,7 +4508,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "1": [
               "APFSDS",
@@ -4531,7 +4531,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4544,7 +4544,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4557,7 +4557,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4570,7 +4570,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4583,7 +4583,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4596,7 +4596,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4609,7 +4609,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4622,7 +4622,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4635,7 +4635,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4648,7 +4648,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4661,7 +4661,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4674,7 +4674,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4687,7 +4687,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4700,7 +4700,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4713,7 +4713,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4726,7 +4726,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4739,7 +4739,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4752,7 +4752,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4765,7 +4765,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4778,7 +4778,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4791,7 +4791,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4804,7 +4804,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4817,7 +4817,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4830,7 +4830,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4843,7 +4843,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4856,7 +4856,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4869,7 +4869,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4882,7 +4882,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4895,7 +4895,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4908,7 +4908,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4921,7 +4921,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4934,7 +4934,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4947,7 +4947,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4960,7 +4960,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4973,7 +4973,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4986,7 +4986,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -4999,7 +4999,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -5012,7 +5012,7 @@
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
-          "Description": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
           "Ammunition": {
             "CR2": [
               "HESH",
@@ -5034,7 +5034,7 @@
       "ARMOUR": {
         "Composite Armour": {
           "Name": "Kontakt-1",
-          "Description": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
+          "DESCRIPTION": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
           "Images": {
             "kontakt-1": "Here this T-80BV has Kontakt-1 fitted, you can see the blocks provide coverage across most of the frontal arc.",
             "kontakt-12": "Kontakt-1 is an ERA designed in the USSR, it is fitted to a lot of Russian tanks, this can be denoted by the suffix ‘V-Vzryvnoi’ meaning explosive, example:T-80BV.",
@@ -5044,7 +5044,7 @@
         },
         "Kontakt-1": {
           "Name": "Kontakt-1",
-          "Description": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
+          "DESCRIPTION": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
           "Images": {
             "kontakt-1": "Here this T-80BV has Kontakt-1 fitted, you can see the blocks provide coverage across most of the frontal arc.",
             "kontakt-12": "Kontakt-1 is an ERA designed in the USSR, it is fitted to a lot of Russian tanks, this can be denoted by the suffix ‘V-Vzryvnoi’ meaning explosive, example:T-80BV.",
@@ -5054,7 +5054,7 @@
         },
         "Nozh": {
           "Name": "",
-          "Description": "",
+          "DESCRIPTION": "",
           "Images": {
             "image1": "",
             "image2": "",
@@ -5063,7 +5063,7 @@
         },
         "Kontakt-5": {
           "Name": "",
-          "Description": "",
+          "DESCRIPTION": "",
           "Images": {
             "image1": "",
             "image2": "",
@@ -5072,7 +5072,7 @@
         },
         "Relikt": {
           "Name": "",
-          "Description": "",
+          "DESCRIPTION": "",
           "Images": {
             "image1": "",
             "image2": "",
@@ -5081,7 +5081,7 @@
         },
         "Shtora": {
           "Name": "",
-          "Description": "",
+          "DESCRIPTION": "",
           "Images": {
             "image1": "",
             "image2": "",
@@ -5090,7 +5090,7 @@
         },
         "Reactive Armour": {
           "Name": "",
-          "Description": "",
+          "DESCRIPTION": "",
           "Images": {
             "image1": "",
             "image2": "",
@@ -5099,7 +5099,7 @@
         },
         "TUSK": {
           "Name": "",
-          "Description": "",
+          "DESCRIPTION": "",
           "Images": {
             "image1": "",
             "image2": "",
@@ -5108,7 +5108,7 @@
         },
         "LSDW": {
           "Name": "",
-          "Description": "",
+          "DESCRIPTION": "",
           "Images": {
             "image1": "",
             "image2": "",
