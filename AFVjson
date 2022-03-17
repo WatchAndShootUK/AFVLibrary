@@ -1,5 +1,5 @@
 {
-  "1.0.101": {
+  "1.0.102": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1757,17 +1757,16 @@
         },
         "BTR-82A": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "AMBP",
+            2009,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Russian Federation"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A72",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1779,15 +1778,15 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "btr82a1",
+            "btr82a2",
+            "btr82a3"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BTR-82A is the latest production model of the BTR series, it has improved protection, GLONASS navi system, more powerful engine and newer sighting systems.",
+          "CREW": "3+7",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BTR-82A is visually very similar to the BTR-80A, The main differences are on the turret and the rear. The sighting system below the gun isn’t there on BTR-80A, the searchlight above the gun is replaced with a square box.": "rfbtr82a1",
+            "As you can see here there is a prominent cylinder above the exhaust, this is on both sides and a good indicating feature for this model, this isn't fitted to other BTR models. For an in-depth guide on BTR-80, see BTR-80.": "rfbtr82a2"
           }
         }
       },
