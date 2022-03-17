@@ -2512,7 +2512,7 @@
           2019
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union"
         ],
         "WEAPONS": [
           "9P135M",
@@ -2528,8 +2528,8 @@
           "HP": ""
         },
         "IMAGES": [
-          "btrrobot1",
-          "btrrobot2"
+          "btrdrobot1",
+          "btrdrobot2"
         ],
         "DESCRIPTION": "The BTR-RD Robot is a BTR-D for use with anti-tank platoons within the VDV, the interior has been redesigned for stowage of ATGM.s. The ATGM’s can either be used in the dismounted role or mounted on the pintle on the vehicle; there are usually 6 vehicles per VDV regiment.",
         "CREW": 5,
