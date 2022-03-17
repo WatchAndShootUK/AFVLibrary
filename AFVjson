@@ -1,5 +1,5 @@
 {
-  "1.0.103": {
+  "1.0.106": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -104,6 +104,38 @@
         ],
         "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
         "CREW": "2+9"
+      },
+      "PRP-4": {
+        "MANUFACTURE": [
+          "Rubtovsk ",
+          1980,
+          "Unknown"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "WEAPONS": [
+          "PSNR-5K",
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "prp41",
+          "prp42"
+        ],
+        "DESCRIPTION": "The PRP-4 Nard is an artillery reconnaissance vehicle, its role is to provide surveillance and location finding of enemy vehicles and also enemy artillery batteries for counter-battery fire, it is also there to talk on the artillery units for fire adjustment. It has a ‘Tall Mike’ radar, multiple sighting systems and newer radios.It has a ball mount PKT for self-defence. The PSNR-5K Tall Mike radar has a detection range for infantry(individually or in a group) is 4km, for vehicles on the same terms, 8-10km.",
+        "CREW": 4,
+        "R_FEAT": {
+          "The PRP-4 Nard is based on the BMP-1 Hull, the hull remains relatively the same with the main differences being the turret, for hull recognition features, refer to the BMP-1 in the IFV Section. The turret is a large 2 man turret similar to the BRM-1K, it has a small ball mount for the PKT, with 2 prominent boxes either side of the turret, like ears; they are the sighting systems, as well as the raised boxes on the top of the turret which are sighting systems as well. At the rear of the turret, there is the ‘Tall Mike’ radar system; it can be lowered and raised by the RadOp.": "rfprp41"
+        }
       }
     },
     "MBT": {
