@@ -1,5 +1,5 @@
 {
-  "1.0.102": {
+  "1.0.103": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2260,17 +2260,18 @@
       "BTR-D*": {
         "BTR-D": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "VgTZ",
+            1974,
+            1990
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "KORD",
+            "PKM",
+            "AGS-17",
+            "AGS-30"
           ],
           "DATA": {
             "Weight": "",
@@ -2282,15 +2283,14 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "btrd1",
+            "btrd2"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BTR-D is the backbone of the VDV mechanised platoon.\nThe BTR-D was designed on the BMD platform, it was found that space for 4 dismounts was not enough, it was extremely cramped. It was soon decided to design the BTR-D, the hull was extended and the turret removed and replaced with a hatch and a pintle mount.",
+          "CREW": "3+10",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BTR-D is based on the BMD-1 hull, it is extended with an extra roadwheel, all of which are evenly spaced, it has 6 Roadwheels, 3 top rollers and the final drive at the rear. The hull is boatshaped with flat sides, at the front there is a splash plate for amphibious operations, you can see it raised here, there is no turret and instead it has a slightly raised superstructure with periscopes around it. The driver has 3 periscopes, with 1 on either side of his hatch.": "rfbtrd1",
+            "You will see here the 2 firing ports on the flat side, also the addition of SGD’s at the rear of the raised superstructure,there are 2 either side. The exhaust is in the same place as the BMD-1, for more recognising features of the hull see BMD-1 under the IFV category.": "rfbtrd2"
           }
         },
         "BTR-MDM": {
@@ -2475,17 +2475,16 @@
     "AT": {
       "BTR-RD Robot": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "VgTZ",
+          1983,
+          2019
         ],
         "COO": [
           "Manufacturing COuntry"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "9P135M",
+          "PKT"
         ],
         "DATA": {
           "Weight": "",
@@ -2497,15 +2496,13 @@
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "btrrobot1",
+          "btrrobot2"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The BTR-RD Robot is a BTR-D for use with anti-tank platoons within the VDV, the interior has been redesigned for stowage of ATGM.s. The ATGM’s can either be used in the dismounted role or mounted on the pintle on the vehicle; there are usually 6 vehicles per VDV regiment.",
+        "CREW": 5,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The BTR-RD is visually identical to the BTR-D aside from the 9P135M-1  ATGM launcher on the commander's cupola.": "btrrdrobot1"
         }
       },
       "BRDM2 ATGM*": {
