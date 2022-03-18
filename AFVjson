@@ -2316,7 +2316,8 @@
           },
           "IMAGES": [
             "btrd1",
-            "btrd2"
+            "btrd2",
+            "btrd3"
           ],
           "DESCRIPTION": "The BTR-D is the backbone of the VDV mechanised platoon.\nThe BTR-D was designed on the BMD platform, it was found that space for 4 dismounts was not enough, it was extremely cramped. It was soon decided to design the BTR-D, the hull was extended and the turret removed and replaced with a hatch and a pintle mount.",
           "CREW": "3+10",
