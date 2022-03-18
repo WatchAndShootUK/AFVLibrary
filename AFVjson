@@ -1,5 +1,5 @@
 {
-  "1.0.112": {
+  "1.0.113": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -894,418 +894,6 @@
             "Another view of the turret showing the gunners sight, met sensor and the SGD’s.": "rfeatt90m4"
           }
         }
-      },
-      "Challenger 2": {
-        "MANUFACTURE": [
-          "BAE Systems UK",
-          "1993",
-          "2002"
-        ],
-        "COO": [
-          "United Kingdom",
-          "Oman"
-        ],
-        "R_FEAT": {
-          "Turret, heavy sloping on the front with flat sides. 2 banks of 4 SGD’s either side of the gun, above the L30A1 is the mount for the TI sight, the gunners sight is on the right hand side with the commanders independent periscope behind the gunners sight.": "rfeatchallenger21",
-          "Hull, heavy sloping across the front glacis plate, cutout for the drivers position with a single periscope. Drivers splash plate with cutouts for both headlights. 6 roadwheels with prominent gap between 3rd-4th and 5th-6th, exhausts on both sides at the rear quarter for thermal signature.": "rfeatchallenger22",
-          "OES Variant\nDorchester block on the lower glacis\nNERA plates across the upper glacis\nBoth Hull sides have NERA blocks with Bar armour across the rear quarter \nTurret has NERA blocks across the sides with bar armour across the rear quarter\nECM Module at the rear of the turret\nGPMG mount replaced with RWS": "rfeatchallenger23"
-        },
-        "WEAPONS": [
-          "L30A1",
-          "L94A1",
-          "FN MAG"
-        ],
-        "DATA": {
-          "Weight": "75t",
-          "Length": "13.50m",
-          "Width": "4.2m",
-          "Height": "2.49m",
-          "Range": "400km",
-          "Speed": "37mph",
-          "HP": "1200hp"
-        },
-        "ARMOUR": [
-          "Composite Armour",
-          "Explosive Reactive Armour"
-        ],
-        "IMAGES": [
-          "challenger21",
-          "challenger22",
-          "challenger23"
-        ],
-        "DESCRIPTION": "Challenger 2 is an advancement on the Challenger 1, development began in 1986 by Vickers Defence Systems(now part of BAE). It only has 3% commonality of parts with the Challenger 1, it has many new features including TI, FCS, Main Armament and Powerpack. It has seen operational service in Kosovo, Bosnia and Iraq, in the former it performed outstandingly compared to contempary tanks in theatre.",
-        "CREW": 4
-      },
-      "K2": {
-        "MANUFACTURE": [
-          "Hyundai Rotem",
-          "1995",
-          2008
-        ],
-        "COO": [
-          "South Korea"
-        ],
-        "WEAPONS": [
-          "CN08",
-          "K6"
-        ],
-        "DATA": {
-          "Weight": "41t",
-          "Length": "9.54m",
-          "Width": "3.59m",
-          "Height": "2.23m",
-          "Range": "480-550km",
-          "Speed": "60kph",
-          "HP": "780hp"
-        },
-        "ARMOUR": [
-          "Composite Armour",
-          "Explosive Reactive Armour"
-        ],
-        "IMAGES": [
-          "k21",
-          "k22",
-          "k23",
-          "k24"
-        ],
-        "DESCRIPTION": "The K2 Black Panther is a next generation South Korean main battle tank designed by the South Korean Agency for Defense Development and manufactured by Hyundai Rotem. The K2 Black Panther combines an auto-loaded 55 caliber 120 mm main gun, advanced composite armour along with hard and soft-kill active protection systems.",
-        "CREW": 3,
-        "R_FEAT": {
-          "The K2 Black Panther is quite a distinctive tank with a very modern look, you will notice the hull is heavily based on the M1 Abrams series of tanks, the turret is of its own design, with a very prominent large gun mantlet, a prominent cut out for the gunners sight on the left side of the turret, also the rails down the side of the turret. There is a noticeable horizontal part of the frontal hull dividing the upper and lower glacis plates.": "rfeatk21",
-          "The turret is almost wedge shaped, it is thinner at the front and gradually goes thicker towards the rear; you will notice the right rounded commanders panoramic sight in front of his hatch, the driver is seated on the left with 3 periscopes.": "rfeatk22",
-          "At this view of the rear you’ll see the large bustle rack for crew stowage, there is a prominent cutout for the final drive, there is also louvred for the cooling fans and the exhaust at the rear left.": "rfeatk23"
-        }
-      },
-      "LeClerc": {
-        "MANUFACTURE": [
-          "Nexter Systems",
-          "1990",
-          2007
-        ],
-        "COO": [
-          "France",
-          "UAE",
-          "Jordan"
-        ],
-        "WEAPONS": [
-          "CN120-26",
-          "M2"
-        ],
-        "DATA": {
-          "Weight": "41t",
-          "Length": "9.54m",
-          "Width": "3.59m",
-          "Height": "2.23m",
-          "Range": "480-550km",
-          "Speed": "60kph",
-          "HP": "780hp"
-        },
-        "ARMOUR": [
-          "Composite Armour",
-          "Explosive Reactive Armour"
-        ],
-        "IMAGES": [
-          "leclerc1",
-          "leclerc2",
-          "leclerc3",
-          "leclerc4"
-        ],
-        "DESCRIPTION": "The Leclerc tank is a main battle tank built by GIAT, now Nexter of France. It was named in honor of General Philippe Leclerc de Hauteclocque, who led the French element of the drive towards Paris while in command of the Free French 2nd Armoured Division (2e DB) in World War II. The Leclerc is in service with the French Army, Jordanian Army and the United Arab Emirates Army.",
-        "CREW": 3,
-        "R_FEAT": {
-          "The Leclerc has a lot of recognising features as it’s quite a distinctive tank, the turret is long and has a lot of prominent features including the large gunners sight, the commanders panoramic sight (bucket shaped) on the left, the smoke grenade cut outs at the rear turret sides.": "rfeatleclerc1",
-          "The gun is distinctive in its lack of fume extractor and it’s completely covered in a thermal shroud, there are periscopes on each side of the turret for the commander and gunner, the hull has a highly slopes upper glacis plate with 2 headlight mounts on top of each mudguard, the driver sits on the left side with 2 periscopes.": "rfeatleclerc2",
-          "At the rear of the Leclerc you’ll see a large stowage box and bustle rack on the rear of the turret, moving down the large exhaust at the rear left which almost looks like a drain pipe.": "rfeatleclerc3",
-          "Thermal view of the Leclerc showing the exhaust at the rear.": "rfeatleclerc4",
-          "Thermal View of the Leclerc": "rfeatleclerc5"
-        }
-      },
-      "Leopard 2*": {
-        "Leopard 2A4": {
-          "MANUFACTURE": [
-            "KMW",
-            "1985",
-            1992
-          ],
-          "COO": [
-            "Germany"
-          ],
-          "WEAPONS": [
-            "RH120",
-            "MG 3",
-            "FN MAG",
-            "MG 87"
-          ],
-          "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
-          },
-          "ARMOUR": [
-            "Composite Armour"
-          ],
-          "IMAGES": [
-            "leopard2a41",
-            "leopard2a42"
-          ],
-          "DESCRIPTION": "The Leopard 2A4 is the 4th variant of the Leopard 2 line of MBT’s it has been upgraded from the previous iteration, having a fire and explosion suppression system, a new digital FCS and an improved turret with titanium/tungsten composite armour. It’s been license produced in Switzerland as the Pz.87 and exported widely, some export variants are modified to suit the nation purchasing.",
-          "CREW": 4,
-          "R_FEAT": {
-            "The Leopard 2A4 is distinguishable between other Leopard variants by looking at the turret, the turret has flat frontal cheeks, the gunners sight is on the right side of the gun in a cutout portion of the armour, the commanders sight behind it in front of the commanders hatch. Down the rear sides the turret there are SGD’s in rows.": "rfeatleopard2a41",
-            "Looking at the hull, it has 7 equally spaced roadwheels, there are 2 footsteps in the side skirts, there’s also 3 armour plates on the front quarter of the hull sides.": "rfeatleopard2a42",
-            "The upper glacis plate is almost horizontal, the driver sits on the right side with 3 periscopes; sometimes you will see CES items on the sloped front as seen here with track link.": "rfeatleopard2a43",
-            "The rear of the Leopard 2A4 shows Louvre covers for the engine fans, below them you’ll see the dual circular exhausts at the rear. In the centre you have the cross shaped convoy light commonly used by NATO vehicles.": "rfeatleopard2a44",
-            "Leopard 2A4 Thermal left side view.": "rfeatleopard2a45",
-            "Leopard 2A4 Thermal right side view.": "rfeatleopard2a46"
-          }
-        },
-        "Leopardo 2E": {
-          "MANUFACTURE": [
-            "Santa Bárbara Sistemas",
-            "2003",
-            "Present"
-          ],
-          "COO": [
-            "Spain"
-          ],
-          "WEAPONS": [
-            "RH120",
-            "MG 3"
-          ],
-          "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
-          },
-          "ARMOUR": [
-            "Composite Armour"
-          ],
-          "IMAGES": [
-            "leopardo2e1",
-            "leopardo2e2"
-          ],
-          "DESCRIPTION": "The Leopardo 2E is a Spanish modernised Leopard, produced and designed almost indigenously by Spain, it includes thicker armour on the turret and glacis plate than the 2A6, it also uses a Spanish C&C system and also has the longer more powerful L/55 120mm gun.",
-          "CREW": 4,
-          "R_FEAT": {
-            "You will notice the thicker armour on the hull front straight away, the headlight mounts are also in armoured boxes on the upper glacis, this is different to the German Leopard. The addition of bar armour is common for variants deploying on operations.": "rfeatleopardo2e1",
-            "The final drive differs to the standard Leopard 2 with a more circular final drive, as opposed to the 'cogged' shape found on other Leopard 2.": "rfeatleopardo2e2",
-            "Seen here at the rear of the turret you will notice the Spanish addition of SABBLIR ERA, these are the X shaped boxes.": "rfeatleopardo2e3"
-          }
-        },
-        "Leopard 2A6": {
-          "MANUFACTURE": [
-            "KMW",
-            "2003",
-            2018
-          ],
-          "COO": [
-            "Germany"
-          ],
-          "WEAPONS": [
-            "RH120",
-            "MG 3",
-            "FN MAG",
-            "MG 87"
-          ],
-          "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
-          },
-          "ARMOUR": [
-            "Composite Armour"
-          ],
-          "IMAGES": [
-            "leopard2a61"
-          ],
-          "DESCRIPTION": "The Leopard 2A6 was one of the biggest jumps in modernisation of the Leopard 2 series, it has new composite armour around the turret including the ability of adding ERA the tank now has the newer, larger 120mm L/55 gun, this gives it the most powerful gun out of NATO tanks, with high accuracy and power it outguns all contemporary tanks, until the Challenger 3 is put in service. Again with the Leopard 2 series, there are variations between models due to export country requirements and needs.",
-          "CREW": 4,
-          "R_FEAT": {
-            "With the new turret come new recognising features for you too learn, this includes the new larger L/55 gun, the new wedge shaped turret, on the turret you’ll see the new gunners sight, a big difference here is the commanders sight is now behind the commanders hatch. The SGD’s are fitted in double rows at the rear of the turret side.": "rfeatleopard2a61",
-            "On the hull you will notice the side skirts are of a different design, they feature 2 foot steps in the centre of the vehicle side. You will see the rear turret stowage which has 2 triangular shaped stowage bins at both sides on the rear.": "rfeatleopard2a62",
-            "Leopard 2A6 CAN in Afghanistan, these are equipped with bar armour due to the low AT threat, this is to mitigate RPG damage.": "rfeatleopard2a63"
-          }
-        },
-        "Leopard 2PL": {
-          "MANUFACTURE": [
-            "Bumar-Labedy",
-            "2019",
-            "Present"
-          ],
-          "COO": [
-            "Poland"
-          ],
-          "WEAPONS": [
-            "RH120",
-            "MG 3"
-          ],
-          "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
-          },
-          "ARMOUR": [
-            "Composite Armour"
-          ],
-          "IMAGES": [
-            "leopard2pl1",
-            "leopard2pl2",
-            "leopard2pl3"
-          ],
-          "DESCRIPTION": "The Leopard 2PL is a modernised Leopard 2A4 in partnership with Rheinmetall and the Polska Grupa Zbrojeniowa (Polish Armaments Group), upgrades include. Commanders and Gunners sights, Additional turret armour, new turret stowage, and new gun stabilisation to name a few. Anti-splinter liners have been installed inside the tank to protect the crew inside the vehicle against shrapnel in the event of a puncture or hit.",
-          "CREW": 4,
-          "R_FEAT": {
-            "The biggest differences with the Leopard 2PL are with the turret, you will see the turret appears much wider and much more armoured due to the armour package fitted; it could be easily confused with the Leclerc due to the placement of the gunners sight and armour layout.": "rfeatleopard2pl1",
-            "The gunners sight has a prominent cutout in the armour, behind that as with all leopards is the commanders panoramic sight, the gun mantlet and length of the turret give the appearance that the MA is much shorter than it actually is.": "rfeatleopard2pl2",
-            "The SGD’s are placed at the rear of the turret in a gap, you will find it hard to see these when the turret is traversed forward, this will be pertinent when looking at the side of the vehicle.": "rfeatleopard2pl3"
-          }
-        }
-      },
-      "M1 Abrams*": {
-        "M1A1": {
-          "MANUFACTURE": [
-            "General Dynamics",
-            "1986",
-            "1992"
-          ],
-          "COO": [
-            "United States of America",
-            "Moroco",
-            "Taiwain"
-          ],
-          "R_FEAT": {
-            "The M1A1 Abrams has a quintessential modern western tank design, heavily sloping armour, low hull with a large turret, straight lines and angled armour due to the fitting of composites. The turret has very slab like flat cheeks, the 120mm gun has a prominent fume extractor which is bulbous towards the top rather than cylindrical, the gun also has an MRS system at the end indicating advanced FCS. The way that you can identify an M1A1 to later models is via the lack of a commanders panoramic sight. The smoke grenade dischargers are fitted to the immediate turret sides, giving an ‘ears’ like appearance, although they’re covered in this photo.": "rfeatm1a11",
-            "The gunner has a prominent raises box sight, moving on to the hull the driver is sat centrally with 3 periscopes, the hull superstructure is raised towards the rear to accommodate for the GT engine. The tracks have a modern dual pin design similar to that of Challenger 2, it has 7 roadwheels with a prominent gap between the 1st and 2nd, the rest are equally spaced, with a cutout for the final drive at the rear. A thing I’ve always noticed personally is the periscopes have a purple/pink/red tint on them depending on lighting, you may see this in some photos.": "rfeatm1a12",
-            "The rear of the M1 shows the engine louvres and exhaust for the GT engine, notice the rear lights are in circular covers. You can also see the bustle rack at the rear for stowage.": "rfeatm1a13",
-            "M1 Abrams thermal view.": "rfeatm1a14",
-            "M1 Abrams thermal left side view.": "rfeatm1a15",
-            "M1 Abrams thermal view rear.": "rfeatm1a16"
-          },
-          "WEAPONS": [
-            "M256",
-            "M2",
-            "M240"
-          ],
-          "DATA": {
-            "Weight": "75t",
-            "Length": "13.50m",
-            "Width": "4.2m",
-            "Height": "2.49m",
-            "Range": "400km",
-            "Speed": "37mph",
-            "HP": "1200hp"
-          },
-          "ARMOUR": [
-            "Composite Armour",
-            "TUSK"
-          ],
-          "IMAGES": [
-            "m1a11",
-            "m1a12",
-            "m1a13"
-          ],
-          "DESCRIPTION": "The M1 Abrams is the primary MBT series of the United States of America. The M1A1 is upgraded from the M1. New features include pressurised CBRN system, new stowage layout, new blow-off panels and the new M256 120mm smoothbore gun, hugely increasing lethality.",
-          "CREW": 4
-        },
-        "M1A2": {
-          "MANUFACTURE": [
-            "General Dynamics",
-            "1992",
-            "Present"
-          ],
-          "COO": [
-            "United States of America",
-            "Kuwait",
-            "Saudi Arabia"
-          ],
-          "R_FEAT": {
-            "The M1A2 baseline only really has one new recognising feature which is the addition of the commanders panoramic sight on the left side of the turret in front of the loaders hatch.": "rfeatm1a21",
-            "Shown here is an M1A2SEPV2 model, you can tell this by the CROWS above the gunners primary sight.": "rfeatm1a22",
-            "Here is an M1A2SEPV2 model with the TUSK fitted, you can see the addition of ERA along the sides, the CROWS is sometimes swapped with a transparent armoured cupola for the Cmdr and Op, similar to those seen fitted to HMMVW’s in Iraq/Afghanistan.": "rfeatm1a23",
-            "Here you can see the armoured cupolas in a better view, as mentioned with the similarity to the cupola on the HMMVW you can see one in the background.": "rfeatm1a24"
-          },
-          "WEAPONS": [
-            "M256",
-            "M2",
-            "M240"
-          ],
-          "DATA": {
-            "Weight": "75t",
-            "Length": "13.50m",
-            "Width": "4.2m",
-            "Height": "2.49m",
-            "Range": "400km",
-            "Speed": "37mph",
-            "HP": "1200hp"
-          },
-          "ARMOUR": [
-            "Composite Armour",
-            "TUSK"
-          ],
-          "IMAGES": [
-            "m1a21",
-            "m1a22",
-            "m1a23"
-          ],
-          "DESCRIPTION": "The M1A2 is the second major upgrade for the M1 Abrams series of MBT’s, the M1A2 is the baseline for the SEP models (System enhancement package), SEPV1 is an armour upgrade, SEPV2 adds a CROWS, improved interfaces, new operating system improved armour with the TUSK (Tank Urban Survival Kit) and an upgraded transmission. The SEPV3 will be rightly covered on its own page.",
-          "CREW": 4
-        }
-      },
-      "Type 99A": {
-        "MANUFACTURE": [
-          "Norinco",
-          "2007",
-          "Present"
-        ],
-        "COO": [
-          "China"
-        ],
-        "R_FEAT": {
-          "The Type 99A has a much more western appearance, the frontal turret has a sharp, sleek look. It’s got ERA across the whole frontal turret, you can see the small squares. The gunners primary sight is a prominent rectangle on the left side of the turret, with a large box shape elevated behind his hatch, this is part of active protection system. The commander has a panoramic sight in front of his hatch with a meteorological sensor behind his hatch, above the 125mm MA you’ll see a small box, this is again part of the active protection system. On the turret sides you’ll see the SGD’s with a bank of 5 either side, behind that is a large ERA fitting around the bustle rack.": "rfeattype99a1",
-          "The Type 99A’s hull has ERA on the front plate, with a thin drivers splash plate. The driver has 2 periscopes, the right periscope is smaller than the left, the hull gradually slopes upwards as it goes to the back, giving a raised superstructure look at the rear like an M1 Abrams series of MBT’s. There are 2 small square exhausts on either side. Along the hull sides there are 5 square holes, presumably footsteps, the tank has 6 roadwheels with prominent gaps between the 3rd-4th and 4th-5th.": "rfeattype99a2",
-          "The tracks are of a modern dual pin design, the lower glacis has what appears to be either a trench digger or C-IED armour, if this is factually confirmed to be either of these I will update it. There are 6 ERA bricks on the first layer of the hull, ending each to provide space for the headlights.": "rfeattype99a3"
-        },
-        "WEAPONS": [
-          "ZPT-98",
-          "QJC-88"
-        ],
-        "DATA": {
-          "Weight": "75t",
-          "Length": "13.50m",
-          "Width": "4.2m",
-          "Height": "2.49m",
-          "Range": "400km",
-          "Speed": "37mph",
-          "HP": "1200hp"
-        },
-        "ARMOUR": [
-          "Composite Armour",
-          "Explosive Reactive Armour",
-          "LSDW"
-        ],
-        "IMAGES": [
-          "type99a1",
-          "type99a2",
-          "type99a3"
-        ],
-        "DESCRIPTION": "The Type 99A is China’s main in service MBT, making the core of China’s manoeuvre brigades. It takes a big leap for China’s tank production, which before this was mainly copies/heavily inspired soviet designs, it seems to be inspired from western tanks more than its predecessors which were heavily soviet influenced.",
-        "CREW": 3
       }
     },
     "IFV": {
@@ -1717,7 +1305,7 @@
             "Here is a size comparison of the series. Left to right - BMD-3, BMD-2, BMD-1": "rfbmd34"
           }
         },
-        "BMP-4M": {
+        "BMD-4M": {
           "MANUFACTURE": [
             "Volgograd Tractor Plant",
             2008,
@@ -1893,325 +1481,6 @@
             "": "rfeat",
             " (copy)": "rfeat"
           }
-        }
-      },
-      "Warrior": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "M2 Bradley*": {
-        "M2 Bradley": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "M2A4 Bradley": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        }
-      },
-      "Puma": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "Marder": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "ASCOD*": {
-        "AJAX": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "Pizzaro": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        }
-      },
-      "CV90": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "ZBD-04A": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
         }
       }
     },
@@ -2469,41 +1738,6 @@
           "": "rfeat",
           " (copy)": "rfeat"
         }
-      },
-      "ZSL-10": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
       }
     },
     "AT": {
@@ -2530,8 +1764,8 @@
           "HP": ""
         },
         "IMAGES": [
-          "btrdrobot1",
-          "btrdrobot2"
+          "btrrdrobot1",
+          "btrrdrobot2"
         ],
         "DESCRIPTION": "The BTR-RD Robot is a BTR-D for use with anti-tank platoons within the VDV, the interior has been redesigned for stowage of ATGM.s. The ATGM’s can either be used in the dismounted role or mounted on the pintle on the vehicle; there are usually 6 vehicles per VDV regiment.",
         "CREW": 5,
@@ -4523,6 +3757,41 @@
       }
     },
     "CAPABILITIES": {
+      "Empty Vehicle Template": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
+        }
+      },
       "WEAPONS": {
         "L30A1": {
           "Name": "Royal Ordnance Rifled Gun",
@@ -5135,7 +4404,801 @@
             "image3": ""
           }
         }
+      },
+      "Stored Vehicles": {
+        "Challenger 2": {
+          "MANUFACTURE": [
+            "BAE Systems UK",
+            "1993",
+            "2002"
+          ],
+          "COO": [
+            "United Kingdom",
+            "Oman"
+          ],
+          "R_FEAT": {
+            "Turret, heavy sloping on the front with flat sides. 2 banks of 4 SGD’s either side of the gun, above the L30A1 is the mount for the TI sight, the gunners sight is on the right hand side with the commanders independent periscope behind the gunners sight.": "rfeatchallenger21",
+            "Hull, heavy sloping across the front glacis plate, cutout for the drivers position with a single periscope. Drivers splash plate with cutouts for both headlights. 6 roadwheels with prominent gap between 3rd-4th and 5th-6th, exhausts on both sides at the rear quarter for thermal signature.": "rfeatchallenger22",
+            "OES Variant\nDorchester block on the lower glacis\nNERA plates across the upper glacis\nBoth Hull sides have NERA blocks with Bar armour across the rear quarter \nTurret has NERA blocks across the sides with bar armour across the rear quarter\nECM Module at the rear of the turret\nGPMG mount replaced with RWS": "rfeatchallenger23"
+          },
+          "WEAPONS": [
+            "L30A1",
+            "L94A1",
+            "FN MAG"
+          ],
+          "DATA": {
+            "Weight": "75t",
+            "Length": "13.50m",
+            "Width": "4.2m",
+            "Height": "2.49m",
+            "Range": "400km",
+            "Speed": "37mph",
+            "HP": "1200hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Explosive Reactive Armour"
+          ],
+          "IMAGES": [
+            "challenger21",
+            "challenger22",
+            "challenger23"
+          ],
+          "DESCRIPTION": "Challenger 2 is an advancement on the Challenger 1, development began in 1986 by Vickers Defence Systems(now part of BAE). It only has 3% commonality of parts with the Challenger 1, it has many new features including TI, FCS, Main Armament and Powerpack. It has seen operational service in Kosovo, Bosnia and Iraq, in the former it performed outstandingly compared to contempary tanks in theatre.",
+          "CREW": 4
+        },
+        "K2": {
+          "MANUFACTURE": [
+            "Hyundai Rotem",
+            "1995",
+            2008
+          ],
+          "COO": [
+            "South Korea"
+          ],
+          "WEAPONS": [
+            "CN08",
+            "K6"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Explosive Reactive Armour"
+          ],
+          "IMAGES": [
+            "k21",
+            "k22",
+            "k23",
+            "k24"
+          ],
+          "DESCRIPTION": "The K2 Black Panther is a next generation South Korean main battle tank designed by the South Korean Agency for Defense Development and manufactured by Hyundai Rotem. The K2 Black Panther combines an auto-loaded 55 caliber 120 mm main gun, advanced composite armour along with hard and soft-kill active protection systems.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The K2 Black Panther is quite a distinctive tank with a very modern look, you will notice the hull is heavily based on the M1 Abrams series of tanks, the turret is of its own design, with a very prominent large gun mantlet, a prominent cut out for the gunners sight on the left side of the turret, also the rails down the side of the turret. There is a noticeable horizontal part of the frontal hull dividing the upper and lower glacis plates.": "rfeatk21",
+            "The turret is almost wedge shaped, it is thinner at the front and gradually goes thicker towards the rear; you will notice the right rounded commanders panoramic sight in front of his hatch, the driver is seated on the left with 3 periscopes.": "rfeatk22",
+            "At this view of the rear you’ll see the large bustle rack for crew stowage, there is a prominent cutout for the final drive, there is also louvred for the cooling fans and the exhaust at the rear left.": "rfeatk23"
+          }
+        },
+        "LeClerc": {
+          "MANUFACTURE": [
+            "Nexter Systems",
+            "1990",
+            2007
+          ],
+          "COO": [
+            "France",
+            "UAE",
+            "Jordan"
+          ],
+          "WEAPONS": [
+            "CN120-26",
+            "M2"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "780hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Explosive Reactive Armour"
+          ],
+          "IMAGES": [
+            "leclerc1",
+            "leclerc2",
+            "leclerc3",
+            "leclerc4"
+          ],
+          "DESCRIPTION": "The Leclerc tank is a main battle tank built by GIAT, now Nexter of France. It was named in honor of General Philippe Leclerc de Hauteclocque, who led the French element of the drive towards Paris while in command of the Free French 2nd Armoured Division (2e DB) in World War II. The Leclerc is in service with the French Army, Jordanian Army and the United Arab Emirates Army.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The Leclerc has a lot of recognising features as it’s quite a distinctive tank, the turret is long and has a lot of prominent features including the large gunners sight, the commanders panoramic sight (bucket shaped) on the left, the smoke grenade cut outs at the rear turret sides.": "rfeatleclerc1",
+            "The gun is distinctive in its lack of fume extractor and it’s completely covered in a thermal shroud, there are periscopes on each side of the turret for the commander and gunner, the hull has a highly slopes upper glacis plate with 2 headlight mounts on top of each mudguard, the driver sits on the left side with 2 periscopes.": "rfeatleclerc2",
+            "At the rear of the Leclerc you’ll see a large stowage box and bustle rack on the rear of the turret, moving down the large exhaust at the rear left which almost looks like a drain pipe.": "rfeatleclerc3",
+            "Thermal view of the Leclerc showing the exhaust at the rear.": "rfeatleclerc4",
+            "Thermal View of the Leclerc": "rfeatleclerc5"
+          }
+        },
+        "Leopard 2*": {
+          "Leopard 2A4": {
+            "MANUFACTURE": [
+              "KMW",
+              "1985",
+              1992
+            ],
+            "COO": [
+              "Germany"
+            ],
+            "WEAPONS": [
+              "RH120",
+              "MG 3",
+              "FN MAG",
+              "MG 87"
+            ],
+            "DATA": {
+              "Weight": "41t",
+              "Length": "9.54m",
+              "Width": "3.59m",
+              "Height": "2.23m",
+              "Range": "480-550km",
+              "Speed": "60kph",
+              "HP": "780hp"
+            },
+            "ARMOUR": [
+              "Composite Armour"
+            ],
+            "IMAGES": [
+              "leopard2a41",
+              "leopard2a42"
+            ],
+            "DESCRIPTION": "The Leopard 2A4 is the 4th variant of the Leopard 2 line of MBT’s it has been upgraded from the previous iteration, having a fire and explosion suppression system, a new digital FCS and an improved turret with titanium/tungsten composite armour. It’s been license produced in Switzerland as the Pz.87 and exported widely, some export variants are modified to suit the nation purchasing.",
+            "CREW": 4,
+            "R_FEAT": {
+              "The Leopard 2A4 is distinguishable between other Leopard variants by looking at the turret, the turret has flat frontal cheeks, the gunners sight is on the right side of the gun in a cutout portion of the armour, the commanders sight behind it in front of the commanders hatch. Down the rear sides the turret there are SGD’s in rows.": "rfeatleopard2a41",
+              "Looking at the hull, it has 7 equally spaced roadwheels, there are 2 footsteps in the side skirts, there’s also 3 armour plates on the front quarter of the hull sides.": "rfeatleopard2a42",
+              "The upper glacis plate is almost horizontal, the driver sits on the right side with 3 periscopes; sometimes you will see CES items on the sloped front as seen here with track link.": "rfeatleopard2a43",
+              "The rear of the Leopard 2A4 shows Louvre covers for the engine fans, below them you’ll see the dual circular exhausts at the rear. In the centre you have the cross shaped convoy light commonly used by NATO vehicles.": "rfeatleopard2a44",
+              "Leopard 2A4 Thermal left side view.": "rfeatleopard2a45",
+              "Leopard 2A4 Thermal right side view.": "rfeatleopard2a46"
+            }
+          },
+          "Leopardo 2E": {
+            "MANUFACTURE": [
+              "Santa Bárbara Sistemas",
+              "2003",
+              "Present"
+            ],
+            "COO": [
+              "Spain"
+            ],
+            "WEAPONS": [
+              "RH120",
+              "MG 3"
+            ],
+            "DATA": {
+              "Weight": "41t",
+              "Length": "9.54m",
+              "Width": "3.59m",
+              "Height": "2.23m",
+              "Range": "480-550km",
+              "Speed": "60kph",
+              "HP": "780hp"
+            },
+            "ARMOUR": [
+              "Composite Armour"
+            ],
+            "IMAGES": [
+              "leopardo2e1",
+              "leopardo2e2"
+            ],
+            "DESCRIPTION": "The Leopardo 2E is a Spanish modernised Leopard, produced and designed almost indigenously by Spain, it includes thicker armour on the turret and glacis plate than the 2A6, it also uses a Spanish C&C system and also has the longer more powerful L/55 120mm gun.",
+            "CREW": 4,
+            "R_FEAT": {
+              "You will notice the thicker armour on the hull front straight away, the headlight mounts are also in armoured boxes on the upper glacis, this is different to the German Leopard. The addition of bar armour is common for variants deploying on operations.": "rfeatleopardo2e1",
+              "The final drive differs to the standard Leopard 2 with a more circular final drive, as opposed to the 'cogged' shape found on other Leopard 2.": "rfeatleopardo2e2",
+              "Seen here at the rear of the turret you will notice the Spanish addition of SABBLIR ERA, these are the X shaped boxes.": "rfeatleopardo2e3"
+            }
+          },
+          "Leopard 2A6": {
+            "MANUFACTURE": [
+              "KMW",
+              "2003",
+              2018
+            ],
+            "COO": [
+              "Germany"
+            ],
+            "WEAPONS": [
+              "RH120",
+              "MG 3",
+              "FN MAG",
+              "MG 87"
+            ],
+            "DATA": {
+              "Weight": "41t",
+              "Length": "9.54m",
+              "Width": "3.59m",
+              "Height": "2.23m",
+              "Range": "480-550km",
+              "Speed": "60kph",
+              "HP": "780hp"
+            },
+            "ARMOUR": [
+              "Composite Armour"
+            ],
+            "IMAGES": [
+              "leopard2a61"
+            ],
+            "DESCRIPTION": "The Leopard 2A6 was one of the biggest jumps in modernisation of the Leopard 2 series, it has new composite armour around the turret including the ability of adding ERA the tank now has the newer, larger 120mm L/55 gun, this gives it the most powerful gun out of NATO tanks, with high accuracy and power it outguns all contemporary tanks, until the Challenger 3 is put in service. Again with the Leopard 2 series, there are variations between models due to export country requirements and needs.",
+            "CREW": 4,
+            "R_FEAT": {
+              "With the new turret come new recognising features for you too learn, this includes the new larger L/55 gun, the new wedge shaped turret, on the turret you’ll see the new gunners sight, a big difference here is the commanders sight is now behind the commanders hatch. The SGD’s are fitted in double rows at the rear of the turret side.": "rfeatleopard2a61",
+              "On the hull you will notice the side skirts are of a different design, they feature 2 foot steps in the centre of the vehicle side. You will see the rear turret stowage which has 2 triangular shaped stowage bins at both sides on the rear.": "rfeatleopard2a62",
+              "Leopard 2A6 CAN in Afghanistan, these are equipped with bar armour due to the low AT threat, this is to mitigate RPG damage.": "rfeatleopard2a63"
+            }
+          },
+          "Leopard 2PL": {
+            "MANUFACTURE": [
+              "Bumar-Labedy",
+              "2019",
+              "Present"
+            ],
+            "COO": [
+              "Poland"
+            ],
+            "WEAPONS": [
+              "RH120",
+              "MG 3"
+            ],
+            "DATA": {
+              "Weight": "41t",
+              "Length": "9.54m",
+              "Width": "3.59m",
+              "Height": "2.23m",
+              "Range": "480-550km",
+              "Speed": "60kph",
+              "HP": "780hp"
+            },
+            "ARMOUR": [
+              "Composite Armour"
+            ],
+            "IMAGES": [
+              "leopard2pl1",
+              "leopard2pl2",
+              "leopard2pl3"
+            ],
+            "DESCRIPTION": "The Leopard 2PL is a modernised Leopard 2A4 in partnership with Rheinmetall and the Polska Grupa Zbrojeniowa (Polish Armaments Group), upgrades include. Commanders and Gunners sights, Additional turret armour, new turret stowage, and new gun stabilisation to name a few. Anti-splinter liners have been installed inside the tank to protect the crew inside the vehicle against shrapnel in the event of a puncture or hit.",
+            "CREW": 4,
+            "R_FEAT": {
+              "The biggest differences with the Leopard 2PL are with the turret, you will see the turret appears much wider and much more armoured due to the armour package fitted; it could be easily confused with the Leclerc due to the placement of the gunners sight and armour layout.": "rfeatleopard2pl1",
+              "The gunners sight has a prominent cutout in the armour, behind that as with all leopards is the commanders panoramic sight, the gun mantlet and length of the turret give the appearance that the MA is much shorter than it actually is.": "rfeatleopard2pl2",
+              "The SGD’s are placed at the rear of the turret in a gap, you will find it hard to see these when the turret is traversed forward, this will be pertinent when looking at the side of the vehicle.": "rfeatleopard2pl3"
+            }
+          }
+        },
+        "M1 Abrams*": {
+          "M1A1": {
+            "MANUFACTURE": [
+              "General Dynamics",
+              "1986",
+              "1992"
+            ],
+            "COO": [
+              "United States of America",
+              "Moroco",
+              "Taiwain"
+            ],
+            "R_FEAT": {
+              "The M1A1 Abrams has a quintessential modern western tank design, heavily sloping armour, low hull with a large turret, straight lines and angled armour due to the fitting of composites. The turret has very slab like flat cheeks, the 120mm gun has a prominent fume extractor which is bulbous towards the top rather than cylindrical, the gun also has an MRS system at the end indicating advanced FCS. The way that you can identify an M1A1 to later models is via the lack of a commanders panoramic sight. The smoke grenade dischargers are fitted to the immediate turret sides, giving an ‘ears’ like appearance, although they’re covered in this photo.": "rfeatm1a11",
+              "The gunner has a prominent raises box sight, moving on to the hull the driver is sat centrally with 3 periscopes, the hull superstructure is raised towards the rear to accommodate for the GT engine. The tracks have a modern dual pin design similar to that of Challenger 2, it has 7 roadwheels with a prominent gap between the 1st and 2nd, the rest are equally spaced, with a cutout for the final drive at the rear. A thing I’ve always noticed personally is the periscopes have a purple/pink/red tint on them depending on lighting, you may see this in some photos.": "rfeatm1a12",
+              "The rear of the M1 shows the engine louvres and exhaust for the GT engine, notice the rear lights are in circular covers. You can also see the bustle rack at the rear for stowage.": "rfeatm1a13",
+              "M1 Abrams thermal view.": "rfeatm1a14",
+              "M1 Abrams thermal left side view.": "rfeatm1a15",
+              "M1 Abrams thermal view rear.": "rfeatm1a16"
+            },
+            "WEAPONS": [
+              "M256",
+              "M2",
+              "M240"
+            ],
+            "DATA": {
+              "Weight": "75t",
+              "Length": "13.50m",
+              "Width": "4.2m",
+              "Height": "2.49m",
+              "Range": "400km",
+              "Speed": "37mph",
+              "HP": "1200hp"
+            },
+            "ARMOUR": [
+              "Composite Armour",
+              "TUSK"
+            ],
+            "IMAGES": [
+              "m1a11",
+              "m1a12",
+              "m1a13"
+            ],
+            "DESCRIPTION": "The M1 Abrams is the primary MBT series of the United States of America. The M1A1 is upgraded from the M1. New features include pressurised CBRN system, new stowage layout, new blow-off panels and the new M256 120mm smoothbore gun, hugely increasing lethality.",
+            "CREW": 4
+          },
+          "M1A2": {
+            "MANUFACTURE": [
+              "General Dynamics",
+              "1992",
+              "Present"
+            ],
+            "COO": [
+              "United States of America",
+              "Kuwait",
+              "Saudi Arabia"
+            ],
+            "R_FEAT": {
+              "The M1A2 baseline only really has one new recognising feature which is the addition of the commanders panoramic sight on the left side of the turret in front of the loaders hatch.": "rfeatm1a21",
+              "Shown here is an M1A2SEPV2 model, you can tell this by the CROWS above the gunners primary sight.": "rfeatm1a22",
+              "Here is an M1A2SEPV2 model with the TUSK fitted, you can see the addition of ERA along the sides, the CROWS is sometimes swapped with a transparent armoured cupola for the Cmdr and Op, similar to those seen fitted to HMMVW’s in Iraq/Afghanistan.": "rfeatm1a23",
+              "Here you can see the armoured cupolas in a better view, as mentioned with the similarity to the cupola on the HMMVW you can see one in the background.": "rfeatm1a24"
+            },
+            "WEAPONS": [
+              "M256",
+              "M2",
+              "M240"
+            ],
+            "DATA": {
+              "Weight": "75t",
+              "Length": "13.50m",
+              "Width": "4.2m",
+              "Height": "2.49m",
+              "Range": "400km",
+              "Speed": "37mph",
+              "HP": "1200hp"
+            },
+            "ARMOUR": [
+              "Composite Armour",
+              "TUSK"
+            ],
+            "IMAGES": [
+              "m1a21",
+              "m1a22",
+              "m1a23"
+            ],
+            "DESCRIPTION": "The M1A2 is the second major upgrade for the M1 Abrams series of MBT’s, the M1A2 is the baseline for the SEP models (System enhancement package), SEPV1 is an armour upgrade, SEPV2 adds a CROWS, improved interfaces, new operating system improved armour with the TUSK (Tank Urban Survival Kit) and an upgraded transmission. The SEPV3 will be rightly covered on its own page.",
+            "CREW": 4
+          }
+        },
+        "Type 99A": {
+          "MANUFACTURE": [
+            "Norinco",
+            "2007",
+            "Present"
+          ],
+          "COO": [
+            "China"
+          ],
+          "R_FEAT": {
+            "The Type 99A has a much more western appearance, the frontal turret has a sharp, sleek look. It’s got ERA across the whole frontal turret, you can see the small squares. The gunners primary sight is a prominent rectangle on the left side of the turret, with a large box shape elevated behind his hatch, this is part of active protection system. The commander has a panoramic sight in front of his hatch with a meteorological sensor behind his hatch, above the 125mm MA you’ll see a small box, this is again part of the active protection system. On the turret sides you’ll see the SGD’s with a bank of 5 either side, behind that is a large ERA fitting around the bustle rack.": "rfeattype99a1",
+            "The Type 99A’s hull has ERA on the front plate, with a thin drivers splash plate. The driver has 2 periscopes, the right periscope is smaller than the left, the hull gradually slopes upwards as it goes to the back, giving a raised superstructure look at the rear like an M1 Abrams series of MBT’s. There are 2 small square exhausts on either side. Along the hull sides there are 5 square holes, presumably footsteps, the tank has 6 roadwheels with prominent gaps between the 3rd-4th and 4th-5th.": "rfeattype99a2",
+            "The tracks are of a modern dual pin design, the lower glacis has what appears to be either a trench digger or C-IED armour, if this is factually confirmed to be either of these I will update it. There are 6 ERA bricks on the first layer of the hull, ending each to provide space for the headlights.": "rfeattype99a3"
+          },
+          "WEAPONS": [
+            "ZPT-98",
+            "QJC-88"
+          ],
+          "DATA": {
+            "Weight": "75t",
+            "Length": "13.50m",
+            "Width": "4.2m",
+            "Height": "2.49m",
+            "Range": "400km",
+            "Speed": "37mph",
+            "HP": "1200hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Explosive Reactive Armour",
+            "LSDW"
+          ],
+          "IMAGES": [
+            "type99a1",
+            "type99a2",
+            "type99a3"
+          ],
+          "DESCRIPTION": "The Type 99A is China’s main in service MBT, making the core of China’s manoeuvre brigades. It takes a big leap for China’s tank production, which before this was mainly copies/heavily inspired soviet designs, it seems to be inspired from western tanks more than its predecessors which were heavily soviet influenced.",
+          "CREW": 3
+        }
+      },
+      "MANUFACTURERS": {
+        "Empty Manufacturer": {
+          "LOGO": "",
+          "LOCATION": "",
+          "DESCRIPTION": "",
+          "IMAGE": "",
+          "NATIONALITY": "",
+          "DATES": [
+            "FROM",
+            "TO"
+          ]
+        }
       }
     }
   }
-}
+}loped Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
+        "CREW": 4
+      },
+      "BRM-1K": {
+        "MANUFACTURE": [
+          "Kurganmashzavod",
+          "1973",
+          "1988"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "R_FEAT": {
+          "The most prominent recognising features on this vehicle is the new wider turret,\nalthough reminiscent and easily confused with BMP-2, remembering the 73mm 2A28gun is key to saving confusion, as well as that is the difference sightingsystems and also the PSNR-5K radar at the rear (when raised). Another featureis the addition of the 6 SGD’s fitted around the turret, 3 on either side.\nFiring ports have been reduced from 8(BMP-1) to 3.": "rfbrm1k1",
+          "Some more recognising features are the difference in periscopes in the hull; the driversperiscopes remain the same but what was the BMP-1 Commanders position now hasonly 1 periscope instead of 3. You can see at the rear it changes from 4hatches to 2 on the infantry compartment, it now contains operators for theradar and other devices.": "rfbrm1k2",
+          "Underneath the moss and tree bark is a BRM-1K, you can see the radar cover is open,\nalthough the radar itself is not raised.": "rfbrm1k3",
+          "PSNR-5K in the raisedposition.": "rfbrm1k4"
+        },
+        "WEAPONS": [
+          "2A28",
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "brm1k1",
+          "brm1k2"
+        ],
+        "DESCRIPTION": "A dedicated combat recce variant of the BMP-1, it retains the same hull but has a new larger 2 man turret with new capabilities, including new sighting sytems, terrain surveying and mine detection devices and the PSNR-5K ‘Tall mike’ radar system. It has the autoloader for the 73mm 2A28 removed and carries significantly less rounds; due to its role not needing as much ammunition to the recce nature of the vehicle. The BRM-1K is usually found in recce coys of armoured/mechanised brigades.",
+        "CREW": 7
+      },
+      "GAZ Tigr": {
+        "MANUFACTURE": [
+          "GAZ",
+          "2005",
+          "Present"
+        ],
+        "COO": [
+          "Russian Federation"
+        ],
+        "R_FEAT": {
+          "The Gaz-Tigr is classed as an Infantry Mobility Vehicle, it has a hatch on top with pintle mounts for the mentioned weapons, the windows are armoured glass, down the sides there are 2 small pill shaped windows. The front engine bay is curved towards the front with a raised section in the centre. The front has bull bars with 2 circular headlights, with indicators on each side, moving down there is a mount for the winch.": "rfgazt1",
+          "The GAZ-Tigr-M Is a modernised version with a RWS, The RWS is the small turret-like system on top replacing the pintle mount, identifiable by the SGD’s and TI sight. It also features a new armoured hood, seen with the more prominent bulge.": "rfgazt2",
+          "GAZ-Tigr-M TI view.": "rfgazt3"
+        },
+        "WEAPONS": [
+          "KORD",
+          "PKP",
+          "AGS-17"
+        ],
+        "DATA": {
+          "Weight": "7,200kg",
+          "Length": "5.7m",
+          "Width": "2.4m",
+          "Height": "2.4m",
+          "Range": "1000km",
+          "Speed": "87mph",
+          "HP": "180hp"
+        },
+        "IMAGES": [
+          "gaztigr1",
+          "gazt2"
+        ],
+        "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
+        "CREW": "2+9"
+      },
+      "PRP-4": {
+        "MANUFACTURE": [
+          "Rubtovsk ",
+          1980,
+          "Unknown"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "WEAPONS": [
+          "PSNR-5K",
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "prp41",
+          "prp42"
+        ],
+        "DESCRIPTION": "The PRP-4 Nard is an artillery reconnaissance vehicle, its role is to provide surveillance and location finding of enemy vehicles and also enemy artillery batteries for counter-battery fire, it is also there to talk on the artillery units for fire adjustment. It has a ‘Tall Mike’ radar, multiple sighting systems and newer radios.It has a ball mount PKT for self-defence. The PSNR-5K Tall Mike radar has a detection range for infantry(individually or in a group) is 4km, for vehicles on the same terms, 8-10km.",
+        "CREW": 4,
+        "R_FEAT": {
+          "The PRP-4 Nard is based on the BMP-1 Hull, the hull remains relatively the same with the main differences being the turret, for hull recognition features, refer to the BMP-1 in the IFV Section. The turret is a large 2 man turret similar to the BRM-1K, it has a small ball mount for the PKT, with 2 prominent boxes either side of the turret, like ears; they are the sighting systems, as well as the raised boxes on the top of the turret which are sighting systems as well. At the rear of the turret, there is the ‘Tall Mike’ radar system; it can be lowered and raised by the RadOp.": "rfprp41"
+        }
+      }
+    },
+    "MBT": {
+      "T-62*": {
+        "T-62": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1961",
+            "1975"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Afghanistan",
+            "Algeria",
+            "Angola",
+            "Cuba",
+            "Egypt",
+            "Eritrea",
+            "Ethiopia",
+            "Iran",
+            "Libya",
+            "Mongolia",
+            "North Korea",
+            "Russian Federation",
+            "Syria",
+            "Tajikistan",
+            "Uzbekistan",
+            "Vietnam",
+            "Yemen"
+          ],
+          "WEAPONS": [
+            "2A20",
+            "PKT",
+            "DShK"
+          ],
+          "DATA": {
+            "Weight": "37t",
+            "Length": "9.34m",
+            "Width": "3.30m",
+            "Height": "2.40m",
+            "Range": "350km",
+            "Speed": "31mph",
+            "HP": "581hp"
+          },
+          "IMAGES": [
+            "t621",
+            "t622",
+            "t623"
+          ],
+          "DESCRIPTION": "T-62 is a Soviet MBT introduced in ‘61 as a further development of the T-55, it was the first production tank to be armed with a smoothbore gun, it prompted western militaries to begin experimenting with smoothbore as well as developing new munitions to defeat the T-62, still in use today and manufactured in very large numbers, estimated to be around 23,000 tanks.",
+          "CREW": 4,
+          "R_FEAT": {
+            "Turret, classic Soviet style frying pan shaped turret. Handrails either side for infantry to hold on. IR searchlight on the right side of the gun, sights on the left side. 2A20 gun with prominent fume extractor 3/4 of the way up the barrel.": "rfeatt621",
+            "Heavy sloping front glacis plate with a splash plate for the driver, driver sits on the left side with 2 vision periscopes. CES stowage down the left side with fuel tanks on the right. Exhaust cutout on the left side. Tracks are slack, first 3 roadwheels are equally spaced with prominent gaps between the 3rd-4th, 4th-5th": "rfeatt622"
+          }
+        },
+        "T-62M": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1961",
+            "1975"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Cuba",
+            "Russian Federation",
+            "Syria",
+            "Uzbekistan",
+            "Vietnam"
+          ],
+          "WEAPONS": [
+            "2A20",
+            "PKT",
+            "DShK"
+          ],
+          "DATA": {
+            "Weight": "42t",
+            "Length": "9.34m",
+            "Width": "3.30m",
+            "Height": "2.40m",
+            "Range": "350km",
+            "Speed": "31mph",
+            "HP": "610hp"
+          },
+          "ARMOUR": [
+            "Composite Armour"
+          ],
+          "IMAGES": [
+            "t62m1",
+            "t62m2",
+            "t62m3"
+          ],
+          "DESCRIPTION": "The T-62M is an extensive modification of the T-62, it has the new Volna FCS, BDD Appliqué armour system, KTD-2 LRF, new TShSM-41U gunners sight, 1K13 sight for the use of the 9K116-2 Sheksna GLATGM, BV-62 Ballistic Computer and a newer engine.",
+          "CREW": 4,
+          "R_FEAT": {
+            "Turret, new gunners sight, prominent box on LHS, KTD-2 LRF fitted above the gun, BDD Appliqué armour fitted to the turret cheeks. Hull, Appliqué armour on the front glacis plate along with more armour on the lower glacis plate": "rfeatt62m1"
+          }
+        },
+        "T-62MV": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1961",
+            "1975"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Cuba",
+            "Russian Federation",
+            "Syria",
+            "Uzbekistan",
+            "Vietnam"
+          ],
+          "WEAPONS": [
+            "2A20",
+            "PKT",
+            "DShK"
+          ],
+          "DATA": {
+            "Weight": "42t",
+            "Length": "9.34m",
+            "Width": "3.30m",
+            "Height": "2.40m",
+            "Range": "350km",
+            "Speed": "31mph",
+            "HP": "610hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Kontakt-1"
+          ],
+          "IMAGES": [
+            "t62mv1"
+          ],
+          "DESCRIPTION": "T-62MV is a further T-62 upgrade, it has all the upgrades of the T-62M minus the BDD appliqué kit, that is now replaced with Kontakt-1 ERA. Kontakt-1 is fitted down the sides of the hull, the front glacis plate and on the turret front, this gives it much better performance against chemical energy munitions. V standing for \"Vzryvnoi\"-Explosive.",
+          "CREW": 4,
+          "R_FEAT": {
+            "Turret, new gunners sight, prominent box on LHS, KTD-2 LRF fitted above the gun, BDD Appliqué armour fitted to the turret cheeks. Hull, Appliqué armour on the front glacis plate along with more armour on the lower glacis plate": "rfeatt62mv1",
+            "The Turret fitting has the typical ‘clamshell’ layout, along the front of the vehicle it covers the front glacis apart from the headlight fitting, it also has bricks down the sides": "rfeatt62mv2",
+            "The fittings for the ERA, that give them that distinctive clamshell appearance": "rfeatt62mv3"
+          }
+        }
+      },
+      "T-64*": {
+        "T-64A": {
+          "MANUFACTURE": [
+            "KMDB",
+            "1963",
+            "1987"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Ukraine"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "38t",
+            "Length": "9.225m",
+            "Width": "3.415m",
+            "Height": "2.172m",
+            "Range": "500km",
+            "Speed": "35mph",
+            "HP": "700hp"
+          },
+          "ARMOUR": [
+            "Composite Armour"
+          ],
+          "IMAGES": [
+            "t64a1",
+            "t64a2",
+            "t64a3"
+          ],
+          "DESCRIPTION": "The T-64A is a Soviet MBT introduced in the early 60’s, a much more advanced tank than the previous T-62, one that shocked the west, it included a number of revolutionary new features including an autoloader, composite armour, a compact engine and transmission layout, a complex suspension system and a smoothbore gun. The autoloader began the Russian standardisation of a 3 man crew, this meant designers could do away with a large profile and heavy weight, whilst still retaining the heavy armour and weapon.",
+          "CREW": 3,
+          "R_FEAT": {
+            "Turret, the T-64A moves away from the classic frying pan shape due to the use of composite armour, you can see it has much thicker cheek armour. It has an IR searchlight to the left of the gun, directly above the IR searchlight is the TPD-43 gunners primary sight, with the NV sight behind that. The CMDR sits on the right, with the GNR on the left. The snorkel is stowed at rear of the turret laterally. Sometimes they are fitted with stowage bins as seen on this photo.": "t64a1",
+            "Hull, The hull has a heavy sloping front glacis, with a prominent V shape splash plate for the driver, the driver has a single vision periscope, there are 3 prominent lines running down the mud guards. The suspension is of a distinctive design, it has 6 small ‘pork pie’ roadwheels, equally spaced throughout with 4 top rollers (visible when the side skirts are removed).": "rfeatt64a2",
+            "The rear view of the T-64A, the exhaust is fitted at the rear, given the tank is commonly confused with the T-72 it is a key feature to note that the thermal signature is at the rear from the exhaust, not the side like the T-72.": "rfeatt64a3"
+          }
+        },
+        "T-64BV": {
+          "MANUFACTURE": [
+            "KMDB",
+            "1985",
+            "1991"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Democratic Republic of the Congo",
+            "Transnistria",
+            "Ukraine",
+            "Uzbekistan"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "42.5t",
+            "Length": "9.225m",
+            "Width": "3.415m",
+            "Height": "2.172m",
+            "Range": "600km",
+            "Speed": "45mph",
+            "HP": "1000hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Kontakt-1"
+          ],
+          "IMAGES": [
+            "t64bv1",
+            "t64bv2",
+            "t64bv3"
+          ],
+          "DESCRIPTION": "The T-64B is an extensive modification of the T-64A, including redesigned armour, a new 1A33 FCS, the ability to fire the 9K112 Kobra(AT-8 Songster) GLATGM and Stabilisation upgrades to name a few, this upgrade brought it in line with the newer tanks in service like the T-72 and T-80, the T-64BV was fitted with Kontakt-1 ERA on the hull and turret, it is still in service today, mainly with the Ukrainian Land Forces. The T-64BV is still produced to this day in Ukraine.",
+          "CREW": 3,
+          "R_FEAT": {
+            "Turret, Kontakt-1 fitted liberally around the turret. Fitted in a clamshell design with a double row of bricks, rather than a single row that you’ll see on other T-Series, the searchlight remains on the left side of the gun, with 2 SGD banks of 4 on the rear left of the turret.": "rfeatt64bv1",
+            "Along the hull there is again Kontakt-1 placed liberally across the front glacis plate, with a 1 brick row along the upper lower glacis, the hull also contain ERA bricks along the sides approximately 3/4 the way down.": "rfeatt64bv2",
+            "For comparison this is a T-72AV, you can see that the ERA is fitted in the clamshell design I mentioned but in a one brick row style instead of 2 brick rows like on the T-64BV": "rfeatt64bv3"
+          }
+        },
+        "T-64BM": {
+          "MANUFACTURE": [
+            "Malyshev Factory",
+            "2005",
+            "Present"
+          ],
+          "COO": [
+            "Ukraine"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "45t",
+            "Length": "9.225m",
+            "Width": "3.615m",
+            "Height": "2.172m",
+            "Range": "500km",
+            "Speed": "35mph",
+            "HP": "700hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Nozh ERA"
+          ],
+          "IMAGES": [
+            "t64bm1",
+            "t64bm2",
+            "t64bm3"
+          ],
+          "DESCRIPTION": "The T-64BM ‘Bulat’ is a Ukrainian modification of a T-64B, Ukraine has around 2000 T-64’s in various states, due to the Kharkov plant within Ukraine, this was once a Soviet powerhouse for building tanks, after the collapse of the USSR it fell in to Ukraine’s hands, who were left with thousands of ageing models of T-64’s.\nThis modification is extensive, featuring a new autoloader, upgraded power pack, new Nozh (Knife) ERA.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The turret of the T-64BM looks very similar to that of the T-80U, some ways to differentiate are with the smoke grenade discharges at the rear sides of the turret rather than across the front, you can also see a meteorological sensor at the rear of the turret for the FCS, the T-80U has an IR searchlight and gaps either side of the gun where there is no ERA, the T-64BM does not have this. It also has a commanders sight different to the T-64BM.": "t64bm1",
+            "On the Hull the front glacis plate has ERA snugly fitted giving it a much thicker appearance, there are also ERA panels down the sides towards the front. The roadwheels remain the same as the standard T-64, this is a good feature
