@@ -1,5 +1,5 @@
 {
-  "1.0.107": {
+  "1.0.108": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3587,7 +3587,7 @@
             "Width": "2.85m",
             "Height": "2.73m",
             "Range": "500km",
-            "Speed": "Road: 37mph\nOffroad:  18mph\nSwim: 2.8mph\n"
+            "Speed": "Road: 37mph\nOffroad:  18mph\nSwim: 2.8mph"
           },
           "IMAGES": [
             "2s1gvozdika1",
@@ -3604,72 +3604,34 @@
         },
         "2S23 Nona-SVK": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "MOTZ.MM",
+            1981,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A60"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "8.7t",
+            "Length": "6.02m",
+            "Width": "2.63m",
+            "Height": "2.3m",
+            "Range": "500km",
+            "Speed": "Road: 60mph\nSwim: 9mph"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "2s231",
+            "2s232"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The 2S23 is an upgrade of the 2S9 Nona system, used by airborne troops. It is lightweight, allowing it to be air dropped into battle.  The barrel is 120mm and only 1.8m long, making it a hybrid between a mortar and a howitzer.",
           "CREW": 4,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "2S34 Chosta": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The 2S23 Nona is mounted on a BTR-80 chassis with the prominent gap between the second and third wheel. The turret sits forward on the vehicle, above the first and second wheel.": "rf2s231",
+            "The 2A60 barrel is short, only 1.8metres, making it more of a mortar than a howitzer. The key recognising feature is the lack of muzzle break on the end of the barrel and the tripe smoke dischargers either side on the turret.": "rf2s232",
+            "The 2S23 is an upgrade from the 2S9 (pictured). The 2S9 was mounted on a BTR-D chassis, recognisable by the boat shaped hull, 6 small road wheels, the high top rollers and the rear final drive.": "rf2s232"
           }
         }
       },
