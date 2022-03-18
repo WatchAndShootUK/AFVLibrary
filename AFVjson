@@ -1,5 +1,5 @@
 {
-  "1.0.111": {
+  "1.0.112": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1633,7 +1633,8 @@
           "IMAGES": [
             "bmd21",
             "bmd22",
-            "bmd23"
+            "bmd23",
+            "bmd24"
           ],
           "DESCRIPTION": "The BMD-2 is an upgrade of the BMD-1, it was originally supposed to completely replace theBMD-1 but due to the declining economy of the USSR, this never materialised andit served alongside it. It has a new turret and a slightly modified hull, ithas the 30mm 2A42 gun from the BMP-2.",
           "CREW": "2+6",
@@ -1680,7 +1681,7 @@
         },
         "BMD-3": {
           "MANUFACTURE": [
-            "VolgogradTractor Factory",
+            "Volgograd Tractor Factory",
             1985,
             1997
           ],
@@ -1718,17 +1719,16 @@
         },
         "BMP-4M": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Volgograd Tractor Plant",
+            2008,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Russian Federation"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A70",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1740,15 +1740,16 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bmd4m1",
+            "bmd4m2",
+            "bmd4m3"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BMD-4M is the latest design of the BMD series, it is extremely light to be air portable, although one of the most heavily armed in its class, it is equipped with the weapons module from the BMP-3. It is incorporated into the VDV companies for fire support and to also carry dismounts.",
+          "CREW": "3+5",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BMD-4M has a small turret, similar to the BMP-3. It has the commanders primary sight on the left side of the turret, with the gunners primary sight on the right. The front of the turret is sloped with 3 SGD’s either side of the MA.": "rfbmd4m1",
+            "The Hull looks similar to a downsized BMP-3, It is boat-shaped with a heavily sloped upper glacis plate. The driver has 3 periscopes and in typical BMD fashion 2 hatches either side of the driver for the dismounts with a single periscope each. The exhaust is a rectangular slit on the right hand side. The track is supported by 2 top rollers with 5 equally spaced road wheels.": "rfbmd4m2",
+            "The rear is different to other BMD’s as they slope down, whereas the BMD-4M is flat at the rear with a small slope in the centre. There are 2 water jets at the rear, very low both next to the tracks.": "rfbmd4m3"
           }
         }
       },
@@ -3569,7 +3570,7 @@
       }
     },
     "Artillery": {
-      "120mm*": {
+      "122mm*": {
         "2S1 Gvozdika": {
           "MANUFACTURE": [
             "KhTZ",
@@ -3679,7 +3680,8 @@
             "Soviet Union"
           ],
           "WEAPONS": [
-            "2A33"
+            "2A33",
+            "PKT"
           ],
           "DATA": {
             "Weight": "28t",
@@ -3698,7 +3700,7 @@
             "The 2S3 is mounted on a modified GM-124 chassis (also used by the 2k11 Krug). It has 6 roadwheels, with a prominent gap between 1-2 and 2-3. The final drive is at the front with 4 inset top rollers.": "rf2s31",
             "The turret is circular at the front and taller than a standard AFV turret. The rear of the turret is flat. The turret has a hatch on the right hand side, for the commander. The gun protrudes over the forward edge of the vehicle. There are two tubes sitting directly above the barrel, attached to the turret, these are part of the recoil system.": "rf2s32",
             "On the right hand side of the turret there is a square door which is used to load ammunition into the turret during engagements.": "rf2s33",
-            "2S3 Akatsiya in Ukraine in 2022.": "rf2s34"
+            "Inside the gun compartment on the 2S3. The 152mm rounds can be seen to the left.": "rf2s34"
           }
         },
         "2S19 Msta": {
