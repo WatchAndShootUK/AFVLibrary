@@ -1,5 +1,5 @@
 {
-  "1.0.110": {
+  "1.0.111": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3668,39 +3668,36 @@
         }
       },
       "152mm*": {
-        "2S3 Giatsint-S": {
+        "2S3 Akatsiya": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "UralTM",
+            1967,
+            1993
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A33"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "28t",
+            "Length": "8.4m",
+            "Width": "3.25m",
+            "Height": "3.05m"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "2s31",
+            "2s32",
+            "2s33"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The 2S3 Akatsiya is a 152mm self-propelled howitzer. It was designed and manufactured in direct competition to the American M-109. It has a range of around 18km.",
           "CREW": 4,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The 2S3 is mounted on a modified GM-124 chassis (also used by the 2k11 Krug). It has 6 roadwheels, with a prominent gap between 1-2 and 2-3. The final drive is at the front with 4 inset top rollers.": "rf2s31",
+            "The turret is circular at the front and taller than a standard AFV turret. The rear of the turret is flat. The turret has a hatch on the right hand side, for the commander. The gun protrudes over the forward edge of the vehicle. There are two tubes sitting directly above the barrel, attached to the turret, these are part of the recoil system.": "rf2s32",
+            "On the right hand side of the turret there is a square door which is used to load ammunition into the turret during engagements.": "rf2s33",
+            "2S3 Akatsiya in Ukraine in 2022.": "rf2s34"
           }
         },
         "2S19 Msta": {
