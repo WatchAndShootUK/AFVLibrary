@@ -1,5 +1,5 @@
 {
-  "1.0.106": {
+  "1.0.107": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3571,37 +3571,35 @@
       "120mm*": {
         "2S1 Gvozdika": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "KhTZ",
+            1971,
+            1991
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A18"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "16t",
+            "Length": "7.26m",
+            "Width": "2.85m",
+            "Height": "2.73m",
+            "Range": "500km",
+            "Speed": "Road: 37mph\nOffroad:  18mph\nSwim: 2.8mph\n"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "2s1gvozdika1",
+            "2s1gvozdika2",
+            "2s1gvozdika3"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The 2S1 Gvozdika is a fully amphibious Soviet self-propelled howitzer. It is armed with a 122mm 2A18 howitzer, the same as D-30, and has a range of up to 21.9km. The 2S1 is fully NBC proof. The 2S1 has been replaced in Russian Land Forces by the 2S19 Msta.",
           "CREW": 4,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The 2S1 is mounted on an MTLBu chassis with its distinctive slack tracks of 7 road wheels with the final drive at the front. ": "rf2s11",
+            "The 2A18 is a relatively short barrelled Artillery system and a key recognising feature is that the barrel does not extend forward of the MTLBu chassis.": "rf2s12",
+            "The turret of the 2S1 is a distinctive U-shape. The front is rounded and the rear is straight. The rear of the turret has two rollers with distinctive protective grates above.": "rf2s13"
           }
         },
         "2S23 Nona-SVK": {
