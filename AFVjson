@@ -1,5 +1,5 @@
 {
-  "1.0.116": {
+  "1.0.117": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -20,12 +20,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
@@ -55,12 +55,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
@@ -119,12 +119,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
@@ -913,12 +913,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -952,12 +952,12 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -987,12 +987,12 @@
             "9K38"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1024,12 +1024,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1064,12 +1064,12 @@
             "AGS-30"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1099,12 +1099,12 @@
             "9M117"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1141,12 +1141,12 @@
             "9M14"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1177,12 +1177,12 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1210,12 +1210,12 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1247,12 +1247,12 @@
             "9M133 "
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1284,12 +1284,12 @@
             "RPK"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1319,12 +1319,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1356,12 +1356,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1390,12 +1390,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1427,20 +1427,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1462,20 +1462,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1500,12 +1500,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1536,12 +1536,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1576,12 +1576,12 @@
             "AGS-30"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
@@ -1611,20 +1611,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1648,20 +1648,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1683,20 +1683,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1719,20 +1719,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -1755,12 +1755,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
@@ -1789,20 +1789,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1824,20 +1824,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1860,20 +1860,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -1896,20 +1896,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1931,20 +1931,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1967,20 +1967,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2003,20 +2003,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2039,20 +2039,20 @@
           "9M8"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2074,20 +2074,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2110,20 +2110,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2145,20 +2145,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2180,20 +2180,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2215,20 +2215,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2252,20 +2252,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2287,20 +2287,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2322,20 +2322,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2357,20 +2357,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2393,20 +2393,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2428,20 +2428,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2463,20 +2463,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2499,20 +2499,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2534,20 +2534,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2570,20 +2570,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2605,20 +2605,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2640,20 +2640,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2675,20 +2675,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2710,20 +2710,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2746,20 +2746,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2781,20 +2781,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2989,20 +2989,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -3024,20 +3024,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -3061,20 +3061,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -3096,20 +3096,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -3131,20 +3131,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "empty_value",
-            "Length": "empty_value",
-            "Width": "empty_value",
-            "Height": "empty_value",
-            "Range": "empty_value",
-            "Speed": "empty_value",
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
             "HP": ""
           },
           "IMAGES": [
-            "empty_value",
-            "empty_value",
+            "",
+            "",
             ""
           ],
-          "DESCRIPTION": "empty_value",
+          "DESCRIPTION": "",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -3167,20 +3167,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3204,20 +3204,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3241,20 +3241,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3278,20 +3278,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3313,20 +3313,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3348,20 +3348,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3383,20 +3383,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3420,20 +3420,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3455,20 +3455,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3490,20 +3490,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3525,20 +3525,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3560,20 +3560,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3595,20 +3595,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3630,20 +3630,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3667,20 +3667,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "empty_value",
-          "Length": "empty_value",
-          "Width": "empty_value",
-          "Height": "empty_value",
-          "Range": "empty_value",
-          "Speed": "empty_value",
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
           "HP": ""
         },
         "IMAGES": [
-          "empty_value",
-          "empty_value",
+          "",
+          "",
           ""
         ],
-        "DESCRIPTION": "empty_value",
+        "DESCRIPTION": "",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -4237,65 +4237,65 @@
           }
         },
         "Nozh": {
-          "Name": "empty_value",
-          "DESCRIPTION": "empty_value",
+          "Name": "",
+          "DESCRIPTION": "",
           "Images": {
-            "image1": "empty_value",
-            "image2": "empty_value",
+            "image1": "",
+            "image2": "",
             "image3": ""
           }
         },
         "Kontakt-5": {
-          "Name": "empty_value",
-          "DESCRIPTION": "empty_value",
+          "Name": "",
+          "DESCRIPTION": "",
           "Images": {
-            "image1": "empty_value",
-            "image2": "empty_value",
+            "image1": "",
+            "image2": "",
             "image3": ""
           }
         },
         "Relikt": {
-          "Name": "empty_value",
-          "DESCRIPTION": "empty_value",
+          "Name": "",
+          "DESCRIPTION": "",
           "Images": {
-            "image1": "empty_value",
-            "image2": "empty_value",
+            "image1": "",
+            "image2": "",
             "image3": ""
           }
         },
         "Shtora": {
-          "Name": "empty_value",
-          "DESCRIPTION": "empty_value",
+          "Name": "",
+          "DESCRIPTION": "",
           "Images": {
-            "image1": "empty_value",
-            "image2": "empty_value",
+            "image1": "",
+            "image2": "",
             "image3": ""
           }
         },
         "Reactive Armour": {
-          "Name": "empty_value",
-          "DESCRIPTION": "empty_value",
+          "Name": "",
+          "DESCRIPTION": "",
           "Images": {
-            "image1": "empty_value",
-            "image2": "empty_value",
+            "image1": "",
+            "image2": "",
             "image3": ""
           }
         },
         "TUSK": {
-          "Name": "empty_value",
-          "DESCRIPTION": "empty_value",
+          "Name": "",
+          "DESCRIPTION": "",
           "Images": {
-            "image1": "empty_value",
-            "image2": "empty_value",
+            "image1": "",
+            "image2": "",
             "image3": ""
           }
         },
         "LSDW": {
-          "Name": "empty_value",
-          "DESCRIPTION": "empty_value",
+          "Name": "",
+          "DESCRIPTION": "",
           "Images": {
-            "image1": "empty_value",
-            "image2": "empty_value",
+            "image1": "",
+            "image2": "",
             "image3": ""
           }
         }
@@ -4716,11 +4716,11 @@
       },
       "MANUFACTURERS": {
         "Empty Manufacturer": {
-          "LOGO": "empty_value",
-          "LOCATION": "empty_value",
-          "DESCRIPTION": "empty_value",
-          "IMAGE": "empty_value",
-          "NATIONALITY": "empty_value",
+          "LOGO": "",
+          "LOCATION": "",
+          "DESCRIPTION": "",
+          "IMAGE": "",
+          "NATIONALITY": "",
           "DATES": [
             "FROM",
             "TO"
