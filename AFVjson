@@ -1,5 +1,5 @@
 {
-  "1.0.113": {
+  "1.0.114": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2939,72 +2939,37 @@
         },
         "2S19 Msta": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "UralTM",
+            1989,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A46",
+            "NSVT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "42t",
+            "Length": "7.15m",
+            "Width": "3.38m",
+            "Height": "2.99m",
+            "Speed": "37mph"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "2s19msta1",
+            "2s192",
+            "2s193"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The 2S19 Msta-S is an upgrade to the 2S3 Akatsiya system and is the current primary in service 152mm howitzer in Russian ground forces. The 2A46 howitzer is mounted on a T-80 chassis, although it has the T-72 diesel engine instead of the gas turbine engine used in T-80s. It rivals in service NATO howitzers such as the US M-109 A6 Paladin and British AS90. It has a range of 25km with standard projectiles and up to 40km with rocket assisted projectiles (RAP).",
+          "CREW": 5,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "2S35 Koalitsiya-SV": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The 2S19 is mounted on the T-80 chassis, because of the size difference however, the road wheels are in a slighty different configuration (1-2-3-456). As per the T-80 the final drive is to the rear, with the top rollers being obscured by flaps.": "rf2s191",
+            "The key recognising feature of the 2S19 is the massive square 2A46 gun turret. The barrel lock is another obvious feature, the triangular frame being nearly as wide as the tracks.": "rf2s192",
+            "The barrel is as long as the chassis, with a fume extractor exactly half way along the barrel. The muzzle break has 3 baffles, unlike the 2S3 (which has 2) or the 2S35 (which has 5).": "rf2s195",
+            "View from the commanders hatch showing the NSVT and two recoil tubes above the barrel.": "rf2s193",
+            "2S19 Msta-S that was abandoned in Ukraine after going off road (2022).": "rf2s194"
           }
         }
       },
