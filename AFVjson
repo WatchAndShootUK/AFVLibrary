@@ -1,5 +1,5 @@
 {
-  "1.0.114": {
+  "1.0.115": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -20,12 +20,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
@@ -55,12 +55,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
@@ -119,12 +119,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
@@ -913,12 +913,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -952,12 +952,12 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -987,12 +987,12 @@
             "9K38"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1024,12 +1024,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1064,12 +1064,12 @@
             "AGS-30"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1099,12 +1099,12 @@
             "9M117"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1141,12 +1141,12 @@
             "9M14"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1177,12 +1177,12 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1210,12 +1210,12 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1247,12 +1247,12 @@
             "9M133 "
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1284,12 +1284,12 @@
             "RPK"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1319,12 +1319,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1356,12 +1356,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1390,12 +1390,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1427,20 +1427,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1462,20 +1462,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1500,12 +1500,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1536,12 +1536,12 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1576,12 +1576,12 @@
             "AGS-30"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
@@ -1611,20 +1611,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1648,20 +1648,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1683,20 +1683,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1719,20 +1719,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -1755,12 +1755,12 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
@@ -1789,20 +1789,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1824,20 +1824,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1860,20 +1860,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -1896,20 +1896,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1931,20 +1931,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -1967,20 +1967,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2003,20 +2003,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2039,20 +2039,20 @@
           "9M8"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2074,20 +2074,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2110,20 +2110,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2145,20 +2145,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2180,20 +2180,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2215,20 +2215,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2252,20 +2252,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2287,20 +2287,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2322,20 +2322,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2357,20 +2357,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2393,20 +2393,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2428,20 +2428,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2463,20 +2463,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2499,20 +2499,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2534,20 +2534,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2570,20 +2570,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2605,20 +2605,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2640,20 +2640,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2675,20 +2675,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2710,20 +2710,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -2746,20 +2746,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2781,20 +2781,20 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
@@ -2804,7 +2804,7 @@
       }
     },
     "Artillery": {
-      "122mm*": {
+      "Small*": {
         "2S1 Gvozdika": {
           "MANUFACTURE": [
             "KhTZ",
@@ -2903,7 +2903,7 @@
           }
         }
       },
-      "152mm*": {
+      "Medium*": {
         "2S3 Akatsiya": {
           "MANUFACTURE": [
             "UralTM",
@@ -2947,7 +2947,7 @@
             "Soviet Union"
           ],
           "WEAPONS": [
-            "2A46",
+            "2A64",
             "NSVT"
           ],
           "DATA": {
@@ -2973,42 +2973,7 @@
           }
         }
       },
-      "200mm*": {
-        "2S7M Malka": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
+      "Heavy*": {
         "2S4 Tyulpan": {
           "MANUFACTURE": [
             "Manufacturer",
@@ -3024,64 +2989,27 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
             " (copy)": "rfeat"
           }
-        }
-      },
-      "BM-21 Grad": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
         },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "BM-30*": {
-        "BM-30 Smerch": {
+        "2S7M Malka": {
           "MANUFACTURE": [
             "Manufacturer",
             "FROM",
@@ -3096,27 +3024,29 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
             " (copy)": "rfeat"
           }
-        },
-        "BM-30 Tornado-S": {
+        }
+      },
+      "MLRS*": {
+        "BM-21 Grad": {
           "MANUFACTURE": [
             "Manufacturer",
             "FROM",
@@ -3131,61 +3061,62 @@
             "Third"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
+            "empty_value",
+            "empty_value",
             ""
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "empty_value",
           "CREW": 4,
           "R_FEAT": {
             "": "rfeat",
             " (copy)": "rfeat"
           }
-        }
-      },
-      "BM-27 Uralagan": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
         },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
+        "BM-27 Uralagan": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
+            "HP": ""
+          },
+          "IMAGES": [
+            "empty_value",
+            "empty_value",
+            ""
+          ],
+          "DESCRIPTION": "empty_value",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "BM-30 Smerch": {}
       },
       "TOS-1": {
         "MANUFACTURE": [
@@ -3202,55 +3133,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "Tornado G": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3274,20 +3170,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3311,20 +3207,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3348,20 +3244,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3383,20 +3279,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3418,20 +3314,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3453,20 +3349,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3490,20 +3386,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3525,20 +3421,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3560,20 +3456,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3595,20 +3491,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3630,20 +3526,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3665,20 +3561,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3700,20 +3596,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -3737,20 +3633,20 @@
           "Third"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
+          "Weight": "empty_value",
+          "Length": "empty_value",
+          "Width": "empty_value",
+          "Height": "empty_value",
+          "Range": "empty_value",
+          "Speed": "empty_value",
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
+          "empty_value",
+          "empty_value",
           ""
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "empty_value",
         "CREW": 4,
         "R_FEAT": {
           "": "rfeat",
@@ -4307,65 +4203,65 @@
           }
         },
         "Nozh": {
-          "Name": "",
-          "DESCRIPTION": "",
+          "Name": "empty_value",
+          "DESCRIPTION": "empty_value",
           "Images": {
-            "image1": "",
-            "image2": "",
+            "image1": "empty_value",
+            "image2": "empty_value",
             "image3": ""
           }
         },
         "Kontakt-5": {
-          "Name": "",
-          "DESCRIPTION": "",
+          "Name": "empty_value",
+          "DESCRIPTION": "empty_value",
           "Images": {
-            "image1": "",
-            "image2": "",
+            "image1": "empty_value",
+            "image2": "empty_value",
             "image3": ""
           }
         },
         "Relikt": {
-          "Name": "",
-          "DESCRIPTION": "",
+          "Name": "empty_value",
+          "DESCRIPTION": "empty_value",
           "Images": {
-            "image1": "",
-            "image2": "",
+            "image1": "empty_value",
+            "image2": "empty_value",
             "image3": ""
           }
         },
         "Shtora": {
-          "Name": "",
-          "DESCRIPTION": "",
+          "Name": "empty_value",
+          "DESCRIPTION": "empty_value",
           "Images": {
-            "image1": "",
-            "image2": "",
+            "image1": "empty_value",
+            "image2": "empty_value",
             "image3": ""
           }
         },
         "Reactive Armour": {
-          "Name": "",
-          "DESCRIPTION": "",
+          "Name": "empty_value",
+          "DESCRIPTION": "empty_value",
           "Images": {
-            "image1": "",
-            "image2": "",
+            "image1": "empty_value",
+            "image2": "empty_value",
             "image3": ""
           }
         },
         "TUSK": {
-          "Name": "",
-          "DESCRIPTION": "",
+          "Name": "empty_value",
+          "DESCRIPTION": "empty_value",
           "Images": {
-            "image1": "",
-            "image2": "",
+            "image1": "empty_value",
+            "image2": "empty_value",
             "image3": ""
           }
         },
         "LSDW": {
-          "Name": "",
-          "DESCRIPTION": "",
+          "Name": "empty_value",
+          "DESCRIPTION": "empty_value",
           "Images": {
-            "image1": "",
-            "image2": "",
+            "image1": "empty_value",
+            "image2": "empty_value",
             "image3": ""
           }
         }
@@ -4786,11 +4682,11 @@
       },
       "MANUFACTURERS": {
         "Empty Manufacturer": {
-          "LOGO": "",
-          "LOCATION": "",
-          "DESCRIPTION": "",
-          "IMAGE": "",
-          "NATIONALITY": "",
+          "LOGO": "empty_value",
+          "LOCATION": "empty_value",
+          "DESCRIPTION": "empty_value",
+          "IMAGE": "empty_value",
+          "NATIONALITY": "empty_value",
           "DATES": [
             "FROM",
             "TO"
@@ -4799,4 +4695,478 @@
       }
     }
   }
-}
+}SGD’s on either side of the turret in banks of 3. The hull remains the same aside from the 2 omitted dismount hatches, it now just has 2.": "rfeatbmp22",
+            "BMP-2 left hand thermal view.": "rfeatbmp23",
+            "BMP-2 right hand thermal view.": "rfeatbmp24"
+          }
+        },
+        "BMP-2M": {
+          "MANUFACTURE": [
+            "KBP",
+            2010,
+            2020
+          ],
+          "COO": [
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A42",
+            "PKMT",
+            "9M113M",
+            "AGS-30"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmp2m1",
+            "bmp2m2"
+          ],
+          "DESCRIPTION": "The BMP-2M ‘Berezhok’ is a modernised BMP-2, it has a new berezhok turret, with mostly thesame armaments aside from the addition of 2 launchers either side of the turretfor the 9M133/9M113M Kornet-M and an AGS-30 GMG on the rear turretroof, as well as a new day/night sight from the BMD-4. The upgrades bring it upto a much more modern standard, massively enhancing lethality.",
+          "CREW": "3+7",
+          "R_FEAT": {
+            "The hull remains the same, the turret noticeably has the differences with the ATGMmounts either side, unlike the BMP-2 which has the mount on top of the turret.\nAnother noticeable difference is the cluster of SGD’s which sit at the front ofthe turret either side of the MA. Moving rearwards you will see the AGS-30 atthe turret rear, when firing you will see it is elevated.": "rfbmp2m1",
+            "On this photo you will see the new sighting systems, a new panoramic sight for the cmdr and a newgunners sight, Cmdr’s on the right and Gunners on the left, you can also see abetter view of the launchers and SGD’s, the SGD’s are mounted on the sides on previousiterations of the BMP-2.": "rfbmp2m2"
+          }
+        },
+        "BMP-3": {
+          "MANUFACTURE": [
+            "Kurganmashzavod",
+            1986,
+            2021
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A70",
+            "2A72",
+            "PKT",
+            "9M117"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmp31",
+            "bmp32",
+            "bmp33",
+            "bmp34"
+          ],
+          "DESCRIPTION": "The BMP-3 is a radical modernisation of the BMP series, it is of a completely new design. It is one of the most heavily armed IFV’s in service, with a 100mm main which can fire GLATGM, a 30mm coaxial gun, as well as a 7.62mm coax. It is also amphibious like most of the Russian IFV/APC’s in service. Russia are currently modifying their BMP 3’s.",
+          "CREW": "3+7",
+          "R_FEAT": {
+            "The BMP-3 is a completely new iteration with a newly designed hull and turret, the turrethas a similar shape to the BMP-2 except it is larger. It has a much longer100mm main gun with a 30mm coax, to the right of the gun is an IR searchlight,\non either side of the gun are 3 SGD’s. At the rear turret it has 2 whip antennaeither side, the gunners sight is a large box shape on the left side of theturret roof.": "rfbmp31",
+            "The hull still resembles a boat shape due to its amphibious capability, there are 3hatches at the front of the hull, 1 for the driver and 2 for dismounts, whenseated they can also operate the 2 hull MG’s. The driver has 5 periscopes, theother 2 hatches have 1 each.": "rfbmp32",
+            "The hull remains flat sided all along, the right side has a long rectangular exhaust,\nthe tracks are skinny, it has small roadwheels with prominent gaps between the2nd-3rd and 5th-6th, with the final drive at the rear, unlike most IFV’s.": "rfbmp33",
+            "Here is a view of infantry dismounting a BMP-3, the rear doors are small and openoutwards with the ceiling hatches providing most of the opening to dismount.": "rfbmp34",
+            "Thermal view.": "rfbmp35",
+            "Birds eye thermal view.": "rfbmp36"
+          }
+        }
+      },
+      "BMD*": {
+        "BMD-1": {
+          "MANUFACTURE": [
+            "Volgograd TractorPlant",
+            1968,
+            1987
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A28",
+            "PKT",
+            "9M14"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmd11",
+            "bmd12",
+            "bmd13"
+          ],
+          "DESCRIPTION": "The BMD-1 is based on the BMP-1, but is produced for the airborne forces (VDV), BMD literallytranslates to ‘Combat vehicle of the airborne’. It shares commonality with theBMP-1, the turret and armaments are the same, it is also the basis for theBTR-D series of APC’s.",
+          "CREW": "2+6",
+          "R_FEAT": {
+            "The BMD-1 is a much smaller version of the BMP-1 for airborne use, the turret is the same asthat on the BMP-1, small conical shaped and armed with the 73mm 2A28 Grom maingun, it also has the 9M14/9M14 Malyutka ATGM fitted above the gunmantlet. The hull still retains a boat-like shape due to its amphibiouscapabilities; it has a splash plate at the front which is folded down fornormal operations.": "rfbmd11",
+            "This is how the turret appears when the missile is fitted; it is a bare missile rather thana launch tube.": "rfbmd12",
+            "The front has an air intake grille centrally mounted in front of the drivers hatch, thedriver has 3 periscopes for his position with the 2 hatches either side of themhaving 1 hatch for the right and 2 for the left, on the running gear it has 2prominent top rollers, with 5 equally spaced roadwheels with the final drive atthe rear. The antenna whip is at the rear left.": "rfbmd13"
+          }
+        },
+        "BMD-1P": {
+          "MANUFACTURE": [
+            "Volgograd TractorPlant",
+            1977,
+            1987
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A28",
+            "PKT",
+            "9M113"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmd1p1",
+            "bmd1p2"
+          ],
+          "DESCRIPTION": "The BMD-1P isa BMD-1 upgraded with the newer more effective 9M113/9P135M-1 (Konkurs)\nATGM replacing the older 9M14/9M14 Malyutka.",
+          "CREW": "2+6",
+          "R_FEAT": {
+            "Similar to the BMP-1P, the only change with the BMD-1P is with the ATGM change, the mainvisible difference is the ATGM now being a large elevated launch tube on theturret, whereas the BMD-1 has the bare missile fitted above the armament.\nAlthough thismay seem intricate and unnecessary to learn, the change in ATGM hugely changesthe potency of these IFV’s for example the effective range of the 9M14 comparedto the 9M113 is as follows 9M14-3km, 9M113-4km. This significantly enhances thelethality of these vehicles, therefore showing the need to recognise thedifferences with these vehicles.": "rfbmd1p1"
+          }
+        },
+        "BMD-2": {
+          "MANUFACTURE": [
+            "Volgograd Tractor Plant",
+            1985,
+            1991
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A42",
+            "PKT",
+            "9M113"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmd21",
+            "bmd22",
+            "bmd23",
+            "bmd24"
+          ],
+          "DESCRIPTION": "The BMD-2 is an upgrade of the BMD-1, it was originally supposed to completely replace theBMD-1 but due to the declining economy of the USSR, this never materialised andit served alongside it. It has a new turret and a slightly modified hull, ithas the 30mm 2A42 gun from the BMP-2.",
+          "CREW": "2+6",
+          "R_FEAT": {
+            "The BMD-2 retains the same hull as the BMD-1, aside from some small changes. The turretis the biggest change, it is completely new, it is taller and has less of aconical shape, it has more of a ‘bucket’ shape than the classic soviet ‘fryingpan’ turret shape. Its armed with a 30mm 2A42 Gun-the same as the BMP-2 whichgives a prominent recognition feature with the square muzzle brake.": "rfbmd21",
+            "When in an operational setting you will see the ATGM mount on top of the turret.\nThe hull hasan air inlet grille at the front centre in front of the drivers hatch, whichhas 3 periscopes, the hatches either side of the drivers have 1 periscope onthe right, and 2 on the left hatch.\nBelow the airinlet is the splash plate for amphibious operations, moving to the running gearit has 5 equally spaced small ‘pork pie’ roadwheels, with the final drive atthe rear.": "rfbmd22",
+            "The rear of the BMD-2 has a large gap in the centre, there are 2 exhausts, one either side seen here,\nthe black rectangles. Below the exhausts are the openings for the water jets.\nThe antenna whip is at the rear left.": "rfbmd23"
+          }
+        },
+        "BMD-2M": {
+          "MANUFACTURE": [
+            "KBP",
+            2012,
+            "Present"
+          ],
+          "COO": [
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A42",
+            "PKT",
+            "9M133 "
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmd2m1",
+            "bmd2m2"
+          ],
+          "DESCRIPTION": "Modernised BMP-2M,\nfitted with new stabilisation systems for the 30mm gun, TI sight for thegunner, new ATGM and a new crew compartment, it massively enhances thelethality for such a small, light vehicle.",
+          "CREW": "2+6",
+          "R_FEAT": {
+            "The BMD-2M is aptly nicknamed the ‘mini-berezhok’ due to its features being reminiscent ofthe BMP-2M Berezhok, it retains the same turret and armament from the BMD-2 andadds more capabilities, the most prominent being the new 9M133/9M133Kornet ATGM mount on the side of the right side of the turret. It contains 2missile launch tubes, on the left side of the turret it has the new thermalsight. The hull exterior and recognising features remain the same as thestandard BMD-2.": "rfbmd2m1",
+            "On this close up of the turret you can see the upgrades in full display, towards the rear ofthe turret you can see a wind sensor, due to most photographs being at armsexpos and being prototypes, there are some differences, for example on thisphoto there are no SGD’s fitted.": "rfbmd2m2",
+            "For a quick reference to tell apart from the BMP-2M is the lack of launch tubes on bothsides of the turret like the BMP-2M has, also the tall thermal sight is a biggiveaway.": "rfbmd2m3"
+          }
+        },
+        "BMD-3": {
+          "MANUFACTURE": [
+            "Volgograd Tractor Factory",
+            1985,
+            1997
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "2A42",
+            "PKT",
+            "AGS-30",
+            "9M113",
+            "RPK"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmd31",
+            "bmd32"
+          ],
+          "DESCRIPTION": "The BMD-3 differsfrom the 2 with the introduction of a new hull and turret, although the crewlayout remains very similar with the typical BMD fashion of 2 dismounts eitherside of the driver and 2 in the centre. It is larger than the previousiterations in the series; this hampers the effectiveness of the airborne forcesas they cannot drop as many vehicles per plane as they could with the otherBMD’s.",
+          "CREW": "3+5",
+          "R_FEAT": {
+            "The turret is reminiscent of the BMP-2, it is wider than that of the BMD-2 and is now a 2 manturret, it has the ATGM launch tube on the top of the turret-mounted centrally,\n(Not mounted on this photo). It has 3 SGD's on either side of the turret. TheBMD-3’s new hull has the general overall shape of the BMD style hull but isactually larger and has some new differences, the front hull has a lip whichsplits the upper and lower glacis plate, on either side of the upper glacisplate you can see the hull mounted weapon systems, moving up you can see thecentrally mounted drivers position with 3 periscopes, he has 2 dismounts eitherside of his position.": "rfbmd31",
+            "Here you can see the hatches on the front hull, as well as the ATGM launch mount in thecentre of the hatches on the turret, towards the rear you can see thesimilarity with the previous iterations.": "rfbmd32",
+            "The ATGM launch tube is visible in this photo, moving down, the vehicle has 5 equallyspaced diecast roadwheels, there are 4 top rollers for the track.": "rfbmd33",
+            "Here is a size comparison of the series. Left to right - BMD-3, BMD-2, BMD-1": "rfbmd34"
+          }
+        },
+        "BMD-4M": {
+          "MANUFACTURE": [
+            "Volgograd Tractor Plant",
+            2008,
+            "Present"
+          ],
+          "COO": [
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A70",
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "bmd4m1",
+            "bmd4m2",
+            "bmd4m3"
+          ],
+          "DESCRIPTION": "The BMD-4M is the latest design of the BMD series, it is extremely light to be air portable, although one of the most heavily armed in its class, it is equipped with the weapons module from the BMP-3. It is incorporated into the VDV companies for fire support and to also carry dismounts.",
+          "CREW": "3+5",
+          "R_FEAT": {
+            "The BMD-4M has a small turret, similar to the BMP-3. It has the commanders primary sight on the left side of the turret, with the gunners primary sight on the right. The front of the turret is sloped with 3 SGD’s either side of the MA.": "rfbmd4m1",
+            "The Hull looks similar to a downsized BMP-3, It is boat-shaped with a heavily sloped upper glacis plate. The driver has 3 periscopes and in typical BMD fashion 2 hatches either side of the driver for the dismounts with a single periscope each. The exhaust is a rectangular slit on the right hand side. The track is supported by 2 top rollers with 5 equally spaced road wheels.": "rfbmd4m2",
+            "The rear is different to other BMD’s as they slope down, whereas the BMD-4M is flat at the rear with a small slope in the centre. There are 2 water jets at the rear, very low both next to the tracks.": "rfbmd4m3"
+          }
+        }
+      },
+      "BTR*": {
+        "BTR-80A": {
+          "MANUFACTURE": [
+            "AMP",
+            1994,
+            "Present"
+          ],
+          "COO": [
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A72",
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "btr80a1",
+            "btr80a2",
+            "btr80a3"
+          ],
+          "DESCRIPTION": "The BTR-80A is an upgraded BTR-80 fitted with a BPPU turret, up-armed with a 30mm cannon, it enhances the lethality of the standard BTR-80.",
+          "CREW": "3+7",
+          "R_FEAT": {
+            "The BTR-80A is characterised by the new turret, the turret is slanted rearwards, it has 3 SGD’s either side of the gun, the gun is prominent with its single cylindrical bulge towards the end. On the far right of the turret(not in shot) there is a seperate mount for the 7.62mm PKT, above the gun is the IR Searchlight.": "rfbtr80a1",
+            "On this shot you can see the PKT mount, the hull remains the same as the standard BTR-80, for a guide on the BTR-80 find it under APC’s.": "rfbtr80a2"
+          }
+        },
+        "BTR-82A": {
+          "MANUFACTURE": [
+            "AMBP",
+            2009,
+            "Present"
+          ],
+          "COO": [
+            "Russian Federation"
+          ],
+          "WEAPONS": [
+            "2A72",
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "btr82a1",
+            "btr82a2",
+            "btr82a3"
+          ],
+          "DESCRIPTION": "The BTR-82A is the latest production model of the BTR series, it has improved protection, GLONASS navi system, more powerful engine and newer sighting systems.",
+          "CREW": "3+7",
+          "R_FEAT": {
+            "The BTR-82A is visually very similar to the BTR-80A, The main differences are on the turret and the rear. The sighting system below the gun isn’t there on BTR-80A, the searchlight above the gun is replaced with a square box.": "rfbtr82a1",
+            "As you can see here there is a prominent cylinder above the exhaust, this is on both sides and a good indicating feature for this model, this isn't fitted to other BTR models. For an in-depth guide on BTR-80, see BTR-80.": "rfbtr82a2"
+          }
+        }
+      },
+      "MT-LB*": {
+        "MT-LBM 6MB": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "MT-LBM Toros": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      }
+    },
+    "APC": {
+      "BTR*": {
+        "BTR-70": {
+          "MANUFACTURE": [
+            "GAZ",
+            1972,
+            1986
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "KPVT",
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "btr701",
+            "btr702",
+            "btr703"
+          ],
+          "DESCRIPTION": "The BTR-70 is a Soviet APC produced as the successor to the BTR-60, It improved on an array of features, including new entry/exit hatches for the dismounts, thicker armour and more firing ports, the BTR-70 retained a feature from the BTR-60 which was the twin engine design, this meant that if one engine was damaged or inoperable the other engine could still drive the vehicle alone, albeit slowly. The original prototype of the BTR-70 actually had the turret from the BMP-1, this was changed due to costs. The BTR-70 in Russian service is solely used by the Russian Naval Infantry.",
+          "CREW": "3+7",
+          "R_FEAT": {
+            "The BTR-70 has a boat shaped hull in line with its amphibious capability, the front has a splash plate which is folded down normally unless preparing for a crossing. There are 2 armoured windows with shutters, seen here in the raised position, above them are periscopes for when the shutters are closed. At the front centre there is a one man conical turret with a 14.5mm KPVT and 7.62mm Coax PKT.": "rfbtr701",
+            " The side retains the boat shape, there are 4 road wheels with a prominent gap between the 
