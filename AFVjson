@@ -1,5 +1,5 @@
 {
-  "1.0.120": {
+  "1.0.121": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3009,37 +3009,34 @@
       "Heavy*": {
         "2S4 Tyulpan": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "UralTM",
+            1972,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "M240",
+            "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "30t",
+            "Length": "8.5m",
+            "Width": "3.2m",
+            "Height": "3.2m",
+            "Speed": "39mph"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "2s41",
+            "2s42",
+            "2s43"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The 2S4 Tyulpan is a self-propelled 240mm mortar system. It is the largest calibre mortar in use worldwide. Mounted on a GM-123 chassis, the mortar barrel is loaded and then elevated into position. Due to the complex firing sequence it has a slow rate of fire, one round per minute. It has a range of 10km for standard ammunition and 20km for rocket assisted mortars. ",
+          "CREW": 5,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The GM-123 chassis the mortar is mounted on has 6 road whees in a 1-2-3-4-56 configuration. The final drive is at the front. The mortar is easily distinguishable, as well as the large, square base-plate at the rear of the vehicle.": "rf2s41",
+            "This image shows the M240 mortar in the deployed position.": "rf2s42"
           }
         },
         "2S7M Malka": {
