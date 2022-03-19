@@ -1,5 +1,5 @@
 {
-  "1.0.117": {
+  "1.0.119": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2971,6 +2971,39 @@
             "View from the commanders hatch showing the NSVT and two recoil tubes above the barrel.": "rf2s193",
             "2S19 Msta-S that was abandoned in Ukraine after going off road (2022).": "rf2s194"
           }
+        },
+        "2S33 Msta-SM2": {
+          "MANUFACTURE": [
+            "UralTM",
+            2013,
+            "Present"
+          ],
+          "COO": [
+            "Russia Federation"
+          ],
+          "WEAPONS": [
+            "2A79",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "42t",
+            "Length": "7.15m",
+            "Width": "3.38m",
+            "Height": "2.99m",
+            "Speed": "37mph"
+          },
+          "IMAGES": [
+            "2s331",
+            "2s332",
+            "2s333"
+          ],
+          "DESCRIPTION": "The 2S33 Msta-SM2 is an upgraded variant of the 2S19 Msta. It is fitted with the 2A79 cannon, which is significantly longer and has improved ballistics. It can fire ammunition with more propellant charges and with a higher breech pressure, which improves the range of fire. The maximum range for standard ammunition is 30km and rocket propelled up to 40km.",
+          "CREW": 5,
+          "R_FEAT": {
+            "The key identifible feature on the 2S33 is the longer side skirts, that cover 50% of the T-80 chassis road wheels. The road wheel configuration is still 1-2-3-456. ": "rf2s331",
+            "The 2S33 barrel is longer than the 2S19 barrel. Seen here in Ukraine (2022), the barrel is double the length of the turret. The fume extractor is also situated nearer to the muzzle break, whereas the 2S19 fume extractor was in the centre of the barrel.": "rf2s332",
+            "Another example of how long the barrel is on the 2S33 Msta-SM2.": "rf2s333"
+          }
         }
       },
       "Heavy*": {
@@ -4219,7 +4252,7 @@
         "Composite Armour": {
           "Name": "Kontakt-1",
           "DESCRIPTION": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
-          "Images": {
+          "IMAGES": {
             "kontakt-1": "Here this T-80BV has Kontakt-1 fitted, you can see the blocks provide coverage across most of the frontal arc.",
             "kontakt-12": "Kontakt-1 is an ERA designed in the USSR, it is fitted to a lot of Russian tanks, this can be denoted by the suffix ‘V-Vzryvnoi’ meaning explosive, example:T-80BV.",
             "kontakt-13": "Sometimes Kontakt-1 is fitted in the ‘clamshell’ style that you could see on the previous photo of the T-80BV, whereas in some variants like this T-72B1 it is mounted directly on to the turret instead.",
@@ -4229,7 +4262,7 @@
         "Kontakt-1": {
           "Name": "Kontakt-1",
           "DESCRIPTION": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
-          "Images": {
+          "IMAGES": {
             "kontakt-1": "Here this T-80BV has Kontakt-1 fitted, you can see the blocks provide coverage across most of the frontal arc.",
             "kontakt-12": "Kontakt-1 is an ERA designed in the USSR, it is fitted to a lot of Russian tanks, this can be denoted by the suffix ‘V-Vzryvnoi’ meaning explosive, example:T-80BV.",
             "kontakt-13": "Sometimes Kontakt-1 is fitted in the ‘clamshell’ style that you could see on the previous photo of the T-80BV, whereas in some variants like this T-72B1 it is mounted directly on to the turret instead.",
@@ -4239,7 +4272,7 @@
         "Nozh": {
           "Name": "",
           "DESCRIPTION": "",
-          "Images": {
+          "IMAGES": {
             "image1": "",
             "image2": "",
             "image3": ""
@@ -4248,7 +4281,7 @@
         "Kontakt-5": {
           "Name": "",
           "DESCRIPTION": "",
-          "Images": {
+          "IMAGES": {
             "image1": "",
             "image2": "",
             "image3": ""
@@ -4257,7 +4290,7 @@
         "Relikt": {
           "Name": "",
           "DESCRIPTION": "",
-          "Images": {
+          "IMAGES": {
             "image1": "",
             "image2": "",
             "image3": ""
@@ -4266,7 +4299,7 @@
         "Shtora": {
           "Name": "",
           "DESCRIPTION": "",
-          "Images": {
+          "IMAGES": {
             "image1": "",
             "image2": "",
             "image3": ""
@@ -4275,7 +4308,7 @@
         "Reactive Armour": {
           "Name": "",
           "DESCRIPTION": "",
-          "Images": {
+          "IMAGES": {
             "image1": "",
             "image2": "",
             "image3": ""
@@ -4284,7 +4317,7 @@
         "TUSK": {
           "Name": "",
           "DESCRIPTION": "",
-          "Images": {
+          "IMAGES": {
             "image1": "",
             "image2": "",
             "image3": ""
@@ -4293,7 +4326,7 @@
         "LSDW": {
           "Name": "",
           "DESCRIPTION": "",
-          "Images": {
+          "IMAGES": {
             "image1": "",
             "image2": "",
             "image3": ""
