@@ -1,5 +1,5 @@
 {
-  "1.0.115": {
+  "1.0.116": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3116,7 +3116,41 @@
             " (copy)": "rfeat"
           }
         },
-        "BM-30 Smerch": {}
+        "BM-30 Smerch": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "empty_value",
+            "Length": "empty_value",
+            "Width": "empty_value",
+            "Height": "empty_value",
+            "Range": "empty_value",
+            "Speed": "empty_value",
+            "HP": ""
+          },
+          "IMAGES": [
+            "empty_value",
+            "empty_value",
+            ""
+          ],
+          "DESCRIPTION": "empty_value",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
       },
       "TOS-1": {
         "MANUFACTURE": [
