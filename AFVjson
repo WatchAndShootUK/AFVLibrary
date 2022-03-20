@@ -1,5 +1,5 @@
 {
-  "1.0.122": {
+  "1.0.123": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1410,78 +1410,6 @@
             "As you can see here there is a prominent cylinder above the exhaust, this is on both sides and a good indicating feature for this model, this isn't fitted to other BTR models. For an in-depth guide on BTR-80, see BTR-80.": "rfbtr82a2"
           }
         }
-      },
-      "MT-LB*": {
-        "MT-LBM 6MB": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "MT-LBM Toros": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        }
       }
     },
     "APC": {
@@ -1770,76 +1698,36 @@
           "The BTR-RD is visually identical to the BTR-D aside from the 9P135M-1  ATGM launcher on the commander's cupola.": "btrrdrobot1"
         }
       },
-      "BRDM2 ATGM*": {
-        "9P133 Malyutka": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+      "9P148 Konkurs": {
+        "MANUFACTURE": [
+          "GAZ",
+          1977,
+          "Unknown"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "WEAPONS": [
+          "9M113"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
         },
-        "9P148 Konkurs": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+        "IMAGES": [
+          "9p1481",
+          "9p1482"
+        ],
+        "DESCRIPTION": "The 9P148 Konkurs NATO RN:AT-5 Spandrel is an ATGM carrier based on the BRDM-2, it carries 5 missiles on a retractable mount that means it can be lowered inside the vehicle for stowage or reloading.",
+        "CREW": 3,
+        "R_FEAT": {
+          "The hull remains unchanged from the standard BRDM-2, the largest difference is the missile launch tube which replace the turret, the mount can be lowered and raised by the gunner. The sighting system is the square box above the commanders hatch.": "rf9p1481",
+          "Here is the 9P148 with the launch tubes lowered and stowed inside, giving it the appearance that it is not an ATGM carrier.": "rf9p1482"
         }
       },
       "GAZ TIGR ATGM": {
