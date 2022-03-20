@@ -1,5 +1,5 @@
 {
-  "1.0.123": {
+  "1.0.124": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1875,17 +1875,15 @@
       "MTLB ATGM*": {
         "9P149 Shturm-S": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "KMB",
+            1978,
+            "Unknown"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "9M114"
           ],
           "DATA": {
             "Weight": "",
@@ -1897,15 +1895,14 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "9p1491",
+            "9p1492"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The 9P149 Shturm-S NATO RN:AT-6 Spiral is a radio guided ATGM mounted on the MTLB hull, it is the same missile launched by the MI-24 Hind, it was originally developed to serve in Anti-Tank platoons that were based or would operate in boggy areas, due to the MTLB low ground pressure. ",
           "CREW": 4,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The 9P149 Shturm-S barely changes the MTLB hull, the biggest recognising feature being the optical guidance tracker that replaces the 1 man MG turret. The launch tube is at the rear right, it folds down to load and also when its not in use, which can be very deceiving, so it is key to remember the optical guidance tracker, for more info on recog features see MTLB in APC section.": "rf9p1491",
+            "Here the photo shows the missile stowed away, another point to note is the lack of a second viewport for the commander.": "rf9p1492"
           }
         }
       }
@@ -3653,6 +3650,32 @@
           }
         },
         "2A28": {
+          "Name": "Royal Ordnance Rifled Gun",
+          "Designation": "L30A1",
+          "Calibre": "120mm",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "Ammunition": {
+            "CR2": [
+              "HESH",
+              0,
+              5000
+            ]
+          }
+        },
+        "9P113": {
+          "Name": "Royal Ordnance Rifled Gun",
+          "Designation": "L30A1",
+          "Calibre": "120mm",
+          "DESCRIPTION": "The Royal Ordnance L30A1 tank gun is the main armament for the Challenger 2 and previously Challenger 1 MBTs, it is an L55 Calibre gun, using 3 piece ammunition (projectile-charge-vent tube).",
+          "Ammunition": {
+            "CR2": [
+              "HESH",
+              0,
+              5000
+            ]
+          }
+        },
+        "9P114": {
           "Name": "Royal Ordnance Rifled Gun",
           "Designation": "L30A1",
           "Calibre": "120mm",
