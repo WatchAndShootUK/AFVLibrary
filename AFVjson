@@ -1,5 +1,5 @@
 {
-  "1.0.121": {
+  "1.0.122": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1598,37 +1598,34 @@
         },
         "BTR-MDM": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "KMZ",
+            2013,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Russian Federation"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "KORD",
+            "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "12t",
+            "Length": "6.36m",
+            "Width": "3.13m",
+            "Height": "2.45m"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "btrmdm1",
+            "btrmdm2",
+            "btrmdm3"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BTR-MDM is a replacement for aging BTR-D, albeit slowly. It is made to be the main troop transport for the VDV, with the BMD’s providing fire support, it is based on the older BTR-MD, in line with VDV vehicles it is air transportable.  ",
+          "CREW": "3+5",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BTR-MDM has the same hull from the BMD-4M, this time the turret is removed and the superstructure is raised to accommodate more dismounts. The driver's position remains essentially the same, this time the hatch to the left of him is now a full cupola for the commander. The exhaust is on the same place as the BMD-4, in the form of a rectangular slit. There is also a ball mount for the PKT on the right upper frontal hull.": "rfbtrmdm1",
+            "The hull is boat shaped to keep the amphib features, the upper glacis plate is heavily sloped, it has 2 banks of 2 SGD’s with 2 headlights either side. The sides are flat and are not sloped.": "rfbtrmdm2",
+            "The superstructure slopes downwards to the rear hull, where it flattens out towards the end; there is a prominent gap in the rear centre. ": "rfbtrmdm3"
           }
         }
       },
@@ -1706,37 +1703,37 @@
       },
       "BMO-T": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "UVZ",
+          2001,
+          2010
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Russian Federation"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "Kord"
+        ],
+        "ARMOUR": [
+          "Composite Armour",
+          "Kontakt-5"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "43t",
+          "Length": "6.8m",
+          "Width": "3.6m",
+          "Height": "2.1m"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "bmot1",
+          "bmot2",
+          "bmot3",
+          "bmot4"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The BMO-T is a heavy APC used to transport the rocket flamethrower troops of the NBC Protection Troops, it is based on the T-72 and is therefore extremely heavily armoured for an APC, with composite armour and Kontakt-5 ERA Tiles it is well protected.",
+        "CREW": "2+7",
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The BMO-T has the same hull as the T-72, instead of a turret it has a raised superstructure. The superstructure is heavily sloped at the front with Kontakt-5 tiles covering the entirety; the commander’s hatch is at the central top of the vehicle with a KORD MG fitted on a pintle mount. There are 2 banks of SGD’s above each front mudguard, the sides are flat, also there are also 6 ERA panel tiles covering the lower side.": "rfbmot1",
+          "The rear of the BMO-T, it has 2 stowage boxes that extend all the way to the rear, with a large gap in between for access to the engine decks, the exhaust is at the rear left like on T-72.": "rfbmot2"
         }
       }
     },
@@ -4266,7 +4263,7 @@
             "kontakt-14": "In this diagram by V.A Grigoryan you can see how Kontakt-1 works. The operating principle of the armour lies in the disruption of shaped charge jets through the violent separation of the steel plates sandwiching the explosive layer upon detonation. The column of numbers 'N' to the left indicates the number of reactive plates that a shaped charge jet must pass through depending on the point of impact."
           }
         },
-        "Nozh": {
+        "Kontakt-5": {
           "Name": "",
           "DESCRIPTION": "",
           "IMAGES": {
@@ -4275,7 +4272,7 @@
             "image3": ""
           }
         },
-        "Kontakt-5": {
+        "Nozh": {
           "Name": "",
           "DESCRIPTION": "",
           "IMAGES": {
