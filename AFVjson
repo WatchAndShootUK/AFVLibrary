@@ -1,5 +1,5 @@
 {
-  "1.0.136": {
+  "1.0.138": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1508,8 +1508,7 @@
           },
           "IMAGES": [
             "btr3da1",
-            "btr3da2",
-            "btr3da3"
+            "btr3da2"
           ],
           "DESCRIPTION": "The BTR-3DA is a variant of the BTR-3U with a different turret, purchased by the Ukrainian Armed Forces; they are used by the Azov Battalion and some other army formations.",
           "CREW": "3+6",
@@ -4760,9 +4759,10 @@
         }
       },
       "MANUFACTURERS": {
-        "Empty Manufacturer": {
-          "LOGO": "",
-          "DESCRIPTION": ""
+        "Uralvagonzavod": {
+          "NAME": "Uralvagonzavod",
+          "LOGO (copy)": "https://upload.wikimedia.org/wikipedia/ru/d/d1/UVZlogo.png",
+          "DESCRIPTION": "Uralvagonzavod is a tank manufacturing company based in Nizhny Tagil, Sverdlovsk Oblast, Russia. It is the largest tank manufacturing business in the world and makes the majority of Russian (and previously Soviet) main battle tanks. The company was established in 1936 and has a history of private and state ownership, it has been owned by the state since 2016 - via the Russian conglomerate Somtek."
         }
       }
     }
