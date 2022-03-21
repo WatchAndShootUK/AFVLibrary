@@ -1,5 +1,5 @@
 {
-  "1.0.133": {
+  "1.0.135": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1595,17 +1595,15 @@
       "MT-LB*": {
         "MTLB": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Kharkiv Tractor Plant",
+            1952,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1617,15 +1615,18 @@
             "HP": ""
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "mtlb1",
+            "mtlb2",
+            "mtlb3"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The MTLB is an amphibious APC, it is still widely used by Russia, most commonly in units based in boggy areas, like 138 Bde in St.Petersburg and other units in the far east, this is due to its extremely low ground pressure. It is the base for many variants built upon it.",
+          "CREW": "2+11",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The MTLB is a very distinctive vehicle, with an extremely low hull, a tiny one man turret and a very prominent boat shape hull. The front hull has a a prominent point with a clear boat shape for its amphib capabilities. The driver and commanders positions have bullet resistant glass windows with metal covers.": "rfmtlb1",
+            "It has a centrally mounted engine, so most of the TI signature will appear there, the 6 road wheels are equally spaced on a slack track, the final drive is mounted at the front.": "rfmtlb2",
+            "The rear of the MTLB has 2 square doors that open outwards.": "rfmtlb3",
+            "An MTLB in the 2022 Russian invasion of Ukraine with a self-modified RPO-A Shmel launcher above the turret.": "rfmtlb4",
+            "MTLB left side thermal view.": "rfmtlb5"
           }
         },
         "MTLBu": {
