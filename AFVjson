@@ -221,7 +221,8 @@
             "1975"
           ],
           "COO": [
-            "Soviet Union,Cuba,Russia,Syria,Uzbekistan,Vietnam"
+            "Soviet Union",
+            "Cuba,Russia,Syria,Uzbekistan,Vietnam"
           ],
           "WEAPONS": [
             "2A20",
@@ -301,7 +302,8 @@
             "1991"
           ],
           "COO": [
-            "Soviet Union,Democratic Republic of the Congo,Transnistria,Ukraine,Uzbekistan"
+            "Soviet Union",
+            "Democratic Republic of the Congo,Transnistria,Ukraine,Uzbekistan"
           ],
           "WEAPONS": [
             "2A46",
