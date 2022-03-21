@@ -77,7 +77,7 @@
           "Present"
         ],
         "COO": [
-          "Russian Federation"
+          "Russia"
         ],
         "R_FEAT": {
           "The Gaz-Tigr is classed as an Infantry Mobility Vehicle, it has a hatch on top with pintle mounts for the mentioned weapons, the windows are armoured glass, down the sides there are 2 small pill shaped windows. The front engine bay is curved towards the front with a raised section in the centre. The front has bull bars with 2 circular headlights, with indicators on each side, moving down there is a mount for the winch.": "rfgazt1",
@@ -148,7 +148,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Afghanistan,Algeria,Angola,Cuba,Egypt,Eritrea,Ethiopia,Iran,Libya,Mongolia,North Korea,Russian Federation,Syria,Tajikistan,Uzbekistan,Vietnam,Yemen"
+            "Afghanistan,Algeria,Angola,Cuba,Egypt,Eritrea,Ethiopia,Iran,Libya,Mongolia,Korea North,Russia,Syria,Tajikistan,Uzbekistan,Vietnam,Yemen"
           ],
           "WEAPONS": [
             "2A20",
@@ -184,7 +184,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Cuba,Russian Federation,Syria,Uzbekistan,Vietnam"
+            "Cuba,Russia,Syria,Uzbekistan,Vietnam"
           ],
           "WEAPONS": [
             "2A20",
@@ -221,7 +221,7 @@
             "1975"
           ],
           "COO": [
-            "Soviet Union,Cuba,Russian Federation,Syria,Uzbekistan,Vietnam"
+            "Soviet Union,Cuba,Russia,Syria,Uzbekistan,Vietnam"
           ],
           "WEAPONS": [
             "2A20",
@@ -420,7 +420,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia,Russian Federation"
+            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia,Russia"
           ],
           "WEAPONS": [
             "2A46",
@@ -503,7 +503,7 @@
             2005
           ],
           "COO": [
-            "Russian Federation",
+            "Russia",
             "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia"
           ],
           "WEAPONS": [
@@ -544,7 +544,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation",
+            "Russia",
             "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia"
           ],
           "WEAPONS": [
@@ -587,7 +587,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A46",
@@ -721,7 +721,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A46",
@@ -767,7 +767,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A46",
@@ -813,7 +813,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A46",
@@ -933,7 +933,7 @@
             "Unknown"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A72",
@@ -1010,7 +1010,7 @@
             2020
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A42",
@@ -1194,7 +1194,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A42",
@@ -1267,7 +1267,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A70",
@@ -1304,7 +1304,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A72",
@@ -1338,7 +1338,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A72",
@@ -1485,7 +1485,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "KORD",
@@ -1590,7 +1590,7 @@
           2010
         ],
         "COO": [
-          "Russian Federation"
+          "Russia"
         ],
         "WEAPONS": [
           "Kord"
@@ -2815,7 +2815,7 @@
             "Present"
           ],
           "COO": [
-            "Russian Federation"
+            "Russia"
           ],
           "WEAPONS": [
             "2A79",
