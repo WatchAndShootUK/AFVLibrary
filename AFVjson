@@ -1,5 +1,5 @@
 {
-  "1.0.130": {
+  "1.0.132": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -716,6 +716,85 @@
             "Thermal View Left Side": "rfeatt80u9"
           }
         },
+        "T-80UK": {
+          "MANUFACTURE": [
+            "Omsk",
+            1992,
+            "Unknown"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "24A8",
+            "NSVT",
+            "PKT"
+          ],
+          "ARMOUR": [
+            "Kontakt-5",
+            "Shtora-1"
+          ],
+          "DATA": {
+            "Weight": "46t",
+            "Length": "7m",
+            "Width": "3.6m",
+            "Height": "2.2m",
+            "Speed": "70kph"
+          },
+          "IMAGES": [
+            "t80uk1",
+            "t80uk2",
+            "t80uk3"
+          ],
+          "DESCRIPTION": "The T-80UK is a command variant of the T-80U, equipped with additional R-163-50K and R-163-U radios, TNA-4 land navigation system, TShU-1-7 Shtora countermeasures system, electronic fuze-setting device that permits use of Ainet shrapnel round, a meteorological sensor, laser warning receivers, Agava-2 thermal sight which provides a 2,600-metre night acquisition range, fire control and Auxiliary power unit. It is used by regimental and battalion Commanding Officers.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-80UK remains mostly the same as the T-80U, the most prominent differences are the Shtora system, which is the 2 boxes on the front turret and also the laser warning sensors above the main armament. The addition of a thermal sight replacing the older night sight, this also adds to the removal of the IR searchlight. The addition of the meteorological sensor at the rear of the turret.": "rft80uk1",
+            "Here you can see the Shtora-1 IRCM boxes on the turret front, they appear smashed. This tank was abandoned and later destroyed during the 2022 Russian invasion of Ukraine. The Shtora ‘eyes’ can be personified for recognition, some say the turret looks like a frog, the boxes being the eyes.": "rft80uk2"
+          }
+        },
+        "T-80UM2": {
+          "MANUFACTURE": [
+            "Omsk",
+            1991,
+            "Unknown"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "NSVT",
+            "PKT"
+          ],
+          "ARMOUR": [
+            "Composite Armour",
+            "Kontakt-5",
+            "Drozd"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "tft80um21",
+            "tft80um22",
+            "tft80um23"
+          ],
+          "DESCRIPTION": "The T-80UM2 is a prototype from the 1990’s it was a T-80U with a Drozd APS complex fitted, it is unknown how many were produced but one example was destroyed in the 2022 Russian invasion of Ukraine, it may be the only copy. Although a prototype, it was evidently in service with the Russian Army. This could be considered a legacy/historical post given that a tank of such rarity would have been better suited in the Kyiv Museum of the Great Patriotic War, but for now enjoy the rare pictures we found of the tank in Russian service.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-80UM2 is exactly the same as the standard T-80U, the main difference is the Drozd APS which look like ‘ears’ fitted to the side of the turret, there are 2 mounts for the slug launchers with 4 holes on either side of the turret.": "rft80um21",
+            "Above the slug launchers the rectangle is the doppler radar, the large square box behind the launchers is the equipment control box for the radar.": "rft80um22",
+            "The photo confirming the destruction of the T-80UM2 in Ukraine.": "rft80um23",
+            "Here is what could have been the same T-80UM2 on its way to an exercise in Belarus, pre-war.": "rft80um24"
+          }
+        },
         "T-80BVM": {
           "MANUFACTURE": [
             "Omsk",
@@ -783,7 +862,7 @@
             "Height": "2.23m",
             "Range": "480-550km",
             "Speed": "60kph",
-            "HP": "780hp"
+            "HP": "1000hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -829,7 +908,7 @@
             "Height": "2.23m",
             "Range": "480-550km",
             "Speed": "60kph",
-            "HP": "780hp"
+            "HP": "1130hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -4608,14 +4687,7 @@
       "MANUFACTURERS": {
         "Empty Manufacturer": {
           "LOGO": "",
-          "LOCATION": "",
-          "DESCRIPTION": "",
-          "IMAGE": "",
-          "NATIONALITY": "",
-          "DATES": [
-            "FROM",
-            "TO"
-          ]
+          "DESCRIPTION": ""
         }
       }
     }
