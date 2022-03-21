@@ -1,5 +1,5 @@
 {
-  "1.0.127": {
+  "1.0.128": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -148,23 +148,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Afghanistan",
-            "Algeria",
-            "Angola",
-            "Cuba",
-            "Egypt",
-            "Eritrea",
-            "Ethiopia",
-            "Iran",
-            "Libya",
-            "Mongolia",
-            "North Korea",
-            "Russian Federation",
-            "Syria",
-            "Tajikistan",
-            "Uzbekistan",
-            "Vietnam",
-            "Yemen"
+            "Afghanistan,Algeria,Angola,Cuba,Egypt,Eritrea,Ethiopia,Iran,Libya,Mongolia,North Korea,Russian Federation,Syria,Tajikistan,Uzbekistan,Vietnam,Yemen"
           ],
           "WEAPONS": [
             "2A20",
