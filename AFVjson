@@ -1,5 +1,5 @@
 {
-  "1.0.128": {
+  "1.0.130": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -184,11 +184,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Cuba",
-            "Russian Federation",
-            "Syria",
-            "Uzbekistan",
-            "Vietnam"
+            "Cuba,Russian Federation,Syria,Uzbekistan,Vietnam"
           ],
           "WEAPONS": [
             "2A20",
@@ -225,12 +221,7 @@
             "1975"
           ],
           "COO": [
-            "Soviet Union",
-            "Cuba",
-            "Russian Federation",
-            "Syria",
-            "Uzbekistan",
-            "Vietnam"
+            "Soviet Union,Cuba,Russian Federation,Syria,Uzbekistan,Vietnam"
           ],
           "WEAPONS": [
             "2A20",
@@ -310,11 +301,7 @@
             "1991"
           ],
           "COO": [
-            "Soviet Union",
-            "Democratic Republic of the Congo",
-            "Transnistria",
-            "Ukraine",
-            "Uzbekistan"
+            "Soviet Union,Democratic Republic of the Congo,Transnistria,Ukraine,Uzbekistan"
           ],
           "WEAPONS": [
             "2A46",
@@ -433,12 +420,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Azerbaijan",
-            "Democratic Republic of the Congo",
-            "Georgia",
-            "Syria",
-            "North Macedonia",
-            "Russian Federation"
+            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia,Russian Federation"
           ],
           "WEAPONS": [
             "2A46",
@@ -481,10 +463,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Democratic Republic of the Congo",
-            "Kenya",
-            "Sudan",
-            "Syria"
+            "Democratic Republic of the Congo,Kenya,Sudan,Syria"
           ],
           "WEAPONS": [
             "2A46",
@@ -525,11 +504,7 @@
           ],
           "COO": [
             "Russian Federation",
-            "Azerbaijan",
-            "Democratic Republic of the Congo",
-            "Georgia",
-            "Syria",
-            "North Macedonia"
+            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia"
           ],
           "WEAPONS": [
             "2A46",
@@ -570,11 +545,7 @@
           ],
           "COO": [
             "Russian Federation",
-            "Azerbaijan",
-            "Democratic Republic of the Congo",
-            "Georgia",
-            "Syria",
-            "North Macedonia"
+            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia"
           ],
           "WEAPONS": [
             "2A46",
@@ -4311,8 +4282,7 @@
           ],
           "COO": [
             "France",
-            "UAE",
-            "Jordan"
+            "UAE,Jordan"
           ],
           "WEAPONS": [
             "CN120-26",
@@ -4513,8 +4483,7 @@
             ],
             "COO": [
               "United States of America",
-              "Moroco",
-              "Taiwain"
+              "Moroco,Taiwain"
             ],
             "R_FEAT": {
               "The M1A1 Abrams has a quintessential modern western tank design, heavily sloping armour, low hull with a large turret, straight lines and angled armour due to the fitting of composites. The turret has very slab like flat cheeks, the 120mm gun has a prominent fume extractor which is bulbous towards the top rather than cylindrical, the gun also has an MRS system at the end indicating advanced FCS. The way that you can identify an M1A1 to later models is via the lack of a commanders panoramic sight. The smoke grenade dischargers are fitted to the immediate turret sides, giving an ‘ears’ like appearance, although they’re covered in this photo.": "rfeatm1a11",
@@ -4558,8 +4527,7 @@
             ],
             "COO": [
               "United States of America",
-              "Kuwait",
-              "Saudi Arabia"
+              "Kuwait,Saudi Arabia"
             ],
             "R_FEAT": {
               "The M1A2 baseline only really has one new recognising feature which is the addition of the commanders panoramic sight on the left side of the turret in front of the loaders hatch.": "rfeatm1a21",
