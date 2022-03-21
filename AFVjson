@@ -1,5 +1,5 @@
 {
-  "1.0.135": {
+  "1.0.136": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1443,6 +1443,80 @@
           "R_FEAT": {
             "The BTR-82A is visually very similar to the BTR-80A, The main differences are on the turret and the rear. The sighting system below the gun isn’t there on BTR-80A, the searchlight above the gun is replaced with a square box.": "rfbtr82a1",
             "As you can see here there is a prominent cylinder above the exhaust, this is on both sides and a good indicating feature for this model, this isn't fitted to other BTR models. For an in-depth guide on BTR-80, see BTR-80.": "rfbtr82a2"
+          }
+        }
+      },
+      "BTR-3*": {
+        "BTR-3U": {
+          "MANUFACTURE": [
+            "Kharkiv",
+            2001,
+            2022
+          ],
+          "COO": [
+            "Ukraine"
+          ],
+          "WEAPONS": [
+            "ZTM-1",
+            "Barier ATGM",
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "btr3u1",
+            "btr3u2"
+          ],
+          "DESCRIPTION": "The BTR-3U is a Ukrainian self-produced IFV, built for the export market but also in Ukrainian service. It is based on the BTR-80 but built from scratch, rather than being an upgraded hull of an older BTR. The turret system is modular and can be switched.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The BTR-3U is different to the Russian BTR series, although some similarities remain. The Shkval turret turret package is distinctive, the 30mm has a rail system on the outside, either side of the main gun are 2 banks of 3 SGD’s. On the left of the turret is a large box for the sighting system.": "rfbtr3u1",
+            "The right side of the turret has 2 mounts for ATGM’s, these are usually Ukrainian self-produced ‘Barrier’ ATGM’s. The hull changes are plentiful with a completely new superstructure, you can see it is raised and is taller than a standard Russian BTR, with a prominent circular base for the turret.": "rfbtr3u2",
+            "The frontal hull remains similar to a BTR-80 with the armoured windows, boat shaped frontal hull. The sides change with a lack of firing ports covering the whole side like on BTR-80, addition of grab handles, there are also 2 triangle footholds with squared off ends to aid mounting the vehicle.": "rfbtr3u3",
+            "The BTR-3U rear is different to that of a Russian BTR, the exhaust is the black rectangular slit between the 2 tail lights, the water jet cover is at the bottom centre of the rear.": "rfbtr3u4"
+          }
+        },
+        "BTR-3DA": {
+          "MANUFACTURE": [
+            "Kharkiv",
+            2017,
+            2018
+          ],
+          "COO": [
+            "Ukraine"
+          ],
+          "WEAPONS": [
+            "ZTM-1",
+            "PKT",
+            "KBA-117"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "btr3da1",
+            "btr3da2",
+            "btr3da3"
+          ],
+          "DESCRIPTION": "The BTR-3DA is a variant of the BTR-3U with a different turret, purchased by the Ukrainian Armed Forces; they are used by the Azov Battalion and some other army formations.",
+          "CREW": "3+6",
+          "R_FEAT": {
+            "The major differences with the BTR-3DA, the turret has changed as its part of the Shturm-M weapon station. It now has a rounded box on the left side instead of the square. ": "rfbtr3da1",
+            "There is now a prominent storage box on the left side behind the door. The rear exhaust now moves places and is a small circular exhaust on the top rear right, rather than a rectangular slit in the centre like on BTR-3U.": "rfbtr3da2",
+            "The side has changed with the long cylindrical tube at the rear right for the exhaust.": "rfbtr3da3"
           }
         }
       }
