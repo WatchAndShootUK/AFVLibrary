@@ -1,5 +1,5 @@
 {
-  "1.0.138": {
+  "1.0.140": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -385,12 +385,16 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Azerbaijan,Russia"
           ],
           "WEAPONS": [
             "2A46",
             "PKMT",
             "NSVT"
+          ],
+          "ARMOUR": [
+            "Composite Armour"
           ],
           "DATA": {
             "Weight": "43t",
@@ -3672,7 +3676,7 @@
         }
       }
     },
-    "CAPABILITIES": {
+    "MISC": {
       "Empty Vehicle Template": {
         "MANUFACTURE": [
           "Manufacturer",
@@ -4758,6 +4762,10 @@
           "CREW": 3
         }
       },
+      "GLOSSARY": [
+        "AFV,Armoured Fighting Vehicle",
+        "MBT,Main Battle Tank"
+      ],
       "MANUFACTURERS": {
         "Uralvagonzavod": {
           "NAME": "Uralvagonzavod",
