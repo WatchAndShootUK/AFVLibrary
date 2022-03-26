@@ -4762,10 +4762,7 @@
           "CREW": 3
         }
       },
-      "GLOSSARY": [
-        "AFV,Armoured Fighting Vehicle",
-        "MBT,Main Battle Tank"
-      ],
+      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2",
       "MANUFACTURERS": {
         "Uralvagonzavod": {
           "NAME": "Uralvagonzavod",
