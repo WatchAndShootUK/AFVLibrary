@@ -1,5 +1,5 @@
 {
-  "1.0.142": {
+  "1.0.143": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2799,7 +2799,44 @@
       }
     },
     "Artillery": {
-      "Small*": {
+      "Towed*": {
+        "Empty vehicle": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
+      },
+      "Light*": {
         "2S1 Gvozdika": {
           "MANUFACTURE": [
             "KhTZ",
