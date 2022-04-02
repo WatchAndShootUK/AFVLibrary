@@ -1,5 +1,5 @@
 {
-  "1.0.141": {
+  "1.0.142": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -4762,7 +4762,7 @@
           "CREW": 3
         }
       },
-      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2",
+      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot",
       "MANUFACTURERS": {
         "Uralvagonzavod": {
           "NAME": "Uralvagonzavod",
