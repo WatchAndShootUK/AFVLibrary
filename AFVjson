@@ -1,5 +1,5 @@
 {
-  "1.0.143": {
+  "1.0.144": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3467,6 +3467,12 @@
       }
     },
     "MISC": {
+      "LINKS": {
+        "GOOGLE_STORE": "https://play.google.com/store/apps/developer?id=Watch%20%26%20Shoot%20Developments",
+        "APPLE_STORE": "https://apps.apple.com/gb/developer/mark-wileman/id1561466869",
+        "AFV_INSTAGRAM": "https://www.instagram.com/afv_recognition_/",
+        "WAS_FACEBOOK": "https://www.facebook.com/WatchAndShootUK/"
+      },
       "Empty Vehicle Template": {
         "MANUFACTURE": [
           "Manufacturer",
