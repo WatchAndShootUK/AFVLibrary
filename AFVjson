@@ -2298,7 +2298,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Algeria,Armenia,Azerbaijan,Belarus,Ukrainian,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
+            "Algeria,Armenia,Azerbaijan,Belarus,Ukraine,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,Korea North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
           ],
           "WEAPONS": [
             "9M38",
@@ -2365,7 +2365,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Algeria,Armenia,Azerbaijan,Belarus,Ukrainian,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
+            "Algeria,Armenia,Azerbaijan,Belarus,Ukraine,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,Korea North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
           ],
           "WEAPONS": [
             "9M317",
@@ -2376,11 +2376,12 @@
             "TEL": "9A310"
           },
           "IMAGES": [
-            "bukm2telar",
-            "bukm2telar2",
-            "bukm2tel"
+            "bukm21",
+            "bukm22",
+            "bukm23",
+            "bukm24"
           ],
-          "DESCRIPTION": "The 9K317 Buk-M2, NATO designation SA-17 'Grizzly', is an upgraded system to the Buk M1. The major improvements are the integral 9S36 fire control radar and the ability to engage with the more modern 9M317 surface to air missiles. The 9A310 TEL",
+          "DESCRIPTION": "The 9K317 Buk-M2, NATO designation SA-17 'Grizzly', is an upgraded system to the Buk M1. The major improvements are the integral 9S36 fire control radar and the ability to engage with the more modern 9M317 surface to air missiles. The TELAR is upgraded to the 9A317 and the TEL is now the 9A310, the pair can carry a total of 12 missiles (4 on TELAR, 8 on TEL). The system now uses the 9S18M1 'Snow Drift' radar for target acquisition.",
           "CREW": 3,
           "R_FEAT": {
             "The Buk-M2 is mounted on the same chassis as the M1, however the roadwheels are now solid steel (as opposed to the light weight spaced wheels on the M1).": "bukm2rf1",
