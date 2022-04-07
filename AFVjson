@@ -1,5 +1,5 @@
 {
-  "1.1.12": {
+  "1.1.13": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2357,14 +2357,14 @@
             " (copy)": "rfeat"
           }
         },
-        "9K317 Buk-M2": {
+        "9K317 Buk-M2 ": {
           "MANUFACTURE": [
             "Ulyanovsk",
             2008,
             "Present"
           ],
           "COO": [
-            "Soviet Union",
+            "Russia",
             "Algeria,Armenia,Azerbaijan,Belarus,Ukraine,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,Korea North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
           ],
           "WEAPONS": [
