@@ -1,5 +1,5 @@
 {
-  "1.1.3": {
+  "1.1.4": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2042,7 +2042,7 @@
           "2K12_KUB_(rockets)",
           "maxresdefault"
         ],
-        "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6, is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'STRAIGHT FLUSH' target acquisition radar and various wheeled supply trucks.",
+        "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6 'Gainful', is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'STRAIGHT FLUSH' target acquisition radar and various wheeled supply trucks.",
         "CREW": 3,
         "R_FEAT": {
           "The 2K12 is mounted on the GM-578 chassis which has slack tracks and a 6 roadwheel configuration of 1-1-4. The final drive is at the rear. The most obvious recognising feature is the three M39M4 missiles which sit within a framed cradle.": "rf2k121",
@@ -2074,48 +2074,45 @@
         "IMAGES": [
           "ad_spaag_Tunguska_p04",
           "2k22",
-          "2k22firing"
+          "2k22firing",
+          "2k22ukr",
+          "2k22ukr2"
         ],
         "DESCRIPTION": "The 2K22 Tunguska, NATO reporting name SA-19 'Grison', is a short ranged surface to air system. It has a self contained tracking and fire control radar and is armed with 8 x  9M311 missiles and 2 x 30mm 2A38M cannons. It is designed to engage low level aircraft, helicopters and cruise missiles. The system is mounted on the GM-5975 chassis and is also designed as the 2S6 artillery system on the GRAU index. There is an upgraded system that uses the Pantsir's 57E6 missile.",
         "CREW": 4,
         "R_FEAT": {
           "The 2K22 is mounted on GM-5975 chassis which has 6 evenly spaced road wheels with gaps between each wheel and the final drive at the rear. The driver's hatch is on the left, above a steep splash plate. The sides of the chassis are straight, with a box-shaped rear end.": "2k22rf1",
-          "The Tunguska's turret is unique. The 30mm cannons are large and flank the commanders hatch. The  missile launches sit below the cannons, and are rectangular with each holding 4 missiles. There is a circular tracking radar on the front of the turret. ": "2k22rf2"
+          "The Tunguska's turret is unique. The 30mm cannons are large and flank the commanders hatch. The  missile launchers sit below the cannons, and are rectangular with each holding 4 missiles. There is a circular tracking radar on the front of the turret. ": "2k22rf2"
         }
       },
       "Pantsir": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "Ulyanovsk",
+          2012,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Russia",
+          "Algeria,Ethiopia,Equatorial Guinea,Iran,Iraq,Jordan,Myanmar,Oman,Russia,Serbia,Syria,United Arab Emirates,Vietnam"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "57E6",
+          "2A38M",
+          "1RS2-1E"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Cost": "$13mil"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "pantsirs1",
+          "pantsirukr",
+          "Serbias-Pantsir-S1-air-defense-systems-debut-at-live-fire-exercise"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The Pantsir missile system, NATO reporting name SA-22 'Greyhound' is an upgrade to the Tunguska. It is a short range SAM designed to protect ground forces from attack by low flying aircraft, helicopters and cruise missiles. Like the 2K22 it is armed with both missiles and 30mm cannons, however the fire control systems are vastly improved, allowing it to track up to 20 targets and engage 3 simultaneously.",
+        "CREW": 3,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The Pantsir is mounted on the KAMAZ-6560 8x8 truck chassis.": "Slavic-Shield-19-Pantsir-firing",
+          "The weapon consists of 2 x  6 pod missile launchers which can move independantly in banks of three. The 30 mm cannons flank the rectangular radar at the rear of the turret. There is a circular tracking radar at the front of the system.": "images"
         }
       },
       "Tor": {
