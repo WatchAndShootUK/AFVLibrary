@@ -1,5 +1,5 @@
 {
-  "1.1.6": {
+  "1.1.7": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2145,6 +2145,7 @@
           "R_FEAT": {
             "The 9A330 chassis has 7 evenly spaced roadwheels with the final drive to the rear. The hull is boat shaped at the front and flat at the rear, with a number of rectangular storage bins on either side. The weapon system, shown here depressed, is the same height as the tracks. You can make out one of the radars in the downward position.": "ad_spsam_sa15_v1",
             "When the system is elevated the most obvious feature is the large square tracking radar at the front, with a circular protruding section. The target acquisition radar at the rear consists of a rectangular mesh dish. Both radars together are classed as the 'Scrum Half' radar system.": "tor-m1-1024x661",
+            "The Tor-M1 has one circular sensor on the top left corner of the tracking radar as opposed the Tor-M2's dual sensors. This is a key way of identifying the difference between the two variants.": "torgundish",
             "Destroyed Tor-M1 seen in Ukraine in 2022.": "torrf2"
           }
         },
@@ -2178,6 +2179,7 @@
           "CREW": 3,
           "R_FEAT": {
             "The key recognising feature of the Tor-M2E is the different target acquisition radar, instead of a mesh dish it is a rectangular plate dish.": "torm2rf1",
+            "The square tracking radar has two globe shaped sensors in the top corners, this is unique to the Tor-M2E variants (the M1 only has one).": "tor2gundish",
             "Captured Tor-M2 seen in Ukraine in 2022.": "torm2rf2"
           }
         }
