@@ -1,5 +1,5 @@
 {
-  "1.1.7": {
+  "1.1.8": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2289,149 +2289,40 @@
           " (copy)": "rfeat"
         }
       },
-      "Buk*": {
-        "9K37 Buk": {
+      "Buk*": {},
+      "9K37M1 Buk-M1*": {
+        "9A310 Buk-M1 TELAR": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Unknown",
+            1983,
+            1988
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union",
+            "Algeria,Armenia,Azerbaijan,Belarus,Ukrainian,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "9M38",
+            "9S35 Fire Dome"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Acquisition radar": "9S18 Tube Arm",
+            "Tracking radar": "9S35 Fire Dome"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "sa-11_gadfly_anti-aircraft_missile_to_armoured_tracked_vehicle_640_001",
+            "9K37_Buk_M1_SA-11_Gadfly",
+            "bukm1telar2"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The 9A310 is the TELAR for the 9K37M1 Buk-M1 is a medium to long range surface to air missile, NATO designation SA-11 'Gadfly'. The system is upgraded from the 2K12 Kub family of SAMs. Unlike self-contained SAMs, the Buk-M1 requires an external 9S18 'Tube Arm' target acquisition radar before it can use its integral 9S35 'Fire Dome' tracking and engagement radar.",
+          "CREW": 3,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "9K37 Buk M1": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "9K317 Buk-M2": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The Buk M1 is mounted on the GM-569 chassis. It has 6 evenly spaced road wheels. The launcher has a flat profile and is as long as the chassis. The TELAR can carry up to 4 9M38 surface to air missiles. The 9S35 'Fire Dome' radar can be seen on the front of the launcher platform.": "9K37_Buk_M1_SA-11_Gadfly",
+            "The 9S35 'Fire Dome' radar is a unique looking radar which extends well over the chassis when traversed. Unlike most radars it is elongated, with a curved top and flat bottom. This radar is unique to the Buk M1 and is its key recognising feature.": "bukm1telarrf1"
           }
         }
       },
-      "S-300": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "S-400": {
+      "9A317 Buk-M2*": {
         "MANUFACTURE": [
           "Manufacturer",
           "FROM",
