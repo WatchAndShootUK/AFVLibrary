@@ -1,5 +1,5 @@
 {
-  "1.1.15": {
+  "1.1.16": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -160,15 +160,15 @@
           "HP": ""
         },
         "IMAGES": [
-          "",
-          ""
+          "snar101",
+          "snar102"
         ],
         "DESCRIPTION": "The SNAR-10 is a ground surveillance radar variant of the MTLB with a 1RL127 radar, NATO designation 'Big Fred'",
         "CREW": 5,
         "R_FEAT": {
-          "The SNAR-10 is a 1RL127 radar mounted on a fully traversable turret on an MTLB APC, it is hugely recognisable by the huge turret with the radar fitted on the top. It is commonly found with reconnaissance and artillery reconnaissance units. ": "rfprp41",
-          "Here is the SNAR-10 with the radar raised.": "rfprp41",
-          "Here is a crude attempt at disguising the SNAR-10 as some kind of tank or IFV.": "rfprp41"
+          "The SNAR-10 is a 1RL127 radar mounted on a fully traversable turret on an MTLB APC, it is hugely recognisable by the huge turret with the radar fitted on the top. It is commonly found with reconnaissance and artillery reconnaissance units. ": "snar10rf1",
+          "Here is the SNAR-10 with the radar raised.": "snar10rf2",
+          "Here is a crude attempt at disguising the SNAR-10 as some kind of tank or IFV.": "snar10rf3"
         }
       }
     },
@@ -445,8 +445,8 @@
           "CREW": 3,
           "R_FEAT": {
             "The key differences here is the ERA on the turret, giving it a look similar to a turtle shell, the ERA has no gaps in between the blocks. The sideskirts now have ERA panels covering them.": "t64b1mrf1",
-            "Here is a T-64B1M damaged and abandoned near Mariupol\nduring the 2022 Russian invasion of Ukraine.": "t64b1mrf2",
-            "Here is a T-64B1M that\nshows the Nozh ERA has clearly resisted a hit from an ATGM.": "t64b1mrf3",
+            "Here is a T-64B1M damaged and abandoned near Mariupol during the 2022 Russian invasion of Ukraine.": "t64b1mrf2",
+            "Here is a T-64B1M that shows the Nozh ERA has clearly resisted a hit from an ATGM.": "t64b1mrf3",
             "You can also see in this photo the turret bustle rack\nand stowage extension on the rear of the turret.": "t64b1mrf4"
           }
         }
@@ -1595,6 +1595,45 @@
             "There is now a prominent storage box on the left side behind the door. The rear exhaust now moves places and is a small circular exhaust on the top rear right, rather than a rectangular slit in the centre like on BTR-3U.": "rfbtr3da2",
             "The side has changed with the long cylindrical tube at the rear right for the exhaust.": "rfbtr3da3"
           }
+        }
+      },
+      "BTR-4": {
+        "MANUFACTURE": [
+          "KMDB",
+          2008,
+          "Present"
+        ],
+        "COO": [
+          "Ukraine"
+        ],
+        "WEAPONS": [
+          "ZTM-1",
+          "PKT",
+          "9M113"
+        ],
+        "ARMOUR": [
+          "Bar armour"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "btr41",
+          "btr42"
+        ],
+        "DESCRIPTION": "The BTR-4 is a Ukrainian self produced IFV, it\nrepresents a change in production from Kharkiv and looks more western,\ncomparable to the Tpz Fuchs German APC, it can have an array of weapon modules\nfitted.",
+        "CREW": "3+8",
+        "R_FEAT": {
+          "The BTR-4 can be fitted with different turrets, this one has the Shkval module. The turret is similar to the BTR-3U. It has the ZTM-1 30mm cannon with the prominent rails around the gun. The 3 SGD’s are on either side of the gun. The Shkval module is usually fitted with bar armour as seen here. ": "btr4rf1",
+          "The hull of the BTR-4 is unlike standard BTR’s, the frontal hull has large windows with covers that can be opened and closed, the lower boat shaped hull is still reminiscent of the BTR-80. Moving to the side the driver and commander have doors now rather than hatches, there is an air intake on the front right side and the side doors have been omitted and replaced by rear doors.": "btr4rf2",
+          "The exhaust is on the left side, the cylinder you see in the centre. The roadwheels are equally spaced at the front, broken up between the 2nd and 3rd with a triangle box, the 3rd and 4th are also broken up with a box, there are 2 propellers at the rear on either side behind the last roadwheel.": "btr4rf3",
+          "This BTR-4 has the GROM turret system.": "btr4rf4"
         }
       }
     },
