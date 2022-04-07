@@ -1,5 +1,5 @@
 {
-  "1.1.11": {
+  "1.1.12": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2290,9 +2290,9 @@
         }
       },
       "Buk*": {
-        "9K37M1 Buk-M1": {
+        "9K37 Buk-M1": {
           "MANUFACTURE": [
-            "Unknown",
+            "Ulyanovsk",
             1983,
             1988
           ],
@@ -2305,7 +2305,8 @@
             "9S35 Fire Dome"
           ],
           "DATA": {
-            "Empty": "Empty"
+            "TELAR": "9A310",
+            "TEL": "9A39"
           },
           "IMAGES": [
             "sa-11_gadfly_anti-aircraft_missile_to_armoured_tracked_vehicle_640_001",
@@ -2318,7 +2319,143 @@
           "R_FEAT": {
             "The Buk M1 is mounted on the GM-569 chassis. It has 6 evenly spaced road wheels. The launcher has a flat profile and is as long as the chassis. The TELAR can carry up to 4 9M38 surface to air missiles. The 9S35 'Fire Dome' radar can be seen on the front of the launcher platform.": "bukm1telarrf2",
             "The 9S35 'Fire Dome' radar is a unique looking radar which extends well over the chassis when traversed. Unlike most radars it is elongated, with a curved top and flat bottom. This radar is unique to the Buk M1 and is its key recognising feature.": "bukm1telarrf1",
-            "The Buk M1's TEL can be identified from the M2 by the fact that the 'arrows' on the sides of the launcher point upwards. The wheels on some older M1 variants have gaps in them.": "bukm1telrf"
+            "The Buk M1's TEL (9A39) can be identified by the crane in place of the radar and by the fact that the 'arrows' on the sides of the launcher point upwards. The wheels on some older M1 variants have spaces in them to reduce weight.": "bukm1telrf"
+          }
+        },
+        "9S18 Tube Arm": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "9K317 Buk-M2": {
+          "MANUFACTURE": [
+            "Ulyanovsk",
+            2008,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Algeria,Armenia,Azerbaijan,Belarus,Ukrainian,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
+          ],
+          "WEAPONS": [
+            "9M317",
+            "9S36"
+          ],
+          "DATA": {
+            "TELAR": "9A317",
+            "TEL": "9A310"
+          },
+          "IMAGES": [
+            "bukm2telar",
+            "bukm2telar2",
+            "bukm2tel"
+          ],
+          "DESCRIPTION": "The 9K317 Buk-M2, NATO designation SA-17 'Grizzly', is an upgraded system to the Buk M1. The major improvements are the integral 9S36 fire control radar and the ability to engage with the more modern 9M317 surface to air missiles. The 9A310 TEL",
+          "CREW": 3,
+          "R_FEAT": {
+            "The Buk-M2 is mounted on the same chassis as the M1, however the roadwheels are now solid steel (as opposed to the light weight spaced wheels on the M1).": "bukm2rf1",
+            "The key recognising feature is the new 9S36 radar, it is flatter than its predessesor (Fire Dome).": "bukm2rf2",
+            "The 9A310 TEL (identified by the crane) can be identified by the solid wheels and the 'arrow' framework on the launcher's sides point downwards.": "bukm2rf3"
+          }
+        },
+        "9S18M1 Snow Drift": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "9S36 Radar": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
           }
         }
       },
