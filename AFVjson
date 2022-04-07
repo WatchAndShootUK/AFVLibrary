@@ -1,5 +1,5 @@
 {
-  "1.1.1": {
+  "1.1.2": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1657,8 +1657,7 @@
           },
           "IMAGES": [
             "btrmdm1",
-            "btrmdm2",
-            "btrmdm3"
+            "btrmdm2"
           ],
           "DESCRIPTION": "The BTR-MDM is a replacement for aging BTR-D, albeit slowly. It is made to be the main troop transport for the VDV, with the BMD’s providing fire support, it is based on the older BTR-MD, in line with VDV vehicles it is air transportable.  ",
           "CREW": "3+5",
@@ -2028,30 +2027,26 @@
           "Present"
         ],
         "COO": [
-          "Soviet Union"
+          "Soviet Union",
+          "Algeria,Angola,Armenia,Bulgaria,Bosnia and Herzegovina,Chad,Cuba,Czech Republic,Egypt,Ethiopia,Hungary,India,Iran,Kazakhstan,Libya,Myanmar,North Korea,Poland,Romania,Sahrawi Arab Democratic Republic,Serbia,Serbian Army,Slovakia,Syria,Tanzania,Turkmenistan,Vietnam,Yemen"
         ],
         "WEAPONS": [
-          "9M8"
+          "3M9M4",
+          "1S91 Straight Flush"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "19.5t"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "2018-080-aa6",
+          "2K12_KUB_(rockets)",
+          "maxresdefault"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6, is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'STRAIGHT FLUSH' target acquisition radar and various wheeled supply trucks.",
+        "CREW": 3,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The 2K12 is mounted on the GM-578 chassis which has slack tracks and a 6 roadwheel configuration of 1-1-4. The final drive is at the rear. The most obvious recognising feature is the three M39M4 missiles which sit within a framed cradle.": "rf2k121",
+          "This image shows the 2K12 without missiles fitted and the TEL in the collapsed position. Note the high, tear shaped rails - this disguishes it from other SAMs.": "rf2k122"
         }
       },
       "2K22 Tunguska": {
@@ -2089,288 +2084,74 @@
           " (copy)": "rfeat"
         }
       },
-      "Pantsir*": {
-        "Pantsir-S1": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+      "Pantsir": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
         },
-        "Pantsir-S2": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "Pantsir-SM": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "Pantsir-SA": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
         }
       },
-      "Tor*": {
-        "Tor-M1": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+      "Tor": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
         },
-        "Tor-M2E": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "Tor-M2DT": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "Tor-2E": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
         }
       },
       "9K33 Osa": {
@@ -2479,7 +2260,7 @@
         }
       },
       "Buk*": {
-        "9K37": {
+        "9K37 Buk": {
           "MANUFACTURE": [
             "Manufacturer",
             "FROM",
@@ -2514,7 +2295,42 @@
             " (copy)": "rfeat"
           }
         },
-        "9K37M1": {
+        "9K37 Buk M1": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "9K317 Buk-M2": {
           "MANUFACTURE": [
             "Manufacturer",
             "FROM",
@@ -2586,41 +2402,6 @@
         }
       },
       "S-400": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "S-500": {
         "MANUFACTURE": [
           "Manufacturer",
           "FROM",
