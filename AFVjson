@@ -1,5 +1,5 @@
 {
-  "1.1.5": {
+  "1.1.6": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2115,37 +2115,71 @@
           "The weapon consists of 2 x  6 pod missile launchers which can move independantly in banks of three. The 30 mm cannons flank the rectangular radar at the rear of the turret. There is a circular tracking radar at the front of the system.": "images"
         }
       },
-      "9K330 Tor": {
-        "MANUFACTURE": [
-          "IEMZ Kupol",
-          1983,
-          "Present"
-        ],
-        "COO": [
-          "Soviet Union",
-          "Algeria,Azerbaijan,Armenia,Belarus,China,Cyprus,Egypt,Greece,Iran,Myanmar,Korea North,Peru,Russia,Ukraine,Venezuela,Yemen,Morocco,Syria"
-        ],
-        "WEAPONS": [
-          "9M330",
-          "Scrum Half"
-        ],
-        "DATA": {
-          "Weight": "34t",
-          "Length": "7.5m",
-          "Width": "3.3m",
-          "Height": "5.1m"
+      "Tor*": {
+        "9K331 Tor-M1": {
+          "MANUFACTURE": [
+            "IEMZ Kupol",
+            1983,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Armenia,China,Cyprus,Egypt,Greece,Iran,Korea North,Peru,Russia,Ukraine,Venezuela,Yemen,Morocco,Syria"
+          ],
+          "WEAPONS": [
+            "9M330",
+            "Scrum Half"
+          ],
+          "DATA": {
+            "Weight": "34t",
+            "Length": "7.5m",
+            "Width": "3.3m",
+            "Height": "5.1m"
+          },
+          "IMAGES": [
+            "torm11",
+            "torm12"
+          ],
+          "DESCRIPTION": "The 9K331 Tor, NATO reporting name SA-15 'Gauntlet' is a medium level surface to air missile system. Mounted on a 9A330 chassis the system is classified as a self-propelled transporter, launcher and radar (TLAR). It is similiar to the United Kingdom Rapier system. The missiles are guided by the integral 'Scrum half' radar system.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The 9A330 chassis has 7 evenly spaced roadwheels with the final drive to the rear. The hull is boat shaped at the front and flat at the rear, with a number of rectangular storage bins on either side. The weapon system, shown here depressed, is the same height as the tracks. You can make out one of the radars in the downward position.": "ad_spsam_sa15_v1",
+            "When the system is elevated the most obvious feature is the large square tracking radar at the front, with a circular protruding section. The target acquisition radar at the rear consists of a rectangular mesh dish. Both radars together are classed as the 'Scrum Half' radar system.": "tor-m1-1024x661",
+            "Destroyed Tor-M1 seen in Ukraine in 2022.": "torrf2"
+          }
         },
-        "IMAGES": [
-          "pod-rostovom-raschety-tor-m2-odnovremenno-porazili-4-celi-jpaz3xbe-1608964681",
-          "663d164a4196d3390255bb8af89fa2f0",
-          "tor"
-        ],
-        "DESCRIPTION": "The 9K330 Tor, NATO reporting name SA-15 'Gauntlet' is a medium level surface to air missile system. Mounted on a 9A330 chassis the system is classified as a self-propelled transporter, launcher and radar (TLAR). It is similiar to the United Kingdom Rapier system. The missiles are guided by the integral 'Scrum half' radar system.",
-        "CREW": 3,
-        "R_FEAT": {
-          "The 9A330 chassis has 7 evenly spaced roadwheels with the final drive to the rear. The hull is boat shaped at the front and flat at the rear, with a number of rectangular storage bins on either side. The weapon system, shown here depressed, is the same height as the tracks. You can make out one of the radars in the downward position.": "ad_spsam_sa15_v1",
-          "When the system is elevated the most obvious feature is the large square tracking radar at the front, with a circular protruding section. The target acquisition radar at the rear consists of a rectangular dish. Both radars together are classed as the 'Scrum Half' radar system.": "tor-m1-1024x661",
-          "Destroyed Tor seen in Ukraine in 2022.": "torrf2"
+        "9K332 Tor-M2E": {
+          "MANUFACTURE": [
+            "IEMZ Kupol",
+            2007,
+            "Present"
+          ],
+          "COO": [
+            "Russia",
+            "Algeria,Azerbaijan,Belarus,Myanmar,Russia"
+          ],
+          "WEAPONS": [
+            "9M330",
+            "Scrum Half"
+          ],
+          "DATA": {
+            "Weight": "34t",
+            "Length": "7.5m",
+            "Width": "3.3m",
+            "Height": "5.1m"
+          },
+          "IMAGES": [
+            "TOR-M2_SA-15D_short-range_surface-to-air_defense_misssile_system_Russia_Russian_army_front_view_001",
+            "Tor-M2E",
+            "8471b045895a5db5fabb5b557b2c2410",
+            "tor-m2km-1"
+          ],
+          "DESCRIPTION": "The 9K332 Tor-M2E, NATO reporting name SA-15D 'Gauntlet' is a medium level surface to air missile system. It is an upgrade to the M1 system, with an improved missile (9M332) and a new target acquisition radar. There is also a wheeled variant designated the Tor-M2K and a self contained unit, the Tor-M2KM, which can be mounted on supply vehicles or in static locations both on ground or on ship.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The key recognising feature of the Tor-M2E is the different target acquisition radar, instead of a mesh dish it is a rectangular plate dish.": "torm2rf1",
+            "Captured Tor-M2 seen in Ukraine in 2022.": "torm2rf2"
+          }
         }
       },
       "9K33 Osa": {
