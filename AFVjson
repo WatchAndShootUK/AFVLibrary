@@ -1,5 +1,5 @@
 {
-  "1.1.13": {
+  "1.1.15": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -135,6 +135,40 @@
         "CREW": 4,
         "R_FEAT": {
           "The PRP-4 Nard is based on the BMP-1 Hull, the hull remains relatively the same with the main differences being the turret, for hull recognition features, refer to the BMP-1 in the IFV Section. The turret is a large 2 man turret similar to the BRM-1K, it has a small ball mount for the PKT, with 2 prominent boxes either side of the turret, like ears; they are the sighting systems, as well as the raised boxes on the top of the turret which are sighting systems as well. At the rear of the turret, there is the ‘Tall Mike’ radar system; it can be lowered and raised by the RadOp.": "rfprp41"
+        }
+      },
+      "SNAR-10": {
+        "MANUFACTURE": [
+          "KMDB",
+          1960,
+          "Unknown"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "WEAPONS": [
+          "1RL127",
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          ""
+        ],
+        "DESCRIPTION": "The SNAR-10 is a ground surveillance radar variant of the MTLB with a 1RL127 radar, NATO designation 'Big Fred'",
+        "CREW": 5,
+        "R_FEAT": {
+          "The SNAR-10 is a 1RL127 radar mounted on a fully traversable turret on an MTLB APC, it is hugely recognisable by the huge turret with the radar fitted on the top. It is commonly found with reconnaissance and artillery reconnaissance units. ": "rfprp41",
+          "Here is the SNAR-10 with the radar raised.": "rfprp41",
+          "Here is a crude attempt at disguising the SNAR-10 as some kind of tank or IFV.": "rfprp41"
         }
       }
     },
@@ -374,6 +408,46 @@
             "The turret of the T-64BM looks very similar to that of the T-80U, some ways to differentiate are with the smoke grenade discharges at the rear sides of the turret rather than across the front, you can also see a meteorological sensor at the rear of the turret for the FCS, the T-80U has an IR searchlight and gaps either side of the gun where there is no ERA, the T-64BM does not have this. It also has a commanders sight different to the T-64BM.": "t64bm1",
             "On the Hull the front glacis plate has ERA snugly fitted giving it a much thicker appearance, there are also ERA panels down the sides towards the front. The roadwheels remain the same as the standard T-64, this is a good feature, as well as the drivers periscope being singular whereas T-80U has 3 periscopes.": "t64bm2",
             "This is a T-80U, easily confused with the T-64BM, you will notice the differences I mentioned before in ERA, Commanders sight, Meteorological sensor, IR searchlight and SGD’s. Also the obvious differences in roadwheels, Drivers periscopes.": "rfeatt64bm3"
+          }
+        },
+        "T-64BM1": {
+          "MANUFACTURE": [
+            "KMDB",
+            "2014",
+            2020
+          ],
+          "COO": [
+            "Ukraine"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "45t",
+            "Length": "9.225m",
+            "Width": "3.615m",
+            "Height": "2.172m",
+            "Range": "500km",
+            "Speed": "35mph",
+            "HP": "700hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Nozh ERA"
+          ],
+          "IMAGES": [
+            "t64bm11",
+            "t64bm12"
+          ],
+          "DESCRIPTION": "The T-64B1M is a Ukrainian upgrade of the T-64B1, the main upgrade being the addition of Nozh ERA and a rear turret extension for stowage. There aren't many in service with the Ukrainian army but they have\nseen action since 2014 and currently.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The key differences here is the ERA on the turret, giving it a look similar to a turtle shell, the ERA has no gaps in between the blocks. The sideskirts now have ERA panels covering them.": "t64b1mrf1",
+            "Here is a T-64B1M damaged and abandoned near Mariupol\nduring the 2022 Russian invasion of Ukraine.": "t64b1mrf2",
+            "Here is a T-64B1M that\nshows the Nozh ERA has clearly resisted a hit from an ATGM.": "t64b1mrf3",
+            "You can also see in this photo the turret bustle rack\nand stowage extension on the rear of the turret.": "t64b1mrf4"
           }
         }
       },
@@ -2322,41 +2396,6 @@
             "The Buk M1's TEL (9A39) can be identified by the crane in place of the radar and by the fact that the 'arrows' on the sides of the launcher point upwards. The wheels on some older M1 variants have spaces in them to reduce weight.": "bukm1telrf"
           }
         },
-        "9S18 Tube Arm": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
         "9K317 Buk-M2 ": {
           "MANUFACTURE": [
             "Ulyanovsk",
@@ -2387,76 +2426,6 @@
             "The Buk-M2 is mounted on the same chassis as the M1, however the roadwheels are now solid steel (as opposed to the light weight spaced wheels on the M1).": "bukm2rf1",
             "The key recognising feature is the new 9S36 radar, it is flatter than its predessesor (Fire Dome).": "bukm2rf2",
             "The 9A310 TEL (identified by the crane) can be identified by the solid wheels and the 'arrow' framework on the launcher's sides point downwards.": "bukm2rf3"
-          }
-        },
-        "9S18M1 Snow Drift": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "9S36 Radar": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
           }
         }
       },
