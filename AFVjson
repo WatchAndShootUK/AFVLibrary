@@ -1,5 +1,5 @@
 {
-  "1.1.4": {
+  "1.1.5": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2042,7 +2042,7 @@
           "2K12_KUB_(rockets)",
           "maxresdefault"
         ],
-        "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6 'Gainful', is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'STRAIGHT FLUSH' target acquisition radar and various wheeled supply trucks.",
+        "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6 'Gainful', is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'Straight Flush' target acquisition radar and various wheeled supply trucks.",
         "CREW": 3,
         "R_FEAT": {
           "The 2K12 is mounted on the GM-578 chassis which has slack tracks and a 6 roadwheel configuration of 1-1-4. The final drive is at the rear. The most obvious recognising feature is the three M39M4 missiles which sit within a framed cradle.": "rf2k121",
@@ -2085,7 +2085,7 @@
           "The Tunguska's turret is unique. The 30mm cannons are large and flank the commanders hatch. The  missile launchers sit below the cannons, and are rectangular with each holding 4 missiles. There is a circular tracking radar on the front of the turret. ": "2k22rf2"
         }
       },
-      "Pantsir": {
+      "Pantsir S1": {
         "MANUFACTURE": [
           "Ulyanovsk",
           2012,
@@ -2115,39 +2115,37 @@
           "The weapon consists of 2 x  6 pod missile launchers which can move independantly in banks of three. The 30 mm cannons flank the rectangular radar at the rear of the turret. There is a circular tracking radar at the front of the system.": "images"
         }
       },
-      "Tor": {
+      "9K330 Tor": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "IEMZ Kupol",
+          1983,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union",
+          "Algeria,Azerbaijan,Armenia,Belarus,China,Cyprus,Egypt,Greece,Iran,Myanmar,Korea North,Peru,Russia,Ukraine,Venezuela,Yemen,Morocco,Syria"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "9M330",
+          "Scrum Half"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "34t",
+          "Length": "7.5m",
+          "Width": "3.3m",
+          "Height": "5.1m"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "pod-rostovom-raschety-tor-m2-odnovremenno-porazili-4-celi-jpaz3xbe-1608964681",
+          "663d164a4196d3390255bb8af89fa2f0",
+          "tor"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The 9K330 Tor, NATO reporting name SA-15 'Gauntlet' is a medium level surface to air missile system. Mounted on a 9A330 chassis the system is classified as a self-propelled transporter, launcher and radar (TLAR). It is similiar to the United Kingdom Rapier system. The missiles are guided by the integral 'Scrum half' radar system.",
+        "CREW": 3,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The 9A330 chassis has 7 evenly spaced roadwheels with the final drive to the rear. The hull is boat shaped at the front and flat at the rear, with a number of rectangular storage bins on either side. The weapon system, shown here depressed, is the same height as the tracks. You can make out one of the radars in the downward position.": "ad_spsam_sa15_v1",
+          "When the system is elevated the most obvious feature is the large square tracking radar at the front, with a circular protruding section. The target acquisition radar at the rear consists of a rectangular dish. Both radars together are classed as the 'Scrum Half' radar system.": "tor-m1-1024x661",
+          "Destroyed Tor seen in Ukraine in 2022.": "torrf2"
         }
       },
       "9K33 Osa": {
