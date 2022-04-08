@@ -1,5 +1,5 @@
 {
-  "1.1.20": {
+  "1.1.21": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1891,170 +1891,170 @@
       }
     },
     "AT": {
-      "BTR-RD Robot": {
-        "MANUFACTURE": [
-          "VgTZ",
-          1983,
-          2019
-        ],
-        "COO": [
-          "Soviet Union"
-        ],
-        "WEAPONS": [
-          "9P135M",
-          "PKT"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+      "AT-5 Spandrel*": {
+        "BTR-RD Robot": {
+          "MANUFACTURE": [
+            "VgTZ",
+            1983,
+            2019
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "9P135M",
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "btrrdrobot1",
+            "btrrdrobot2"
+          ],
+          "DESCRIPTION": "The BTR-RD Robot is a BTR-D for use with anti-tank platoons within the VDV, the interior has been redesigned for stowage of ATGM.s. The ATGM’s can either be used in the dismounted role or mounted on the pintle on the vehicle; there are usually 6 vehicles per VDV regiment.",
+          "CREW": 5,
+          "R_FEAT": {
+            "The BTR-RD is visually identical to the BTR-D aside from the 9P135M-1  ATGM launcher on the commander's cupola.": "btrrdrobot1"
+          }
         },
-        "IMAGES": [
-          "btrrdrobot1",
-          "btrrdrobot2"
-        ],
-        "DESCRIPTION": "The BTR-RD Robot is a BTR-D for use with anti-tank platoons within the VDV, the interior has been redesigned for stowage of ATGM.s. The ATGM’s can either be used in the dismounted role or mounted on the pintle on the vehicle; there are usually 6 vehicles per VDV regiment.",
-        "CREW": 5,
-        "R_FEAT": {
-          "The BTR-RD is visually identical to the BTR-D aside from the 9P135M-1  ATGM launcher on the commander's cupola.": "btrrdrobot1"
+        "9P148 Konkurs": {
+          "MANUFACTURE": [
+            "GAZ",
+            1977,
+            "Unknown"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "9M113"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "9p1481",
+            "9p1482"
+          ],
+          "DESCRIPTION": "The 9P148 Konkurs NATO RN:AT-5 Spandrel is an ATGM carrier based on the BRDM-2, it carries 5 missiles on a retractable mount that means it can be lowered inside the vehicle for stowage or reloading.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The hull remains unchanged from the standard BRDM-2, the largest difference is the missile launch tube which replace the turret, the mount can be lowered and raised by the gunner. The sighting system is the square box above the commanders hatch.": "rf9p1481",
+            "Here is the 9P148 with the launch tubes lowered and stowed inside, giving it the appearance that it is not an ATGM carrier.": "rf9p1482"
+          }
         }
       },
-      "9P148 Konkurs": {
-        "MANUFACTURE": [
-          "GAZ",
-          1977,
-          "Unknown"
-        ],
-        "COO": [
-          "Soviet Union"
-        ],
-        "WEAPONS": [
-          "9M113"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "9p1481",
-          "9p1482"
-        ],
-        "DESCRIPTION": "The 9P148 Konkurs NATO RN:AT-5 Spandrel is an ATGM carrier based on the BRDM-2, it carries 5 missiles on a retractable mount that means it can be lowered inside the vehicle for stowage or reloading.",
-        "CREW": 3,
-        "R_FEAT": {
-          "The hull remains unchanged from the standard BRDM-2, the largest difference is the missile launch tube which replace the turret, the mount can be lowered and raised by the gunner. The sighting system is the square box above the commanders hatch.": "rf9p1481",
-          "Here is the 9P148 with the launch tubes lowered and stowed inside, giving it the appearance that it is not an ATGM carrier.": "rf9p1482"
+      "AT-6 Spiral*": {
+        "9P149 Shturm-S": {
+          "MANUFACTURE": [
+            "KMB",
+            1978,
+            "Unknown"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "9M114"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "9p1491",
+            "9p1492"
+          ],
+          "DESCRIPTION": "The 9P149 Shturm-S NATO RN:AT-6 Spiral is a radio guided ATGM mounted on the MTLB hull, it is the same missile launched by the MI-24 Hind, it was originally developed to serve in Anti-Tank platoons that were based or would operate in boggy areas, due to the MTLB low ground pressure. ",
+          "CREW": 4,
+          "R_FEAT": {
+            "The 9P149 Shturm-S barely changes the MTLB hull, the biggest recognising feature being the optical guidance tracker that replaces the 1 man MG turret. The launch tube is at the rear right, it folds down to load and also when its not in use, which can be very deceiving, so it is key to remember the optical guidance tracker, for more info on recog features see MTLB in APC section.": "rf9p1491",
+            "Here the photo shows the missile stowed away, another point to note is the lack of a second viewport for the commander.": "rf9p1492"
+          }
         }
       },
-      "GAZ TIGR ATGM": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+      "AT-14 Spriggan*": {
+        "9P163M Kornet-T": {
+          "MANUFACTURE": [
+            "KMZ",
+            2003,
+            "Present"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "9M113"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "9p163m11",
+            "9p163m12"
+          ],
+          "DESCRIPTION": "The 9P163M-1 Kornet-T NATO:AT-14 Spriggan is an ATGM vehicle, based on the BMP-3 hull. It is very similar to the 9P157 in some aspects.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The hull remains the same as the BMP-3, the main differences are the periscopes and searchlight on the right hand side. The left side has the sighting system. On the top centre is the 2 missile launch tubes for the 9M113 missiles, they can be folded down inside in a stowed position like the 9P157-2.": "9p163m1rf1",
+            "On this side view you can see the triangular shaped sight on the left hand side, the 2 launch tubes are mounted on the rectangular vertical mounting arm.": "9p163m1rf2"
+          }
         },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "9P163M-1 Kornet-T": {
-        "MANUFACTURE": [
-          "KMZ",
-          2003,
-          "Present"
-        ],
-        "COO": [
-          "Russia"
-        ],
-        "WEAPONS": [
-          "9M113"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "9p163m11",
-          "9p163m12"
-        ],
-        "DESCRIPTION": "The 9P163M-1 Kornet-T NATO:AT-14 Spriggan is an ATGM vehicle, based on the BMP-3 hull. It is very similar to the 9P157 in some aspects.",
-        "CREW": 4,
-        "R_FEAT": {
-          "The hull remains the same as the BMP-3, the main differences are the periscopes and searchlight on the right hand side. The left side has the sighting system. On the top centre is the 2 missile launch tubes for the 9M113 missiles, they can be folded down inside in a stowed position like the 9P157-2.": "9p163m1rf1",
-          "On this side view you can see the triangular shaped sight on the left hand side, the 2 launch tubes are mounted on the rectangular vertical mounting arm.": "9p163m1rf2"
-        }
-      },
-      "2S25 Sprut-SD": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+        "GAZ TIGR Kornet-T": {
+          "MANUFACTURE": [
+            "GAZ",
+            2015,
+            "Present"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "9M133"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "gazkornet1",
+            "gazkornet2"
+          ],
+          "DESCRIPTION": "The GAZ-TIGR Kornet-D NATO is an ATGM system based on the GAZ-TIGR, it contains 2 missile pods of 9M113M Kornet-M missiles, the system is automatic and does not require operators aid, although the operator can override the system and take over if necessary. It is due to replace the 9P148 Konkurs.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The hull remains very similar to the GAZ-TIGR-M, the main points are the 2 launch pods with 4 missiles each, these can be folded down inside to give the appearance of a standard Gaz-Tigr IMV. The main differences to remember, if the missiles aren’t in view is the lack of windows on the side, also the 2 banks of 2 SGD’s on the front roof.": "gazkornetrf1",
+            "The 2 pods can fire independently of each other. Note\nthe lack of side windows and the SGD’s.": "gazkornetrf2"
+          }
         }
       },
       "AT-15 Springer*": {
@@ -2124,38 +2124,39 @@
           }
         }
       },
-      "MTLB ATGM*": {
-        "9P149 Shturm-S": {
-          "MANUFACTURE": [
-            "KMB",
-            1978,
-            "Unknown"
-          ],
-          "COO": [
-            "Soviet Union"
-          ],
-          "WEAPONS": [
-            "9M114"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "9p1491",
-            "9p1492"
-          ],
-          "DESCRIPTION": "The 9P149 Shturm-S NATO RN:AT-6 Spiral is a radio guided ATGM mounted on the MTLB hull, it is the same missile launched by the MI-24 Hind, it was originally developed to serve in Anti-Tank platoons that were based or would operate in boggy areas, due to the MTLB low ground pressure. ",
-          "CREW": 4,
-          "R_FEAT": {
-            "The 9P149 Shturm-S barely changes the MTLB hull, the biggest recognising feature being the optical guidance tracker that replaces the 1 man MG turret. The launch tube is at the rear right, it folds down to load and also when its not in use, which can be very deceiving, so it is key to remember the optical guidance tracker, for more info on recog features see MTLB in APC section.": "rf9p1491",
-            "Here the photo shows the missile stowed away, another point to note is the lack of a second viewport for the commander.": "rf9p1492"
-          }
+      "2S25 Sprut-SD": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
         }
       }
     },
