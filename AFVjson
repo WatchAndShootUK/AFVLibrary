@@ -2117,8 +2117,7 @@
             "HP": ""
           },
           "IMAGES": [
-            "9p157bcv1",
-            "9p157bcv2"
+            "9p157bcv1"
           ],
           "DESCRIPTION": "The 9P157-4 is a battery command vehicle for the 9P157-2 ATGM batteries, it is there to hand-off and distribute targets to the launchers, although the launchers can operate on their own.",
           "CREW": 4,
