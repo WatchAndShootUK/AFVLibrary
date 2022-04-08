@@ -1,5 +1,5 @@
 {
-  "1.1.17": {
+  "1.1.18": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1990,76 +1990,39 @@
           " (copy)": "rfeat"
         }
       },
-      "BMP3 ATGM*": {
-        "9P157-2 Khrizantema": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+      "9P163M-1 Kornet-T": {
+        "MANUFACTURE": [
+          "Manufacturer",
+          "FROM",
+          "To"
+        ],
+        "COO": [
+          "Manufacturing COuntry"
+        ],
+        "WEAPONS": [
+          "Main",
+          "Second",
+          "Third"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
         },
-        "9P163M-1 Kornet-T": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+        "IMAGES": [
+          "",
+          "",
+          ""
+        ],
+        "DESCRIPTION": "",
+        "CREW": 4,
+        "R_FEAT": {
+          "": "rfeat",
+          " (copy)": "rfeat"
         }
       },
       "2S25 Sprut-SD": {
@@ -2099,40 +2062,6 @@
       },
       "9P157 AT-15": {
         "9P157-2": {
-          "MANUFACTURE": [
-            "KMZ",
-            2000,
-            "Present"
-          ],
-          "COO": [
-            "Russia"
-          ],
-          "WEAPONS": [
-            "9M123"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "9M1231",
-            "9M1232",
-            "9M1233"
-          ],
-          "DESCRIPTION": "The 9P157-2 Khrizantema NATO:AT-15 Springer is a Russian ATGM vehicle, based on the BMP-3 hull. It is both ACLOS/SACLOS guidance, ACLOS meaning that the system will track the missile to the target itself without the need for operator input. There is also a SACLOS system where the gunner can track the missile and provide input. It can supposedly engage 2 targets at once thanks to its detection radar.",
-          "CREW": 4,
-          "R_FEAT": {
-            "The 9M157-2 is mounted on the BMP-3 hull, the turret is removed in place for the ATGM mount, radar and sighting/guidance sight. The sighting system is on the front right. The rest of the hull remains the same, see BMP-3 in IFV section for and in depth hull recognition guide. ": "9M123rf1",
-            "The 9P157-2 is notable for its ability for the radar and launcher to be stowed away, giving the appearance as shown here that it is just an APC, there is one way to note the differences, the sighting system remains in place.": "9M123rf2",
-            "The sight has doors to cover it, but the barrel shaped sight remains in place, so this is key for recognition of such a potent vehicle.": "9M123rf3"
-          }
-        },
-        "9P157-4 BCV": {
           "MANUFACTURE": [
             "KMZ",
             2000,
