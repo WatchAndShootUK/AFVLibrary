@@ -1,5 +1,5 @@
 {
-  "1.1.21": {
+  "1.1.22": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2126,17 +2126,16 @@
       },
       "2S25 Sprut-SD": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "VGTZ",
+          2001,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Russia"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "2A75",
+          "PKT"
         ],
         "DATA": {
           "Weight": "",
@@ -2148,15 +2147,14 @@
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "2s251",
+          "2s252"
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "The 2S25 Sprut-SD(Kraken/Squid) is a fire support/tank destroyer made for the VDV, it gives the lightly armoured/armed VDV air assault divisions a potent, mobile tank destroyer, whilst still being air-portable and droppable as well as being amphibious. Only around 24 of these vehicles were produced, supplying 3 Squadrons of 8 vehicles.",
         "CREW": 4,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The turret is large and placed on the forward centre of the hull. The turret has large sloping cheeks with a mantle less gun. The gunners sighting systems are on the left side of the turret, the commander's primary sight is on the right, there is a small IR searchlight on the right side of the gun, the 2S25 does not have a TI capability.": "2s25rf1",
+          "For an in-depth analysis on the Hull, see BMD-3/4. The hull is very similar aside from 2 extra roadwheels and the length addition. The rear of the turret has 2 banks of 3 SGD’s, the centre turret rear has the ejection port for the 125mm spent ammunition.": "2s25rf2"
         }
       }
     },
