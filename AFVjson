@@ -1,5 +1,5 @@
 {
-  "1.1.19": {
+  "1.1.20": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1992,17 +1992,15 @@
       },
       "9P163M-1 Kornet-T": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "KMZ",
+          2003,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Russia"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "9M113"
         ],
         "DATA": {
           "Weight": "",
@@ -2014,15 +2012,14 @@
           "HP": ""
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "9p163m11",
+          "9p163m12"
         ],
-        "DESCRIPTION": "",
+        "DESCRIPTION": "The 9P163M-1 Kornet-T NATO:AT-14 Spriggan is an ATGM vehicle, based on the BMP-3 hull. It is very similar to the 9P157 in some aspects.",
         "CREW": 4,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The hull remains the same as the BMP-3, the main differences are the periscopes and searchlight on the right hand side. The left side has the sighting system. On the top centre is the 2 missile launch tubes for the 9M113 missiles, they can be folded down inside in a stowed position like the 9P157-2.": "9p163m1rf1",
+          "On this side view you can see the triangular shaped sight on the left hand side, the 2 launch tubes are mounted on the rectangular vertical mounting arm.": "9p163m1rf2"
         }
       },
       "2S25 Sprut-SD": {
