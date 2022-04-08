@@ -1,5 +1,5 @@
 {
-  "1.1.16": {
+  "1.1.17": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -410,7 +410,7 @@
             "This is a T-80U, easily confused with the T-64BM, you will notice the differences I mentioned before in ERA, Commanders sight, Meteorological sensor, IR searchlight and SGD’s. Also the obvious differences in roadwheels, Drivers periscopes.": "rfeatt64bm3"
           }
         },
-        "T-64BM1": {
+        "T-64B1M": {
           "MANUFACTURE": [
             "KMDB",
             "2014",
@@ -2095,6 +2095,76 @@
         "R_FEAT": {
           "": "rfeat",
           " (copy)": "rfeat"
+        }
+      },
+      "9P157 AT-15": {
+        "9P157-2": {
+          "MANUFACTURE": [
+            "KMZ",
+            2000,
+            "Present"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "9M123"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "9M1231",
+            "9M1232",
+            "9M1233"
+          ],
+          "DESCRIPTION": "The 9P157-2 Khrizantema NATO:AT-15 Springer is a Russian ATGM vehicle, based on the BMP-3 hull. It is both ACLOS/SACLOS guidance, ACLOS meaning that the system will track the missile to the target itself without the need for operator input. There is also a SACLOS system where the gunner can track the missile and provide input. It can supposedly engage 2 targets at once thanks to its detection radar.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The 9M157-2 is mounted on the BMP-3 hull, the turret is removed in place for the ATGM mount, radar and sighting/guidance sight. The sighting system is on the front right. The rest of the hull remains the same, see BMP-3 in IFV section for and in depth hull recognition guide. ": "9M123rf1",
+            "The 9P157-2 is notable for its ability for the radar and launcher to be stowed away, giving the appearance as shown here that it is just an APC, there is one way to note the differences, the sighting system remains in place.": "9M123rf2",
+            "The sight has doors to cover it, but the barrel shaped sight remains in place, so this is key for recognition of such a potent vehicle.": "9M123rf3"
+          }
+        },
+        "9P157-4 BCV": {
+          "MANUFACTURE": [
+            "KMZ",
+            2000,
+            "Present"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "9M123"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "9M1231",
+            "9M1232",
+            "9M1233"
+          ],
+          "DESCRIPTION": "The 9P157-2 Khrizantema NATO:AT-15 Springer is a Russian ATGM vehicle, based on the BMP-3 hull. It is both ACLOS/SACLOS guidance, ACLOS meaning that the system will track the missile to the target itself without the need for operator input. There is also a SACLOS system where the gunner can track the missile and provide input. It can supposedly engage 2 targets at once thanks to its detection radar.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The 9M157-2 is mounted on the BMP-3 hull, the turret is removed in place for the ATGM mount, radar and sighting/guidance sight. The sighting system is on the front right. The rest of the hull remains the same, see BMP-3 in IFV section for and in depth hull recognition guide. ": "9M123rf1",
+            "The 9P157-2 is notable for its ability for the radar and launcher to be stowed away, giving the appearance as shown here that it is just an APC, there is one way to note the differences, the sighting system remains in place.": "9M123rf2",
+            "The sight has doors to cover it, but the barrel shaped sight remains in place, so this is key for recognition of such a potent vehicle.": "9M123rf3"
+          }
         }
       },
       "MTLB ATGM*": {
@@ -3856,7 +3926,7 @@
           "DESCRIPTION": "Uralvagonzavod is a tank manufacturing company based in Nizhny Tagil, Sverdlovsk Oblast, Russia. It is the largest tank manufacturing business in the world and makes the majority of Russian (and previously Soviet) main battle tanks. The company was established in 1936 and has a history of private and state ownership, it has been owned by the state since 2016 - via the Russian conglomerate Somtek."
         }
       },
-      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot",
+      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar",
       "LINKS": {
         "GOOGLE_STORE": "https://play.google.com/store/apps/developer?id=Watch%20%26%20Shoot%20Developments",
         "APPLE_STORE": "https://apps.apple.com/gb/developer/mark-wileman/id1561466869",
