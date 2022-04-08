@@ -1,5 +1,5 @@
 {
-  "1.1.18": {
+  "1.1.19": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2093,6 +2093,38 @@
             "The 9M157-2 is mounted on the BMP-3 hull, the turret is removed in place for the ATGM mount, radar and sighting/guidance sight. The sighting system is on the front right. The rest of the hull remains the same, see BMP-3 in IFV section for and in depth hull recognition guide. ": "9p157rf1",
             "The 9P157-2 is notable for its ability for the radar and launcher to be stowed away, giving the appearance as shown here that it is just an APC, there is one way to note the differences, the sighting system remains in place.": "9p157rf2",
             "The sight has doors to cover it, but the barrel shaped sight remains in place, so this is key for recognition of such a potent vehicle.": "9p157rf3"
+          }
+        },
+        "9P157-4 BCV": {
+          "MANUFACTURE": [
+            "KMZ",
+            2000,
+            "Present"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "9p157bcv1",
+            "9p157bcv2"
+          ],
+          "DESCRIPTION": "The 9P157-4 is a battery command vehicle for the 9P157-2 ATGM batteries, it is there to hand-off and distribute targets to the launchers, although the launchers can operate on their own.",
+          "CREW": 4,
+          "R_FEAT": {
+            "The 9P157-4 (Right) is mounted on the same hull (BMP-3) but has a BMP-3 turret with the main armament removed and an armoured cover fitted, the PKT remains for self-defence.": "9p157bcvrf1",
+            "The major addition is the array of sighting systems\nfitted to the turret and the rear, there is no launcher on this vehicle.": "9p157bcvrf2"
           }
         }
       },
