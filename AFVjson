@@ -1,5 +1,5 @@
 {
-  "1.1.27": {
+  "1.1.28": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2402,7 +2402,7 @@
         ],
         "COO": [
           "Soviet Union",
-          "Afghanistan,Angola,Armenia,Azerbaijan,Belarus,Bulgaria,Croatia,Cuba,Czech,Georgia,Hungary,India,Jordan,Laos,Libya,Korea North,Mongolia,North,Russia,Serbia,Syria,Turkmenistan,Ukraine,Vietnam"
+          "Afghanistan,Angola,Armenia,Azerbaijan,Belarus,Bulgaria,Croatia,Cuba Republic,Czech,Georgia,Hungary,India,Jordan,Laos,Libya,Korea North,Mongolia,North Macedonia,Russia,Serbia,Syria,Turkmenistan,Ukraine,Vietnam"
         ],
         "WEAPONS": [
           "9M37",
@@ -2419,7 +2419,8 @@
         "IMAGES": [
           "gopher1",
           "gopher2",
-          "gopher3"
+          "gopher3",
+          "gopher4"
         ],
         "DESCRIPTION": "The 9K35 Strela-10, NATO designation SA-13 'Gopher' is a highly-mobile, short range surface to air missile system. It is the sucessor to the SA-9 'Gaskin'. The system is primarily used to engage low altitude targets like helicopters and drones. The system has integral 9S86 'Snap Shot' range only and 9S16 'Flat Box' passive radar which works in conjunction with the seperate PPRU-1 'Dog Ear' target acquisition radar.",
         "CREW": 3,
@@ -2497,37 +2498,31 @@
       "ZSU*": {
         "ZSU 57-2": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Omsk",
+            1955,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union",
+            "Algeria,Angola,Cambodia,China,Cuba,Egypt,Eritrea,Ethiopia,Hungary,Korea North,Mozambique,Sudan,Vietnam"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "S-68"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "28.1t",
+            "Length": "8.46m",
+            "Width": "3.27m",
+            "Height": "2.71m"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "zsu571",
+            "zsu572"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The ZSU 57-2 is a self-propelled anti-aircraft gun (SPAAG). The naming conventional is simple, the 57 is the calibre of the autocannons and the 2 is the number. This convention is applied to all soviet anti-aircraft guns. It was designed primarily to engage low flying aircraft just as helicopters and was the largest calibre anti-aircraft gun of its time.",
+          "CREW": 6,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The ZSU 57-2 is mounted on on a modified T-54 chassis, with only 4 roadwheels. The turret is a large dome, with the two auto-cannons protruding from the front.": "zsu57rf1"
           }
         },
         "ZSU 23-4": {
