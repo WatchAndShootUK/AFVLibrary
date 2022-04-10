@@ -1,5 +1,5 @@
 {
-  "1.1.33": {
+  "1.1.34": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2665,46 +2665,70 @@
           "DESCRIPTION": "The ZSU 23-4M4 is an improved variant used by Russia & Belarus. It has an upgraded radar, sighting system and includes the addition of 9K38 'Igla', NATO designation SA-18 'Grouse'. The addition of the SAMs makes it close in capability to the 2K22 Tunguska (SA-19).",
           "CREW": 4,
           "R_FEAT": {
-            "The M4 upgrade now has 2 x 9K38 'Igla' surface to air missiles mounted on the rear of the turret. It also has improved protection, including side skirts and front flaps beneath the front glacis plate.": "zsurf1"
+            "The M4 upgrade now has 2 x 9K38 'Igla' surface to air missiles mounted on the rear of the turret. It also has improved protection, including side skirts and flaps beneath the front glacis plate.": "zsum4rf"
           }
         }
       }
     },
     "Artillery": {
       "Towed*": {
-        "Empty vehicle": {
+        "D-20": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "PJSC",
+            1950,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union",
+            "Angola,Armenia,Azerbaijan,Bulgaria,Democratic,Ethiopia,Georgia,China,Republic,Hungary,Iran,Iraq,Laos,Moldova,Myanmar,Nicaragua,Nigeria,Russia,Romania,Sri Lanka,Syria,Turkmenistan,Ukraine,Vietnam"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "A233"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "5.7t",
+            "Length": "8.7m",
+            "Width": "2.35m",
+            "Height": "1.93m"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "d201",
+            "d202"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The D-20 is a towed 152mm howitzer, first introduced in 1950s. It is still in use by both the Russian Federation and various countries worlwide. It is simple but effective technology that can engage targets up to 17km away (24km with RAP). The D-20 uses the same gun as the 2S3 Akatsiya.",
+          "CREW": 8,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The D-20 can be identified by the armoured plate shield in front of the gun to protect the crew from small arms whilst firing. The muzzle break has unique baffles, a square one at the front and a rectangular at the rear. Two arms fold out whilst deployed and a circular plate jack raises the wheels up to level the gun whilst firing.": "d20rf1"
+          }
+        },
+        "D-30": {
+          "MANUFACTURE": [
+            "PJSC",
+            1960,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Afghanistan,Algeria,Angola,Armenia,Artsakh,Azerbaijan,Bangladesh,Belarus,Bosnia-Herzegovina,Burundi,Cambodia,China,Republic of the Congo,Democratic Republic of the Congo,Croatia,Cuba,Egypt,Djibouti,Eritrea,Estonia,Ethiopia,Finland,Ghana,Georgia,Guinea-Bissau,India,Iran,Iraq,Kurdistan Region,Kazakhstan,Kyrgyzstan,Laos,Lebanon,Libya,Madagascar,Mauritania,Mongolia,Montenegro,Mozambique,Myanmar,Nicaragua,Nigeria,Korea North,Oman,Pakistan,Peru,Russia,Rwanda,Serbia,South Sudan,Sudan,Syria,Tajikistan,Tanzania,Turkmenistan,Ukraine,Uzbekistan,Vietnam,Zambia,Zimbabwe"
+          ],
+          "WEAPONS": [
+            "2A18"
+          ],
+          "DATA": {
+            "Weight": "3.2t",
+            "Length": "5.4m",
+            "Width": "1.9m",
+            "Height": "1.6m"
+          },
+          "IMAGES": [
+            "d301",
+            "d302"
+          ],
+          "DESCRIPTION": "The D-30 is a towed howitzer in service since 1960. It uses the 122mm 2A18 gun, mounted on a tripod which folds away to become the towing aparatus when in transit. The D-30 is one of the most commonly used light role howitzers in the world and has a range of up to 21km (RAP).",
+          "CREW": 6,
+          "R_FEAT": {
+            "The D-30 is easy to recognise to the D-20 from its unique mounting, the arms fold out to form a tripod. The muzzle break is similiar to the D-20, however it has a large towing eye welded to the bottom of it, allowing the gun to be towed. Another key recoginise feature is the recoil system that is a tube that sits directly above the barrel. The raised wheels also tell this system apart from other towed guns.": "d30rf1",
+            "When stowed, the D-30s arms are folded towards the front of the gun and secured to the barrel, allowing the howitzer to be towed.": "d30rf2"
           }
         }
       },
@@ -3985,7 +4009,7 @@
           "DESCRIPTION": "Uralvagonzavod is a tank manufacturing company based in Nizhny Tagil, Sverdlovsk Oblast, Russia. It is the largest tank manufacturing business in the world and makes the majority of Russian (and previously Soviet) main battle tanks. The company was established in 1936 and has a history of private and state ownership, it has been owned by the state since 2016 - via the Russian conglomerate Somtek."
         }
       },
-      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar",
+      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar/RAP,Rocket assissted projectile",
       "LINKS": {
         "GOOGLE_STORE": "https://play.google.com/store/apps/developer?id=Watch%20%26%20Shoot%20Developments",
         "APPLE_STORE": "https://apps.apple.com/gb/developer/mark-wileman/id1561466869",
