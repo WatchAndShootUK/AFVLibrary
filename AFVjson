@@ -1,5 +1,5 @@
 {
-  "1.1.34": {
+  "1.1.35": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -780,6 +780,47 @@
             "Here is a standard T-72B3 Obr.2016, you will notice the lack of the UBH urban survival armour down the sides.": "rfeatt72b3obr20162",
             "There is also additional Relikt armour on the turret sides seen here, as well as the bar armour addition at the rear of the turret. The main differences between this and the original T-72B3 is the relikt armour package.": "rfeatt72b3obr20163",
             "Thermal view of the T-72B3 Obr.2016, you can see the difference in visual heat displayed due to the new side skirts, in a hull down position it would be quite difficult to PID.": "rfeatt72b3obr20164"
+          }
+        },
+        "T-72AMT": {
+          "DATA": {
+            "Weight": "43t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "840hp"
+          },
+          "MANUFACTURE": [
+            "KAVP",
+            2017,
+            2021
+          ],
+          "COO": [
+            "Ukraine"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "NSVT",
+            "PKT"
+          ],
+          "ARMOUR": [
+            "Composite Armour",
+            "Nozh"
+          ],
+          "IMAGES": [
+            "amt1",
+            "amt2",
+            "amt3",
+            "amt4"
+          ],
+          "DESCRIPTION": "The T-72AMT is a Ukrainian upgrade of the T-72A, upgrading the armour with the addition of Nozh ERA, new radios and the addition to fire the Ukrainian Kombat ATGM, the tank has recently seen service in the 2022 Russian invasion of Ukraine.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-72AMT has many recognising features, the main being the addition of the Nozh ERA, this is seen on the turret. Nozh is fitted snugly to the turret, with no gaps in between the ERA, there are rubber flaps that hang off of the ERA, there is also Nozh covering the turret roof. The IR searchlight is on the right side of the gun, indicating no thermal capability.": "amtrf1",
+            "The T-72AMT is noticeable on the frontal hull by the small Kontakt-1 style blocks, as well as the rubber flaps on the lower glacis plate.": "amtrf2",
+            "The T-72AMT sides are noticeable by the side ERA being the same mounts as seen on the T-80U. Towards the rear is a cage which covers the rear quarter. ": "amtrf3"
           }
         }
       },
@@ -2680,7 +2721,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Angola,Armenia,Azerbaijan,Bulgaria,Democratic,Ethiopia,Georgia,China,Republic,Hungary,Iran,Iraq,Laos,Moldova,Myanmar,Nicaragua,Nigeria,Russia,Romania,Sri Lanka,Syria,Turkmenistan,Ukraine,Vietnam"
+            "Angola,Armenia,Azerbaijan,Bulgaria,Ethiopia,Georgia,China,Hungary,Iran,Iraq,Laos,Moldova,Myanmar,Nicaragua,Nigeria,Russia,Romania,Sri Lanka,Syria,Turkmenistan,Ukraine,Vietnam"
           ],
           "WEAPONS": [
             "A233"
@@ -2709,7 +2750,7 @@
           ],
           "COO": [
             "Soviet Union",
-            "Afghanistan,Algeria,Angola,Armenia,Artsakh,Azerbaijan,Bangladesh,Belarus,Bosnia-Herzegovina,Burundi,Cambodia,China,Republic of the Congo,Democratic Republic of the Congo,Croatia,Cuba,Egypt,Djibouti,Eritrea,Estonia,Ethiopia,Finland,Ghana,Georgia,Guinea-Bissau,India,Iran,Iraq,Kurdistan Region,Kazakhstan,Kyrgyzstan,Laos,Lebanon,Libya,Madagascar,Mauritania,Mongolia,Montenegro,Mozambique,Myanmar,Nicaragua,Nigeria,Korea North,Oman,Pakistan,Peru,Russia,Rwanda,Serbia,South Sudan,Sudan,Syria,Tajikistan,Tanzania,Turkmenistan,Ukraine,Uzbekistan,Vietnam,Zambia,Zimbabwe"
+            "Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Bangladesh,Belarus,Bosnia-Herzegovina,Burundi,Cambodia,China,Democratic Republic of the Congo,Croatia,Cuba,Egypt,Djibouti,Eritrea,Estonia,Ethiopia,Finland,Ghana,Georgia,Guinea-Bissau,India,Iran,Iraq,Kazakhstan,Kyrgyzstan,Laos,Lebanon,Libya,Madagascar,Mauritania,Mongolia,Montenegro,Mozambique,Myanmar,Nicaragua,Nigeria,Korea North,Oman,Pakistan,Peru,Russia,Rwanda,Serbia,South Sudan,Sudan,Syria,Tajikistan,Tanzania,Turkmenistan,Ukraine,Uzbekistan,Vietnam,Zambia,Zimbabwe"
           ],
           "WEAPONS": [
             "2A18"
