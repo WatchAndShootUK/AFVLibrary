@@ -1,5 +1,5 @@
 {
-  "1.1.39": {
+  "1.1.40": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3311,8 +3311,7 @@
           ],
           "WEAPONS": [
             "9M27",
-            "9M59",
-            "Third"
+            "9M59"
           ],
           "DATA": {
             "Weight": "20t"
@@ -3359,44 +3358,40 @@
           "DESCRIPTION": "The BM-30 Smerch is a heavy multiple launch rocket system (MLRS) mounted on the MAZ-543M or MAZ-79111 chassis. It has a maximum range of 90km and can fire its 12 rockets in 20 seconds. It is the heaviest tactical artillery rocket launcher beneath the ballistic missile launchers.",
           "CREW": 3,
           "R_FEAT": {
-            "The BM-30 chassis is an 8 wheeled heavy truck, with 12 rocket tubes mounted on the rear. THe drivers cab is on the left of the vehicle, with a flat cut-out on the right housing the engine. There is a windowed control unit behind the cab.": "bm30rf1",
+            "The BM-30 chassis is an 8 wheeled heavy truck, with 12 rocket tubes mounted on the rear. The drivers cab is on the left of the vehicle, with a flat cut-out on the right housing the engine. There is a windowed control unit behind the cab.": "bm30rf1",
             "BM-30 moments before it was destroyed by a TB-2 in the Nagorno-Karabakh conflict in 2021.": "bm30rf2"
           }
         }
       },
       "TOS-1": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "Uralvagonzavod",
+          1987,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union",
+          "Algeria,Armenia,Azerbaijan,Iraq,Russia,Syria"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "MO-10-1-04 "
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "45.3t",
+          "Length": "9.5m",
+          "Width": "3.6m",
+          "Height": "2.22m"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "tos1",
+          "tos2"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The TOS-1 is a heavy, short-ranged multiple launch rocket system (MLRS). It is a 24 barrelled, 220mm flame thrower system. The TOS-1 can launch 24 thermobaric rockets in 20 seconds and is designed to engage fortified positions and light vehicles in open terrain. The combat vehicle of the system is named the BM-1, each battery constists of BM-1s and 2x TZM-T reloading vehicles.",
+        "CREW": 3,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The TOS-1 is heavily armoured, mounted on the T-72 chassis - although it has no ERA. It has 6 roadwheels with the final drive at the rear. It has side skirts to protect the top rollers from attack by RPG.": "tosrf1",
+          "The TZM-T is the loading vehicle for the TOS-1 system. It is easily recognisable by the crane sitting between the two pods of rockets. ": "tosrf2",
+          "TOS-1A system captured by Ukrainian forces in 2020. ": "tosrf3"
         }
       }
     },
