@@ -1,5 +1,5 @@
 {
-  "1.1.25": {
+  "1.1.27": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -360,7 +360,8 @@
           "IMAGES": [
             "t64bv1",
             "t64bv2",
-            "t64bv3"
+            "t64bv3",
+            "t64bv4"
           ],
           "DESCRIPTION": "The T-64B is an extensive modification of the T-64A, including redesigned armour, a new 1A33 FCS, the ability to fire the 9K112 Kobra(AT-8 Songster) GLATGM and Stabilisation upgrades to name a few, this upgrade brought it in line with the newer tanks in service like the T-72 and T-80, the T-64BV was fitted with Kontakt-1 ERA on the hull and turret, it is still in service today, mainly with the Ukrainian Land Forces. The T-64BV is still produced to this day in Ukraine.",
           "CREW": 3,
@@ -735,7 +736,8 @@
             "t80bv1",
             "t80bv2",
             "t80bv3",
-            "t80bv4"
+            "t80bv4",
+            "t80bv5"
           ],
           "DESCRIPTION": "The T-80BV is an upgrade of the T-80B, although typically a ‘V’ signals the fitting of Kontakt-1, the T-80BV is actually quite different from the T-80B, it includes thicker composite armour on the hull as well as the Kontakt-1 ERA. The T-80BV is famous for the myth of its poor performance in Chechnya, records of T-80 and T-72 losses barely differ, it was just due to the embarrassment that it was blamed, the Russian Army failed to blame the poor crew training and corruption, a lot of tanks went in to Grozny with no ERA due to the plastic explosive being sold off by crews.",
           "CREW": 3,
@@ -822,7 +824,8 @@
           "IMAGES": [
             "t80uk1",
             "t80uk2",
-            "t80uk3"
+            "t80uk3",
+            "t80uk4"
           ],
           "DESCRIPTION": "The T-80UK is a command variant of the T-80U, equipped with additional R-163-50K and R-163-U radios, TNA-4 land navigation system, TShU-1-7 Shtora countermeasures system, electronic fuze-setting device that permits use of Ainet shrapnel round, a meteorological sensor, laser warning receivers, Agava-2 thermal sight which provides a 2,600-metre night acquisition range, fire control and Auxiliary power unit. It is used by regimental and battalion Commanding Officers.",
           "CREW": 3,
@@ -2331,7 +2334,7 @@
         ],
         "COO": [
           "Soviet Union",
-          "Algeria,Angola,Armenia,Azerbaijan,Belarus,Bulgaria,Cuba,Ecuador,Georgia,Greece,Hezbollah,North Korea,Morocco,India,Iran,Jordan,Libya,Poland,Romania,Russia,Sahrawi Arab Democratic Republic,Syria,Turkmenistan,Ukraine"
+          "Algeria,Angola,Armenia,Azerbaijan,Belarus,Bulgaria,Cuba,Ecuador,Georgia,Greece,Korea North,Morocco,India,Iran,Jordan,Libya,Poland,Romania,Russia,Syria,Turkmenistan,Ukraine"
         ],
         "WEAPONS": [
           "9M33",
@@ -2368,10 +2371,11 @@
         ],
         "COO": [
           "Soviet Union",
-          "Algeria,Angola,Armenia,Benin,Bulgaria,Cuba,Croatia,Bosnia,Egypt,Ethiopia,Hungary,India,Libya,Mauritania,Mongolia,Mozambique,Nicaragua,Russia,Romania,Sahrawi Arab Democratic Republic,Serbia,South Africa,Syria,Uganda,Ukraine,Uzbekistan,Vietnam,Yemen"
+          "Algeria,Angola,Armenia,Benin,Bulgaria,Cuba,Croatia,Egypt,Ethiopia,Hungary,India,Libya,Mauritania,Mongolia,Mozambique,Nicaragua,Russia,Romania,Serbia,South Africa,Syria,Uganda,Ukraine,Uzbekistan,Vietnam,Yemen"
         ],
         "WEAPONS": [
-          "9M31"
+          "9M31",
+          "9S16"
         ],
         "DATA": {
           "Weight": "7t",
@@ -2392,37 +2396,36 @@
       },
       "9K35 Strela-10": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "SZMP",
+          1976,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union",
+          "Afghanistan,Angola,Armenia,Azerbaijan,Belarus,Bulgaria,Croatia,Cuba,Czech,Georgia,Hungary,India,Jordan,Laos,Libya,Korea North,Mongolia,North,Russia,Serbia,Syria,Turkmenistan,Ukraine,Vietnam"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "9M37",
+          "9S86",
+          "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "12.3t",
+          "Length": "6.6m",
+          "Width": 2.85,
+          "Height (stowed)": "2.3m",
+          "Height (deployed)": "3.8m"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "gopher1",
+          "gopher2",
+          "gopher3"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The 9K35 Strela-10, NATO designation SA-13 'Gopher' is a highly-mobile, short range surface to air missile system. It is the sucessor to the SA-9 'Gaskin'. The system is primarily used to engage low altitude targets like helicopters and drones. The system has integral 9S86 'Snap Shot' range only and 9S16 'Flat Box' passive radar which works in conjunction with the seperate PPRU-1 'Dog Ear' target acquisition radar.",
+        "CREW": 3,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The system is mounted on an MTLB chassis which has 6 evenly spaced road wheels and a slack track design. The SA-13 system is mounted in the centre of the hull.": "gopherrf1",
+          "The 9K35 system consists of two banks of 2 missile launchers containing the 9M37 (or variants of) missile. In between the two banks is the 9S86 'Snap shot' range radar.": "gopherrf2"
         }
       },
       "Buk*": {
