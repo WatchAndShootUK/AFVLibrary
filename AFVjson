@@ -1,5 +1,5 @@
 {
-  "1.1.32": {
+  "1.1.33": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2631,46 +2631,41 @@
           "DESCRIPTION": "The ZSU 23-4 was the primary SPAAG throughout most of the Cold War. It is a capable platform that is still in use by both Russia and multiple countries today. It uses 4 x 2A7 (23mm) autocannons, which is where it gets it designation of 23-4. The system uses the 1RL33M1 'Tobol' radar, which align the turret towards targets. The radar has a detection range of 20km and an engagement range of 3000 metres. It is primarily designed to engage low flying targets, and has been used successfully in multiple conflicts - plugging the gaps beneath the divisional SAMS (such as Kub or Buk). There were modifications made to the ZSU for certain conflicts, since it was so effective at engaging ground targets.",
           "CREW": 4,
           "R_FEAT": {
-            "Based on the chassis of the GM-575, the Shilka has 6 road-wheels in a 1-5 configuration. The final drive is at the rear. The drivers hatch sits in the front glacis plate on the left hand side. The turret contains the 4 x 2A7 autocannons and the radar system.": "zsurf1",
-            "The Gun Dish radar sits at the rear of the turret, behind the commanders hatch. The radar is circular and capable of traversing 360 degrees. In front of the radar, siting until conical covers are two back-up optical sights for manual engagement.": "zsurf2",
+            "Based on the chassis of the GM-575, the Shilka has 6 road-wheels in a 1-5 configuration. The final drive is at the rear. The drivers hatch sits in the front glacis plate on the left hand side. The turret contains the 4 x 2A7 autocannons and the radar system.": "oldzsurf",
+            "The Gun Dish radar sits at the rear of the turret, behind the commanders hatch. The radar is circular and capable of traversing 360 degrees. In front of the radar, sitting under conical covers are two back-up optical sights for manual engagement.": "zsurf2",
             "A close up of the optical sights used for manual engagement, if the radar and these sights are destroyed - the Shilka cannot fire. This makes it highly vunerable to airburst weapon systems.": "zsurf3"
           }
-        }
-      },
-      "Radars*": {
-        "Empty Vehicle Template": {
+        },
+        "ZSU 23-4M4": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "UMZ",
+            1999,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Russia",
+            "Belarus,Russia"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "2A7",
+            "9K38",
+            "1RL33M1"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "19t",
+            "Length": "6.53m",
+            "Width": "3.12m",
+            "Height": "2.57m"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "zsum41",
+            "zsum42",
+            "zsum43"
           ],
-          "DESCRIPTION": "",
+          "DESCRIPTION": "The ZSU 23-4M4 is an improved variant used by Russia & Belarus. It has an upgraded radar, sighting system and includes the addition of 9K38 'Igla', NATO designation SA-18 'Grouse'. The addition of the SAMs makes it close in capability to the 2K22 Tunguska (SA-19).",
           "CREW": 4,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The M4 upgrade now has 2 x 9K38 'Igla' surface to air missiles mounted on the rear of the turret. It also has improved protection, including side skirts and front flaps beneath the front glacis plate.": "zsurf1"
           }
         }
       }
