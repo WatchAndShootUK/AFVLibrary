@@ -1948,77 +1948,40 @@
           }
         }
       },
-      "MT-LB*": {
-        "MTLB": {
-          "MANUFACTURE": [
-            "Kharkiv Tractor Plant",
-            1952,
-            "Present"
-          ],
-          "COO": [
-            "Soviet Union"
-          ],
-          "WEAPONS": [
-            "PKT"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "mtlb1",
-            "mtlb2",
-            "mtlb3"
-          ],
-          "DESCRIPTION": "The MTLB is an amphibious APC, it is still widely used by Russia, most commonly in units based in boggy areas, like 138 Bde in St.Petersburg and other units in the far east, this is due to its extremely low ground pressure. It is the base for many variants built upon it.",
-          "CREW": "2+11",
-          "R_FEAT": {
-            "The MTLB is a very distinctive vehicle, with an extremely low hull, a tiny one man turret and a very prominent boat shape hull. The front hull has a a prominent point with a clear boat shape for its amphib capabilities. The driver and commanders positions have bullet resistant glass windows with metal covers.": "rfmtlb1",
-            "It has a centrally mounted engine, so most of the TI signature will appear there, the 6 road wheels are equally spaced on a slack track, the final drive is mounted at the front.": "rfmtlb2",
-            "The rear of the MTLB has 2 square doors that open outwards.": "rfmtlb3",
-            "An MTLB in the 2022 Russian invasion of Ukraine with a self-modified RPO-A Shmel launcher above the turret.": "rfmtlb4",
-            "MTLB left side thermal view.": "rfmtlb5"
-          }
+      "MTLB": {
+        "MANUFACTURE": [
+          "Kharkiv Tractor Plant",
+          1952,
+          "Present"
+        ],
+        "COO": [
+          "Soviet Union"
+        ],
+        "WEAPONS": [
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
         },
-        "MTLBu": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
+        "IMAGES": [
+          "mtlb1",
+          "mtlb2",
+          "mtlb3"
+        ],
+        "DESCRIPTION": "The MTLB is an amphibious APC, it is still widely used by Russia, most commonly in units based in boggy areas, like 138 Bde in St.Petersburg and other units in the far east, this is due to its extremely low ground pressure. It is the base for many variants built upon it.",
+        "CREW": "2+11",
+        "R_FEAT": {
+          "The MTLB is a very distinctive vehicle, with an extremely low hull, a tiny one man turret and a very prominent boat shape hull. The front hull has a a prominent point with a clear boat shape for its amphib capabilities. The driver and commanders positions have bullet resistant glass windows with metal covers.": "rfmtlb1",
+          "It has a centrally mounted engine, so most of the TI signature will appear there, the 6 road wheels are equally spaced on a slack track, the final drive is mounted at the front.": "rfmtlb2",
+          "The rear of the MTLB has 2 square doors that open outwards.": "rfmtlb3",
+          "An MTLB in the 2022 Russian invasion of Ukraine with a self-modified RPO-A Shmel launcher above the turret.": "rfmtlb4",
+          "MTLB left side thermal view.": "rfmtlb5"
         }
       },
       "BMO-T": {
@@ -2326,33 +2289,62 @@
       }
     },
     "AD": {
-      "2K12 Kub": {
-        "MANUFACTURE": [
-          "Ulyanovsk",
-          1967,
-          "Present"
-        ],
-        "COO": [
-          "Soviet Union",
-          "Algeria,Angola,Armenia,Bulgaria,Chad,Cuba,Czech Republic,Egypt,Ethiopia,Hungary,India,Iran,Kazakhstan,Libya,Myanmar,Korea North,Poland,Romania,Serbia,Slovakia,Syria,Tanzania,Turkmenistan,Vietnam,Yemen"
-        ],
-        "WEAPONS": [
-          "3M9M4"
-        ],
-        "DATA": {
-          "Weight": "19.5t"
+      "Kub*": {
+        "2K12 Kub": {
+          "MANUFACTURE": [
+            "Ulyanovsk",
+            1967,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Algeria,Angola,Armenia,Bulgaria,Chad,Cuba,Czech Republic,Egypt,Ethiopia,Hungary,India,Iran,Kazakhstan,Libya,Myanmar,Korea North,Poland,Romania,Serbia,Slovakia,Syria,Tanzania,Turkmenistan,Vietnam,Yemen"
+          ],
+          "WEAPONS": [
+            "3M9M4"
+          ],
+          "DATA": {
+            "Weight": "19.5t"
+          },
+          "IMAGES": [
+            "2018-080-aa6",
+            "2K12_KUB_(rockets)",
+            "maxresdefault",
+            "2k124"
+          ],
+          "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6 'Gainful', is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'Straight Flush' target acquisition radar and various wheeled supply trucks.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The 2K12 is mounted on the GM-578 chassis which has slack tracks and a 6 roadwheel configuration of 1-1-4. The final drive is at the rear. The most obvious recognising feature is the three M39M4 missiles which sit within a framed cradle.": "rf2k121",
+            "This image shows the 2K12 without missiles fitted and the TEL in the collapsed position. Note the high, tear shaped rails - this disguishes it from other SAMs.": "rf2k122"
+          }
         },
-        "IMAGES": [
-          "2018-080-aa6",
-          "2K12_KUB_(rockets)",
-          "maxresdefault",
-          "2k124"
-        ],
-        "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6 'Gainful', is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'Straight Flush' target acquisition radar and various wheeled supply trucks.",
-        "CREW": 3,
-        "R_FEAT": {
-          "The 2K12 is mounted on the GM-578 chassis which has slack tracks and a 6 roadwheel configuration of 1-1-4. The final drive is at the rear. The most obvious recognising feature is the three M39M4 missiles which sit within a framed cradle.": "rf2k121",
-          "This image shows the 2K12 without missiles fitted and the TEL in the collapsed position. Note the high, tear shaped rails - this disguishes it from other SAMs.": "rf2k122"
+        "1S19 Straight Flush": {
+          "MANUFACTURE": [
+            "Ulyanovsk",
+            1967,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Algeria,Angola,Armenia,Bulgaria,Chad,Cuba,Czech Republic,Egypt,Ethiopia,Hungary,India,Iran,Kazakhstan,Libya,Myanmar,Korea North,Poland,Romania,Serbia,Slovakia,Syria,Tanzania,Turkmenistan,Vietnam,Yemen"
+          ],
+          "WEAPONS": [
+            "1S11",
+            "1S31"
+          ],
+          "DATA": {
+            "Weight": "19.5t"
+          },
+          "IMAGES": [
+            "1s191",
+            "1s192"
+          ],
+          "DESCRIPTION": "The 1S19 radar, NATO reporting name 'Straight Flush', is an acquisition and guidance radar assigned to the Kub family of surface to air missiles. The system consists of the 1S11 target acquisition radar and the 1S21 target tracking radar. The radars are mounted on the GM-568 chassis. The detection range is 50km.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The system can be identifed by its two radars. The bottom rectangluar radar is the 1S11 target acquisition radar, with the circular 1S21 guidance radar mounted on top. The chassis of the GM-568 has 6 road wheels in a 1-1-4 configuration.": "1s19rf1"
+          }
         }
       },
       "2K22 Tunguska": {
@@ -2751,183 +2743,6 @@
           "CREW": 4,
           "R_FEAT": {
             "The M4 upgrade now has 2 x 9K38 'Igla' surface to air missiles mounted on the rear of the turret. It also has improved protection, including side skirts and flaps beneath the front glacis plate.": "zsum4rf"
-          }
-        }
-      },
-      "Acquisition radars*": {
-        "1S12 Long Track": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "1S91 Straight Flush": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "9S18 Tube Arm": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "9S18M1 Snow Drift": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
-          }
-        },
-        "9S80 Dog Ear": {
-          "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
-          ],
-          "COO": [
-            "Manufacturing COuntry"
-          ],
-          "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
-          ],
-          "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
-          },
-          "IMAGES": [
-            "",
-            "",
-            ""
-          ],
-          "DESCRIPTION": "",
-          "CREW": 4,
-          "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
           }
         }
       }
@@ -3375,6 +3190,9 @@
         ],
         "WEAPONS": [
           "MO-10-1-04 "
+        ],
+        "ARMOUR": [
+          "Composite armour"
         ],
         "DATA": {
           "Weight": "45.3t",
