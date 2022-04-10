@@ -1,5 +1,5 @@
 {
-  "1.1.40": {
+  "1.1.42": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2316,7 +2316,8 @@
           "CREW": 3,
           "R_FEAT": {
             "The 2K12 is mounted on the GM-578 chassis which has slack tracks and a 6 roadwheel configuration of 1-1-4. The final drive is at the rear. The most obvious recognising feature is the three M39M4 missiles which sit within a framed cradle.": "rf2k121",
-            "This image shows the 2K12 without missiles fitted and the TEL in the collapsed position. Note the high, tear shaped rails - this disguishes it from other SAMs.": "rf2k122"
+            "This image shows the 2K12 without missiles fitted and the TEL in the collapsed position. Note the high, tear shaped rails - this disguishes it from other SAMs.": "rf2k122",
+            "The 2T7M 'Gainful' wheeled transloader is used to reload the 2P25 TEL. ": "2k12loader"
           }
         },
         "1S19 Straight Flush": {
