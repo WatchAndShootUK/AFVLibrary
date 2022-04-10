@@ -1,5 +1,5 @@
 {
-  "1.1.28": {
+  "1.1.29": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -522,18 +522,59 @@
             "Kontakt-1"
           ],
           "IMAGES": [
-            "t72b1",
-            "t72b2",
-            "t72b3"
+            "newt72b1",
+            "newt72b2",
+            "newt72b3"
           ],
-          "DESCRIPTION": "T-72B\nThe T-72B is a second generation of the upgrade of the T-72 MBT, the upgrades include an upgraded 2A46M MA, an upgraded FCS, upgraded gun stabilisation, also the capability to fire the 9M119 Svir/AT-11 Sniper GLATGM, a thicker and newly designed composite armour on the turret front and hull front, a new powerpack developing more HP. Later production models came from the factory with Kontakt-1 fitted directly to the tank. \nT-72B1\nThe T-72B1 is a T-72B with the T-72A’s sights and the lack of ability to fire an ATGM, it is also fitted with Kontakt-1 ERA directly on to the tank rather, than on mounts.",
+          "DESCRIPTION": "The T-72B is a second generation of the upgrade of the T-72 MBT, the upgrades include an upgraded 2A46M MA, an upgraded FCS, upgraded gun stabilisation, also the capability to fire the 9M119 Svir/AT-11 Sniper GLATGM, a thicker and newly designed composite armour on the turret front and hull front, a new powerpack developing more HP. Later production models came from the factory with Kontakt-1 fitted directly to the tank.",
           "CREW": 3,
           "R_FEAT": {
             "The T-72B has much thicker turret armour, as seen here, you will also notice the smoke grenade dischargers have moved positions to the left side of the turret in a cluster of 8, in a row of 3-3-2.": "rfeatt72b1",
             "The T-72B later production models began to leave the factory with Kontakt-1 ERA fitted, across the turret front and hull front. When compared to other tanks the ERA almost looks poorly fitted, almost like they were trying to fit it in any place possible.": "rfeatt72b2",
+            "SIGHT SHIT": "t72brf1"
+          }
+        },
+        "T-72B1": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1986",
+            2000
+          ],
+          "COO": [
+            "Soviet Union",
+            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia,Russia"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "43t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "840hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Kontakt-1"
+          ],
+          "IMAGES": [
+            "t72b11",
+            "t72b12",
+            "t72b13",
+            "t72b14",
+            "t72b15"
+          ],
+          "DESCRIPTION": "The T-72B1 is a T-72B without the ATGM capability, it also has the optics from the T-72A.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-72B1 only has one recognising feature when compared to the T-72B. The prominent feature is the TPN 3-49 Sight replacing the 1K13 sight. The key feature is that the sight is square and has 4 screws. The best way to remember is the T-72B has a sight door and the T-72B1 doesn’t.": "t72b11",
             "T-72B1’s shown with no ERA fitted in Georgia, 2008. This shows the mounts, unlike other models the mounts for the Kontakt-1 are directly on the hull, unlike clamshell mounting brackets. The ERA was probably fitted in theatre.": "rfeatt72b3",
-            "T-72B1 has a different sighting system, the 1K13 sight found on the T-72A, it also cannot fire GLATGM, this is a key recognising feature.": "rfeatt72b4",
-            "Shown here, the T-72B has a sight door whereas the T-72B1 doesn’t.": "rfeatt72b5"
+            "You can see here the sight with the 4 screws.": "t72b1rf"
           }
         },
         "T-72AV": {
