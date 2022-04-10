@@ -1,5 +1,5 @@
 {
-  "1.1.24": {
+  "1.1.25": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2178,7 +2178,8 @@
         "IMAGES": [
           "2018-080-aa6",
           "2K12_KUB_(rockets)",
-          "maxresdefault"
+          "maxresdefault",
+          "2k124"
         ],
         "DESCRIPTION": "The 2K12 Kub, NATO reporting name SA-6 'Gainful', is a medium range surface to air missile. The launcher is armed with 3 x 3M9M4 missiles that have a range of 24km and an altitude of up to 46,000 ft. The system is mounted on a GM-578 chassis and within the firing battery there are different elements. The transporter erector & launchers (TELs), the 1S19, NATO reporting name 'Straight Flush' target acquisition radar and various wheeled supply trucks.",
         "CREW": 3,
@@ -2361,37 +2362,32 @@
       },
       "9K31 Strela-1": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "Unknown",
+          1966,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union",
+          "Algeria,Angola,Armenia,Benin,Bulgaria,Cuba,Croatia,Bosnia,Egypt,Ethiopia,Hungary,India,Libya,Mauritania,Mongolia,Mozambique,Nicaragua,Russia,Romania,Sahrawi Arab Democratic Republic,Serbia,South Africa,Syria,Uganda,Ukraine,Uzbekistan,Vietnam,Yemen"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "9M31"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "7t",
+          "Length": "5.8m",
+          "Width": "2.4m",
+          "Height": "2.3m"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "gaskin1",
+          "gaskin2"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The 9K31 Strela-1, NATO designation SA-9 'Gaskin', is a highly mobile short range surface to air missile. The system was usually deployed alongside ZSU 23-4 'Shilka' anti-aircraft artillery system. The system was succeded by the 9K35 Strela-10.",
+        "CREW": 3,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The Strela-1 is mounted on the BRDM 2 chassis which has 4 wheels and a boat shaped hull. The vehicle is fully amphibious. On the sides at the rear are fold down rails, for use by crews when reloading the system.": "gaskinrf1",
+          "In place of the turret mounted KPVT on the standard BRDM is the SA-9 system comprised of 2 banks of 2 x 9M31 missiles. ": "gaskinrf2"
         }
       },
       "9K35 Strela-10": {
