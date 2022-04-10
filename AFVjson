@@ -1,5 +1,5 @@
 {
-  "1.1.43": {
+  "1.1.44": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2692,7 +2692,7 @@
           ],
           "WEAPONS": [
             "2A7",
-            " 1RL33M1"
+            "1RL33M1"
           ],
           "DATA": {
             "Weight": "19t",
@@ -3565,6 +3565,18 @@
           "IMAGES": {
             "Smoke rounds can be used to blind the enemy.": "smoke1",
             "Smoke rounds can also screen friendly forces with either White Phos or built up smoke.": "smoke2"
+          }
+        },
+        "Detect": {
+          "NAME": "Detection",
+          "IMAGES": {
+            "Detection is where the radar system can see approaching objects, usually aircraft of vehicles. Detection radars then pass off the targets towards the targeting and tracking systems ready for engagement.": "detectionradar"
+          }
+        },
+        "Track": {
+          "NAME": "Tracking",
+          "IMAGES": {
+            "Radar tracking is where the radar will lock onto a target and follow it, this will enable surface to air missiles to follow the rebounded radar energy to accurately strike targets.": "trackingradar"
           }
         }
       },
