@@ -1,5 +1,5 @@
 {
-  "1.1.29": {
+  "1.1.30": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -493,6 +493,47 @@
             "This is a view in TI, the heat from the exhaust will be significant on the left hand side. The exhaust points downwards so this will leave a prominent signature on the ground.": "rfeatt72a3"
           }
         },
+        "T-72AV": {
+          "MANUFACTURE": [
+            "Uralvagonzavod",
+            "1985",
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Democratic Republic of the Congo,Kenya,Sudan,Syria"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "PKMT",
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "43t",
+            "Length": "9.54m",
+            "Width": "3.59m",
+            "Height": "2.23m",
+            "Range": "480-550km",
+            "Speed": "60kph",
+            "HP": "840hp"
+          },
+          "ARMOUR": [
+            "Composite Armour",
+            "Kontakt-1"
+          ],
+          "IMAGES": [
+            "t72av1",
+            "t72av2",
+            "t72av3"
+          ],
+          "DESCRIPTION": "The T-72AV is a T-72A with Kontakt-1 ERA fitted, this enhances the tanks resistance to chemical energy munitions over the standard T-72A. It entered service in 1985.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-72AV shares most of its recognising features with the T-72A, apart from the Kontakt-1 fitted, this gives it a distinctive appearance. The bricks are fitted in a single brick clamshell design, this is key feature to help with recognising it against other T-Series tanks with Kontakt-1.": "t72avrfeat1",
+            "The hull ERA is similar to other T-Series tanks with it being fitted across the front glacis with gaps for headlights and towing eyes.": "t72avrfeat2",
+            "This is a T-64BV, which the T-72AV is easily confused with. You can see the difference in ERA layout across the turret, remember that T-64BV has a double brick clamshell, T-72AV has a single brick clamshell mount.": "t72avrfeat3"
+          }
+        },
         "T-72B": {
           "MANUFACTURE": [
             "Uralvagonzavod",
@@ -573,49 +614,43 @@
           "CREW": 3,
           "R_FEAT": {
             "The T-72B1 only has one recognising feature when compared to the T-72B. The prominent feature is the TPN 3-49 Sight replacing the 1K13 sight. The key feature is that the sight is square and has 4 screws. The best way to remember is the T-72B has a sight door and the T-72B1 doesn’t.": "t72b11",
-            "T-72B1’s shown with no ERA fitted in Georgia, 2008. This shows the mounts, unlike other models the mounts for the Kontakt-1 are directly on the hull, unlike clamshell mounting brackets. The ERA was probably fitted in theatre.": "rfeatt72b3",
-            "You can see here the sight with the 4 screws.": "t72b1rf"
+            "You can see here the sight with the 4 screws.": "t72b1sight2",
+            "T-72B1’s shown with no ERA fitted in Georgia, 2008. This shows the mounts, unlike other models the mounts for the Kontakt-1 are directly on the hull, unlike clamshell mounting brackets. The ERA was probably fitted in theatre.": "rfeatt72b3"
           }
         },
-        "T-72AV": {
+        "T-72B Obr.1989": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
-            "1985",
-            "Present"
+            "UVZ",
+            1989,
+            1991
           ],
           "COO": [
-            "Soviet Union",
-            "Democratic Republic of the Congo,Kenya,Sudan,Syria"
+            "Soviet Union"
           ],
           "WEAPONS": [
             "2A46",
-            "PKMT",
-            "NSVT"
+            "NSVT",
+            "PKT"
           ],
           "DATA": {
-            "Weight": "43t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "840hp"
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
           },
-          "ARMOUR": [
-            "Composite Armour",
-            "Kontakt-1"
-          ],
           "IMAGES": [
-            "t72av1",
-            "t72av2",
-            "t72av3"
+            "t7219891",
+            "t7219892",
+            "t7219893"
           ],
-          "DESCRIPTION": "The T-72AV is a T-72A with Kontakt-1 ERA fitted, this enhances the tanks resistance to chemical energy munitions over the standard T-72A. It entered service in 1985.",
+          "DESCRIPTION": "The T-72B Obr.1989 is an upgrade of the T-72B, the most prominent feature being the armour upgrade, consisting of a Kontakt-5 ERA package.",
           "CREW": 3,
           "R_FEAT": {
-            "The T-72AV shares most of its recognising features with the T-72A, apart from the Kontakt-1 fitted, this gives it a distinctive appearance. The bricks are fitted in a single brick clamshell design, this is key feature to help with recognising it against other T-Series tanks with Kontakt-1.": "t72avrfeat1",
-            "The hull ERA is similar to other T-Series tanks with it being fitted across the front glacis with gaps for headlights and towing eyes.": "t72avrfeat2",
-            "This is a T-64BV, which the T-72AV is easily confused with. You can see the difference in ERA layout across the turret, remember that T-64BV has a double brick clamshell, T-72AV has a single brick clamshell mount.": "t72avrfeat3"
+            "The T-72B Obr.1989 is a T-72B with Kontakt-5. It is recognisable by this, remember the T-72B has Kontakt-1 bricks all over the tank. This now has the Kontakt-5 blocks across the turret front, they are distinguishable by the sideways ‘V’ shape. There are 4 of these mounts on the right side of the gun and 4 on the left. ": "t7219893",
+            "A noticeable feature is also the gaps between the ERA and the main gun, leaving a portion of the turret cheeks exposed. On the right side of the gun is an IR searchlight, this is a good feature to ID against the T-72B3, which does not have an IR searchlight, instead having 5 ERA blocks on the right side. The T-72B Obr 1989 is distinguishable from the T-72BA by the lack of the DWE-BS meteorological sensor.": "t721989rf"
           }
         },
         "T-72BA": {
