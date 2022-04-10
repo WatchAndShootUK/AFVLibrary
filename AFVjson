@@ -1,5 +1,5 @@
 {
-  "1.1.35": {
+  "1.1.36": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -802,6 +802,7 @@
           ],
           "WEAPONS": [
             "2A46",
+            "Kombat",
             "NSVT",
             "PKT"
           ],
@@ -1039,6 +1040,49 @@
             "I find a good recognising feature of the T-80BVM Is that the turret had a very distinctive ‘flying saucer’ shape due to the Relikt armour package.": "rfeatt80bvm4",
             "Along with the T-80BV, the T-80BVM is mostly reserved for use by units in the Far North, or Far Eastern regions of Russia, as it’s more suited to these biomes with the GT engine that performs better in the cold than the diesel powered T-72/T-90’s.": "rfeatt80bvm5"
           }
+        }
+      },
+      "T-84BM": {
+        "MANUFACTURE": [
+          "KMDB",
+          2009,
+          2022
+        ],
+        "COO": [
+          "Ukraine"
+        ],
+        "WEAPONS": [
+          "2A46",
+          "NSVT",
+          "PKT"
+        ],
+        "ARMOUR": [
+          "Composite armour",
+          "Nozh",
+          "Shtora-1",
+          "Zaslon"
+        ],
+        "DATA": {
+          "Weight": "",
+          "Length": "",
+          "Width": "",
+          "Height": "",
+          "Range": "",
+          "Speed": "",
+          "HP": ""
+        },
+        "IMAGES": [
+          "t84bm1",
+          "t84bm2",
+          "t84bm3"
+        ],
+        "DESCRIPTION": "The T-84 Oplot-M or T-84 BM  is a heavy modification of the T-80UD, with a completely new welded turret, the new turret is a completely new design with the autoloader at the rear of the turret, this mitigates the risk of a side hit detonating the ammunition. The new autoloader has blow-off panels to protect the crew from the blast. The armour package is highly enhanced with Nozh ERA and new composite armour on the welded turret, it also has a new 6TD opposed piston engine, making it one of the fastest tanks in the world.",
+        "CREW": 3,
+        "R_FEAT": {
+          "The T-84 Oplot-M has a completely new turret, it is welded giving it a more western look. It has Nozh ERA covering the frontal arc, on both sides it has Shtora-1 IRCM dazzlers, also known as eyes. Above the gun are the laser warning sensors, the gunners sights are in the same location as other T-Series versions. The commander now has a large panoramic sight, it looks like a large bucket on top, there is also a meteorological sensor at the rear centre of the turret.": "t84bmrf1",
+          "This side view shows the length of the new turret, you can see the cutout for the SGD’s, towards the rear are stowage bins. The roadwheel layout remains the same as the T-80U which the tank is based on.": "t84bmrf2",
+          "The front hull has a much more flat appearance, this is due to the new ERA fitted, the lower glacis plate has rubber flaps. The sideskirts are shown on this photo showing the extra ERA that can be added to the sides of the vehicle.": "t84bmrf3",
+          "The rear of the vehicle remains very similar to the T-80UD, with the exhaust in the same place; a  noticeable feature is the addition of steps to mount the vehicle on the rear left. On the rear of the turret you can see the stowage boxes.": "t84bmrf4"
         }
       },
       "T-90*": {
