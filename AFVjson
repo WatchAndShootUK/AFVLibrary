@@ -1,5 +1,5 @@
 {
-  "1.1.36": {
+  "1.1.37": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2753,6 +2753,183 @@
             "The M4 upgrade now has 2 x 9K38 'Igla' surface to air missiles mounted on the rear of the turret. It also has improved protection, including side skirts and flaps beneath the front glacis plate.": "zsum4rf"
           }
         }
+      },
+      "Acquisition radars*": {
+        "1S12 Long Track": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "1S91 Straight Flush": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "9S18 Tube Arm": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "9S18M1 Snow Drift": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        },
+        "9S80 Dog Ear": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
+        }
       }
     },
     "Artillery": {
@@ -2780,7 +2957,7 @@
             "d201",
             "d202"
           ],
-          "DESCRIPTION": "The D-20 is a towed 152mm howitzer, first introduced in 1950s. It is still in use by both the Russian Federation and various countries worlwide. It is simple but effective technology that can engage targets up to 17km away (24km with RAP). The D-20 uses the same gun as the 2S3 Akatsiya.",
+          "DESCRIPTION": "The D-20 is a towed 152mm howitzer, first introduced in 1950s. It is still in use by both the Russian Federation and various countries worlwide. It is simple but effective technology that can engage targets up to 17km away (24km with RAP).",
           "CREW": 8,
           "R_FEAT": {
             "The D-20 can be identified by the armoured plate shield in front of the gun to protect the crew from small arms whilst firing. The muzzle break has unique baffles, a square one at the front and a rectangular at the rear. Two arms fold out whilst deployed and a circular plate jack raises the wheels up to level the gun whilst firing.": "d20rf1"
@@ -3091,37 +3268,35 @@
       "MLRS*": {
         "BM-21 Grad": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "NPO Slav",
+            1963,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union",
+            "Bangladesh,Algeria,Angola,Armenia,Azerbaijan,BelarusB,Bosnia and Herzegovina,Botswana,Bulgaria,Burkina Faso,Burundi,Cambodia,Cameroon,Chad,China,Côte d'Ivoire,Croatia,Cuba,Cyprus,Ecuador,Egypt,Eritrea,Ethiopia,Tigray Defense ForcesGeorgia,India,Iran,Iraq,Israel,Kazakhstan,Kenya,Kyrgyzstan,Laos,Lebanon,Hezbollah,Libya,North Macedonia,Mali,Moldova,Transnistria,Mongolia,Morocco,Mozambique,Myanmar,Namibia,Nicaragua,Nigeria,North Korea,Pakistan,Palestine,Peru,Poland,Romania,Russia,Senegal,Serbia,Somalia,Somaliland,South Sudan,Sudan,Syria,Tajikistan,Tanzania,Turkmenistan,Ukraine,Uganda,Uzbekistan,Venezuela,Vietnam,Yemen,Zambia"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "M-21OF"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "13.71t",
+            "Length": "7.35m",
+            "Width": "3.09m",
+            "Height": "2.40m",
+            "Speed": "75kph",
+            "HP": "180hp"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "grad1",
+            "grad2",
+            "grad3"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BM-21 Grad is a 122mm multiple launch rocket system (MLRS) that has been in continuous service since 1963. It is mounted on a Ural-4320 chassis. The system can fire a variety of 122mm rockets, all under the umbrella designation of M-21OF. It is the most widely distributed MLRS in the world.",
+          "CREW": 3,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The Ural-4320 chassis has 6 wheels (3x3) with the BM-21 rocket system mounted on the flat bed to the rear. The system has 40 launch tubes in rows of 10. Although there are some variations to the system, it is easilty distinguishable from other Soviet wheeled MLRS due to its small size.": "gradrf1",
+            "A BM-21 captured in Ukraine in 2022. Note the make-shift armour on the windows make out of logs to protect against small arms and RPG attack.": "gradrf2"
           }
         },
         "BM-27 Uralagan": {
