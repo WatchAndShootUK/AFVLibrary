@@ -3329,39 +3329,38 @@
             "Captured Russian BM-27 Uralagan in Ukraine in 2022.": "bm27rf2"
           }
         },
-        "BM-30 Smerch": {
+        "BM-30 Smerch ": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "NPO Splav",
+            1989,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Soviet Union",
+            "Algeria,Armenia,Azerbaijan,Belarus,China,India,Kazakhstan,Kuwait,Morocco,Pakistan,Russia,Syria,Turkmenistan,Ukraine,United Arab Emirates,Venezuela"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "9M55",
+            "9M58"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "43.7t",
+            "Length": "12m",
+            "Width": "3.05m",
+            "Height": "3.05m",
+            "Speed": "60kph",
+            "HP": "525hp"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "bm301",
+            "bm302",
+            "bm303"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The BM-30 Smerch is a heavy multiple launch rocket system (MLRS) mounted on the MAZ-543M or MAZ-79111 chassis. It has a maximum range of 90km and can fire its 12 rockets in 20 seconds. It is the heaviest tactical artillery rocket launcher beneath the ballistic missile launchers.",
+          "CREW": 3,
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The BM-30 chassis is an 8 wheeled heavy truck, with 12 rocket tubes mounted on the rear. THe drivers cab is on the left of the vehicle, with a flat cut-out on the right housing the engine. There is a windowed control unit behind the cab.": "bm30rf1",
+            "BM-30 moments before it was destroyed by a TB-2 in the Nagorno-Karabakh conflict in 2021.": "bm30rf2"
           }
         }
       },
