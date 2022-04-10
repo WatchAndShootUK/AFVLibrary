@@ -1,5 +1,5 @@
 {
-  "1.1.31": {
+  "1.1.32": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2625,7 +2625,8 @@
           "IMAGES": [
             "zsu1",
             "zsu2",
-            "zsu3"
+            "zsu3",
+            "zsu4"
           ],
           "DESCRIPTION": "The ZSU 23-4 was the primary SPAAG throughout most of the Cold War. It is a capable platform that is still in use by both Russia and multiple countries today. It uses 4 x 2A7 (23mm) autocannons, which is where it gets it designation of 23-4. The system uses the 1RL33M1 'Tobol' radar, which align the turret towards targets. The radar has a detection range of 20km and an engagement range of 3000 metres. It is primarily designed to engage low flying targets, and has been used successfully in multiple conflicts - plugging the gaps beneath the divisional SAMS (such as Kub or Buk). There were modifications made to the ZSU for certain conflicts, since it was so effective at engaging ground targets.",
           "CREW": 4,
