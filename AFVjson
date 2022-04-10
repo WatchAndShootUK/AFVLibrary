@@ -1,5 +1,5 @@
 {
-  "1.1.22": {
+  "1.1.24": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2170,8 +2170,7 @@
           "Algeria,Angola,Armenia,Bulgaria,Chad,Cuba,Czech Republic,Egypt,Ethiopia,Hungary,India,Iran,Kazakhstan,Libya,Myanmar,Korea North,Poland,Romania,Serbia,Slovakia,Syria,Tanzania,Turkmenistan,Vietnam,Yemen"
         ],
         "WEAPONS": [
-          "3M9M4",
-          "1S91 Straight Flush"
+          "3M9M4"
         ],
         "DATA": {
           "Weight": "19.5t"
@@ -2325,37 +2324,39 @@
       },
       "9K33 Osa": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "ZTP",
+          1970,
+          1988
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union",
+          "Algeria,Angola,Armenia,Azerbaijan,Belarus,Bulgaria,Cuba,Ecuador,Georgia,Greece,Hezbollah,North Korea,Morocco,India,Iran,Jordan,Libya,Poland,Romania,Russia,Sahrawi Arab Democratic Republic,Syria,Turkmenistan,Ukraine"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "9M33",
+          "1S51M3"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "17.5t",
+          "Length": "9.14m",
+          "Width": "2.75m",
+          "Height": "4.20m",
+          "TELAR": "9A33",
+          "Transloader": "9T217",
+          "Collimation Radar": "9V914"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "osa1",
+          "osa2",
+          "osa3"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The 9K33 Osa, NATO designation SA-8 'Gecko', is a highly mobile short range surface to air missile system. The 9A33 TELAR was the first SAM to encorporate an integral radar, which allowed fire units to act autonomously. A battery consists of 4 x TELAR, 2 x transloaders and a variety of radar configurations including 'Long Track' or 'Flat Face'. The missile has a range of approximately 9 km, up to an altitude of 16,000ft. ",
+        "CREW": 5,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The 9A33 TELAR is mounted on the BAZ-5937 amphibious chassis. It has 6 wheels with a sloped hull at the front and a flat section at the rear. The SA-8 superstructure is mounted slightly foward on the chassis.": "osarf1",
+          "The 'Land Roll' integral radar consists of a raised, oval-shaped meshed detection radar and three acquisition and fire control radars. The centre radar is rectancular with a curved bottom and is flank by two smaller circular radars.": "osarf2",
+          "The SA-8 has two banks of 3 x 9M113 missiles that flank the radar system.": "osarf3",
+          "The 9T217 transloader is used to reload the 9M33 missiles, it has a reported reload time of 5 minutes per TELAR.": "osarf4"
         }
       },
       "9K31 Strela-1": {
