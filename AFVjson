@@ -1,5 +1,5 @@
 {
-  "1.1.50": {
+  "1.1.52": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -8,7 +8,8 @@
           "1989"
         ],
         "COO": [
-          "Soviet Union"
+          "Soviet Union",
+          "Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Belarus,Benin,Bosnia-Herzegovina,Bulgaria,Burundi,Cambodia,Cameroon,Cape Verde,Central African Republic,Chad,Republic of Congo,Cuba,Czech Republic,Djibouti,Egypt,Equatorial Guinea,Eritrea,Ethiopia,Georgia,Guinea,Guinea-Bissau,HungaryIndiaIraq,Kurdistan,Ivory Coast,Kyrgyzstan,Laos,Lesotho,Libya,Madagascar,MaldivesMali,Moldova,Transnistria,Mongolia,Myanmar,Namibia,North KoreaPalestine,Peru,Poland,Romania,Russia,Sahrawi Arab Democratic Republic,Serbia,Slovakia,Slovenia,SomaliaSudan,Syria,Tajikistan,Tanzania,Turkmenistan,TransnistriaUkraine,Vietnam,Yemen,Zambia,Zimbabwe"
         ],
         "R_FEAT": {
           "The BRDM-2 has a small one man ‘frying pan’ conical shaped turret, mounting the weapon systems centrally; it has no hatch. The commander and driver sit in the front hull side by side with 2 windows with armoured shutters, they also have periscopes above the windows for when they close the shutters. The hull is boat shaped with a large plate on the lower glacis, this is the trim vane for amphibious operations and can be internally raised by the driver. The side of the vehicle has a prominent bulge of viewing blocks in the centre below the turret on either side. There are 2 exhausts, one either side they look like the type of back box you’d see on an older car/van and give a good thermal signature.": "rfbrdm21",
@@ -20,13 +21,11 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "7t",
+          "Length": "5.75m",
+          "Width": "2.37m",
+          "Height": "2.31m",
+          "Speed": "100kph"
         },
         "IMAGES": [
           "brdm21",
@@ -37,7 +36,7 @@
       },
       "BRM-1K": {
         "MANUFACTURE": [
-          "Kurganmashzavod",
+          "KMZ",
           "1973",
           "1988"
         ],
@@ -45,30 +44,28 @@
           "Soviet Union"
         ],
         "R_FEAT": {
-          "The most prominent recognising features on this vehicle is the new wider turret,\nalthough reminiscent and easily confused with BMP-2, remembering the 73mm 2A28gun is key to saving confusion, as well as that is the difference sightingsystems and also the PSNR-5K radar at the rear (when raised). Another featureis the addition of the 6 SGD’s fitted around the turret, 3 on either side.\nFiring ports have been reduced from 8(BMP-1) to 3.": "rfbrm1k1",
-          "Some more recognising features are the difference in periscopes in the hull; the driversperiscopes remain the same but what was the BMP-1 Commanders position now hasonly 1 periscope instead of 3. You can see at the rear it changes from 4hatches to 2 on the infantry compartment, it now contains operators for theradar and other devices.": "rfbrm1k2",
-          "Underneath the moss and tree bark is a BRM-1K, you can see the radar cover is open,\nalthough the radar itself is not raised.": "rfbrm1k3",
-          "PSNR-5K in the raisedposition.": "rfbrm1k4"
+          "The most prominent recognising features on this vehicle is the new wider turret, although reminiscent and easily confused with BMP-2, remembering the 73mm 2A28gun is key to saving confusion, as well as that is the difference sighting systems and also the PSNR-5K radar at the rear (when raised). Another feature is the addition of the 6 SGD’s fitted around the turret, 3 on either side. Firing ports have been reduced from 8(BMP-1) to 3.": "rfbrm1k1",
+          "Some more recognising features are the difference in periscopes in the hull; the drivers periscopes remain the same but what was the BMP-1 Commanders position now has only 1 periscope instead of 3. You can see at the rear it changes from 4 hatches to 2 on the infantry compartment, it now contains operators for the radar and other devices.": "rfbrm1k2",
+          "Underneath the moss and tree bark is a BRM-1K, you can see the radar cover is open, although the radar itself is not raised.": "brm1krf",
+          "PSNR-5K in the raised position.": "rfbrm1k4"
         },
         "WEAPONS": [
           "2A28",
+          "PSNR-5K",
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "13.2t",
+          "Length": "6.73m",
+          "Width": "2.94m",
+          "Height": "2.06m"
         },
         "IMAGES": [
           "brm1k1",
           "brm1k2"
         ],
         "DESCRIPTION": "A dedicated combat recce variant of the BMP-1, it retains the same hull but has a new larger 2 man turret with new capabilities, including new sighting sytems, terrain surveying and mine detection devices and the PSNR-5K ‘Tall mike’ radar system. It has the autoloader for the 73mm 2A28 removed and carries significantly less rounds; due to its role not needing as much ammunition to the recce nature of the vehicle. The BRM-1K is usually found in recce coys of armoured/mechanised brigades.",
-        "CREW": 7
+        "CREW": 6
       },
       "GAZ Tigr": {
         "MANUFACTURE": [
@@ -77,11 +74,12 @@
           "Present"
         ],
         "COO": [
-          "Russia"
+          "Russia",
+          "Algeria,Armenia,Belarus,China,Congo,Guinea,Kazakhstan,Mongolia,Nicaragua,Russia,Slovakia,Tajikistan,Ukraine,Uruguay,Uzbekistan,Yemen,Zambia"
         ],
         "R_FEAT": {
           "The Gaz-Tigr is classed as an Infantry Mobility Vehicle, it has a hatch on top with pintle mounts for the mentioned weapons, the windows are armoured glass, down the sides there are 2 small pill shaped windows. The front engine bay is curved towards the front with a raised section in the centre. The front has bull bars with 2 circular headlights, with indicators on each side, moving down there is a mount for the winch.": "rfgazt1",
-          "The GAZ-Tigr-M Is a modernised version with a RWS, The RWS is the small turret-like system on top replacing the pintle mount, identifiable by the SGD’s and TI sight. It also features a new armoured hood, seen with the more prominent bulge.": "rfgazt2",
+          "The GAZ-Tigr-M Is a modernised version with a RWS, The RWS is the small turret-like system on top replacing the pintle mount, identifiable by the SGD’s and TI sight. It also features a new armoured hood, seen with the more prominent bulge.": "rfgazt21",
           "GAZ-Tigr-M TI view.": "rfgazt3"
         },
         "WEAPONS": [
@@ -107,7 +105,7 @@
       },
       "PRP-4": {
         "MANUFACTURE": [
-          "Rubtovsk ",
+          "RTK",
           1980,
           "Unknown"
         ],
@@ -119,8 +117,8 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
+          "Weight": "13.8t",
+          "Length": 6.74,
           "Width": "",
           "Height": "",
           "Range": "",
@@ -176,7 +174,7 @@
       "T-62*": {
         "T-62": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "1961",
             "1975"
           ],
@@ -212,9 +210,9 @@
         },
         "T-62M": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
-            "1961",
-            "1975"
+            "UVZ",
+            "1983",
+            "1990"
           ],
           "COO": [
             "Soviet Union",
@@ -250,9 +248,9 @@
         },
         "T-62MV": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
-            "1961",
-            "1975"
+            "UVZ",
+            "1985",
+            "1990"
           ],
           "COO": [
             "Soviet Union",
@@ -283,7 +281,7 @@
           "CREW": 4,
           "R_FEAT": {
             "Turret, new gunners sight, prominent box on LHS, KTD-2 LRF fitted above the gun, BDD Appliqué armour fitted to the turret cheeks. Hull, Appliqué armour on the front glacis plate along with more armour on the lower glacis plate": "rfeatt62mv1",
-            "The Turret fitting has the typical ‘clamshell’ layout, along the front of the vehicle it covers the front glacis apart from the headlight fitting, it also has bricks down the sides": "rfeatt62mv2",
+            "The Turret fitting has the typical ‘clamshell’ layout, along the front of the vehicle it covers the front glacis apart from the headlight fitting, it also has bricks down the sides": "rfeatt62mv21",
             "The fittings for the ERA, that give them that distinctive clamshell appearance": "rfeatt62mv3"
           }
         }
@@ -366,14 +364,14 @@
           "DESCRIPTION": "The T-64B is an extensive modification of the T-64A, including redesigned armour, a new 1A33 FCS, the ability to fire the 9K112 Kobra(AT-8 Songster) GLATGM and Stabilisation upgrades to name a few, this upgrade brought it in line with the newer tanks in service like the T-72 and T-80, the T-64BV was fitted with Kontakt-1 ERA on the hull and turret, it is still in service today, mainly with the Ukrainian Land Forces. The T-64BV is still produced to this day in Ukraine.",
           "CREW": 3,
           "R_FEAT": {
-            "Turret, Kontakt-1 fitted liberally around the turret. Fitted in a clamshell design with a double row of bricks, rather than a single row that you’ll see on other T-Series, the searchlight remains on the left side of the gun, with 2 SGD banks of 4 on the rear left of the turret.": "rfeatt64bv1",
-            "Along the hull there is again Kontakt-1 placed liberally across the front glacis plate, with a 1 brick row along the upper lower glacis, the hull also contain ERA bricks along the sides approximately 3/4 the way down.": "rfeatt64bv2",
+            "Turret, Kontakt-1 fitted liberally around the turret. Fitted in a clamshell design with a double row of bricks, rather than a single row that you’ll see on other T-Series, the searchlight remains on the left side of the gun, with 2 SGD banks of 4 on the rear left of the turret.": "rfeatt64bv11",
+            "Along the hull there is again Kontakt-1 placed liberally across the front glacis plate, with a 1 brick row along the upper lower glacis, the hull also contain ERA bricks along the sides approximately 3/4 the way down.": "rfeatt64bv21",
             "For comparison this is a T-72AV, you can see that the ERA is fitted in the clamshell design I mentioned but in a one brick row style instead of 2 brick rows like on the T-64BV": "rfeatt64bv3"
           }
         },
         "T-64BM": {
           "MANUFACTURE": [
-            "Malyshev Factory",
+            "KMDB",
             "2005",
             "Present"
           ],
@@ -403,7 +401,7 @@
             "t64bm2",
             "t64bm3"
           ],
-          "DESCRIPTION": "The T-64BM ‘Bulat’ is a Ukrainian modification of a T-64B, Ukraine has around 2000 T-64’s in various states, due to the Kharkov plant within Ukraine, this was once a Soviet powerhouse for building tanks, after the collapse of the USSR it fell in to Ukraine’s hands, who were left with thousands of ageing models of T-64’s.\nThis modification is extensive, featuring a new autoloader, upgraded power pack, new Nozh (Knife) ERA.",
+          "DESCRIPTION": "The T-64BM ‘Bulat’ is a Ukrainian modification of a T-64B, Ukraine has around 2000 T-64’s in various states, due to the Kharkov plant within Ukraine, this was once a Soviet powerhouse for building tanks, after the collapse of the USSR it fell in to Ukraine’s hands, who were left with thousands of ageing models of T-64’s. This modification is extensive, featuring a new autoloader, upgraded power pack, new Nozh (Knife) ERA.",
           "CREW": 3,
           "R_FEAT": {
             "The turret of the T-64BM looks very similar to that of the T-80U, some ways to differentiate are with the smoke grenade discharges at the rear sides of the turret rather than across the front, you can also see a meteorological sensor at the rear of the turret for the FCS, the T-80U has an IR searchlight and gaps either side of the gun where there is no ERA, the T-64BM does not have this. It also has a commanders sight different to the T-64BM.": "t64bm1",
@@ -439,7 +437,7 @@
             "Nozh ERA"
           ],
           "IMAGES": [
-            "t64bm11",
+            "t64b1m1",
             "t64bm12"
           ],
           "DESCRIPTION": "The T-64B1M is a Ukrainian upgrade of the T-64B1, the main upgrade being the addition of Nozh ERA and a rear turret extension for stowage. There aren't many in service with the Ukrainian army but they have\nseen action since 2014 and currently.",
@@ -455,7 +453,7 @@
       "T-72*": {
         "T-72A": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "1969",
             "Present"
           ],
@@ -495,7 +493,7 @@
         },
         "T-72AV": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "1985",
             "Present"
           ],
@@ -536,7 +534,7 @@
         },
         "T-72B": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "1985",
             "Present"
           ],
@@ -576,7 +574,7 @@
         },
         "T-72B1": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "1986",
             2000
           ],
@@ -658,7 +656,7 @@
         },
         "T-72BA": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "1998",
             2005
           ],
@@ -699,7 +697,7 @@
         },
         "T-72B3": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "2010",
             "Present"
           ],
@@ -742,7 +740,7 @@
         },
         "T-72B3 Obr.2016": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "2016",
             "Present"
           ],
@@ -908,51 +906,13 @@
           "R_FEAT": {
             "The T-80U changes a lot compared to the T-80BV, you will see the Kontakt-5 armour fitted around the turret with flaps covering them, the SGD’s are strangely, fitted over the top of the ERA, with 2 banks of 4. The turret also has a large fitting prominent at the rear, it is stowage for the snorkel adapters for the GT engine, the T-80UD would not have these due to it being diesel.": "rfeatt80u1",
             "There are Kontakt-5 ERA plates fitted across the frontal glacis plate, also 3 mounts down the sides of the hull. There are 4 Kontakt-5 mounts on the left turret cheek, with 3 on the right to make way for the IR searchlight.": "rfeatt80u2",
-            "At the rear as previously mentioned on T-80BV you will see the exhaust for the GT engine, which will give off a huge heat signature in TI.": "rfeatt80u3",
+            "At the rear as previously mentioned on T-80BV you will see the exhaust for the GT engine, which will give off a huge heat signature in TI.": "rfeatt80u3new",
             "A heavily camouflaged T-80U.": "rfeatt80u4",
-            "The Snorkel Adapter Stowage.": "rfeatt80u5",
+            "The Snorkel Adapter Stowage.": "rfeatt80u5new",
             "Trench digging equipment.": "rfeatt80u6",
             "Thermal View Front": "rfeatt80u7",
             "Thermal View Rear, showing the heat from the exhaust on idle.": "rfeatt80u8",
             "Thermal View Left Side": "rfeatt80u9"
-          }
-        },
-        "T-80UK": {
-          "MANUFACTURE": [
-            "Omsk",
-            1992,
-            "Unknown"
-          ],
-          "COO": [
-            "Russia"
-          ],
-          "WEAPONS": [
-            "24A8",
-            "NSVT",
-            "PKT"
-          ],
-          "ARMOUR": [
-            "Kontakt-5",
-            "Shtora-1"
-          ],
-          "DATA": {
-            "Weight": "46t",
-            "Length": "7m",
-            "Width": "3.6m",
-            "Height": "2.2m",
-            "Speed": "70kph"
-          },
-          "IMAGES": [
-            "t80uk1",
-            "t80uk2",
-            "t80uk3",
-            "t80uk4"
-          ],
-          "DESCRIPTION": "The T-80UK is a command variant of the T-80U, equipped with additional R-163-50K and R-163-U radios, TNA-4 land navigation system, TShU-1-7 Shtora countermeasures system, electronic fuze-setting device that permits use of Ainet shrapnel round, a meteorological sensor, laser warning receivers, Agava-2 thermal sight which provides a 2,600-metre night acquisition range, fire control and Auxiliary power unit. It is used by regimental and battalion Commanding Officers.",
-          "CREW": 3,
-          "R_FEAT": {
-            "The T-80UK remains mostly the same as the T-80U, the most prominent differences are the Shtora system, which is the 2 boxes on the front turret and also the laser warning sensors above the main armament. The addition of a thermal sight replacing the older night sight, this also adds to the removal of the IR searchlight. The addition of the meteorological sensor at the rear of the turret.": "rft80uk1",
-            "Here you can see the Shtora-1 IRCM boxes on the turret front, they appear smashed. This tank was abandoned and later destroyed during the 2022 Russian invasion of Ukraine. The Shtora ‘eyes’ can be personified for recognition, some say the turret looks like a frog, the boxes being the eyes.": "rft80uk2"
           }
         },
         "T-80UM2": {
@@ -997,6 +957,44 @@
             "Here is what could have been the same T-80UM2 on its way to an exercise in Belarus, pre-war.": "rft80um24"
           }
         },
+        "T-80UK": {
+          "MANUFACTURE": [
+            "Omsk",
+            1992,
+            "Unknown"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "2A46",
+            "NSVT",
+            "PKT"
+          ],
+          "ARMOUR": [
+            "Kontakt-5",
+            "Shtora-1"
+          ],
+          "DATA": {
+            "Weight": "46t",
+            "Length": "7m",
+            "Width": "3.6m",
+            "Height": "2.2m",
+            "Speed": "70kph"
+          },
+          "IMAGES": [
+            "t80uk1",
+            "t80uk2",
+            "t80uk3",
+            "t80uk4"
+          ],
+          "DESCRIPTION": "The T-80UK is a command variant of the T-80U, equipped with additional R-163-50K and R-163-U radios, TNA-4 land navigation system, TShU-1-7 Shtora countermeasures system, electronic fuze-setting device that permits use of Ainet shrapnel round, a meteorological sensor, laser warning receivers, Agava-2 thermal sight which provides a 2,600-metre night acquisition range, fire control and Auxiliary power unit. It is used by regimental and battalion Commanding Officers.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The T-80UK remains mostly the same as the T-80U, the most prominent differences are the Shtora system, which is the 2 boxes on the front turret and also the laser warning sensors above the main armament. The addition of a thermal sight replacing the older night sight, this also adds to the removal of the IR searchlight. The addition of the meteorological sensor at the rear of the turret.": "rft80uk1",
+            "Here you can see the Shtora-1 IRCM boxes on the turret front, they appear smashed. This tank was abandoned and later destroyed during the 2022 Russian invasion of Ukraine. The Shtora ‘eyes’ can be personified for recognition, some say the turret looks like a frog, the boxes being the eyes.": "rft80uk2"
+          }
+        },
         "T-80BVM": {
           "MANUFACTURE": [
             "Omsk",
@@ -1034,7 +1032,7 @@
           "DESCRIPTION": "The T-80BVM is a modernised T-80BV, fitted with a new Relikt ERA armour package, which reportedly reduces APFSDS effectiveness by 50%, it has a new 2A46M-4 Gun, Sosna-U sight, a newer GT engine and is reportedly fitted with a passive CM system. It was first shown in 2017 and entered service in 2018. It is sometimes called the T-80BVM Arctic, it’s also incorrectly called a T-80BV Obr.2017.",
           "CREW": 3,
           "R_FEAT": {
-            "The T-80BVM is almost unrecognisable now, with the completely new turret armour package. You will notice the changes, the large Relikt armour blocks that have no gaps in between them, there is a block which faces upwards more then the rest on the left side of the gun, the new Sosna-U thermal sight replacing the old IR sight, the meteorological sensor behind the sight which shows it has a modern FCS.": "rfeatt80bvm1",
+            "The T-80BVM is almost unrecognisable now, with the completely new turret armour package. You will notice the changes, the large Relikt armour blocks that have no gaps in between them, there is a block which faces upwards more then the rest on the left side of the gun, the new Sosna-U thermal sight replacing the old IR sight, the meteorological sensor behind the sight which shows it has a modern FCS.": "rfeatt80bvm1new",
             "Close up of the turret showing the armour layout, including the new sighting systems.": "rfeatt80bvm2",
             "You will notice the extreme thickness of the ERA blocks on the hull, bringing the front glacis plate almost inline with side fuel panniers. The Tank now has long side skirts with bar armour at the rear, the same that you see fitted to T-72B3 Obr.2016": "rfeatt80bvm3",
             "I find a good recognising feature of the T-80BVM Is that the turret had a very distinctive ‘flying saucer’ shape due to the Relikt armour package.": "rfeatt80bvm4",
@@ -1088,7 +1086,7 @@
       "T-90*": {
         "T-90A": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "1992",
             "Present"
           ],
@@ -1134,7 +1132,7 @@
         },
         "T-90M": {
           "MANUFACTURE": [
-            "Uralvagonzavod",
+            "UVZ",
             "2017",
             "Present"
           ],
@@ -3181,7 +3179,7 @@
       },
       "TOS-1": {
         "MANUFACTURE": [
-          "Uralvagonzavod",
+          "UVZ",
           1987,
           "Present"
         ],
@@ -3536,7 +3534,7 @@
         },
         "2A64": {
           "NAME": "Soviet 152mm Msta Barrel",
-          "Designation": "2A46",
+          "Designation": "2A66",
           "Calibre": 152,
           "DESCRIPTION": "The 2A64 is an upgrade to the 2A33 152mm howitzer barrel. The barrel is used in the Msta-B towed gun and the 2S19 Msta self-propelled artillery gun (SPAAG). It is 7.2m long, significantly longer than its predessor - this gives it a much improved range.",
           "Ammunition": {
@@ -3663,6 +3661,24 @@
               "Smoke",
               "",
               8800
+            ]
+          }
+        },
+        "M240": {
+          "NAME": "240mm mortar",
+          "Designation": "M240",
+          "Calibre": "240mm",
+          "DESCRIPTION": "The M240 mortar is a Soviet 240mm mortar used in the 2S4 Tyulpan. The mortar was used to great success in the Afghanistan war in the 1980s, it could destroy Mujahadeen positions due to its high angle that were un-reachable by 122mm systems.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              800,
+              9700
+            ],
+            "2": [
+              "RAP",
+              100,
+              20000
             ]
           }
         },
@@ -3837,9 +3853,9 @@
         }
       },
       "MANUFACTURERS": {
-        "Uralvagonzavod": {
+        "UVZ": {
           "NAME": "Uralvagonzavod",
-          "LOGO": "https://upload.wikimedia.org/wikipedia/ru/d/d1/UVZlogo.png",
+          "LOGO": "https://upload.wikimedia.org/wikipedia/ru/d/d1/uralvagonzavodlogo.png",
           "DESCRIPTION": "Uralvagonzavod is a tank manufacturing company based in Nizhny Tagil, Sverdlovsk Oblast, Russia. It is the largest tank manufacturing business in the world and makes the majority of Russian (and previously Soviet) main battle tanks. The company was established in 1936 and has a history of private and state ownership, it has been owned by the state since 2016 - via the Russian conglomerate Somtek."
         }
       },
