@@ -1,5 +1,5 @@
 {
-  "1.1.57": {
+  "1.1.58": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3719,20 +3719,20 @@
         "MO-10-1-04": {
           "NAME": "TOS-1 thermobaric rocket",
           "Designation": "MO-10-1-04",
-          "Calibre": 203,
-          "DESCRIPTION": "The MO-10-1-04 is actually designated a weapon in the chemical and nuclear brigades of the Russian military. This is because it is a purely thermobaric munition. THey have a relatively short range, but have devastating effects at the target end.",
+          "Calibre": 220,
+          "DESCRIPTION": "The MO-10-1-04 is actually designated a weapon in the chemical and nuclear brigades of the Russian military. This is because it is a purely thermobaric munition. They have a relatively short range, but have devastating effects at the target end.",
           "Ammunition": {
-            "-04": [
+            " 04 ": [
               "THERM",
               400,
               2700
             ],
-            "-04M": [
+            "04M": [
               "THERM",
               400,
               6000
             ],
-            "-04M3": [
+            "04M3": [
               "THERM",
               1600,
               10000
@@ -3967,8 +3967,7 @@
         "THERM": {
           "NAME": "Thermobaric",
           "IMAGES": {
-            "Thermobaric weapons use the air surrounding the detonation to generate a high-temperatre explosion. Instead of high-explosive material they are filled with fuel, which ignites in the detonation. They do not cause as much blast or fragmentation damage as HE munitions but cause devastating fireballs which cause additional damage to structures.": "therm1",
-            "155mm artillery high-explosive (HE) shells.": "he2"
+            "Thermobaric weapons use the air surrounding the detonation to generate a high-temperatre explosion. Instead of high-explosive material they are filled with fuel, which ignites in the detonation. They do not cause as much blast or fragmentation damage as HE munitions but cause devastating fireballs which cause additional damage to structures.": "therm1"
           }
         },
         "Ball": {
