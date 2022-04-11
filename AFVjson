@@ -1,5 +1,5 @@
 {
-  "1.1.55": {
+  "1.1.56": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3123,8 +3123,7 @@
             "Armenia,Afghanistan,Angola,India,Belarus,Eritrea,Guinea,Georgia,Iran,Kazakhstan,Kyrgyzstan,Moldova,Myanmar,Korea North,Russia,Syria,Tajikistan,Tanzania,Turkmenistan,Ukraine,Uzbekistan,Yemen"
           ],
           "WEAPONS": [
-            "9M27",
-            "9M59"
+            "9M27"
           ],
           "DATA": {
             "Weight": "20t"
@@ -3152,8 +3151,7 @@
             "Algeria,Armenia,Azerbaijan,Belarus,China,India,Kazakhstan,Kuwait,Morocco,Pakistan,Russia,Syria,Turkmenistan,Ukraine,United Arab Emirates,Venezuela"
           ],
           "WEAPONS": [
-            "9M55",
-            "9M58"
+            "9M55"
           ],
           "DATA": {
             "Weight": "43.7t",
@@ -3721,7 +3719,7 @@
         "M-21OF": {
           "NAME": "BM-21 'Grad' rocket",
           "Designation": "M-21OF",
-          "Calibre": 220,
+          "Calibre": 122,
           "DESCRIPTION": "M-21OF is the wider designation given to the family of 122mm rockets fired by the BM-21 Grad. The original rocket has a range of about 20 kilometers but various improvements have led to a rocket capable of firing twice as far. All rockets are unguided.",
           "Ammunition": {
             "9M22U": [
@@ -3763,6 +3761,82 @@
               "HE",
               "",
               37
+            ]
+          }
+        },
+        "9M27": {
+          "NAME": "BM-27 multi-purpose rocket",
+          "Designation": "9M27",
+          "Calibre": 220,
+          "DESCRIPTION": "The 9M27 series is a series of 220mm artillery rockets of Soviet origin. The 9M27 series was developed for the BM-27 Uralagan. The DPICM variants have the following definitions:\n9M27K: Anti-material bomblet\n9M27K2: Anti-tank mine (1kg)\n9M27K3: Anti-personnel mine\n9M59: Anti-tank mine (2kg)",
+          "Ammunition": {
+            "9M27F": [
+              "HE",
+              10,
+              35
+            ],
+            "9M27K": [
+              "DPICM",
+              10,
+              35
+            ],
+            "9M27K2": [
+              "DPICM",
+              10,
+              35
+            ],
+            "9M27K3": [
+              "DPICM",
+              8,
+              34
+            ],
+            "9M59": [
+              "DPICM",
+              10,
+              35
+            ]
+          }
+        },
+        "9M55": {
+          "NAME": "BM-30 Smerch multi-purpose rocket",
+          "Designation": "9M55",
+          "Calibre": 300,
+          "DESCRIPTION": "The 9M55 family of rockets were designed for use with hte BM-30 Smerch. They are 300mm in calibre and capable of firing a range of ammunition types. The DPICM designations are as follows:\n9M55K: Anti-personnel\n\n9M55K1: Guided anti-tank\n\n9M55K4: Anti-tank mines\n\n9M55K5: High explosive bomblet",
+          "Ammunition": {
+            "9M55K": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55K1": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55K4": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55K5": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55F": [
+              "HE",
+              20,
+              70
+            ],
+            "9M55C": [
+              "THERM",
+              20,
+              70
+            ],
+            "9M528": [
+              "HE",
+              25,
+              90
             ]
           }
         }
