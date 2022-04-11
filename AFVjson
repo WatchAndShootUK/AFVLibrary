@@ -1,5 +1,5 @@
 {
-  "1.1.44": {
+  "1.1.45": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2761,7 +2761,7 @@
             "Angola,Armenia,Azerbaijan,Bulgaria,Ethiopia,Georgia,China,Hungary,Iran,Iraq,Laos,Moldova,Myanmar,Nicaragua,Nigeria,Russia,Romania,Sri Lanka,Syria,Turkmenistan,Ukraine,Vietnam"
           ],
           "WEAPONS": [
-            "A233"
+            "2A33"
           ],
           "DATA": {
             "Weight": "5.7t",
@@ -3455,6 +3455,39 @@
             ]
           }
         },
+        "2A33": {
+          "NAME": "2A33 Barrel (D-20)",
+          "Designation": "2A33",
+          "Calibre": "152mm",
+          "DESCRIPTION": "The 2A33 is the barrel used in the D-20 towed howitzer and the 2S3 Akatsiya self-propelled gun. ",
+          "Ammunition": {
+            "1": [
+              "HE",
+              0.1,
+              18.5
+            ],
+            "2": [
+              "HE(RAP)",
+              2,
+              24
+            ],
+            "3": [
+              "DPICM",
+              2,
+              17.5
+            ],
+            "4": [
+              "Illum",
+              0,
+              17.5
+            ],
+            "5": [
+              "Smoke",
+              0,
+              18.5
+            ]
+          }
+        },
         "1RL33M1": {
           "NAME": "RPK-2 Tobol 'Gun Dish'",
           "Designation": "1RL33M1",
@@ -3463,12 +3496,12 @@
           "Ammunition": {
             "1": [
               "Detect",
-              "-",
+              "",
               "20km"
             ],
             "2": [
               "Track",
-              "-",
+              "",
               "18km"
             ]
           }
@@ -3570,7 +3603,7 @@
         "Detect": {
           "NAME": "Detection",
           "IMAGES": {
-            "Detection is where the radar system can see approaching objects, usually aircraft of vehicles. Detection radars then pass off the targets towards the targeting and tracking systems ready for engagement.": "detectionradar"
+            "Detection is where the radar system can see approaching objects, usually aircraft or vehicles. Detection radars then pass off the targets towards the targeting and tracking systems ready for engagement.": "detectionradar"
           }
         },
         "Track": {
