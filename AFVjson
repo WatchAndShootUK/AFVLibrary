@@ -1,5 +1,5 @@
 {
-  "1.1.49": {
+  "1.1.50": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3534,6 +3534,72 @@
             ]
           }
         },
+        "2A64": {
+          "NAME": "Soviet 152mm Msta Barrel",
+          "Designation": "2A46",
+          "Calibre": 152,
+          "DESCRIPTION": "The 2A64 is an upgrade to the 2A33 152mm howitzer barrel. The barrel is used in the Msta-B towed gun and the 2S19 Msta self-propelled artillery gun (SPAAG). It is 7.2m long, significantly longer than its predessor - this gives it a much improved range.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              "",
+              24700
+            ],
+            "2": [
+              "RAP",
+              "",
+              29000
+            ],
+            "3": [
+              "DPICM",
+              "",
+              26000
+            ],
+            "4": [
+              "Illum",
+              "",
+              26000
+            ],
+            "5": [
+              "Smoke",
+              "",
+              26000
+            ]
+          }
+        },
+        "2A79": {
+          "NAME": "Msta-SM2 howitzer barrel",
+          "Designation": "2A79",
+          "Calibre": 152,
+          "DESCRIPTION": "The 2A79 is a much improved version of the 2A46 and is used on the 2S33 Msta-SM2 self propelled artillery gun (SPAAG). It has excellent ballistics and a significantly improved range.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              "",
+              30000
+            ],
+            "2": [
+              "RAP",
+              "",
+              40000
+            ],
+            "3": [
+              "DPICM",
+              "",
+              30000
+            ],
+            "4": [
+              "Illum",
+              "",
+              30000
+            ],
+            "5": [
+              "Smoke",
+              "",
+              30000
+            ]
+          }
+        },
         "2A18": {
           "NAME": "Soviet 122mm Artillery Barrel",
           "Designation": "2A18",
@@ -3737,7 +3803,7 @@
             "Armour piercing ammunition uses different alloys in the ammunition round to make it stronger. Although not capable against the significant armour of Main Battle Tanks, most AP ammunition will be able pass through the thick metal armour of IFVs & APCs, especially the high calibre rounds such as 30mm.": "ap1"
           }
         },
-        "HE(RAP)": {
+        "RAP": {
           "NAME": "HE Rocket Assisted Projectile",
           "IMAGES": {
             "A rocket assisted projectile (RAP) is round that uses a rocket motor for independent propulsion. This grants the projectile both greater speed and range than an ordinary shell, which is propelled only by the ballistic force of the gun's exploding charge.": "herap1"
