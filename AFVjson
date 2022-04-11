@@ -1,5 +1,5 @@
 {
-  "1.1.56": {
+  "1.1.57": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3185,7 +3185,7 @@
           "Algeria,Armenia,Azerbaijan,Iraq,Russia,Syria"
         ],
         "WEAPONS": [
-          "MO-10-1-04 "
+          "MO-10-1-04"
         ],
         "ARMOUR": [
           "Composite armour",
@@ -3716,6 +3716,29 @@
             ]
           }
         },
+        "MO-10-1-04": {
+          "NAME": "TOS-1 thermobaric rocket",
+          "Designation": "MO-10-1-04",
+          "Calibre": 203,
+          "DESCRIPTION": "The MO-10-1-04 is actually designated a weapon in the chemical and nuclear brigades of the Russian military. This is because it is a purely thermobaric munition. THey have a relatively short range, but have devastating effects at the target end.",
+          "Ammunition": {
+            "-04": [
+              "THERM",
+              400,
+              2700
+            ],
+            "-04M": [
+              "THERM",
+              400,
+              6000
+            ],
+            "-04M3": [
+              "THERM",
+              1600,
+              10000
+            ]
+          }
+        },
         "M-21OF": {
           "NAME": "BM-21 'Grad' rocket",
           "Designation": "M-21OF",
@@ -3768,7 +3791,7 @@
           "NAME": "BM-27 multi-purpose rocket",
           "Designation": "9M27",
           "Calibre": 220,
-          "DESCRIPTION": "The 9M27 series is a series of 220mm artillery rockets of Soviet origin. The 9M27 series was developed for the BM-27 Uralagan. The DPICM variants have the following definitions:\n9M27K: Anti-material bomblet\n9M27K2: Anti-tank mine (1kg)\n9M27K3: Anti-personnel mine\n9M59: Anti-tank mine (2kg)",
+          "DESCRIPTION": "The 9M27 series is a series of 220mm artillery rockets of Soviet origin. The 9M27 series was developed for the BM-27 Uralagan. The DPICM variants have the following definitions:\n\n9M27K: Anti-material bomblet\n\n9M27K2: Anti-tank mine (1kg)\n\n9M27K3: Anti-personnel mine\n\n9M59: Anti-tank mine (2kg)",
           "Ammunition": {
             "9M27F": [
               "HE",
@@ -3798,10 +3821,10 @@
           }
         },
         "9M55": {
-          "NAME": "BM-30 Smerch multi-purpose rocket",
+          "NAME": "BM-30 Smerch rocket",
           "Designation": "9M55",
           "Calibre": 300,
-          "DESCRIPTION": "The 9M55 family of rockets were designed for use with hte BM-30 Smerch. They are 300mm in calibre and capable of firing a range of ammunition types. The DPICM designations are as follows:\n9M55K: Anti-personnel\n\n9M55K1: Guided anti-tank\n\n9M55K4: Anti-tank mines\n\n9M55K5: High explosive bomblet",
+          "DESCRIPTION": "The 9M55 family of rockets were designed for use with hte BM-30 Smerch. They are 300mm in calibre and capable of firing a range of ammunition types. The DPICM designations are as follows:\n\n9M55K: Anti-personnel\n\n9M55K1: Guided anti-tank\n\n9M55K4: Anti-tank mines\n\n9M55K5: High explosive bomblet",
           "Ammunition": {
             "9M55K": [
               "DPICM",
@@ -3938,6 +3961,13 @@
           "NAME": "High Explosive",
           "IMAGES": {
             "High explosive ammunition contains explosive material, often inside a fragmentated shell case. As the fuse detonates the charge, the fragmentation will shatter and cause both blast and physical damage to targets. It is the most common of both direct and indirect fire ammunition.": "he1",
+            "155mm artillery high-explosive (HE) shells.": "he2"
+          }
+        },
+        "THERM": {
+          "NAME": "Thermobaric",
+          "IMAGES": {
+            "Thermobaric weapons use the air surrounding the detonation to generate a high-temperatre explosion. Instead of high-explosive material they are filled with fuel, which ignites in the detonation. They do not cause as much blast or fragmentation damage as HE munitions but cause devastating fireballs which cause additional damage to structures.": "therm1",
             "155mm artillery high-explosive (HE) shells.": "he2"
           }
         },
