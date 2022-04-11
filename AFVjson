@@ -1,5 +1,5 @@
 {
-  "1.1.45": {
+  "1.1.46": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3456,16 +3456,11 @@
           }
         },
         "2A33": {
-          "NAME": "2A33 Barrel (D-20)",
+          "NAME": "152mm Artillery Barrel",
           "Designation": "2A33",
-          "Calibre": "152mm",
+          "Calibre": 152,
           "DESCRIPTION": "The 2A33 is the barrel used in the D-20 towed howitzer and the 2S3 Akatsiya self-propelled gun. ",
           "Ammunition": {
-            "1": [
-              "HE",
-              0.1,
-              18.5
-            ],
             "2": [
               "HE(RAP)",
               2,
@@ -3484,6 +3479,16 @@
             "5": [
               "Smoke",
               0,
+              18.5
+            ],
+            "D-20": [
+              "HE",
+              0.1,
+              17.5
+            ],
+            "2S3": [
+              "HE",
+              0.1,
               18.5
             ]
           }
@@ -3598,6 +3603,13 @@
           "IMAGES": {
             "Smoke rounds can be used to blind the enemy.": "smoke1",
             "Smoke rounds can also screen friendly forces with either White Phos or built up smoke.": "smoke2"
+          }
+        },
+        "HE": {
+          "NAME": "High Explosive",
+          "IMAGES": {
+            "High explosive ammunition contains explosive material, often inside a fragmentated shell case. As the fuse detonates the charge, the fragmentation will shatter and cause both blast and physical damage to targets. It is the most common of both direct and indirect fire ammunition.": "he1",
+            "155mm artillery high-explosive (HE) shells.": "he2"
           }
         },
         "Detect": {
