@@ -1,5 +1,5 @@
 {
-  "1.1.46": {
+  "1.1.47": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3459,7 +3459,7 @@
           "NAME": "152mm Artillery Barrel",
           "Designation": "2A33",
           "Calibre": 152,
-          "DESCRIPTION": "The 2A33 is the barrel used in the D-20 towed howitzer and the 2S3 Akatsiya self-propelled gun. ",
+          "DESCRIPTION": "The 2A33 is the barrel used in the D-20 towed howitzer and the 2S3 Akatsiya self-propelled gun. The barrel is 3.96 metres long, with a double baffle muzzle brake and a semi-automatic vertical sliding-block breech. The fume extractor (wider part of barrel) sits close to the muzzle break.",
           "Ammunition": {
             "2": [
               "HE(RAP)",
@@ -3602,7 +3602,7 @@
           "NAME": "Smoke Round",
           "IMAGES": {
             "Smoke rounds can be used to blind the enemy.": "smoke1",
-            "Smoke rounds can also screen friendly forces with either White Phos or built up smoke.": "smoke2"
+            "Smoke rounds can also screen friendly forces with either White Phosphorus or base-ejected built up smoke.": "smoke2"
           }
         },
         "HE": {
@@ -3610,6 +3610,19 @@
           "IMAGES": {
             "High explosive ammunition contains explosive material, often inside a fragmentated shell case. As the fuse detonates the charge, the fragmentation will shatter and cause both blast and physical damage to targets. It is the most common of both direct and indirect fire ammunition.": "he1",
             "155mm artillery high-explosive (HE) shells.": "he2"
+          }
+        },
+        "HE(RAP)": {
+          "NAME": "HE Rocket Assisted Projectile",
+          "IMAGES": {
+            "A rocket assisted projectile (RAP) is round that uses a rocket motor for independent propulsion. This grants the projectile both greater speed and range than an ordinary shell, which is propelled only by the ballistic force of the gun's exploding charge.": "herap1"
+          }
+        },
+        "Illum": {
+          "NAME": "Illumination Round",
+          "IMAGES": {
+            "Illumination rounds hold internal sources of illumination, that are released mid-flight and deploy by parachute to illuminate an area.": "illum1",
+            "'Black Illum' is the same capability however uses Infra-red illumation sources so only those with IR capable devices can see the area.": "illum2"
           }
         },
         "Detect": {
@@ -3622,6 +3635,13 @@
           "NAME": "Tracking",
           "IMAGES": {
             "Radar tracking is where the radar will lock onto a target and follow it, this will enable surface to air missiles to follow the rebounded radar energy to accurately strike targets.": "trackingradar"
+          }
+        },
+        "DPICM": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
           }
         }
       },
