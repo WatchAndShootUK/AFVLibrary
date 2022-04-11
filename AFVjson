@@ -1,5 +1,5 @@
 {
-  "1.1.47": {
+  "1.1.48": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3461,26 +3461,6 @@
           "Calibre": 152,
           "DESCRIPTION": "The 2A33 is the barrel used in the D-20 towed howitzer and the 2S3 Akatsiya self-propelled gun. The barrel is 3.96 metres long, with a double baffle muzzle brake and a semi-automatic vertical sliding-block breech. The fume extractor (wider part of barrel) sits close to the muzzle break.",
           "Ammunition": {
-            "2": [
-              "HE(RAP)",
-              2,
-              24
-            ],
-            "3": [
-              "DPICM",
-              2,
-              17.5
-            ],
-            "4": [
-              "Illum",
-              0,
-              17.5
-            ],
-            "5": [
-              "Smoke",
-              0,
-              18.5
-            ],
             "D-20": [
               "HE",
               0.1,
@@ -3489,6 +3469,11 @@
             "2S3": [
               "HE",
               0.1,
+              18.5
+            ],
+            "All": [
+              "Smoke",
+              0,
               18.5
             ]
           }
