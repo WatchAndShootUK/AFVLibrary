@@ -1,5 +1,5 @@
 {
-  "1.1.48": {
+  "1.1.49": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3455,26 +3455,148 @@
             ]
           }
         },
+        "PKT": {
+          "NAME": "PK machine gun",
+          "Designation": "PKT",
+          "Calibre": "7.62mm",
+          "DESCRIPTION": "The PK machine gun is a belt fed general-purpose machine gun, chambered in 7.62x54mm ammunition. It is one of the primary light machine guns in the Soviet, and now Russian arsenal. The naming convention varies depending on its use; PKS,PKM,PKT & PKMT are all the same weapon system. The PKT & PKMT are coaxial vehicle mounted, whilst the PKM is dismounted. The PKS is light-role, tripod mounted.",
+          "Ammunition": {
+            "1": [
+              "Ball",
+              "",
+              1500
+            ],
+            "2": [
+              "Tracer",
+              "",
+              1500
+            ],
+            "3": [
+              "AP",
+              "",
+              1500
+            ]
+          }
+        },
+        "NSVT": {
+          "NAME": "NSV heavy machine gun",
+          "Designation": "NSVT",
+          "Calibre": 12.7,
+          "DESCRIPTION": "The NSV heavy machine gun is Russias answer to the M2 Browning .50 machine gun. It is an upgraded system compared to the earlier DShk. The NSVT is a vehicle mounted version of the gun, and is used on Russian T-series tanks. The Kord replaced the NSVT on factory roll-outs since 1998.",
+          "Ammunition": {
+            "1": [
+              "Ball",
+              "",
+              2000
+            ],
+            "2": [
+              "Tracer",
+              "",
+              2000
+            ],
+            "3": [
+              "AP",
+              "",
+              2000
+            ]
+          }
+        },
         "2A33": {
-          "NAME": "152mm Artillery Barrel",
+          "NAME": "Soviet 152mm Artillery Barrel",
           "Designation": "2A33",
           "Calibre": 152,
           "DESCRIPTION": "The 2A33 is the barrel used in the D-20 towed howitzer and the 2S3 Akatsiya self-propelled gun. The barrel is 3.96 metres long, with a double baffle muzzle brake and a semi-automatic vertical sliding-block breech. The fume extractor (wider part of barrel) sits close to the muzzle break.",
           "Ammunition": {
-            "D-20": [
+            "1": [
               "HE",
-              0.1,
-              17.5
+              "",
+              17500
             ],
-            "2S3": [
-              "HE",
-              0.1,
-              18.5
+            "2": [
+              "RAP",
+              "",
+              24000
             ],
-            "All": [
+            "3": [
+              "DPICM",
+              "",
+              17500
+            ],
+            "4": [
+              "Illum",
+              "",
+              17500
+            ],
+            "5": [
               "Smoke",
-              0,
-              18.5
+              "",
+              18500
+            ]
+          }
+        },
+        "2A18": {
+          "NAME": "Soviet 122mm Artillery Barrel",
+          "Designation": "2A18",
+          "Calibre": 122,
+          "DESCRIPTION": "The 122mm 2A18 artillery barrel is used in the D-30 and 2S1 howitzers. It is comparable to NATO 105mm systems. It is 4.6m long and has an above barrel recoil system. The muzzle brake produces about twice the overpressure in the area around the gun that is acceptable to Western armies, and is the reason it is often seen being fired with a long lanyard, which reduces rate of fire.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              "",
+              15400
+            ],
+            "2": [
+              "RAP",
+              "",
+              21000
+            ],
+            "3": [
+              "DPICM",
+              "",
+              15400
+            ],
+            "4": [
+              "Illum",
+              "",
+              15400
+            ],
+            "5": [
+              "Smoke",
+              "",
+              15400
+            ]
+          }
+        },
+        "2A60": {
+          "NAME": "Soviet 120mm Mortar",
+          "Designation": "2A60",
+          "Calibre": 120,
+          "DESCRIPTION": "The 2A60 is manufactured by Motovilikha Plants Corporation. The 120mm mortar barrel is used in the 2B16 towed mortar, the 2S9 self-propelled mortar and the 2S23. The 2A60 is the most commonly used 120mm mortar barrel world-wide, used by both a number of ex-Soviet states as well as customers of Russia's export market. ",
+          "Ammunition": {
+            "1": [
+              "HE",
+              "",
+              8800
+            ],
+            "2": [
+              "RAP",
+              "",
+              12800
+            ],
+            "3": [
+              "DPICM",
+              "",
+              7150
+            ],
+            "4": [
+              "Illum",
+              "",
+              8800
+            ],
+            "5": [
+              "Smoke",
+              "",
+              8800
             ]
           }
         },
@@ -3595,6 +3717,24 @@
           "IMAGES": {
             "High explosive ammunition contains explosive material, often inside a fragmentated shell case. As the fuse detonates the charge, the fragmentation will shatter and cause both blast and physical damage to targets. It is the most common of both direct and indirect fire ammunition.": "he1",
             "155mm artillery high-explosive (HE) shells.": "he2"
+          }
+        },
+        "Ball": {
+          "NAME": "Ball ammunition",
+          "IMAGES": {
+            "Ball ammunition is the most standard of ammunition types. It consists of a ball of metal, often lead, placed inside a cartridge which holes the primer and charge. When the cartridge is detonated by the weapon system, the ball of metal is exploded out of the barrel. There are different types of ball including full metal jacket and hollow point - but the basic concept remains the same. ": "ball1"
+          }
+        },
+        "Tracer": {
+          "NAME": "Tracer ammunition",
+          "IMAGES": {
+            "Tracer is ball ammunition that has a paint painted on the tip. When this paint reacts with the air it bursts on fire or glows, this enables the firer to see what they are engaging. It is a double edged sword since it also exposes the firers position. Soviet & Russian tracer is generally green, whilst NATO tracer rounds are red. ": "tracer1"
+          }
+        },
+        "AP": {
+          "NAME": "Armour piercing",
+          "IMAGES": {
+            "Armour piercing ammunition uses different alloys in the ammunition round to make it stronger. Although not capable against the significant armour of Main Battle Tanks, most AP ammunition will be able pass through the thick metal armour of IFVs & APCs, especially the high calibre rounds such as 30mm.": "ap1"
           }
         },
         "HE(RAP)": {
