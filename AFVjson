@@ -1,5 +1,5 @@
 {
-  "1.1.54": {
+  "1.1.55": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1244,7 +1244,7 @@
             "bmp1p2",
             "bmp1p3"
           ],
-          "DESCRIPTION": "The BMP-1P was the first large modernisation of the BMP-1, lessons learnt from the 1973 Yom Kippur war and the Angolan civil war, firepower was enhanced with theaddition of the 9M113/9M113 Konkurs ATGM, this massively increased firepower and armour protection, with the downside that the gunner had to exit his hatch and stand outside to fire and guide the missile.",
+          "DESCRIPTION": "The BMP-1P was the first large modernisation of the BMP-1, lessons learnt from the 1973 Yom Kippur war and the Angolan civil war, firepower was enhanced with the addition of the 9M113/9M113 Konkurs ATGM, this massively increased firepower and armour protection, with the downside that the gunner had to exit his hatch and stand outside to fire and guide the missile.",
           "CREW": "3+8",
           "R_FEAT": {
             "Recognising features of the BMP-1P, there is only one main feature which is the addition ofthe new ATGM fitted to the top of the turret, whilst this is a small feature, it is a key one as this greatly increases how threatening this variant is, due to the increase in range, armour penetration and missile speed. Whereas the BMP-1 has the 9M14 fitted above the gun as a bare missile, the BMP-1P now has an 9M113 on the top right of the turret. Although this may seem intricate and unnecessary to learn, the change in ATGM hugely changes the potency of this IFV, for example the effective range of the 9M14 compared to the 9M113 is as follows, 9M14-3km, 9M113-4km. This significantly enhances the lethality of these vehicles, therefore showing the need to recognise the differences with these vehicles.": "rfeatbmp1p1"
@@ -3045,7 +3045,7 @@
         },
         "2S7 Pion": {
           "MANUFACTURE": [
-            "Unknown",
+            "LKZ",
             1975,
             1990
           ],
@@ -3697,6 +3697,72 @@
               "Track",
               "",
               "18km"
+            ]
+          }
+        },
+        "2A44": {
+          "NAME": "203mm heavy mortar",
+          "Designation": "2A44",
+          "Calibre": 203,
+          "DESCRIPTION": "The 2A44 is the largest calibre mortar used current worldwide. The huge barrel had specialy designed ammunition for use with the 2S7 Pion. Rounds are breach loaded and have a huge range for a mortar system, three rounds can be fired before the first lands - letting the mortar escape counter-battery threats.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              "",
+              37500
+            ],
+            "2": [
+              "RAP",
+              "",
+              40000
+            ]
+          }
+        },
+        "M-21OF": {
+          "NAME": "BM-21 'Grad' rocket",
+          "Designation": "M-21OF",
+          "Calibre": 220,
+          "DESCRIPTION": "M-21OF is the wider designation given to the family of 122mm rockets fired by the BM-21 Grad. The original rocket has a range of about 20 kilometers but various improvements have led to a rocket capable of firing twice as far. All rockets are unguided.",
+          "Ammunition": {
+            "9M22U": [
+              "HE",
+              5,
+              20
+            ],
+            "9M28F": [
+              "HE",
+              1.5,
+              15
+            ],
+            "9M28K": [
+              "DPICM",
+              "",
+              13.4
+            ],
+            "9M43": [
+              "Smoke",
+              "",
+              20
+            ],
+            "9M217": [
+              "DPICM",
+              "",
+              30
+            ],
+            "9M218": [
+              "DPICM",
+              "",
+              30
+            ],
+            "9M521": [
+              "HE",
+              "",
+              40
+            ],
+            "9M522": [
+              "HE",
+              "",
+              37
             ]
           }
         }
