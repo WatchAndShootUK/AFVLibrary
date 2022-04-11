@@ -1,5 +1,5 @@
 {
-  "1.1.53": {
+  "1.1.54": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3032,19 +3032,18 @@
             "Speed": "39mph"
           },
           "IMAGES": [
-            "2s41",
-            "2s42",
-            "2s43"
+            "2s41new",
+            "2s42"
           ],
           "DESCRIPTION": "The 2S4 Tyulpan is a self-propelled 240mm mortar system. It is the largest calibre mortar in use worldwide. Mounted on a GM-123 chassis, the mortar barrel is loaded and then elevated into position. Due to the complex firing sequence it has a slow rate of fire, one round per minute. It has a range of 10km for standard ammunition and 20km for rocket assisted mortars. ",
           "CREW": 5,
           "R_FEAT": {
-            "The GM-123 chassis the mortar is mounted on has 6 road whees in a 1-2-3-4-56 configuration. The final drive is at the front. The mortar is easily distinguishable, as well as the large, square base-plate at the rear of the vehicle.": "rf2s41",
+            "The GM-123 chassis the mortar is mounted on has 6 road whees in a 1-2-3-4-56 configuration. The final drive is at the front. The mortar is easily distinguishable, as well as the large, square base-plate at the rear of the vehicle.": "27099515379_1beb9c0afb_b",
             "This image shows the M240 mortar in the deployed position.": "rf2s42",
             "2S4 in Ukraine (2022), note the bar armour cages on top of the turrets to defend occupants from RPG attack.": "rf2s43"
           }
         },
-        "2S7M Pion": {
+        "2S7 Pion": {
           "MANUFACTURE": [
             "Unknown",
             1975,
@@ -3069,7 +3068,7 @@
             "2s73",
             "2s74"
           ],
-          "DESCRIPTION": "The 2S7 Pion (later upgrade variant known as the 2S7 Malka) is a 203 calibre self-propelled howizter. It has an impressive range of 37km for standard ammunition and up to 50km with rocket assisted projecties. The firing range is so far that the howitzer can re position after firing the first round and be well out of counter battery range by the time the rounds impact. The 2S7 is supported by",
+          "DESCRIPTION": "The 2S7 Pion (later upgrade variant known as the 2S7M Malka) is a 203 calibre self-propelled howizter. It has an impressive range of 37km for standard ammunition and up to 50km with rocket assisted projecties. The firing range is so far that the howitzer can re position after firing the first round and be well out of counter battery range by the time the rounds impact. The 2S7 is supported by",
           "CREW": 7,
           "R_FEAT": {
             "The 2S7 Pion/Malka is mounted on an extended T-80 chassis with 7 evenly placed roadwheels. The final drive is on the front. The 2A44 gun is longer than the chassis and extends over the front when in the lowered position.": "rf2s71",
@@ -3191,7 +3190,8 @@
           "MO-10-1-04 "
         ],
         "ARMOUR": [
-          "Composite armour"
+          "Composite armour",
+          "Kontakt-5"
         ],
         "DATA": {
           "Weight": "45.3t",
