@@ -1,5 +1,5 @@
 {
-  "1.1.63": {
+  "1.1.64": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3497,6 +3497,29 @@
             ]
           }
         },
+        "9K38": {
+          "NAME": "Igla manpad",
+          "Designation": "9M311",
+          "Calibre": 335,
+          "DESCRIPTION": "The 9K38 Iga, NATO reporting name SA-18 'Grouse', is a shoulder-launched surface to air missile. It has been modified to fit to some vehicle platforms to give them improved capability, such as the ZSU 23-4M.",
+          "Ammunition": {
+            "9M313": [
+              "HE",
+              "",
+              5000
+            ],
+            "9M39": [
+              "HE",
+              "",
+              5200
+            ],
+            "9M338": [
+              "HE",
+              "",
+              6000
+            ]
+          }
+        },
         "57E6": {
           "NAME": "57E6 surface to air missile",
           "Designation": "57E6",
@@ -3553,6 +3576,24 @@
               "AP",
               "",
               2000
+            ]
+          }
+        },
+        "KPVT": {
+          "NAME": "KPVT heavy machine gun",
+          "Designation": "KPVT",
+          "Calibre": 14.5,
+          "DESCRIPTION": "The KPVT is a Soviet/Russian heavy machine gun produced from 1949 to the present by the Degtyarvyov plant. It was originally an infantry weapon but was found to be too heavy, it then found use as an AAMG, due to its good light anti armour performance it subsequently found use in the BRDM and BTR series of vehicles.",
+          "Ammunition": {
+            "1": [
+              "API-T",
+              "",
+              2000
+            ],
+            "2": [
+              "HEI-T",
+              "",
+              3000
             ]
           }
         },
@@ -4194,7 +4235,7 @@
         },
         "2A7": {
           "NAME": "30mm anti-aircraft cannon",
-          "Designation": "2A38M",
+          "Designation": "2A7",
           "Calibre": 30,
           "DESCRIPTION": "The 2A38M is the designation given to the 30mm autocannon used on the 2K22 Tunguska & Pantsir S1. The weapon is an upgraded version of the 2A42, which is used on BMP-2. ",
           "Ammunition": {
@@ -4202,6 +4243,126 @@
               "HE",
               200,
               2000
+            ]
+          }
+        },
+        "2A42": {
+          "NAME": "Soviet 30mm auto-cannon",
+          "Designation": "2A42",
+          "Calibre": 30,
+          "DESCRIPTION": "The 2A42 is a Soviet/Russian 30mm auto-cannon built by Tulamashzavod from 1980 to the present day, it is gas operated with 2 options of RoF. The low setting 200-300rds/min, the high setting being 550-800rds/min, the action is gas operated, with a dual feed system. It is typically the MA of Russian IFV’s.",
+          "Ammunition": {
+            "1": [
+              "APBC-T",
+              "",
+              2000
+            ],
+            "2": [
+              "HE",
+              "",
+              4000
+            ],
+            "3": [
+              "HEI",
+              "",
+              4000
+            ]
+          }
+        },
+        "2A46": {
+          "NAME": "125mm smoothbore gun",
+          "Designation": "2A46",
+          "Calibre": 125,
+          "DESCRIPTION": "The 2A46 is a Soviet/Russian family of 125mm L/48 smoothbore tank guns, produced by Artillery Plant No.9 in Yekaterinburg from 1963-Present. The gun has many variations, the 2A46M-5 series is fitted to the T-72/T-90 series of tanks and the 2A46M-4 is fitted to the T-80 series of tanks, this is due to differences with the autoloaders fitted to these models.",
+          "Ammunition": {
+            "1": [
+              "APFSDS",
+              "",
+              3000
+            ],
+            "2": [
+              "HEAT-FS",
+              "",
+              4000
+            ],
+            "3": [
+              "HE-FRAG-FS",
+              "",
+              4000
+            ],
+            "4": [
+              "ATGM",
+              "",
+              5000
+            ]
+          }
+        },
+        "2A20": {
+          "NAME": "115mm smoothbore gun",
+          "Designation": "2A20",
+          "Calibre": 115,
+          "DESCRIPTION": "The 2A20 is a Soviet 115mm smoothbore tank gun, the first of its kind, it was solely used by the T-62 family of tanks. It was produced from 1959 by Motovilikha plant, it has also been produced by Royal Ordnance Nottingham in the UK to replace the Egyptian army’s aging barrels. The gun led to the introduction of new armour packages in the west, namely the Stillbrew Crew Protection  package on the British Chieftain Mk.10.",
+          "Ammunition": {
+            "1": [
+              "APFSDS",
+              "",
+              1800
+            ],
+            "2": [
+              "HEAT",
+              "",
+              3000
+            ],
+            "3": [
+              "HE",
+              "",
+              3000
+            ],
+            "4": [
+              "ATGM",
+              "",
+              4000
+            ]
+          }
+        },
+        "2A28": {
+          "NAME": "73mm smoothbore gun",
+          "Designation": "2A28",
+          "Calibre": 73,
+          "DESCRIPTION": "The 2A28 Grom is a Soviet/Russian low pressure smoothbore gun, produced from 1966 to the present it’s directly linked to the SPG-9 recoilless gun, both fired projectiles similar to rocket propelled grenades. The projectiles had extremely high penetration, the HEAT warhead can penetrate the frontal armour of the heavily armoured British Chieftain, which it was designed to do. It was after Afghanistan that the Soviet army sought a replacement weapon for the BMP series after the low gun elevation on the BMP-1.",
+          "Ammunition": {
+            "1": [
+              "HEAT-FS",
+              "",
+              4000
+            ],
+            "2": [
+              "HE-FRAG",
+              "",
+              1300
+            ]
+          }
+        },
+        "2A72": {
+          "NAME": "30mm autocannon",
+          "Designation": "2A72",
+          "Calibre": 30,
+          "DESCRIPTION": "The 2A72 is a late Soviet upgrade of the 2A42, the design is simplified with less parts, produced by Tulamashzavod, as well as factories in Ukraine and China that build licensed and unlicensed copies. It is named the ZTM-1/KBA-2 in Ukrainian service and the ZPT99 in Chinese service.",
+          "Ammunition": {
+            "1": [
+              "APBC-T",
+              "",
+              2000
+            ],
+            "2": [
+              "HE-FRAG",
+              "",
+              4000
+            ],
+            "3": [
+              "HEI",
+              "",
+              4000
             ]
           }
         }
