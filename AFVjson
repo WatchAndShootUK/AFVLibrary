@@ -1,5 +1,5 @@
 {
-  "1.1.58": {
+  "1.1.60": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2299,7 +2299,7 @@
             "Algeria,Angola,Armenia,Bulgaria,Chad,Cuba,Czech Republic,Egypt,Ethiopia,Hungary,India,Iran,Kazakhstan,Libya,Myanmar,Korea North,Poland,Romania,Serbia,Slovakia,Syria,Tanzania,Turkmenistan,Vietnam,Yemen"
           ],
           "WEAPONS": [
-            "3M9M4"
+            "3M9"
           ],
           "DATA": {
             "Weight": "19.5t"
@@ -2358,7 +2358,6 @@
         ],
         "WEAPONS": [
           "9M311",
-          "57E6",
           "2A38M"
         ],
         "DATA": {
@@ -3451,6 +3450,65 @@
             ]
           }
         },
+        "3M9": {
+          "NAME": "3M9 surface to air missile",
+          "Designation": "3M9",
+          "Calibre": 335,
+          "DESCRIPTION": "The 3M9 surface to air missile is the family of missiles used in the 2K12 Kub (SA-6). The maximum range of the missile is 24 kilometres, depending on variant. They use a mix of high-explosive and fragmentation payload, initiated either on contact or in proximity to target aircraft. There is semi-active radar seeker in the head of the missile, this seeker will steer the missile to the re-bounded radar energy from the target acquisition radar of the same system.",
+          "Ammunition": {
+            "3M9": [
+              "HE",
+              6000,
+              22000
+            ],
+            "3M9M1": [
+              "HE",
+              4000,
+              23000
+            ],
+            "3M9M3": [
+              "HE",
+              4000,
+              25000
+            ],
+            "3M9M4": [
+              "HE",
+              4000,
+              24000
+            ]
+          }
+        },
+        "9M311": {
+          "NAME": "9M311 surface to air missile",
+          "Designation": "9M311",
+          "Calibre": 335,
+          "DESCRIPTION": "The 9M311 is a family of surface to air missiles developed in the Soviet Union. They are used in the Naval system 'Kashtan' as well as the 2K22 Tunguska. The missile uses a continious rod charge, which directs the force of the explosion better towards air targets. The kill rate is reportedly 0.6, which was high for its time.",
+          "Ammunition": {
+            "9M311": [
+              "HE",
+              1500,
+              8000
+            ],
+            "9M311-M1": [
+              "HE",
+              2500,
+              19000
+            ]
+          }
+        },
+        "57E6": {
+          "NAME": "57E6 surface to air missile",
+          "Designation": "57E6",
+          "Calibre": 90,
+          "DESCRIPTION": "The 57E6 is an upgrade to the 9M311 missile used on the 2K22 Tunguska. The missile is smaller, lighter and has a further engagement range. The 57E6 is used on the Pantsir (SA-22) SAM system. They are guided by the Pantsir's 1RS2-1E acquisition and tracking radar.",
+          "Ammunition": {
+            "57E6": [
+              "HE",
+              1500,
+              18000
+            ]
+          }
+        },
         "PKT": {
           "NAME": "PK machine gun",
           "Designation": "PKT",
@@ -3698,6 +3756,50 @@
             ]
           }
         },
+        "1RS2-1E": {
+          "NAME": "Pantsir targetting radar ",
+          "Designation": "1RS2-1E",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 1RS2-1E is the integral radar used on the Pantsir S1 surface to air missile system. It is a capable system with the ability to acquire and track fighters, cruise missiles and drones.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              "",
+              36000
+            ],
+            "2": [
+              "Track",
+              "",
+              20000
+            ]
+          }
+        },
+        "1S11": {
+          "NAME": "Target acquisition & surveillance radar",
+          "Designation": "1S11",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 1S11 is the target acquisiton radar mounted on the 1S19 'Straight Flush' radar system, part of the 2K12 Kub SA-6 SAM system. ",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              "",
+              75000
+            ]
+          }
+        },
+        "1S31": {
+          "NAME": "Target tracking and fire control radar",
+          "Designation": "1S31",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 1S31 is the target tracking radar mounted on the 1S19 'Straight Flush' radar system, part of the 2K12 Kub SA-6 SAM system. It has an integral target illuminator, which allows the target to be painted by radar energy whilst being tracked.",
+          "Ammunition": {
+            "1": [
+              "Track",
+              "",
+              24000
+            ]
+          }
+        },
         "2A44": {
           "NAME": "203mm heavy mortar",
           "Designation": "2A44",
@@ -3860,6 +3962,19 @@
               "HE",
               25,
               90
+            ]
+          }
+        },
+        "2A38M": {
+          "NAME": "30mm anti-aircraft cannon",
+          "Designation": "2A38M",
+          "Calibre": 30,
+          "DESCRIPTION": "The 2A38M is the designation given to the 30mm autocannon used on the 2K22 Tunguska. The weapon is an upgraded version of the 2A42, which is used on BMP-2. ",
+          "Ammunition": {
+            "1": [
+              "HE",
+              200,
+              2000
             ]
           }
         }
