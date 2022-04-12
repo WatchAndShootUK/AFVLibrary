@@ -1,5 +1,5 @@
 {
-  "1.1.67": {
+  "1.1.68": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3173,7 +3173,7 @@
           }
         }
       },
-      "TOS": {
+      "TOS*": {
         "TOS-1": {
           "MANUFACTURE": [
             "UVZ",
