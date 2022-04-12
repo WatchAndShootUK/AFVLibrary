@@ -1,5 +1,5 @@
 {
-  "1.1.60": {
+  "1.1.62": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3489,7 +3489,7 @@
               1500,
               8000
             ],
-            "9M311-M1": [
+            "M1": [
               "HE",
               2500,
               19000
@@ -3774,8 +3774,44 @@
             ]
           }
         },
+        "1S51M3": {
+          "NAME": "'Land Roll' radar",
+          "Designation": "1S51M3",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 1S51M3 'Land Roll' is the target acquisition and fire control radar system used on the 9K33 Osa SA-8 'Gecko'. It is mounted on the TELAR, between the two banks of rockets.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              "",
+              35000
+            ],
+            "2": [
+              "Track",
+              "",
+              30000
+            ],
+            "3": [
+              "Guide",
+              "",
+              25000
+            ]
+          }
+        },
+        "9S16": {
+          "NAME": "'Flat Box' radar ",
+          "Designation": "9S16",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 9S16 'Flat Box' radar is a passive detection system used on the Strela-10 SA-9 'Gaskin'. The system consists of four sensors placed around the BRDM TLAR vehicle.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              "",
+              "Unknown"
+            ]
+          }
+        },
         "1S11": {
-          "NAME": "Target acquisition & surveillance radar",
+          "NAME": "Acquisition radar",
           "Designation": "1S11",
           "Calibre": "N/A",
           "DESCRIPTION": "The 1S11 is the target acquisiton radar mounted on the 1S19 'Straight Flush' radar system, part of the 2K12 Kub SA-6 SAM system. ",
@@ -3965,11 +4001,34 @@
             ]
           }
         },
+        "9M330": {
+          "NAME": "Tor surface to air missile",
+          "Designation": "9M330",
+          "Calibre": 23,
+          "DESCRIPTION": "The 9M330 is the missile used on the original Tor surface to air missile. The later 9M331 variant enables two missiles to be fired at the same target. The 9M332 is used on the Tor-M2 system.",
+          "Ammunition": {
+            "9M330": [
+              "HE",
+              2000,
+              12000
+            ],
+            "9M331": [
+              "HE",
+              1500,
+              15000
+            ],
+            "9M332": [
+              "HE",
+              1500,
+              15000
+            ]
+          }
+        },
         "2A38M": {
           "NAME": "30mm anti-aircraft cannon",
           "Designation": "2A38M",
           "Calibre": 30,
-          "DESCRIPTION": "The 2A38M is the designation given to the 30mm autocannon used on the 2K22 Tunguska. The weapon is an upgraded version of the 2A42, which is used on BMP-2. ",
+          "DESCRIPTION": "The 2A38M is the designation given to the 30mm autocannon used on the 2K22 Tunguska & Pantsir S1. The weapon is an upgraded version of the 2A42, which is used on BMP-2. ",
           "Ammunition": {
             "1": [
               "HE",
