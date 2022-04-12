@@ -1,5 +1,5 @@
 {
-  "1.1.64": {
+  "1.1.65": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -4517,6 +4517,41 @@
           }
         },
         "DPICM": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+          }
+        },
+        "APFSDS": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+          }
+        },
+        "HEAT": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+          }
+        },
+        "ATGM": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+          }
+        },
+        "HEAT-FS": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+          }
+        },
+        "HE-FRAG-FS": {
           "NAME": "Dual-Purpose Improved Conventional Munition",
           "IMAGES": {
             "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
