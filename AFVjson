@@ -1,5 +1,5 @@
 {
-  "1.1.66": {
+  "1.1.67": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1298,9 +1298,9 @@
           ],
           "WEAPONS": [
             "2A42",
-            "9M113",
+            "PKT",
             "9M111",
-            "PKT"
+            "9M113"
           ],
           "DATA": {
             "Weight": "",
@@ -1338,9 +1338,9 @@
           ],
           "WEAPONS": [
             "2A42",
+            "AGS-30",
             "PKMT",
-            "9M113M",
-            "AGS-30"
+            "9M113"
           ],
           "DATA": {
             "Weight": "",
@@ -1372,7 +1372,6 @@
             "Soviet Union"
           ],
           "WEAPONS": [
-            "2A70",
             "2A72",
             "PKT",
             "9M117"
@@ -1556,10 +1555,10 @@
           ],
           "WEAPONS": [
             "2A42",
-            "PKT",
             "AGS-30",
-            "9M113",
-            "RPK"
+            "PKT",
+            "RPK",
+            "9M111"
           ],
           "DATA": {
             "Weight": "",
@@ -1737,8 +1736,8 @@
           ],
           "WEAPONS": [
             "ZTM-1",
-            "PKT",
-            "KBA-117"
+            "KBA-117",
+            "PKT"
           ],
           "DATA": {
             "Weight": "",
@@ -1889,9 +1888,9 @@
           ],
           "WEAPONS": [
             "KORD",
-            "PKM",
+            "AGS-30",
             "AGS-17",
-            "AGS-30"
+            "PKM"
           ],
           "DATA": {
             "Weight": "",
@@ -1907,7 +1906,7 @@
             "btrd2",
             "btrd3"
           ],
-          "DESCRIPTION": "The BTR-D is the backbone of the VDV mechanised platoon.\nThe BTR-D was designed on the BMD platform, it was found that space for 4 dismounts was not enough, it was extremely cramped. It was soon decided to design the BTR-D, the hull was extended and the turret removed and replaced with a hatch and a pintle mount.",
+          "DESCRIPTION": "The BTR-D is the backbone of the VDV mechanised platoon. The BTR-D was designed on the BMD platform, it was found that space for 4 dismounts was not enough, it was extremely cramped. It was soon decided to design the BTR-D, the hull was extended and the turret removed and replaced with a hatch and a pintle mount.",
           "CREW": "3+10",
           "R_FEAT": {
             "The BTR-D is based on the BMD-1 hull, it is extended with an extra roadwheel, all of which are evenly spaced, it has 6 Roadwheels, 3 top rollers and the final drive at the rear. The hull is boatshaped with flat sides, at the front there is a splash plate for amphibious operations, you can see it raised here, there is no turret and instead it has a slightly raised superstructure with periscopes around it. The driver has 3 periscopes, with 1 on either side of his hatch.": "rfbtrd1",
@@ -2030,7 +2029,7 @@
             "Soviet Union"
           ],
           "WEAPONS": [
-            "9P135M",
+            "9M113",
             "PKT"
           ],
           "DATA": {
@@ -3174,39 +3173,71 @@
           }
         }
       },
-      "TOS-1": {
-        "MANUFACTURE": [
-          "UVZ",
-          1987,
-          "Present"
-        ],
-        "COO": [
-          "Soviet Union",
-          "Algeria,Armenia,Azerbaijan,Iraq,Russia,Syria"
-        ],
-        "WEAPONS": [
-          "MO-10-1-04"
-        ],
-        "ARMOUR": [
-          "Composite armour",
-          "Kontakt-5"
-        ],
-        "DATA": {
-          "Weight": "45.3t",
-          "Length": "9.5m",
-          "Width": "3.6m",
-          "Height": "2.22m"
+      "TOS": {
+        "TOS-1": {
+          "MANUFACTURE": [
+            "UVZ",
+            1987,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Algeria,Armenia,Azerbaijan,Iraq,Russia,Syria"
+          ],
+          "WEAPONS": [
+            "MO-10-1-04"
+          ],
+          "ARMOUR": [
+            "Composite armour",
+            "Kontakt-5"
+          ],
+          "DATA": {
+            "Weight": "45.3t",
+            "Length": "9.5m",
+            "Width": "3.6m",
+            "Height": "2.22m"
+          },
+          "IMAGES": [
+            "tos1",
+            "tos2"
+          ],
+          "DESCRIPTION": "The TOS-1 is a heavy, short-ranged multiple launch rocket system (MLRS). It is a 24 barrelled, 220mm flame thrower system. The TOS-1 can launch 24 thermobaric rockets in 20 seconds and is designed to engage fortified positions and light vehicles in open terrain. The combat vehicle of the system is named the BM-1, each battery constists of BM-1s and 2x TZM-T reloading vehicles.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The TOS-1 is heavily armoured, mounted on the T-72 chassis - although it has no ERA. It has 6 roadwheels with the final drive at the rear. It has side skirts to protect the top rollers from attack by RPG.": "tosrf1",
+            "The TZM-T is the loading vehicle for the TOS-1 system. It is easily recognisable by the crane sitting between the two pods of rockets. ": "tosrf2",
+            "TOS-1A system captured by Ukrainian forces in 2020. ": "tosrf3"
+          }
         },
-        "IMAGES": [
-          "tos1",
-          "tos2"
-        ],
-        "DESCRIPTION": "The TOS-1 is a heavy, short-ranged multiple launch rocket system (MLRS). It is a 24 barrelled, 220mm flame thrower system. The TOS-1 can launch 24 thermobaric rockets in 20 seconds and is designed to engage fortified positions and light vehicles in open terrain. The combat vehicle of the system is named the BM-1, each battery constists of BM-1s and 2x TZM-T reloading vehicles.",
-        "CREW": 3,
-        "R_FEAT": {
-          "The TOS-1 is heavily armoured, mounted on the T-72 chassis - although it has no ERA. It has 6 roadwheels with the final drive at the rear. It has side skirts to protect the top rollers from attack by RPG.": "tosrf1",
-          "The TZM-T is the loading vehicle for the TOS-1 system. It is easily recognisable by the crane sitting between the two pods of rockets. ": "tosrf2",
-          "TOS-1A system captured by Ukrainian forces in 2020. ": "tosrf3"
+        "TZM-T": {
+          "MANUFACTURE": [
+            "UVZ",
+            1987,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Algeria,Armenia,Azerbaijan,Iraq,Russia,Syria"
+          ],
+          "ARMOUR": [
+            "Composite armour"
+          ],
+          "DATA": {
+            "Weight": "45.3t",
+            "Length": "9.5m",
+            "Width": "3.6m",
+            "Height": "2.22m"
+          },
+          "IMAGES": [
+            "tzm1",
+            "tzm2"
+          ],
+          "DESCRIPTION": "The TZM-T is a loading vehicle for the TOS-1 MLRS; it is fitted with a crane and two pods to store 12 rockets each, this system along with the TOS-1 launcher, forms the full system.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The TZM-T is a very prominent vehicle, with its 2 large rectangular blocks on top of the hull it can be easily confused as a TOS-1 itself, the way to recognise this is the gap between the 2 containers, as well as the lack of holes in the containers. ": "tzmrf1",
+            "Here is the TZM-T with the containers removed, this is the configuration it will be in when reloading the TOS-1. Another recognising feature is the crane in the centre, between the 2 containers.": "tzmrf2"
+          }
         }
       }
     },
@@ -4552,6 +4583,20 @@
           }
         },
         "HE-FRAG-FS": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+          }
+        },
+        "API-T": {
+          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "IMAGES": {
+            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
+            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+          }
+        },
+        "HEI-T": {
           "NAME": "Dual-Purpose Improved Conventional Munition",
           "IMAGES": {
             "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
