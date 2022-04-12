@@ -1,5 +1,5 @@
 {
-  "1.1.68": {
+  "1.1.69": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3221,6 +3221,9 @@
           ],
           "ARMOUR": [
             "Composite armour"
+          ],
+          "WEAPONS": [
+            "MO-10-1-04"
           ],
           "DATA": {
             "Weight": "45.3t",
