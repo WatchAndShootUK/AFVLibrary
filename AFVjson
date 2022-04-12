@@ -2557,9 +2557,10 @@
           "Afghanistan,Angola,Armenia,Azerbaijan,Belarus,Bulgaria,Croatia,Cuba Republic,Czech,Georgia,Hungary,India,Jordan,Laos,Libya,Korea North,Mongolia,North Macedonia,Russia,Serbia,Syria,Turkmenistan,Ukraine,Vietnam"
         ],
         "WEAPONS": [
+          "PKT",
           "9M37",
           "9S86",
-          "PKT"
+          "9S16"
         ],
         "DATA": {
           "Weight": "12.3t",
@@ -3807,6 +3808,19 @@
               "Detect",
               "",
               "Unknown"
+            ]
+          }
+        },
+        "9S86": {
+          "NAME": "'Snap Shot' radar ",
+          "Designation": "9S86",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 9S86 'Snap Shot' radar is a range only radar and works in conjunction with the 9S16 'Flat Box' radar to triangulate aircraft positions. The missile system on the SA-9 is IR guided. ",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              450,
+              10000
             ]
           }
         },
