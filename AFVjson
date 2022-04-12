@@ -1,5 +1,5 @@
 {
-  "1.1.62": {
+  "1.1.63": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2595,7 +2595,7 @@
           ],
           "WEAPONS": [
             "9M38",
-            "9S35 Fire Dome"
+            "9S35"
           ],
           "DATA": {
             "TELAR": "9A310",
@@ -2626,7 +2626,7 @@
             "Algeria,Armenia,Azerbaijan,Belarus,Ukraine,Cyprus,Egypt,Georgia,India,Kazakhstan,Iran,Korea North,Pakistan,China,Russia,Syria,Ukraine,Venezuela"
           ],
           "WEAPONS": [
-            "9M317",
+            "9M38",
             "9S36"
           ],
           "DATA": {
@@ -3824,6 +3824,42 @@
             ]
           }
         },
+        "9S35": {
+          "NAME": "'Fire Dome' radar ",
+          "Designation": "9S35",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 9S35 'Fire Dome' radar is mounted on the TELAR of the Buk & Buk M1 surface to air system. It is uniquely shaped, and the way to tell the M1 & M2 TELARs.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              "",
+              100000
+            ],
+            "2": [
+              "Track",
+              "",
+              95000
+            ]
+          }
+        },
+        "9S36": {
+          "NAME": "Tikhomirov NIIP radar",
+          "Designation": "9S36",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 9S36 is an improvement to the 'Fire Dome' radar. It can track & engage up to 4 targets simultaneously.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              "",
+              100000
+            ],
+            "2": [
+              "Track",
+              "",
+              95000
+            ]
+          }
+        },
         "1S11": {
           "NAME": "Acquisition radar",
           "Designation": "1S11",
@@ -4038,7 +4074,125 @@
             ]
           }
         },
+        "9M33": {
+          "NAME": "Osa surface to air missile",
+          "Designation": "9M33",
+          "Calibre": 209,
+          "DESCRIPTION": "The 9M33 is the missile used on the 9K33 Osa SA-8 'Gecko' surface to air system. The weapon is guided by the systems 'Land Roll' fire control radar and has a reported accuracy of 5 metres.",
+          "Ammunition": {
+            "9M33": [
+              "HE",
+              2000,
+              9000
+            ],
+            "9M33M2": [
+              "HE",
+              1500,
+              10000
+            ],
+            "9M33M3": [
+              "HE",
+              10,
+              12000
+            ]
+          }
+        },
+        "9M31": {
+          "NAME": "Strela-1 surface to air missile",
+          "Designation": "9M31",
+          "Calibre": 120,
+          "DESCRIPTION": "The 9M31 ground to air missile is used by the Strela-1 (SA-9) surface to air system. Unlike other commonly used Soviet era SAMs, it is infra-red guided. The radars on the TLAR give a range and bearing to the target, the missile provides the final target lock.",
+          "Ammunition": {
+            "9M31": [
+              "HE",
+              900,
+              4200
+            ],
+            "9M31M": [
+              "HE",
+              900,
+              8000
+            ]
+          }
+        },
+        "9M37": {
+          "NAME": "Strela-10 surface to air missile",
+          "Designation": "9M37",
+          "Calibre": 120,
+          "DESCRIPTION": "The 9M37 is a progression of the 9M31 missile used on the Strela-1. The engagement altitude is between 10 and 3500 metres. It is IR guided, the Strela-10's 9S86 'Snap Shot' and 9S16 'Flat Box' radars provide the initial range and bearing to the target. Later improvements to the system, the 9M37M and 9M333 did not improve the range, but instead focused on increased accuracy, lethality and counter-measures.",
+          "Ammunition": {
+            "9M37": [
+              "HE",
+              500,
+              5000
+            ],
+            "9M37M": [
+              "HE",
+              500,
+              5000
+            ],
+            "9M333": [
+              "HE",
+              500,
+              5000
+            ]
+          }
+        },
+        "9M38": {
+          "NAME": "Buk surface to air missile",
+          "Designation": "9M38",
+          "Calibre": 400,
+          "DESCRIPTION": "The Buk family of surface to air missiles are radar guided by the Buks integral target acquistion and fire control radar. They have a large payload of 70kg which is  comprised of a HE/fragmentation mixture. The radar seeker heads also have a radar proximity fuze. The Buk M2 uses the 9M317 missile.",
+          "Ammunition": {
+            "9M38": [
+              "HE",
+              3200,
+              25000
+            ],
+            "9M38M1": [
+              "HE",
+              3300,
+              35000
+            ],
+            "9M317": [
+              "HE",
+              3000,
+              50000
+            ]
+          }
+        },
         "2A38M": {
+          "NAME": "30mm anti-aircraft cannon",
+          "Designation": "2A38M",
+          "Calibre": 30,
+          "DESCRIPTION": "The 2A38M is the designation given to the 30mm autocannon used on the 2K22 Tunguska & Pantsir S1. The weapon is an upgraded version of the 2A42, which is used on BMP-2. ",
+          "Ammunition": {
+            "1": [
+              "HE",
+              200,
+              2000
+            ]
+          }
+        },
+        "S-68": {
+          "NAME": "57mm autocannon",
+          "Designation": "S-68",
+          "Calibre": 57,
+          "DESCRIPTION": "The S-68 autocannon is a modified version of the AZP S-60, designed for use in the ZSU 57-2. The gun can fire up 240 rounds per minute.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              "",
+              8800
+            ],
+            "2": [
+              "AP",
+              "",
+              8800
+            ]
+          }
+        },
+        "2A7": {
           "NAME": "30mm anti-aircraft cannon",
           "Designation": "2A38M",
           "Calibre": 30,
