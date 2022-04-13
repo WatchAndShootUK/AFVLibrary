@@ -1,5 +1,5 @@
 {
-  "1.1.69": {
+  "1.1.71": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -41,7 +41,8 @@
           "1988"
         ],
         "COO": [
-          "Soviet Union"
+          "Soviet Union",
+          "Armenia,Azerbaijan,Belarus,Kazakhstan,Poland,Russia,Ukraine,Uzbekistan"
         ],
         "R_FEAT": {
           "The most prominent recognising features on this vehicle is the new wider turret, although reminiscent and easily confused with BMP-2, remembering the 73mm 2A28gun is key to saving confusion, as well as that is the difference sighting systems and also the PSNR-5K radar at the rear (when raised). Another feature is the addition of the 6 SGD’s fitted around the turret, 3 on either side. Firing ports have been reduced from 8(BMP-1) to 3.": "rfbrm1k1",
@@ -51,14 +52,15 @@
         },
         "WEAPONS": [
           "2A28",
-          "PKT",
-          "PSNR-5K"
+          "PSNR-5K",
+          "PKT"
         ],
         "DATA": {
           "Weight": "13.2t",
           "Length": "6.73m",
           "Width": "2.94m",
-          "Height": "2.06m"
+          "Height": "2.06m",
+          "Speed": "40mph"
         },
         "IMAGES": [
           "brm1k1",
@@ -83,9 +85,9 @@
           "GAZ-Tigr-M TI view.": "rfgazt3"
         },
         "WEAPONS": [
-          "AGS-17",
           "KORD",
-          "PKP"
+          "PKP",
+          "AGS-17"
         ],
         "DATA": {
           "Weight": "7,200kg",
@@ -110,11 +112,12 @@
           "Unknown"
         ],
         "COO": [
-          "Soviet Union"
+          "Soviet Union",
+          "Russia"
         ],
         "WEAPONS": [
-          "PKT",
-          "PSNR-5K"
+          "PSNR-5K",
+          "PKT"
         ],
         "DATA": {
           "Weight": "13.8t",
@@ -142,11 +145,12 @@
           "Unknown"
         ],
         "COO": [
-          "Soviet Union"
+          "Soviet Union",
+          "Russia"
         ],
         "WEAPONS": [
-          "PKT",
-          "1RL127"
+          "1RL127",
+          "PKT"
         ],
         "DATA": {
           "Weight": "",
@@ -184,8 +188,8 @@
           ],
           "WEAPONS": [
             "2A20",
-            "DShK",
-            "PKT"
+            "PKT",
+            "DShK"
           ],
           "DATA": {
             "Weight": "37t",
@@ -220,17 +224,17 @@
           ],
           "WEAPONS": [
             "2A20",
-            "DShK",
-            "PKT"
+            "PKT",
+            "DShK"
           ],
           "DATA": {
-            "Weight": "42t",
+            "Weight": "41.5t",
             "Length": "9.34m",
             "Width": "3.30m",
             "Height": "2.40m",
             "Range": "350km",
             "Speed": "31mph",
-            "HP": "610hp"
+            "HP": "620hp"
           },
           "ARMOUR": [
             "Composite Armour"
@@ -258,8 +262,8 @@
           ],
           "WEAPONS": [
             "2A20",
-            "DShK",
-            "PKT"
+            "PKT",
+            "DShK"
           ],
           "DATA": {
             "Weight": "42t",
@@ -299,8 +303,8 @@
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKT",
+            "NSVT"
           ],
           "DATA": {
             "Weight": "38t",
@@ -339,8 +343,8 @@
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKT",
+            "NSVT"
           ],
           "DATA": {
             "Weight": "42.5t",
@@ -380,8 +384,8 @@
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKMT"
+            "PKMT",
+            "NSVT"
           ],
           "DATA": {
             "Weight": "45t",
@@ -390,7 +394,7 @@
             "Height": "2.172m",
             "Range": "500km",
             "Speed": "35mph",
-            "HP": "700hp"
+            "HP": "1000hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -420,8 +424,8 @@
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKT",
+            "NSVT"
           ],
           "DATA": {
             "Weight": "45t",
@@ -430,7 +434,7 @@
             "Height": "2.172m",
             "Range": "500km",
             "Speed": "35mph",
-            "HP": "700hp"
+            "HP": "1000hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -463,8 +467,8 @@
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKMT"
+            "PKMT",
+            "NSVT"
           ],
           "ARMOUR": [
             "Composite Armour"
@@ -503,8 +507,8 @@
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKMT"
+            "PKMT",
+            "NSVT"
           ],
           "DATA": {
             "Weight": "43t",
@@ -540,15 +544,15 @@
           ],
           "COO": [
             "Soviet Union",
-            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia,Russia"
+            "Armenia,Azerbaijan,Belarus,Georgia,Kazakhstan,Morocco,Mongolia,Nicaragua,Russia,Syria,Uganda,Ukraine,Uzbekistan,Venezuela"
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKMT"
+            "PKMT",
+            "NSVT"
           ],
           "DATA": {
-            "Weight": "43t",
+            "Weight": "44.5t",
             "Length": "9.54m",
             "Width": "3.59m",
             "Height": "2.23m",
@@ -569,7 +573,7 @@
           "R_FEAT": {
             "The T-72B has much thicker turret armour, as seen here, you will also notice the smoke grenade dischargers have moved positions to the left side of the turret in a cluster of 8, in a row of 3-3-2.": "rfeatt72b1",
             "The T-72B later production models began to leave the factory with Kontakt-1 ERA fitted, across the turret front and hull front. When compared to other tanks the ERA almost looks poorly fitted, almost like they were trying to fit it in any place possible.": "rfeatt72b2",
-            "SIGHT SHIT": "t72bsight"
+            "Here you can see the 1K13 sight, it provides a good indicator that its T-72B and not a T-72B1.": "t72bsight"
           }
         },
         "T-72B1": {
@@ -584,11 +588,11 @@
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKMT"
+            "PKMT",
+            "NSVT"
           ],
           "DATA": {
-            "Weight": "43t",
+            "Weight": "44.5t",
             "Length": "9.54m",
             "Width": "3.59m",
             "Height": "2.23m",
@@ -622,7 +626,8 @@
             1991
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A46",
@@ -634,13 +639,13 @@
             "Kontakt-5"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "45t",
+            "Length": "9.53m",
+            "Width": "3.46m",
+            "Height": "2.2m",
+            "Range": "500km",
+            "Speed": "60kph",
+            "HP": "840hp"
           },
           "IMAGES": [
             "t7219891",
@@ -662,12 +667,12 @@
           ],
           "COO": [
             "Russia",
-            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia"
+            "Kazakhstan,Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKMT",
+            "NSVT"
           ],
           "DATA": {
             "Weight": "45t",
@@ -703,21 +708,21 @@
           ],
           "COO": [
             "Russia",
-            "Azerbaijan,Democratic Republic of the Congo,Georgia,Syria,North Macedonia"
+            "Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKMT",
+            "NSVT"
           ],
           "DATA": {
-            "Weight": "43t",
+            "Weight": "45t",
             "Length": "9.54m",
             "Width": "3.59m",
             "Height": "2.23m",
             "Range": "480-550km",
             "Speed": "60kph",
-            "HP": "840hp"
+            "HP": "1130hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -745,21 +750,22 @@
             "Present"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A46",
-            "PKT",
+            "PKMT",
             "NSVT"
           ],
           "DATA": {
-            "Weight": "43t",
+            "Weight": "46t",
             "Length": "9.54m",
             "Width": "3.59m",
             "Height": "2.23m",
             "Range": "480-550km",
             "Speed": "60kph",
-            "HP": "840hp"
+            "HP": "1130hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -800,9 +806,9 @@
           ],
           "WEAPONS": [
             "2A46",
+            "Kombat",
             "NSVT",
-            "PKT",
-            "Kombat"
+            "PKT"
           ],
           "ARMOUR": [
             "Composite Armour",
@@ -831,21 +837,22 @@
             1996
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Belarus,Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKT",
+            "NSVT"
           ],
           "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
+            "Weight": "42.5t",
+            "Length": "9.9m",
+            "Width": "3.4m",
+            "Height": "2.2m",
+            "Range": "330km",
+            "Speed": "80kph",
+            "HP": "1000hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -875,21 +882,22 @@
             1992
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Belarus,China,Cyprus,Egypt,Kazakhstan,Pakistan,Russia,South Korea,United Kingdom,Ukraine,Yemen"
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKT",
+            "NSVT"
           ],
           "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
+            "Weight": "46t",
+            "Length": "9.6m",
             "Width": "3.59m",
-            "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
+            "Height": "2.2m",
+            "Range": "330km",
+            "Speed": "80kph",
+            "HP": "1250hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -935,13 +943,13 @@
             "Drozd"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "46t",
+            "Length": "9.6m",
+            "Width": "3.6m",
+            "Height": "2.2m",
+            "Range": "330km",
+            "Speed": "80kph",
+            "HP": "1250hp"
           },
           "IMAGES": [
             "t80um21",
@@ -964,7 +972,8 @@
             "Unknown"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Cyprus,Egypt,Russia,South Korea,Ukraine"
           ],
           "WEAPONS": [
             "2A46",
@@ -977,10 +986,11 @@
           ],
           "DATA": {
             "Weight": "46t",
-            "Length": "7m",
+            "Length": "9.6m",
             "Width": "3.6m",
             "Height": "2.2m",
-            "Speed": "70kph"
+            "Speed": "80kph",
+            "HP": "1250hp"
           },
           "IMAGES": [
             "t80uk1",
@@ -1002,21 +1012,22 @@
             "Present"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A46",
-            "NSVT",
-            "PKT"
+            "PKT",
+            "NSVT"
           ],
           "DATA": {
-            "Weight": "41t",
+            "Weight": "47t",
             "Length": "9.54m",
             "Width": "3.59m",
             "Height": "2.23m",
-            "Range": "480-550km",
-            "Speed": "60kph",
-            "HP": "780hp"
+            "Range": "340km",
+            "Speed": "70kph",
+            "HP": "1250hp"
           },
           "ARMOUR": [
             "Composite Armour",
@@ -1047,7 +1058,8 @@
           2022
         ],
         "COO": [
-          "Ukraine"
+          "Ukraine",
+          "Ukraine,Thailand"
         ],
         "WEAPONS": [
           "2A46",
@@ -1061,13 +1073,13 @@
           "Zaslon"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "51t",
+          "Length": "7m",
+          "Width": "3.4m",
+          "Height": "2.8m",
+          "Range": "500km",
+          "Speed": "70kmh",
+          "HP": "1500hp"
         },
         "IMAGES": [
           "t84bm1",
@@ -1091,18 +1103,19 @@
             "Present"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Russia,Syria,Ukraine,Yemen"
           ],
           "WEAPONS": [
             "2A46",
-            "KORD",
-            "PKT"
+            "PKT",
+            "KORD"
           ],
           "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
-            "Height": "2.23m",
+            "Weight": "46t",
+            "Length": "9.6m",
+            "Width": "3.7m",
+            "Height": "2.2m",
             "Range": "480-550km",
             "Speed": "60kph",
             "HP": "1000hp"
@@ -1141,13 +1154,13 @@
           ],
           "WEAPONS": [
             "2A46",
-            "KORD",
-            "PKT"
+            "PKT",
+            "KORD"
           ],
           "DATA": {
-            "Weight": "41t",
-            "Length": "9.54m",
-            "Width": "3.59m",
+            "Weight": "47t",
+            "Length": "9.5m",
+            "Width": "3.7m",
             "Height": "2.23m",
             "Range": "480-550km",
             "Speed": "60kph",
@@ -1184,21 +1197,22 @@
             1982
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Albania,Algeria,Angola,Armenia,Azerbaijan,Belarus,Brunei,Bulgaria,Cambodia,China,Ivory Coast,Cuba,Czech Republic, Democratic Republic of the Congo,Egypt,Eritrea,Ethiopia,Finland,Georgia,Greece,Guinea,Hungary,India,Iran,Iraq,Israel,Kazakhstan,Kyrgyzstan,Libya,Mongolia,Morocco,Moldova,Mozambique,Myanmar,North Korea,Poland,Romania,Rwanda,Russia,Slovakia,Sri Lanka,Sudan,Syria,Tajikistan,Turkmenistan,Ukraine,Uruguay,Uzbekistan,Vietnam,Yemen"
           ],
           "WEAPONS": [
             "2A28",
-            "PKT",
-            "9M14"
+            "9M14",
+            "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "13.2t",
+            "Length": "6.7m",
+            "Width": "2.9m",
+            "Height": "2m",
+            "Range": "500km",
+            "Speed": "65kmh",
+            "HP": "300hp"
           },
           "IMAGES": [
             "bmp11",
@@ -1223,7 +1237,8 @@
             "Unknown"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Bulgaria,Georgia,Poland,Russia,Syria,Ukraine"
           ],
           "WEAPONS": [
             "Grom",
@@ -1231,13 +1246,13 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "13.2t",
+            "Length": "6.7m",
+            "Width": "2.9m",
+            "Height": "2m",
+            "Range": "500km",
+            "Speed": "60kph",
+            "HP": "300hp"
           },
           "IMAGES": [
             "bmp1p1",
@@ -1261,25 +1276,25 @@
           ],
           "WEAPONS": [
             "2A72",
-            "PKT",
+            "PKTM",
             "9M113",
             "9K38"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "13.2t",
+            "Length": "6.7m",
+            "Width": "2.9m",
+            "Height": "2m",
+            "Range": "500km",
+            "Speed": "60kph",
+            "HP": "300hp"
           },
           "IMAGES": [
             "bmp1m1",
             "bmp1m2",
             "bmp1m3"
           ],
-          "DESCRIPTION": "NEEDS UPDATING",
+          "DESCRIPTION": "The BMP-1M is a Russian modification of the BMP-1, it was developed to bring the thousands of BMP-1's Russia had to BMP-2 standard, though this never materialised. According to Russian computer simulation tests, the BMP-1M outperformed the M2/M3 Bradley.",
           "CREW": "3+8",
           "R_FEAT": {
             "The BMP-1M is a modernised BMP-1 with a new TKB-799 Kliver turret, this includes new weapon systems, the 30mm 2A72 has prominent rails on the exterior of the barrel, the 4 ATGM pods are a key indicator, they can be replaced with 4 SAM’s too, meaning the launch tubes will be skinnier, on the left of the turret there is a large sighting system.": "rfbmp1m1",
@@ -1294,22 +1309,23 @@
             1991
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Belarus,Czech Republic,Finland,Georgia,India,Iran,Indonesia,Ivory Coast,Jordan,Kazakhstan,Kuwait,Kyrgyzstan,Macedonia,Russia,Sierra Leone,Slovakia,Sri Lanka,Sudan,Syria,Tajikistan,Togo,Turkmenistan,Uganda,United States,Ukraine,Uzbekistan,Vietnam,Yemen"
           ],
           "WEAPONS": [
             "2A42",
-            "PKT",
+            "9M113",
             "9M111",
-            "9M113"
+            "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "14.3t",
+            "Length": "6.7m",
+            "Width": "3.1m",
+            "Height": "2.4m",
+            "Range": "600km",
+            "Speed": "65kmh",
+            "HP": "300hp"
           },
           "IMAGES": [
             "bmp21",
@@ -1334,22 +1350,23 @@
             2020
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Algeria,India,Russia"
           ],
           "WEAPONS": [
             "2A42",
-            "AGS-30",
             "PKMT",
-            "9M113"
+            "9M113M",
+            "AGS-30"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "16t",
+            "Length": "6.7m",
+            "Width": "3.1m",
+            "Height": "2.4m",
+            "Range": "600km",
+            "Speed": "65kmh",
+            "HP": "360hp"
           },
           "IMAGES": [
             "bmp2m1",
@@ -1369,21 +1386,23 @@
             2021
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Azerbaijan,Cyprus,Indonesia,Iraq,Kuwait,Morocco,Nicaragua,Russia,Sri Lanka,South Korea,Turkmenistan,Ukraine,UAE,Venezuela"
           ],
           "WEAPONS": [
+            "2A70",
             "2A72",
             "PKT",
             "9M117"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "18.7t",
+            "Length": "7.1m",
+            "Width": "3.2m",
+            "Height": "2.4m",
+            "Range": "600km",
+            "Speed": "72kmh",
+            "HP": "500hp"
           },
           "IMAGES": [
             "bmp31",
@@ -1411,7 +1430,8 @@
             1987
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Angola,Armenia,Azerbaijan,Belarus,Iran,India,Moldova,Russia,Ukraine,Uzbekistan"
           ],
           "WEAPONS": [
             "2A28",
@@ -1419,13 +1439,13 @@
             "9M14"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "7.5t",
+            "Length": "5.4m",
+            "Width": "2.5m",
+            "Height": "1.9m",
+            "Range": "600km",
+            "Speed": "80kph",
+            "HP": "241hp"
           },
           "IMAGES": [
             "bmd11",
@@ -1455,13 +1475,13 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "7.5t",
+            "Length": "5.4m",
+            "Width": "2.5m",
+            "Height": "1.9m",
+            "Range": "600km",
+            "Speed": "80kmh",
+            "HP": "241hp"
           },
           "IMAGES": [
             "bmd1p1",
@@ -1555,10 +1575,10 @@
           ],
           "WEAPONS": [
             "2A42",
-            "AGS-30",
             "PKT",
-            "RPK",
-            "9M111"
+            "AGS-30",
+            "9M113",
+            "RPK"
           ],
           "DATA": {
             "Weight": "",
@@ -1736,8 +1756,8 @@
           ],
           "WEAPONS": [
             "ZTM-1",
-            "KBA-117",
-            "PKT"
+            "PKT",
+            "KBA-117"
           ],
           "DATA": {
             "Weight": "",
@@ -1888,9 +1908,9 @@
           ],
           "WEAPONS": [
             "KORD",
-            "AGS-30",
+            "PKM",
             "AGS-17",
-            "PKM"
+            "AGS-30"
           ],
           "DATA": {
             "Weight": "",
@@ -1906,7 +1926,7 @@
             "btrd2",
             "btrd3"
           ],
-          "DESCRIPTION": "The BTR-D is the backbone of the VDV mechanised platoon. The BTR-D was designed on the BMD platform, it was found that space for 4 dismounts was not enough, it was extremely cramped. It was soon decided to design the BTR-D, the hull was extended and the turret removed and replaced with a hatch and a pintle mount.",
+          "DESCRIPTION": "The BTR-D is the backbone of the VDV mechanised platoon.\nThe BTR-D was designed on the BMD platform, it was found that space for 4 dismounts was not enough, it was extremely cramped. It was soon decided to design the BTR-D, the hull was extended and the turret removed and replaced with a hatch and a pintle mount.",
           "CREW": "3+10",
           "R_FEAT": {
             "The BTR-D is based on the BMD-1 hull, it is extended with an extra roadwheel, all of which are evenly spaced, it has 6 Roadwheels, 3 top rollers and the final drive at the rear. The hull is boatshaped with flat sides, at the front there is a splash plate for amphibious operations, you can see it raised here, there is no turret and instead it has a slightly raised superstructure with periscopes around it. The driver has 3 periscopes, with 1 on either side of his hatch.": "rfbtrd1",
