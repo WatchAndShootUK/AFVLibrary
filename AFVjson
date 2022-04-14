@@ -1,5 +1,5 @@
 {
-  "1.1.79": {
+  "1.1.80": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -52,8 +52,8 @@
         },
         "WEAPONS": [
           "2A28",
-          "PKT",
-          "PSNR-5K"
+          "PSNR-5K",
+          "PKT"
         ],
         "DATA": {
           "Weight": "13.2t",
@@ -116,8 +116,8 @@
           "Russia"
         ],
         "WEAPONS": [
-          "PKT",
-          "PSNR-5K"
+          "PSNR-5K",
+          "PKT"
         ],
         "DATA": {
           "Weight": "13.8t",
@@ -149,8 +149,8 @@
           "Russia"
         ],
         "WEAPONS": [
-          "PKT",
-          "1RL127"
+          "1RL127",
+          "PKT"
         ],
         "DATA": {
           "Weight": "",
@@ -1241,7 +1241,7 @@
             "Bulgaria,Georgia,Poland,Russia,Syria,Ukraine"
           ],
           "WEAPONS": [
-            "2A28",
+            "Grom",
             "PKT",
             "9M113"
           ],
@@ -1356,7 +1356,7 @@
           "WEAPONS": [
             "2A42",
             "PKMT",
-            "9M113",
+            "9M113M",
             "AGS-30"
           ],
           "DATA": {
@@ -1467,7 +1467,8 @@
             1987
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Belarus,Russia,Ukraine,Uzbekistan"
           ],
           "WEAPONS": [
             "2A28",
@@ -1500,7 +1501,8 @@
             1991
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A42",
@@ -1508,13 +1510,13 @@
             "9M113"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "11.5t",
+            "Length": "7.85m",
+            "Width": "2.94m",
+            "Height": "2.45m",
+            "Range": "450km",
+            "Speed": "80kmh",
+            "HP": "241hp"
           },
           "IMAGES": [
             "bmd21",
@@ -1544,13 +1546,13 @@
             "9M133 "
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "11.5t",
+            "Length": "7.85m",
+            "Width": "2.94m",
+            "Height": "2.45m",
+            "Range": "450km",
+            "Speed": "80kmh",
+            "HP": "241hp"
           },
           "IMAGES": [
             "bmd2m1",
@@ -1571,7 +1573,8 @@
             1997
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Russia"
           ],
           "WEAPONS": [
             "2A42",
@@ -1581,13 +1584,13 @@
             "RPK"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "12.9t",
+            "Length": "6m",
+            "Width": "3.13m",
+            "Height": "2.25m",
+            "Range": "500km",
+            "Speed": "70kmh",
+            "HP": "410hp"
           },
           "IMAGES": [
             "bmd31",
@@ -1609,7 +1612,8 @@
             "Present"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Russia,Ukraine"
           ],
           "WEAPONS": [
             "2A70",
@@ -1617,13 +1621,13 @@
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "13.6t",
+            "Length": "6.36m",
+            "Width": "3.11m",
+            "Height": "2.45m",
+            "Range": "500km",
+            "Speed": "70kmh",
+            "HP": "500hp"
           },
           "IMAGES": [
             "bmd4m1",
@@ -1647,20 +1651,21 @@
             "Present"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Indonesia,North Korea,Russia,Sudan,Venezuela"
           ],
           "WEAPONS": [
             "2A72",
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "14.5t",
+            "Length": "7.7m",
+            "Width": "2.95m",
+            "Height": "2.8m",
+            "Range": "600km",
+            "Speed": "90kmh",
+            "HP": "240hp"
           },
           "IMAGES": [
             "btr80a1",
@@ -1681,20 +1686,21 @@
             "Present"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Azerbaijan,Belarus,Kazakhstan,Russia"
           ],
           "WEAPONS": [
             "2A72",
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "15.4t",
+            "Length": "7.7m",
+            "Width": "2.95m",
+            "Height": "2.8m",
+            "Range": "650km",
+            "Speed": "100kmh",
+            "HP": "300hp"
           },
           "IMAGES": [
             "btr82a1",
@@ -1716,21 +1722,22 @@
             2022
           ],
           "COO": [
-            "Ukraine"
+            "Ukraine",
+            "Ecuador,Myanmar,Nigeria,Sudan,Ukraine"
           ],
           "WEAPONS": [
-            "2A72",
-            "PKT",
-            "Barier ATGM"
+            "ZTM-1",
+            "Barier ATGM",
+            "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "16.4t",
+            "Length": "7.65m",
+            "Width": "2.9m",
+            "Height": "2.86m",
+            "Range": "600km",
+            "Speed": "85kmh",
+            "HP": "326hp"
           },
           "IMAGES": [
             "btr3u1",
@@ -1755,18 +1762,18 @@
             "Ukraine"
           ],
           "WEAPONS": [
-            "2A72",
+            "ZTM-1",
             "PKT",
             "KBA-117"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "16.4t",
+            "Length": "7.65m",
+            "Width": "2.9m",
+            "Height": "2.8m",
+            "Range": "600km",
+            "Speed": "85kmh",
+            "HP": "326hp"
           },
           "IMAGES": [
             "btr3da1",
@@ -1788,10 +1795,11 @@
           "Present"
         ],
         "COO": [
-          "Ukraine"
+          "Ukraine",
+          "Indonesia,Iraq,Nigeria,Ukraine,Myanmar"
         ],
         "WEAPONS": [
-          "2A72",
+          "ZTM-1",
           "PKT",
           "9M113"
         ],
@@ -1799,13 +1807,13 @@
           "Bar armour"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "21t",
+          "Length": "7.76m",
+          "Width": "2.93m",
+          "Height": "3.02m",
+          "Range": "700km",
+          "Speed": "120kmh",
+          "HP": "598hp"
         },
         "IMAGES": [
           "btr41",
@@ -1830,20 +1838,21 @@
             1986
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Angola,Afghanistan,Armenia,Azerbaijan,Bangladesh,Belarus,Georgia,Hungary,Kazakhstan,Kyrgyzstan,Mali,Moldova,Mongolia,North Macedonia,Pakistan,Romania,Russia,Slovakia,Somalia,Sudan,Tajikistan,Turkmenistan,Ukraine,United States,Uzbekistan,Zambia"
           ],
           "WEAPONS": [
             "KPVT",
             "PKT"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "11.5t",
+            "Length": "7.5m",
+            "Width": "2.8m",
+            "Height": "2.3m",
+            "Range": "400km",
+            "Speed": "80kmh",
+            "HP": "240hp"
           },
           "IMAGES": [
             "btr701",
@@ -1866,7 +1875,8 @@
             2016
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Bangladesh,Belarus,Burundi,Chad,Colombia,Djibouti,Estonia,Georgia,Hungary,India,Indonesia,Iraq,Ivory Coast,Kazakhstan,North Macedonia,Moldova,Mongolia,Nicaragua,North Korea,Russia,South Korea,Sri Lanka,Sudan,Syria,Tajikistan,Turkmenistan,Uganda,Ukraine,Uzbekistan,Venezuela,Yemen,Romania,Zambia"
           ],
           "WEAPONS": [
             "KPVT",
@@ -1904,7 +1914,8 @@
             1990
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Belarus,Moldova,Russia,Ukraine,Uzbekistan"
           ],
           "WEAPONS": [
             "KORD",
@@ -1913,13 +1924,13 @@
             "AGS-30"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Weight": "8.5t",
+            "Length": "6.74m",
+            "Width": "2.94m",
+            "Height": "1.67m",
+            "Range": "500km",
+            "Speed": "61kmh",
+            "HP": "241hp"
           },
           "IMAGES": [
             "btrd1",
@@ -1940,6 +1951,7 @@
             "Present"
           ],
           "COO": [
+            "Russia",
             "Russia"
           ],
           "WEAPONS": [
@@ -1950,7 +1962,10 @@
             "Weight": "12t",
             "Length": "6.36m",
             "Width": "3.13m",
-            "Height": "2.45m"
+            "Height": "2.45m",
+            "Range": "500km",
+            "Speed": "70kmh",
+            "HP": "500hp"
           },
           "IMAGES": [
             "btrmdm1",
@@ -1972,19 +1987,20 @@
           "Present"
         ],
         "COO": [
-          "Soviet Union"
+          "Soviet Union",
+          "Armenia,Azerbaijan,Angola,Bangladesh,Bulgaria,Belarus,Eritrea,Finland,Georgia,Iraq,Kazakhstan,Lithuania,Moldova,Myanmar,Nigeria,North Macedonia,Poland,Russia,Ukraine,Uruguay,United States,Vietnam"
         ],
         "WEAPONS": [
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "11.9t",
+          "Length": "6.4m",
+          "Width": "2.8m",
+          "Height": "1.8m",
+          "Range": "500km",
+          "Speed": "61kmh",
+          "HP": "240hp"
         },
         "IMAGES": [
           "mtlb1",
@@ -2021,7 +2037,9 @@
           "Weight": "43t",
           "Length": "6.8m",
           "Width": "3.6m",
-          "Height": "2.1m"
+          "Height": "2.1m",
+          "Range": "400km",
+          "Speed": "60kmh"
         },
         "IMAGES": [
           "bmot1",
@@ -3403,39 +3421,36 @@
           }
         }
       },
-      "Mi-28": {
+      "Mi-28N": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "Mil",
+          2009,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Russia"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "2A42"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Length": "17.01m",
+          "Width": "4.88m",
+          "Height": "3.82m",
+          "Rotor dia.": "17.2m",
+          "Speed": "200mph"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "havoc1",
+          "havoc2",
+          "havoc3"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The Mi-28N Havoc is an attack-helicopter designed and built by the Russian company Mil. It is primarily a tank killer, in contrast to the Mi-24 Hind that can also be used as troop transport. The original Mi-28 was produced in 1982, with the 28N variant being released in 2009. The Havoc saw service in the 2022 Russian invasion of Ukraine. ",
+        "CREW": 2,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The Mi-28N Havoc has a long and thin fuselage with a single rotor. The rudder is angled slightly rearwards and has a horizonal stabiliser at the top. The tail rotor consists of two double blades. There are two wheels beneath the fuselage and a single wheel under the rudder.": "havocrf1",
+          "The double cockpit has angular windows, with one pilot sitting above the other. The air intakes are on the side of the fuselage, with the external engines behind them. It has short winglets, that have two pylons (hard points) each.": "havocrf2",
+          "At the nose of the helicopter is a cluster of sensors, including an obvious round 'nose' on the front. There is a flat, clyindrical radar at the base of the cluster. Beneath the sensors sits the 2A42 30mm autocannon fixted to an external mount. ": "havocrf3"
         }
       },
       "Ka-52*": {
