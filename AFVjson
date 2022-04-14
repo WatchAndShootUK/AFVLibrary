@@ -1,5 +1,5 @@
 {
-  "1.1.80": {
+  "1.1.82": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3428,7 +3428,8 @@
           "Present"
         ],
         "COO": [
-          "Russia"
+          "Russia",
+          "Algeria, Iraq, Russia"
         ],
         "WEAPONS": [
           "2A42"
@@ -3441,14 +3442,14 @@
           "Speed": "200mph"
         },
         "IMAGES": [
-          "havoc1",
+          "havoc1new",
           "havoc2",
           "havoc3"
         ],
         "DESCRIPTION": "The Mi-28N Havoc is an attack-helicopter designed and built by the Russian company Mil. It is primarily a tank killer, in contrast to the Mi-24 Hind that can also be used as troop transport. The original Mi-28 was produced in 1982, with the 28N variant being released in 2009. The Havoc saw service in the 2022 Russian invasion of Ukraine. ",
         "CREW": 2,
         "R_FEAT": {
-          "The Mi-28N Havoc has a long and thin fuselage with a single rotor. The rudder is angled slightly rearwards and has a horizonal stabiliser at the top. The tail rotor consists of two double blades. There are two wheels beneath the fuselage and a single wheel under the rudder.": "havocrf1",
+          "The Mi-28N Havoc has a long and thin fuselage with a single rotor. The rudder is angled slightly rearwards and has a horizonal stabiliser at the top. The tail rotor consists of two double blades. There are two wheels beneath the fuselage and a single wheel under the rudder.": "havocrf1new",
           "The double cockpit has angular windows, with one pilot sitting above the other. The air intakes are on the side of the fuselage, with the external engines behind them. It has short winglets, that have two pylons (hard points) each.": "havocrf2",
           "At the nose of the helicopter is a cluster of sensors, including an obvious round 'nose' on the front. There is a flat, clyindrical radar at the base of the cluster. Beneath the sensors sits the 2A42 30mm autocannon fixted to an external mount. ": "havocrf3"
         }
@@ -4531,14 +4532,14 @@
         }
       },
       "ARMOUR": {
-        "Composite Armour": {
-          "NAME": "Kontakt-1",
-          "DESCRIPTION": "Kontakt-1 is a commonly used ERA designed in the USSR, it is recognised by its small shoebox sized boxes fitted to tanks, Kontakt-1 is resistant to fire from weapons under 12.7mm calibre, to prevent the destruction of the ERA from non anti-tank weapons.",
+        "Composite armour": {
+          "NAME": "Composite Armour",
+          "DESCRIPTION": "Composite armour is a type of armour, commonly on tanks, it is composed by different materials including but not limited to metal, plastics, rubbers, air and ceramics. This makes the armour lighter than an all metal equivalent, but gives a significant increase in resistance to penetration, it was primarily developed to counter HEAT munitions. It was first tested on the US T95 prototype, the first full production tank using composite armour was the Soviet T-64 series.",
           "IMAGES": {
-            "kontakt-1": "Here this T-80BV has Kontakt-1 fitted, you can see the blocks provide coverage across most of the frontal arc.",
-            "kontakt-12": "Kontakt-1 is an ERA designed in the USSR, it is fitted to a lot of Russian tanks, this can be denoted by the suffix ‘V-Vzryvnoi’ meaning explosive, example:T-80BV.",
-            "kontakt-13": "Sometimes Kontakt-1 is fitted in the ‘clamshell’ style that you could see on the previous photo of the T-80BV, whereas in some variants like this T-72B1 it is mounted directly on to the turret instead.",
-            "kontakt-14": "In this diagram by V.A Grigoryan you can see how Kontakt-1 works. The operating principle of the armour lies in the disruption of shaped charge jets through the violent separation of the steel plates sandwiching the explosive layer upon detonation. The column of numbers 'N' to the left indicates the number of reactive plates that a shaped charge jet must pass through depending on the point of impact."
+            "comp1": "Here is a T-90A turret prior to receiving its composite fill in the turret cheeks, this shows how thick the composite armour layout is.",
+            "comp2": "Here is a T-72B turret without its filler.",
+            "comp3": "A close up of a T-72B turret showing the composite and their layout",
+            "comp4": "This shows a cutout section on a T-62M’s BDD turret armour package, this was fielded after the widespread use of composite armour in the USSR."
           }
         },
         "Kontakt-1": {
@@ -4548,16 +4549,31 @@
             "kontakt-1": "Here this T-80BV has Kontakt-1 fitted, you can see the blocks provide coverage across most of the frontal arc.",
             "kontakt-12": "Kontakt-1 is an ERA designed in the USSR, it is fitted to a lot of Russian tanks, this can be denoted by the suffix ‘V-Vzryvnoi’ meaning explosive, example:T-80BV.",
             "kontakt-13": "Sometimes Kontakt-1 is fitted in the ‘clamshell’ style that you could see on the previous photo of the T-80BV, whereas in some variants like this T-72B1 it is mounted directly on to the turret instead.",
-            "kontakt-14": "In this diagram by V.A Grigoryan you can see how Kontakt-1 works. The operating principle of the armour lies in the disruption of shaped charge jets through the violent separation of the steel plates sandwiching the explosive layer upon detonation. The column of numbers 'N' to the left indicates the number of reactive plates that a shaped charge jet must pass through depending on the point of impact."
+            "kontakt-14": "In this diagram by V.A Grigoryan you can see how Kontakt-1 works. The operating principle of the armour lies in the disruption of shaped charge jets through the violent separation of the steel plates sandwiching the explosive layer upon detonation. The column of numbers 'N' to the left indicates the number of reactive plates that a shaped charge jet must pass through depending on the point of impact.",
+            "k15": "Here is a Ukrainian T-64BV that has survived a blast thanks to its Kontakt-1 ERA, although you can see the chain reaction of the Kontakt-1 across the turret.",
+            "k16": "Here is some more evidence of Kontakt-1 chain reaction on a T-64BV, you can see on the hull and left side of the turret."
           }
         },
         "Kontakt-5": {
-          "NAME": "",
-          "DESCRIPTION": "",
+          "NAME": "Kontact-5",
+          "DESCRIPTION": "Kontakt-5 is a Soviet second generation explosive reactive armour, first introduced on the T-80U, it is the first ERA capable of defeating APFSDS rounds. Kontakt-5 is made up of bricks of PE between 2 metal plates, it is supposed to channel the incoming round through the Kontakt-5 blocks, hence why they’re mounted in such a way, which then leads to blasts hitting the projectile in the side, which in theory will cut the penetrator rod in to pieces from the blast. It is fitted to most modern Russian tanks from T-80U (1985) onwards.",
           "IMAGES": {
-            "image1": "",
-            "image2": "",
-            "image3": ""
+            "k51": "Kontakt-5 around the turret of a T-72B3",
+            "k52": "A T-72B3 during the 2022 Russian invasion of Ukraine, you can see how it is missing the 3rd Kontakt-5 block, indicating it sustained and survived a hit.",
+            "k53": "A Russian soldier fills his T-72B Obr.1989 side plates with Kontakt-5 plastic explosive filler",
+            "k54": "The previously mentioned side plates are seen here.",
+            "k55": "Kontakt-5 is also placed along the front hull, in a flat format like seen in the side plates, you can see the tiles by the mounting bolts. This is on a T-90A."
+          }
+        },
+        "Relikt": {
+          "NAME": "Relikt",
+          "DESCRIPTION": "Relikt is the latest in service ERA of the Russian Army, it is a 3rd generation ERA, it reportedly doubles protection when compared to Kontakt-5, it is fitted to the T-72B3 Obr.2016, T-80BVM and T-90M.",
+          "IMAGES": {
+            "relikt": "Relikt is seen here on the T-80BVM, it gives the turret a very distinct appearance, almost like a flying saucer.",
+            "relikt2": "Is also seen here, in the form of the 5 rectangular blocks next to the commanders hatch.",
+            "relikt3": "T-90M turrets pre-ERA in factory.",
+            "relikt4": "The 2S42 ‘soft’ ERA, is part of the Relikt family, it is fitted to the hull sides, although it has proven fragile during the 2022 Russian invasion of Ukraine, seeing many tanks where the armour has fallen off or disintegrated.",
+            "relikt5": "Here it shows the some captured T-80BVM’s in Ukrainian service, note the lack of 2S42 ERA bags on the side of the first vehicle."
           }
         },
         "Nozh": {
@@ -4569,7 +4585,7 @@
             "image3": ""
           }
         },
-        "Relikt": {
+        "Shtora-1": {
           "NAME": "",
           "DESCRIPTION": "",
           "IMAGES": {
@@ -4578,34 +4594,7 @@
             "image3": ""
           }
         },
-        "Shtora": {
-          "NAME": "",
-          "DESCRIPTION": "",
-          "IMAGES": {
-            "image1": "",
-            "image2": "",
-            "image3": ""
-          }
-        },
-        "Reactive Armour": {
-          "NAME": "",
-          "DESCRIPTION": "",
-          "IMAGES": {
-            "image1": "",
-            "image2": "",
-            "image3": ""
-          }
-        },
-        "TUSK": {
-          "NAME": "",
-          "DESCRIPTION": "",
-          "IMAGES": {
-            "image1": "",
-            "image2": "",
-            "image3": ""
-          }
-        },
-        "LSDW": {
+        "Zaslon": {
           "NAME": "",
           "DESCRIPTION": "",
           "IMAGES": {
