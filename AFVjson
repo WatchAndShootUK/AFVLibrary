@@ -1,5 +1,5 @@
 {
-  "1.1.77": {
+  "1.1.79": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3374,37 +3374,32 @@
         },
         "Mi-35M": {
           "MANUFACTURE": [
-            "Manufacturer",
-            "FROM",
-            "To"
+            "Mil",
+            2005,
+            "Present"
           ],
           "COO": [
-            "Manufacturing COuntry"
+            "Russia"
           ],
           "WEAPONS": [
-            "Main",
-            "Second",
-            "Third"
+            "GSh-23V"
           ],
           "DATA": {
-            "Weight": "",
-            "Length": "",
-            "Width": "",
-            "Height": "",
-            "Range": "",
-            "Speed": "",
-            "HP": ""
+            "Length": "21.6m",
+            "Width": "6.5m",
+            "Height": "6.5m"
           },
           "IMAGES": [
-            "",
-            "",
-            ""
+            "mi351",
+            "mi352"
           ],
-          "DESCRIPTION": "",
-          "CREW": 4,
+          "DESCRIPTION": "The Mi-35M was originally an export only variant of the Mi-24 Hind. However, as a capable attack helicopter, Russia has encorporated into its air force designated the Mi-24VM. It is similiar in many respects as the originally Hind, just with improved sensors, armament and a defensive suite (including radar warning sensors and flares).",
+          "CREW": "2+8",
           "R_FEAT": {
-            "": "rfeat",
-            " (copy)": "rfeat"
+            "The Mi-35M key recognising feature is the smaller winglets, with only 2 pylons (hard points).": "mi35rf1",
+            "The twin GSh-23V 23mm cannons sit in the same place as the Mi-24, beneath the forward most cockpit. An addition to the Mi-35M is the sensors ball that sits behind and right of the guns.": "mi35rf2",
+            "Another recognising feature of the Mi-35M is the twin tail rotor blades.": "mi35rf3",
+            "Destroyed Mi-35M in Ukraine (2022).": "mi35rf4"
           }
         }
       },
