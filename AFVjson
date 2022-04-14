@@ -1,5 +1,5 @@
 {
-  "1.1.72": {
+  "1.1.73": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1719,9 +1719,9 @@
             "Ukraine"
           ],
           "WEAPONS": [
-            "ZTM-1",
-            "Barier ATGM",
-            "PKT"
+            "2A72",
+            "PKT",
+            "Barier ATGM"
           ],
           "DATA": {
             "Weight": "",
@@ -1755,7 +1755,7 @@
             "Ukraine"
           ],
           "WEAPONS": [
-            "ZTM-1",
+            "2A72",
             "PKT",
             "KBA-117"
           ],
@@ -1791,7 +1791,7 @@
           "Ukraine"
         ],
         "WEAPONS": [
-          "ZTM-1",
+          "2A72",
           "PKT",
           "9M113"
         ],
@@ -3987,12 +3987,12 @@
           "Calibre": "N/A",
           "DESCRIPTION": "The PSNR-5K, NATO designation 'Tall Mike' is a ground surveillance radar used by Soviet recconaissance vehicles. It can detect vehicles at ranges out to 7km and dismounts out to 2km. The information provided by the radar can then be used to confirm by other ISR assets, or used to engage directly with indirect fires.",
           "Ammunition": {
-            "Vehicles": [
+            "Vehicle": [
               "Detect",
               "",
               7000
             ],
-            "Dismounts": [
+            "Pers": [
               "Detect",
               "",
               2000
@@ -4450,6 +4450,42 @@
               4000
             ]
           }
+        },
+        "9M113": {
+          "NAME": "AT-5 Spandrel",
+          "Designation": "9M113",
+          "Calibre": 135,
+          "DESCRIPTION": "The 9M113, NATO designation AT-5 Spandrel, is an anti-tank guided missile. It is a wired missile that uses SACLOS, which requires the operator to keep optics fixed to the target in flight.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              70,
+              2500
+            ]
+          }
+        },
+        "9M111": {
+          "NAME": "AT-4 Spigot",
+          "Designation": "9M111",
+          "Calibre": 135,
+          "DESCRIPTION": "The 9M113, NATO designation AT-4 Spigot, is an anti-tank guided missile. It is a wired missile that uses SACLOS, which requires the operator to keep optics fixed to the target in flight. The original variant has a reported penetration of 400mm, the 9M111-2 460mm and the 9M111M model up to 600mm.",
+          "Ammunition": {
+            "9M111": [
+              "HE",
+              75,
+              2000
+            ],
+            "9M111-2": [
+              "HE",
+              75,
+              2500
+            ],
+            "9M111M": [
+              "HE",
+              75,
+              2500
+            ]
+          }
         }
       },
       "ARMOUR": {
@@ -4665,7 +4701,7 @@
           "DESCRIPTION": "Uralvagonzavod is a tank manufacturing company based in Nizhny Tagil, Sverdlovsk Oblast, Russia. It is the largest tank manufacturing business in the world and makes the majority of Russian (and previously Soviet) main battle tanks. The company was established in 1936 and has a history of private and state ownership, it has been owned by the state since 2016 - via the Russian conglomerate Somtek."
         }
       },
-      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar/RAP,Rocket assissted projectile/MLRS,Multiple launch rocket system/GMLRS,Guided multiple launch rocket system",
+      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar/RAP,Rocket assissted projectile/MLRS,Multiple launch rocket system/GMLRS,Guided multiple launch rocket system/ATGM,Anti-tank guided missile",
       "LINKS": {
         "GOOGLE_STORE": "https://play.google.com/store/apps/developer?id=Watch%20%26%20Shoot%20Developments",
         "APPLE_STORE": "https://apps.apple.com/gb/developer/mark-wileman/id1561466869",
