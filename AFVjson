@@ -1,5 +1,5 @@
 {
-  "1.1.73": {
+  "1.1.74": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1241,7 +1241,7 @@
             "Bulgaria,Georgia,Poland,Russia,Syria,Ukraine"
           ],
           "WEAPONS": [
-            "Grom",
+            "2A28",
             "PKT",
             "9M113"
           ],
@@ -1356,7 +1356,7 @@
           "WEAPONS": [
             "2A42",
             "PKMT",
-            "9M113M",
+            "9M113",
             "AGS-30"
           ],
           "DATA": {
@@ -2181,7 +2181,7 @@
             "Russia"
           ],
           "WEAPONS": [
-            "9M133"
+            "9M113"
           ],
           "DATA": {
             "Weight": "",
@@ -3446,37 +3446,36 @@
       },
       "KA-52": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "Kamov",
+          1997,
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Russia",
+          "China,Egypt,Russia"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "2A42"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Max Weight": "10.8t",
+          "Length": "16m",
+          "Height": "4.9m",
+          "Rotor dia.": "14.5m",
+          "Crew": 2,
+          "Speed": "217mph",
+          "Max alt.": "18000 ft"
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "ka521",
+          "ka522"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The Ka-52 'Alligator' is a Russian attack helicopter. It is an upgraded system to the earlier Soviet Ka-50 'Black Shark'. It is a twin-seater aircraft, with the primary role of battlefield recconanissance. It is armed with a 30mm cannon and 6 hardpoints which enable a variety of rockets and air to ground missiles to be fitted. It was the first helicopter to have a pilot ejection system.",
+        "CREW": 2,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The Ka-52 is a very distinctive helicopter, since it has twin rotor blades. The nose of the aircraft has a lighter coloured domed cover, with a round camera pod beneath.": "ka52rf1",
+          "The air intakes have black covers to protect the engines from flying debris or bird strike. The winglets sit directly beneath the intakes and each has 3 hard points for attaching a variety of different weapons, sensors or external fuel tanks.": "ka52rf2",
+          "The Ka-52 has a single rudder with no tail rotor. Two forward angled stabilisers sit on the tail boom.": "ka52rf3"
         }
       }
     },
@@ -4134,69 +4133,21 @@
             ]
           }
         },
-        "9M55": {
-          "NAME": "BM-30 Smerch rocket",
-          "Designation": "9M55",
-          "Calibre": 300,
-          "DESCRIPTION": "The 9M55 family of rockets were designed for use with hte BM-30 Smerch. They are 300mm in calibre and capable of firing a range of ammunition types. The DPICM designations are as follows:\n\n9M55K: Anti-personnel\n\n9M55K1: Guided anti-tank\n\n9M55K4: Anti-tank mines\n\n9M55K5: High explosive bomblet",
+        "9M31": {
+          "NAME": "Strela-1 surface to air missile",
+          "Designation": "9M31",
+          "Calibre": 120,
+          "DESCRIPTION": "The 9M31 ground to air missile is used by the Strela-1 (SA-9) surface to air system. Unlike other commonly used Soviet era SAMs, it is infra-red guided. The radars on the TLAR give a range and bearing to the target, the missile provides the final target lock.",
           "Ammunition": {
-            "9M55K": [
-              "DPICM",
-              20,
-              70
-            ],
-            "9M55K1": [
-              "DPICM",
-              20,
-              70
-            ],
-            "9M55K4": [
-              "DPICM",
-              20,
-              70
-            ],
-            "9M55K5": [
-              "DPICM",
-              20,
-              70
-            ],
-            "9M55F": [
+            "9M31": [
               "HE",
-              20,
-              70
+              900,
+              4200
             ],
-            "9M55C": [
-              "THERM",
-              20,
-              70
-            ],
-            "9M528": [
+            "9M31M": [
               "HE",
-              25,
-              90
-            ]
-          }
-        },
-        "9M330": {
-          "NAME": "Tor surface to air missile",
-          "Designation": "9M330",
-          "Calibre": 23,
-          "DESCRIPTION": "The 9M330 is the missile used on the original Tor surface to air missile. The later 9M331 variant enables two missiles to be fired at the same target. The 9M332 is used on the Tor-M2 system.",
-          "Ammunition": {
-            "9M330": [
-              "HE",
-              2000,
-              12000
-            ],
-            "9M331": [
-              "HE",
-              1500,
-              15000
-            ],
-            "9M332": [
-              "HE",
-              1500,
-              15000
+              900,
+              8000
             ]
           }
         },
@@ -4223,21 +4174,26 @@
             ]
           }
         },
-        "9M31": {
-          "NAME": "Strela-1 surface to air missile",
-          "Designation": "9M31",
-          "Calibre": 120,
-          "DESCRIPTION": "The 9M31 ground to air missile is used by the Strela-1 (SA-9) surface to air system. Unlike other commonly used Soviet era SAMs, it is infra-red guided. The radars on the TLAR give a range and bearing to the target, the missile provides the final target lock.",
+        "9M330": {
+          "NAME": "Tor surface to air missile",
+          "Designation": "9M330",
+          "Calibre": 23,
+          "DESCRIPTION": "The 9M330 is the missile used on the original Tor surface to air missile. The later 9M331 variant enables two missiles to be fired at the same target. The 9M332 is used on the Tor-M2 system.",
           "Ammunition": {
-            "9M31": [
+            "9M330": [
               "HE",
-              900,
-              4200
+              2000,
+              12000
             ],
-            "9M31M": [
+            "9M331": [
               "HE",
-              900,
-              8000
+              1500,
+              15000
+            ],
+            "9M332": [
+              "HE",
+              1500,
+              15000
             ]
           }
         },
@@ -4284,6 +4240,49 @@
               "HE",
               3000,
               50000
+            ]
+          }
+        },
+        "9M55": {
+          "NAME": "BM-30 Smerch rocket",
+          "Designation": "9M55",
+          "Calibre": 300,
+          "DESCRIPTION": "The 9M55 family of rockets were designed for use with hte BM-30 Smerch. They are 300mm in calibre and capable of firing a range of ammunition types. The DPICM designations are as follows:\n\n9M55K: Anti-personnel\n\n9M55K1: Guided anti-tank\n\n9M55K4: Anti-tank mines\n\n9M55K5: High explosive bomblet",
+          "Ammunition": {
+            "9M55K": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55K1": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55K4": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55K5": [
+              "DPICM",
+              20,
+              70
+            ],
+            "9M55F": [
+              "HE",
+              20,
+              70
+            ],
+            "9M55C": [
+              "THERM",
+              20,
+              70
+            ],
+            "9M528": [
+              "HE",
+              25,
+              90
             ]
           }
         },
@@ -4451,19 +4450,6 @@
             ]
           }
         },
-        "9M113": {
-          "NAME": "AT-5 Spandrel",
-          "Designation": "9M113",
-          "Calibre": 135,
-          "DESCRIPTION": "The 9M113, NATO designation AT-5 Spandrel, is an anti-tank guided missile. It is a wired missile that uses SACLOS, which requires the operator to keep optics fixed to the target in flight.",
-          "Ammunition": {
-            "1": [
-              "HE",
-              70,
-              2500
-            ]
-          }
-        },
         "9M111": {
           "NAME": "AT-4 Spigot",
           "Designation": "9M111",
@@ -4483,6 +4469,19 @@
             "9M111M": [
               "HE",
               75,
+              2500
+            ]
+          }
+        },
+        "9M113": {
+          "NAME": "AT-5 Spandrel",
+          "Designation": "9M113",
+          "Calibre": 135,
+          "DESCRIPTION": "The 9M113, NATO designation AT-5 Spandrel, is an anti-tank guided missile. It is a wired missile that uses SACLOS, which requires the operator to keep optics fixed to the target in flight.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              70,
               2500
             ]
           }
