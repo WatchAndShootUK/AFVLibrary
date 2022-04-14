@@ -1,5 +1,5 @@
 {
-  "1.1.88": {
+  "1.1.89": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -4543,6 +4543,60 @@
               5000
             ]
           }
+        },
+        "9M117": {
+          "NAME": "AT-12 Swinger",
+          "Designation": "9M117",
+          "Calibre": 100,
+          "DESCRIPTION": "9M117, NATO designation AT-12 'Swinger', is a 100m laser-beam riding anti tank guided missile. It is used the T-12 anti tank gun as well as from BMP 3.",
+          "Ammunition": {
+            "9M117": [
+              "HE",
+              500,
+              4000
+            ],
+            "9M117M": [
+              "HEAT",
+              500,
+              4000
+            ],
+            "9M117M1": [
+              "HEAT",
+              500,
+              4000
+            ]
+          }
+        },
+        "9M123": {
+          "NAME": "AT-15 Springer",
+          "Designation": "9M123",
+          "Calibre": 100,
+          "DESCRIPTION": "The 9M123, NATO designation AT-15 'Springer' is a Russian anti-tank guided missile (ATGM). It was first made in 2005 for use with the 9P157-2 Khrizantema-S, Mi-28 Havoc. It is being adapted for use aboard the Ka-52 Alligator. There are two variants, laser & radar guided respectively.",
+          "Ammunition": {
+            "9M117": [
+              "HEAT",
+              400,
+              6000
+            ]
+          }
+        },
+        "9M133": {
+          "NAME": "AT-14 Spriggan",
+          "Designation": "9M133",
+          "Calibre": 100,
+          "DESCRIPTION": "In service since 1998, the AT-14 (GRAU: 9M133 Kornet) is a highly capable anti-tank guided missile. It is laser guided and has an accuracy of 5 metres. There are HEAT and thermobaric variants for use against different type of vehicles.",
+          "Ammunition": {
+            "Kornet": [
+              "HEAT",
+              500,
+              5500
+            ],
+            "Kornet-EM": [
+              "HEAT",
+              500,
+              8000
+            ]
+          }
         }
       },
       "ARMOUR": {
@@ -4689,24 +4743,21 @@
           }
         },
         "APFSDS": {
-          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "NAME": "Armour-piercing fin stabilised discarding sabot",
           "IMAGES": {
-            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
-            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+            "APFSDS is a type of armour defeating kinetic energy projectile. It is a long rod penetrator, with no explosive charge, it relies purely on kinetic energy to punch through armour. Over the years the rod gets longer to counter thicker armour.": "APFSDS"
           }
         },
         "HEAT": {
-          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "NAME": "High explosive anti-tank",
           "IMAGES": {
-            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
-            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+            "High Explosive Anti Tank, is a type of munition used by tank guns, the explosive charge collapses a metal liner inside the warhead into a superplastic molten jet which penetrates through the armour, it was and can still be very effective, although HEAT nowadays can be rendered inneffective with the introduction of ERA. It was developed in WW2 and first fielded by the British Army. Some HEAT rounds, like the Russian 3BK14 pictured, are fin stabilised to give a better, more accurate shot.": "heat1"
           }
         },
         "ATGM": {
-          "NAME": "Dual-Purpose Improved Conventional Munition",
+          "NAME": "Anti-tank guided missile",
           "IMAGES": {
-            "DPICM, also known as cluster munitions, are rounds that contain sub-munitions. These are released in flight to maximise the coverage the effect area.": "dpicm1",
-            "Anti-personnel mines can be deployed by DPICM, these reach the ground by parachute or with an arming delay.": "dpicm2"
+            "An ATGM is a guided missile designed to kill tanks. They are guided in many ways, including wire guided, beam riding and radio guided to name a few. They are one of the main killers of tanks on the modern battlefield, although tanks have developed countermeasures to defeat this ie, ERA and APS, the ATGM still claims many kills. Newer 5th generation missiles are extremely advanced, introducing multiple ways of guidance, smokeless propellants so to not give away the position, remote firing like the Ukrainian Stugna-P seen in the 2022 Russian invasion of Ukraine and experiments to attempt full AI control.": "9m133"
           }
         },
         "HEAT-FS": {
