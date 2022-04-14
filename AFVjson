@@ -1,5 +1,5 @@
 {
-  "1.1.75": {
+  "1.1.76": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3339,77 +3339,76 @@
       }
     },
     "RW": {
-      "Mi-24": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+      "Hind": {
+        "Mi-24V": {
+          "MANUFACTURE": [
+            "Mil",
+            1973,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "Yak-B",
+            "PKT"
+          ],
+          "DATA": {
+            "Length": "19.79m",
+            "Width": "6.5m",
+            "Height": "6.5m",
+            "Rotor dia.": "17.3m",
+            "Speed": "208mph"
+          },
+          "IMAGES": [
+            "hind1",
+            "hind2"
+          ],
+          "DESCRIPTION": "The Mi-24 Hind is Russia's most successful multi-role helicopter, exported to many nations worldwide. Nicknamed by Soviet pilots as the 'Flying Tank', the Mi-24V was introducted in 1973. The aircraft is based on the Mi-8 Hip transport helicopter, with the addition of winglets for weapon storage and a 12.7mm Yak-B gatling gun.",
+          "CREW": "2+8",
+          "R_FEAT": {
+            "The Mi-24V is a single rotor helicopter. Is has air intakes above the double cockpit and downward sloping winglets. The tail boom leads to a single, backwards sloped rudder with a single tail propellor. There are large circular exhaust ports on either side of the fusilage, beneath the rotor mast.": "hindrf1",
+            "The winglets of the Mi-24V sit in the centre of the fuselage, slightly behind the main rotor. The winglets have three pylons (hard-points) for weapons and external tanks.": "hindrf2",
+            "The singe 12.7mm Yak-B Gatling gun sits at the front of the fuselage beneath the most forward cockpit. ": "hindrf3"
+          }
         },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+        "Mi-35M": {
+          "MANUFACTURE": [
+            "Manufacturer",
+            "FROM",
+            "To"
+          ],
+          "COO": [
+            "Manufacturing COuntry"
+          ],
+          "WEAPONS": [
+            "Main",
+            "Second",
+            "Third"
+          ],
+          "DATA": {
+            "Weight": "",
+            "Length": "",
+            "Width": "",
+            "Height": "",
+            "Range": "",
+            "Speed": "",
+            "HP": ""
+          },
+          "IMAGES": [
+            "",
+            "",
+            ""
+          ],
+          "DESCRIPTION": "",
+          "CREW": 4,
+          "R_FEAT": {
+            "": "rfeat",
+            " (copy)": "rfeat"
+          }
         }
       },
       "Mi-28": {
-        "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
-        ],
-        "COO": [
-          "Manufacturing COuntry"
-        ],
-        "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
-        ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
-        "IMAGES": [
-          "",
-          "",
-          ""
-        ],
-        "DESCRIPTION": "",
-        "CREW": 4,
-        "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
-        }
-      },
-      "Mi-35": {
         "MANUFACTURE": [
           "Manufacturer",
           "FROM",
