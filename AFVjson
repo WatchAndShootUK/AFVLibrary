@@ -1,5 +1,5 @@
 {
-  "1.1.82": {
+  "1.1.83": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -237,7 +237,7 @@
             "HP": "620hp"
           },
           "ARMOUR": [
-            "Composite Armour"
+            "Composite"
           ],
           "IMAGES": [
             "t62m1",
@@ -275,7 +275,7 @@
             "HP": "610hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -316,7 +316,7 @@
             "HP": "700hp"
           },
           "ARMOUR": [
-            "Composite Armour"
+            "Composite"
           ],
           "IMAGES": [
             "t64a1",
@@ -356,7 +356,7 @@
             "HP": "1000hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -397,7 +397,7 @@
             "HP": "1000hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Nozh ERA"
           ],
           "IMAGES": [
@@ -437,7 +437,7 @@
             "HP": "1000hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Nozh ERA"
           ],
           "IMAGES": [
@@ -471,7 +471,7 @@
             "NSVT"
           ],
           "ARMOUR": [
-            "Composite Armour"
+            "Composite"
           ],
           "DATA": {
             "Weight": "43t",
@@ -520,7 +520,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -561,7 +561,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -601,7 +601,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -635,7 +635,7 @@
             "PKT"
           ],
           "ARMOUR": [
-            "Composite armour",
+            "Composite",
             "Kontakt-5"
           ],
           "DATA": {
@@ -684,7 +684,7 @@
             "HP": "840hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-5"
           ],
           "IMAGES": [
@@ -725,7 +725,7 @@
             "HP": "1130hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-5"
           ],
           "IMAGES": [
@@ -768,7 +768,7 @@
             "HP": "1130hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-5",
             "Relikt"
           ],
@@ -811,7 +811,7 @@
             "PKT"
           ],
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Nozh"
           ],
           "IMAGES": [
@@ -855,7 +855,7 @@
             "HP": "1000hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-1"
           ],
           "IMAGES": [
@@ -900,7 +900,7 @@
             "HP": "1250hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-5"
           ],
           "IMAGES": [
@@ -938,7 +938,7 @@
             "PKT"
           ],
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-5",
             "Drozd"
           ],
@@ -1030,7 +1030,7 @@
             "HP": "1250hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-5",
             "Relikt"
           ],
@@ -1067,7 +1067,7 @@
           "PKT"
         ],
         "ARMOUR": [
-          "Composite armour",
+          "Composite",
           "Nozh",
           "Shtora-1",
           "Zaslon"
@@ -1121,7 +1121,7 @@
             "HP": "1000hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Kontakt-5",
             "Shtora"
           ],
@@ -1167,7 +1167,7 @@
             "HP": "1130hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Relikt",
             "Shtora"
           ],
@@ -2030,7 +2030,7 @@
           "Kord"
         ],
         "ARMOUR": [
-          "Composite Armour",
+          "Composite",
           "Kontakt-5"
         ],
         "DATA": {
@@ -3226,7 +3226,7 @@
             "MO-10-1-04"
           ],
           "ARMOUR": [
-            "Composite armour",
+            "Composite",
             "Kontakt-5"
           ],
           "DATA": {
@@ -3258,7 +3258,7 @@
             "Algeria,Armenia,Azerbaijan,Iraq,Russia,Syria"
           ],
           "ARMOUR": [
-            "Composite armour"
+            "Composite"
           ],
           "WEAPONS": [
             "MO-10-1-04"
@@ -4532,8 +4532,8 @@
         }
       },
       "ARMOUR": {
-        "Composite armour": {
-          "NAME": "Composite Armour",
+        "Composite": {
+          "NAME": "Composite",
           "DESCRIPTION": "Composite armour is a type of armour, commonly on tanks, it is composed by different materials including but not limited to metal, plastics, rubbers, air and ceramics. This makes the armour lighter than an all metal equivalent, but gives a significant increase in resistance to penetration, it was primarily developed to counter HEAT munitions. It was first tested on the US T95 prototype, the first full production tank using composite armour was the Soviet T-64 series.",
           "IMAGES": {
             "comp1": "Here is a T-90A turret prior to receiving its composite fill in the turret cheeks, this shows how thick the composite armour layout is.",
@@ -4771,7 +4771,7 @@
             "HP": "1200hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Explosive Reactive Armour"
           ],
           "IMAGES": [
@@ -4805,7 +4805,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Explosive Reactive Armour"
           ],
           "IMAGES": [
@@ -4846,7 +4846,7 @@
             "HP": "780hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Explosive Reactive Armour"
           ],
           "IMAGES": [
@@ -4891,7 +4891,7 @@
               "HP": "780hp"
             },
             "ARMOUR": [
-              "Composite Armour"
+              "Composite"
             ],
             "IMAGES": [
               "leopard2a41",
@@ -4931,7 +4931,7 @@
               "HP": "780hp"
             },
             "ARMOUR": [
-              "Composite Armour"
+              "Composite"
             ],
             "IMAGES": [
               "leopardo2e1",
@@ -4970,7 +4970,7 @@
               "HP": "780hp"
             },
             "ARMOUR": [
-              "Composite Armour"
+              "Composite"
             ],
             "IMAGES": [
               "leopard2a61"
@@ -5006,7 +5006,7 @@
               "HP": "780hp"
             },
             "ARMOUR": [
-              "Composite Armour"
+              "Composite"
             ],
             "IMAGES": [
               "leopard2pl1",
@@ -5056,7 +5056,7 @@
               "HP": "1200hp"
             },
             "ARMOUR": [
-              "Composite Armour",
+              "Composite",
               "TUSK"
             ],
             "IMAGES": [
@@ -5098,7 +5098,7 @@
               "HP": "1200hp"
             },
             "ARMOUR": [
-              "Composite Armour",
+              "Composite",
               "TUSK"
             ],
             "IMAGES": [
@@ -5138,7 +5138,7 @@
             "HP": "1200hp"
           },
           "ARMOUR": [
-            "Composite Armour",
+            "Composite",
             "Explosive Reactive Armour",
             "LSDW"
           ],
