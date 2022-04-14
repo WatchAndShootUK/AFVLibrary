@@ -1,5 +1,5 @@
 {
-  "1.1.85": {
+  "1.1.86": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1002,7 +1002,8 @@
           "CREW": 3,
           "R_FEAT": {
             "The T-80UK remains mostly the same as the T-80U, the most prominent differences are the Shtora system, which is the 2 boxes on the front turret and also the laser warning sensors above the main armament. The addition of a thermal sight replacing the older night sight, this also adds to the removal of the IR searchlight. The addition of the meteorological sensor at the rear of the turret.": "rft80uk1",
-            "Here you can see the Shtora-1 IRCM boxes on the turret front, they appear smashed. This tank was abandoned and later destroyed during the 2022 Russian invasion of Ukraine. The Shtora ‘eyes’ can be personified for recognition, some say the turret looks like a frog, the boxes being the eyes.": "rft80uk2"
+            "Here you can see the Shtora-1 IRCM boxes on the turret front, they appear smashed. This tank was abandoned and later destroyed during the 2022 Russian invasion of Ukraine. The Shtora ‘eyes’ can be personified for recognition, some say the turret looks like a frog, the boxes being the eyes.": "rft80uk2",
+            "When the Shtora-1 is switched on, it gives a prominent red glow from each box. Due to these being IR these are easily sighted through standard issue NVG’s or any IR night sight. This is photographed on a T-90A although the same view will be seen for T-80UK as well when switched on.": "shtora1rf"
           }
         },
         "T-80BVM": {
@@ -1136,6 +1137,7 @@
           "R_FEAT": {
             "The T-90A is basically a hybrid between the T-72B(Hull) and T-80U (Turret), recognising features for the turret is the new layout of Kontakt-5 which has no gaps in between the ERA mounts, the Shtora-1 APS fitted to the turret front, commonly known as the ‘eyes’. The hull remains visually similar to a T-72BA with the Kontakt-5 blocks on the front glacis plate, along with the 3 armour plates on the front of the hull sides.": "rfeatt90a1",
             "You will see here what it looks like when the shtora-1 APS system is switched on, it’s a very distinctive red glow.": "rfeatt90a2",
+            "When the Shtora-1 is switched on, it gives a prominent red glow from each box. Due to these being IR these are easily sighted through standard issue NVG’s or any IR night sight.": "shtora1rf",
             "This closeup shows the layout, you can see the laser warning sensors above the gun, the new gunners night sight and the meteorological sensor indicating this is a tank with a modern FCS. You can see that it has SGD’s in 2 banks on either side of the turret": "rfeatt90a3",
             "Here is a rare photo of a turret of a T-90A with no ERA, you can see the sharpness of the design, the turret is now welded giving it a much more western look, some early production T-90’s have older cast turrets. This shows the quality of Russian tank storage, when the high numbers of Russian tanks are pushed as a means of scaremongering, this is actually the tanks that make up those numbers.": "rfeatt90a4",
             "Here is a T-72B which shows the roundness of the turret due to it being cast, not welded.": "rfeatt90a5",
@@ -4586,12 +4588,13 @@
           }
         },
         "Shtora-1": {
-          "NAME": "",
-          "DESCRIPTION": "",
+          "NAME": "Shtora-1",
+          "DESCRIPTION": "Shtora-1 is an electro optical active protection system, it disrupts the target tracking laser in ATGM’s which in turn directs the ATGM off target due to loss of tracking. \nIt has 4 components listed below\n1.Smoke grenade dischargers\n2.Laser warning system, the 2 prominent objects above the main gun\n3.A control system\n4.2 infrared lights, the 2 prominent ‘eyes’ on the front of the turret. They continuously emit pulsed infrared jamming signals when an ATGM launch has been detected.",
           "IMAGES": {
-            "image1": "",
-            "image2": "",
-            "image3": ""
+            "shtora-1": "When the Shtora-1 is switched on, it gives a prominent red glow from each box. Due to these being IR these are easily sighted through standard issue NVG’s or any IR night sight.",
+            "shtora1rf": "When the Shtora-1 is switched on, it gives a prominent red glow from each box. Due to these being IR these are easily sighted through standard issue NVG’s or any IR night sight.",
+            "shtora-13": "",
+            "shtora-14": ""
           }
         },
         "Zaslon": {
