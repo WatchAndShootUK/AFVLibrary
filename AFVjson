@@ -1,5 +1,5 @@
 {
-  "1.1.71": {
+  "1.1.72": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -52,8 +52,8 @@
         },
         "WEAPONS": [
           "2A28",
-          "PSNR-5K",
-          "PKT"
+          "PKT",
+          "PSNR-5K"
         ],
         "DATA": {
           "Weight": "13.2t",
@@ -116,8 +116,8 @@
           "Russia"
         ],
         "WEAPONS": [
-          "PSNR-5K",
-          "PKT"
+          "PKT",
+          "PSNR-5K"
         ],
         "DATA": {
           "Weight": "13.8t",
@@ -149,8 +149,8 @@
           "Russia"
         ],
         "WEAPONS": [
-          "1RL127",
-          "PKT"
+          "PKT",
+          "1RL127"
         ],
         "DATA": {
           "Weight": "",
@@ -3978,6 +3978,37 @@
               "Track",
               "",
               24000
+            ]
+          }
+        },
+        "PSNR-5K": {
+          "NAME": "Tall Mike surveillance radar",
+          "Designation": "PSNR-5K",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The PSNR-5K, NATO designation 'Tall Mike' is a ground surveillance radar used by Soviet recconaissance vehicles. It can detect vehicles at ranges out to 7km and dismounts out to 2km. The information provided by the radar can then be used to confirm by other ISR assets, or used to engage directly with indirect fires.",
+          "Ammunition": {
+            "Vehicles": [
+              "Detect",
+              "",
+              7000
+            ],
+            "Dismounts": [
+              "Detect",
+              "",
+              2000
+            ]
+          }
+        },
+        "1RL127": {
+          "NAME": "Big Fred surveillance radar",
+          "Designation": "1RL127",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 1RL127 'Big Fred' is a surveillance radar made in the Soviet Union. It can detect moving ground, air and sea targets out to a range of 40km.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              "",
+              40000
             ]
           }
         },
