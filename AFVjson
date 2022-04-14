@@ -1,5 +1,5 @@
 {
-  "1.1.90": {
+  "1.1.91": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -4410,7 +4410,7 @@
               3000
             ],
             "2": [
-              "HEAT-FS",
+              "HEAT",
               "",
               4000
             ],
@@ -4461,7 +4461,7 @@
           "DESCRIPTION": "The 2A28 Grom is a Soviet/Russian low pressure smoothbore gun, produced from 1966 to the present it’s directly linked to the SPG-9 recoilless gun, both fired projectiles similar to rocket propelled grenades. The projectiles had extremely high penetration, the HEAT warhead can penetrate the frontal armour of the heavily armoured British Chieftain, which it was designed to do. It was after Afghanistan that the Soviet army sought a replacement weapon for the BMP series after the low gun elevation on the BMP-1.",
           "Ammunition": {
             "1": [
-              "HEAT-FS",
+              "HEAT",
               "",
               4000
             ],
