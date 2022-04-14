@@ -1,5 +1,5 @@
 {
-  "1.1.83": {
+  "1.1.85": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -398,7 +398,7 @@
           },
           "ARMOUR": [
             "Composite",
-            "Nozh ERA"
+            "Nozh"
           ],
           "IMAGES": [
             "t64bm1",
@@ -438,7 +438,7 @@
           },
           "ARMOUR": [
             "Composite",
-            "Nozh ERA"
+            "Nozh"
           ],
           "IMAGES": [
             "t64b1m1",
@@ -1123,7 +1123,7 @@
           "ARMOUR": [
             "Composite",
             "Kontakt-5",
-            "Shtora"
+            "Shtora-1"
           ],
           "IMAGES": [
             "t90a1",
@@ -1169,7 +1169,7 @@
           "ARMOUR": [
             "Composite",
             "Relikt",
-            "Shtora"
+            "Shtora-1"
           ],
           "IMAGES": [
             "t90m1",
