@@ -1,5 +1,5 @@
 {
-  "1.1.74": {
+  "1.1.75": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3444,38 +3444,72 @@
           " (copy)": "rfeat"
         }
       },
-      "KA-52": {
-        "MANUFACTURE": [
-          "Kamov",
-          1997,
-          "Present"
-        ],
-        "COO": [
-          "Russia",
-          "China,Egypt,Russia"
-        ],
-        "WEAPONS": [
-          "2A42"
-        ],
-        "DATA": {
-          "Max Weight": "10.8t",
-          "Length": "16m",
-          "Height": "4.9m",
-          "Rotor dia.": "14.5m",
-          "Crew": 2,
-          "Speed": "217mph",
-          "Max alt.": "18000 ft"
+      "Ka-52*": {
+        "Ka-52": {
+          "MANUFACTURE": [
+            "Kamov",
+            1997,
+            "Present"
+          ],
+          "COO": [
+            "Russia",
+            "China,Egypt,Russia"
+          ],
+          "WEAPONS": [
+            "2A42"
+          ],
+          "DATA": {
+            "Max Weight": "10.8t",
+            "Length": "16m",
+            "Height": "4.9m",
+            "Rotor dia.": "14.5m",
+            "Crew": 2,
+            "Speed": "217mph",
+            "Max alt.": "18000 ft"
+          },
+          "IMAGES": [
+            "ka52new1",
+            "ka52new2"
+          ],
+          "DESCRIPTION": "The Ka-52 'Alligator' is a Russian attack helicopter. It is an upgraded system to the earlier Soviet Ka-50 'Black Shark'. It is a twin-seater aircraft, with the primary role of battlefield recconanissance. It is armed with a 30mm cannon and 6 hardpoints which enable a variety of rockets and air to ground missiles to be fitted. It was the first helicopter to have a pilot ejection system. The Egyptian export model is known as the Ka-52 'Nile Crocodile'.",
+          "CREW": 2,
+          "R_FEAT": {
+            "The Ka-52 is a very distinctive helicopter, since it has twin rotor blades. The nose of the aircraft has a lighter coloured domed cover, with a round camera pod beneath.": "ka52rf1",
+            "The air intakes have black covers to protect the engines from flying debris or bird strike. The winglets sit directly beneath the intakes and each has 3 hard points for attaching a variety of different weapons, sensors or external fuel tanks.": "ka52rf2",
+            "The Ka-52 has a single rudder with no tail rotor. Two forward angled stabilisers sit on the tail boom.": "ka52rf3"
+          }
         },
-        "IMAGES": [
-          "ka521",
-          "ka522"
-        ],
-        "DESCRIPTION": "The Ka-52 'Alligator' is a Russian attack helicopter. It is an upgraded system to the earlier Soviet Ka-50 'Black Shark'. It is a twin-seater aircraft, with the primary role of battlefield recconanissance. It is armed with a 30mm cannon and 6 hardpoints which enable a variety of rockets and air to ground missiles to be fitted. It was the first helicopter to have a pilot ejection system.",
-        "CREW": 2,
-        "R_FEAT": {
-          "The Ka-52 is a very distinctive helicopter, since it has twin rotor blades. The nose of the aircraft has a lighter coloured domed cover, with a round camera pod beneath.": "ka52rf1",
-          "The air intakes have black covers to protect the engines from flying debris or bird strike. The winglets sit directly beneath the intakes and each has 3 hard points for attaching a variety of different weapons, sensors or external fuel tanks.": "ka52rf2",
-          "The Ka-52 has a single rudder with no tail rotor. Two forward angled stabilisers sit on the tail boom.": "ka52rf3"
+        "Ka-52K": {
+          "MANUFACTURE": [
+            "Kamov",
+            2015,
+            "Present"
+          ],
+          "COO": [
+            "Russia",
+            "Egypt,Russia"
+          ],
+          "WEAPONS": [
+            "2A42"
+          ],
+          "DATA": {
+            "Max Weight": "10.8t",
+            "Length": "16m",
+            "Height": "4.9m",
+            "Rotor dia.": "12.25m",
+            "Crew": 2,
+            "Speed": "217mph",
+            "Max alt.": "18000 ft"
+          },
+          "IMAGES": [
+            "ka52k1",
+            "ka52k2"
+          ],
+          "DESCRIPTION": "The Ka-52K 'Katran' is a naval variant of the Ka-52 'Alligator'. It is modified for use aboard naval vessels with shorter, foldable winglets and rotors. This means the aircraft can take up less space on the flight deck of aircraft carriers. ",
+          "CREW": 2,
+          "R_FEAT": {
+            "The only external difference on the Ka-52K are the folding winglets that only have 2 hard points. This reduced width allows more platforms to be carried aboard ships.": "ka52krf1"
+          }
         }
       }
     },
