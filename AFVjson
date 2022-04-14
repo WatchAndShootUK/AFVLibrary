@@ -4591,10 +4591,9 @@
           "NAME": "Shtora-1",
           "DESCRIPTION": "Shtora-1 is an electro optical active protection system, it disrupts the target tracking laser in ATGM’s which in turn directs the ATGM off target due to loss of tracking. \nIt has 4 components listed below\n1.Smoke grenade dischargers\n2.Laser warning system, the 2 prominent objects above the main gun\n3.A control system\n4.2 infrared lights, the 2 prominent ‘eyes’ on the front of the turret. They continuously emit pulsed infrared jamming signals when an ATGM launch has been detected.",
           "IMAGES": {
-            "shtora-1": "When the Shtora-1 is switched on, it gives a prominent red glow from each box. Due to these being IR these are easily sighted through standard issue NVG’s or any IR night sight.",
+            "shtora-1": "Here is the Shtora-1 switched on in daytime, they give a distinctive red glow.",
             "shtora1rf": "When the Shtora-1 is switched on, it gives a prominent red glow from each box. Due to these being IR these are easily sighted through standard issue NVG’s or any IR night sight.",
-            "shtora-13": "",
-            "shtora-14": ""
+            "shtora-13": "Here are the laser warning sensors, the 2 boxes with circular caps behind the gun. When on the caps will be removed and the incoming laser pulse will give the commander a warning of being painted, they can then either fire the smoke grenades or slew the turret in the general direction of the lase, this is rumoured to be an automatic reaction from the tank, this isn’t true, it is also controlled by the commander."
           }
         },
         "Zaslon": {
