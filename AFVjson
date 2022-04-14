@@ -1,5 +1,5 @@
 {
-  "1.1.76": {
+  "1.1.77": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3339,7 +3339,7 @@
       }
     },
     "RW": {
-      "Hind": {
+      "Hind*": {
         "Mi-24V": {
           "MANUFACTURE": [
             "Mil",
