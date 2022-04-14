@@ -1,5 +1,5 @@
 {
-  "1.1.87": {
+  "1.1.88": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1070,8 +1070,7 @@
         "ARMOUR": [
           "Composite",
           "Nozh",
-          "Shtora-1",
-          "Zaslon"
+          "Shtora-1"
         ],
         "DATA": {
           "Weight": "51t",
@@ -4531,6 +4530,19 @@
               2500
             ]
           }
+        },
+        "9M114": {
+          "NAME": "AT-6 Spiral",
+          "Designation": "9M114",
+          "Calibre": 135,
+          "DESCRIPTION": "9M114 is a SACLOS radio guided missile designed and manufactured by the Soviet Union and then Russia. It can be used by anti-tank IFVs, such as the 9P149 and also by attack aviaton such as the Mi-24.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              500,
+              5000
+            ]
+          }
         }
       },
       "ARMOUR": {
@@ -4557,7 +4569,7 @@
           }
         },
         "Kontakt-5": {
-          "NAME": "Kontact-5",
+          "NAME": "Kontakt-5",
           "DESCRIPTION": "Kontakt-5 is a Soviet second generation explosive reactive armour, first introduced on the T-80U, it is the first ERA capable of defeating APFSDS rounds. Kontakt-5 is made up of bricks of PE between 2 metal plates, it is supposed to channel the incoming round through the Kontakt-5 blocks, hence why they’re mounted in such a way, which then leads to blasts hitting the projectile in the side, which in theory will cut the penetrator rod in to pieces from the blast. It is fitted to most modern Russian tanks from T-80U (1985) onwards.",
           "IMAGES": {
             "k51": "Kontakt-5 around the turret of a T-72B3",
@@ -4579,12 +4591,12 @@
           }
         },
         "Nozh": {
-          "NAME": "",
-          "DESCRIPTION": "",
+          "NAME": "Nozh",
+          "DESCRIPTION": "Nozh (Ukrainian-Knife) is a Ukrainian produced ERA, designed by Kharkiv MDB. Nozh modules are fitted to most modern Ukrainian tanks and can be fitted to other armoured vehicles, Nozh gets its name from the way the ERA uses a pinpoint blast against the projectile, minimising the chain reaction effect of Kontakt-1. According to the Morozov design bureau it increases survivability by up to 200%.",
           "IMAGES": {
-            "image1": "",
-            "image2": "",
-            "image3": ""
+            "nozh": "Seen here is a Ukrainian T-64B1M which, thanks to its Nozh package has survived an ATGM hit to the turret front.",
+            "nozh2": "Here is a Nozh cutout, displaying the block layout.",
+            "nozh3": "A close up of the damaged T-64B1M, the shrapnel from the explosion damaged the gunners sight, but the tank and crew survived."
           }
         },
         "Shtora-1": {
@@ -4596,13 +4608,12 @@
             "shtora-13": "Here are the laser warning sensors, the 2 boxes with circular caps behind the gun. When on the caps will be removed and the incoming laser pulse will give the commander a warning of being painted, they can then either fire the smoke grenades or slew the turret in the general direction of the lase, this is rumoured to be an automatic reaction from the tank, this isn’t true, it is also controlled by the commander."
           }
         },
-        "Zaslon": {
-          "NAME": "",
-          "DESCRIPTION": "",
+        "Drozd": {
+          "NAME": "Drozd",
+          "DESCRIPTION": "Drozd is a Soviet hard kill active protection system, designed to defeat ATGM’s and RPG’s, it is considered the worlds first hard kill APS. \nDrozd uses 24.5 GHz Doppler radar to detect incoming rounds travelling between 70 and 700 m/s (to avoid engaging small arms or other faster projectiles). Its computer determines when to fire one of the 4 107 mm slugs. When the incoming round is at 7 m range, the Drozd fragmentation warhead detonates, spreading slugs to destroy the incoming round. It was deemed 80% effective in the Soviet-Afghan war, but collateral damage was extremely high amongst dismounts.",
           "IMAGES": {
-            "image1": "",
-            "image2": "",
-            "image3": ""
+            "drozd": "Drozd gives a prominent recognition feature when fitted, it gives distinctive ‘ears’ to the sides of the turret.",
+            "drozd2": "Drozd also requires a control box, fitted at the rear of the turret."
           }
         }
       },
@@ -4734,7 +4745,7 @@
           "DESCRIPTION": "Uralvagonzavod is a tank manufacturing company based in Nizhny Tagil, Sverdlovsk Oblast, Russia. It is the largest tank manufacturing business in the world and makes the majority of Russian (and previously Soviet) main battle tanks. The company was established in 1936 and has a history of private and state ownership, it has been owned by the state since 2016 - via the Russian conglomerate Somtek."
         }
       },
-      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar/RAP,Rocket assissted projectile/MLRS,Multiple launch rocket system/GMLRS,Guided multiple launch rocket system/ATGM,Anti-tank guided missile",
+      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar/RAP,Rocket assissted projectile/MLRS,Multiple launch rocket system/GMLRS,Guided multiple launch rocket system/ATGM,Anti-tank guided missile/ERA,Explosive reactive armour/",
       "LINKS": {
         "GOOGLE_STORE": "https://play.google.com/store/apps/developer?id=Watch%20%26%20Shoot%20Developments",
         "APPLE_STORE": "https://apps.apple.com/gb/developer/mark-wileman/id1561466869",
