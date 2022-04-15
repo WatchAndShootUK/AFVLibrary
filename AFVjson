@@ -1,5 +1,5 @@
 {
-  "1.1.91": {
+  "1.1.92": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -86,7 +86,7 @@
         },
         "WEAPONS": [
           "KORD",
-          "PKP",
+          "PKT",
           "AGS-17"
         ],
         "DATA": {
@@ -293,7 +293,7 @@
       "T-64*": {
         "T-64A": {
           "MANUFACTURE": [
-            "KMDB",
+            "ZIM",
             "1963",
             "1987"
           ],
@@ -333,7 +333,7 @@
         },
         "T-64BV": {
           "MANUFACTURE": [
-            "KMDB",
+            "ZIM",
             "1985",
             "1991"
           ],
@@ -375,7 +375,7 @@
         },
         "T-64BM": {
           "MANUFACTURE": [
-            "KMDB",
+            "ZIM",
             "2005",
             "Present"
           ],
@@ -415,7 +415,7 @@
         },
         "T-64B1M": {
           "MANUFACTURE": [
-            "KMDB",
+            "ZIM",
             "2014",
             2020
           ],
@@ -832,7 +832,7 @@
       "T-80*": {
         "T-80BV": {
           "MANUFACTURE": [
-            "LKZ Plant",
+            "Omsk",
             "1985",
             1996
           ],
@@ -877,7 +877,7 @@
         },
         "T-80U": {
           "MANUFACTURE": [
-            "LKZ Plant",
+            "Omsk",
             "1985",
             1992
           ],
@@ -1008,7 +1008,7 @@
         },
         "T-80BVM": {
           "MANUFACTURE": [
-            "Omsk",
+            "Rostec",
             "2017",
             "Present"
           ],
@@ -1242,7 +1242,7 @@
             "Bulgaria,Georgia,Poland,Russia,Syria,Ukraine"
           ],
           "WEAPONS": [
-            "Grom",
+            "2A28",
             "PKT",
             "9M113"
           ],
@@ -1763,9 +1763,9 @@
             "Ukraine"
           ],
           "WEAPONS": [
-            "ZTM-1",
+            "2A72",
             "PKT",
-            "KBA-117"
+            "AGS-17"
           ],
           "DATA": {
             "Weight": "16.4t",
@@ -4597,6 +4597,73 @@
               8000
             ]
           }
+        },
+        "9M14": {
+          "NAME": "AT-3 Sagger",
+          "Designation": "9M14",
+          "Calibre": 125,
+          "DESCRIPTION": "The 9M14, NATO designation AT-3 'Sager' was the Soviet Union's first man-portable anti-tank guided munition first fielded in 1963. Original variants were wire-guided SACLOS but newer versions switched to radio controlled SACLOS.",
+          "Ammunition": {
+            "9M14": [
+              "HEAT",
+              500,
+              3000
+            ]
+          }
+        },
+        "AGS-17": {
+          "NAME": "Grenade machine gun",
+          "Designation": "AGS-17",
+          "Calibre": 30,
+          "DESCRIPTION": "The AGS-17 Plamya, which means flame in Russian, is a Soviet era grenade machine gun. It is mounted on a variety of vehicles but can also be used in the light role when mounted on a tripod. It fires HE or smoke rounds from either a belt or drum magazine. The AGS-17 has been in constant service since 1970. The Ukrainian version of the AGS-17 is known as the KBA-117.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              800,
+              1700
+            ],
+            "2": [
+              "Smoke",
+              800,
+              1700
+            ]
+          }
+        },
+        "AGS-30": {
+          "NAME": "Grenade machine gun",
+          "Designation": "AGS-30",
+          "Calibre": 30,
+          "DESCRIPTION": "Based on the AGS-17, the AGS-30 is a grenade machine gun made by the Russian federation. The improvements give it an increased rate of fire and range. It is fitted to a variety of IFVs and APCs globally.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              500,
+              2100
+            ],
+            "2": [
+              "Smoke",
+              500,
+              2100
+            ]
+          }
+        },
+        "DShK": {
+          "NAME": "Heavy machine gun",
+          "Designation": "DShK",
+          "Calibre": 12.7,
+          "DESCRIPTION": "The DShk heavy machine gun has been in continuous service since WWII, where it was first designed as an anti-aircraft gun. It has a rate of fire of 600 roads per minute.",
+          "Ammunition": {
+            "1": [
+              "Ball",
+              "",
+              2500
+            ],
+            "2": [
+              "Tracer",
+              "",
+              2500
+            ]
+          }
         }
       },
       "ARMOUR": {
@@ -4778,6 +4845,31 @@
           "NAME": "Uralvagonzavod",
           "LOGO": "https://upload.wikimedia.org/wikipedia/ru/d/d1/UVZlogo.png",
           "DESCRIPTION": "Uralvagonzavod is a tank manufacturing company based in Nizhny Tagil, Sverdlovsk Oblast, Russia. It is the largest tank manufacturing business in the world and makes the majority of Russian (and previously Soviet) main battle tanks. The company was established in 1936 and has a history of private and state ownership, it has been owned by the state since 2016 - via the Russian conglomerate Somtek."
+        },
+        "Omsk": {
+          "NAME": "Omsktransmash",
+          "LOGO": "https://upload.wikimedia.org/wikipedia/en/3/3b/Omsktransmash_logo.png",
+          "DESCRIPTION": "Omsk transport machine factory, is Russian state owned heavy machinery plant in Omsk, Russia. Due to tank factory politics in the post Soviet era, the Russian government decided to fund tank production at the UVZ plant, causing financial ruin for OmskTM, leading to bankruptcy. Omsk is known for its production of the T-80 and associated platforms."
+        },
+        "LKZ": {
+          "NAME": "Leningrad Kirov Plant",
+          "LOGO": "https://whoiswho.obs.ru-moscow-1.hc.sbercloud.ru/images/company/99476/8d574a63-97f6-4bfc-8428-1a2bc7a6da10.jpg",
+          "DESCRIPTION": "Leningrad Kirov Plant, is a Russian heavy machinery factory in St.Petersburg (formerly Leningrad) it was established in 1789, soon becoming a metal foundry for cannon ball production. It was prevalent in WW2 for building the KV-1 tank, later in the Cold War it produced the T-80 tank."
+        },
+        "ZIM": {
+          "NAME": "Malyshev Plant",
+          "LOGO": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Malyshev_Factory_logo.svg/1200px-Malyshev_Factory_logo.svg.png",
+          "DESCRIPTION": "The Malyshev plant (UA: 'ZIM') is a Ukrainian state owned manufacturer of heavy equipment, including Diesel engines, farm machines and wind farm equipment. It is best known for its production of the BT tank series, T-34 tank and also the T-64 and T-80 series of tanks, in recent years it has been overhauling T-64B’s to BM standard, as well as supplying rehabilitated tanks for the Ukrainian army during the war in Donbass since 2014."
+        },
+        "GAZ": {
+          "NAME": "Gorky Automobile Plant",
+          "LOGO": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/1686/brand.gif?itok=dJsOwjV4",
+          "DESCRIPTION": "Gorky Automobile Plant, is a Russian vehicle manufacturer based on Nizhny Novgorod (formerly Gorky), it was founded in 1932 building many trucks, cars, farm machinery as well as armoured vehicles."
+        },
+        "KMZ": {
+          "NAME": "Kurganmashzavod",
+          "LOGO": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Kurganmashzavod_logo.png/220px-Kurganmashzavod_logo.png",
+          "DESCRIPTION": "Kurganmashzavod is a Russian heavy machinery factory known for its BMP production, the firm originally formed as a crane building company, it began production of the BMP-1 in 1969, soon after it was re-tooled and overhauled to increase production."
         }
       },
       "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar/RAP,Rocket assissted projectile/MLRS,Multiple launch rocket system/GMLRS,Guided multiple launch rocket system/ATGM,Anti-tank guided missile/ERA,Explosive reactive armour/",
