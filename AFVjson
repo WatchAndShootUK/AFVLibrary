@@ -1,5 +1,5 @@
 {
-  "1.1.95": {
+  "1.1.96": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2684,6 +2684,36 @@
             "The key recognising feature is the new 9S36 radar, it is flatter than its predessesor (Fire Dome).": "bukm2rf2",
             "The 9A310 TEL (identified by the crane) can be identified by the solid wheels and the 'arrow' framework on the launcher's sides point downwards.": "bukm2rf3"
           }
+        },
+        "9K317M Buk-M3 ": {
+          "MANUFACTURE": [
+            "Ulyanovsk",
+            2016,
+            "Present"
+          ],
+          "COO": [
+            "Russia"
+          ],
+          "WEAPONS": [
+            "9M38",
+            "9S36"
+          ],
+          "DATA": {
+            "TELAR": "9A316M",
+            "TEL": "9A310"
+          },
+          "IMAGES": [
+            "bukm31",
+            "bukm32",
+            "bukm33"
+          ],
+          "DESCRIPTION": "The 9K317M Buk-M3, NATO designation SA-27 'Gollum', is an upgraded system to the Buk M2. It uses the improved 9M317M missile, which is an upgrade of the 9M38. The system uses the same 9S36 integral radar, although it has had huge software upgrades. It increases the engagement range of the system to 70km.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The key recognising feature of the Buk M3 are the newer 9M317M missiles, they are no longer in the open but instead are deployed in 6 cylindrical tubes.": "bukm3rf1",
+            "There is an additional, smaller, rectangular radar above the 9S36 - this is unique to the M3.": "bukm3rf2",
+            "The Buk-M3 TEL is distinctive in the fact that it holds two banks of 6 missiles, again in the cylindrical tubes.": "bukm3rf3"
+          }
         }
       },
       "ZSU*": {
@@ -4951,7 +4981,7 @@
           "DESCRIPTION": "Kurganmashzavod is a Russian heavy machinery factory known for its BMP production, the firm originally formed as a crane building company, it began production of the BMP-1 in 1969, soon after it was re-tooled and overhauled to increase production."
         }
       },
-      "GLOSSARY": "AFV,Armoured fighting vehicle/MBT,Main battle tank/IFV,Infantry fighting vehicle/APC,Armoured personnel carrier/CR2,Challenger 2/APFSDS,Armor-piercing fin-stabilized discarding sabot/TELAR,Transporter erector launcher and radar/TEL,Transporter erector launcher/TLAR,Transporter launcher and radar/RAP,Rocket assissted projectile/MLRS,Multiple launch rocket system/GMLRS,Guided multiple launch rocket system/ATGM,Anti-tank guided missile/ERA,Explosive reactive armour",
+      "GLOSSARY": "/AAMG,Anti-aircraft machine gun/ACLOS,Automatic command line of sight/AFV,Armoured fighting vehicle/AI,Armoured infantry/AP,Armour piercing/APC,Armoured personnel carrier/APFSDS,Armour Piercing Fin Stabilised Discarding Sabot/API,Armour piercing incindery/APS,Active protection system/AT,Anti-tank/ATGM,Anti-tank guided munition/AV,Armoured vehicle/BAE,British aerospace/BCV,Battery command vehicle/CBRN,Chemical biological radiological and nuclear/CES,Combined equipment schedule/CMDR,Commander/DPICM,Dual-Purpose Improved Conventional Munition/ECM,Electronic counter-measures/ERA,Explosive reactive armour/FCS,Fire control system/FRAG,Fragmentation/GLATGM,Gun Launched Anti Tank Guided Missile/GMG,Grenade Machine Gun/GMLRS,Guided multiple launch rocket system/GNR,Gunner/GPMG,General purpose machine gun/GPS,Global positioning service/GRAU,Government Records Access Unit/HE,High explosive/HEAT,High explosive anti-tank/HEI,High explosive incindery/HESH,High explosive squash head/HMG,Heavy machine gun/ID,Identification/IED,Improvised explosive device/IFV,Infantry fighting vehicle/IMV,Infantry Mobility Vehicle/IR,Infa-red/IRCM,Infrared Countermeasures/ISR,Intelligence surveillance and reconassiance/LRF,Laser range finder/LWS,Laser Warning Sensor/MA,Main armament/MBT,Main battle tank/MLRS,Multiple launch rocket system/MRS,Muzzle Reference System/NATO,North atlantic treaty organisation/NBC,Nuclear biological chemical/NERA,Non-explosive reactive armour/NVG,Night vision goggle/OES,Operational Equipment Support/PID,Positive identification/RAP,Rocket-assisted projectile/RPG,Rocket-propelled grenade/RWS,Remote Weapon Station/SACLOS,Semi-automatic command line-of-sight/SAM,Surface to air missile/SGD,Smoke grenade dischargers/SPAAG,Self-propelled anti-aircraft gun/SPG,Self-propelled gun/TEL,Transporter erector loader/TELAR,Transporter erector loader and radar/THERM,Thermobaric/TLAR,Transporter loader & radar/TUSK,Tank urban survival kit/UAE,United Arab Emirates/UK,United Kingdom/US,United States/USA,United States of America/USSR,Union of Soviet Socialist Republics/VDV,Russian Air Assault Troops/WWII,World War Two/AA,Anti-aircraft",
       "LINKS": {
         "GOOGLE_STORE": "https://play.google.com/store/apps/developer?id=Watch%20%26%20Shoot%20Developments",
         "APPLE_STORE": "https://apps.apple.com/gb/developer/mark-wileman/id1561466869",
