@@ -1,5 +1,5 @@
 {
-  "1.1.92": {
+  "1.1.93": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1727,7 +1727,7 @@
             "Ecuador,Myanmar,Nigeria,Sudan,Ukraine"
           ],
           "WEAPONS": [
-            "ZTM-1",
+            "2A72",
             "Barier ATGM",
             "PKT"
           ],
@@ -1800,7 +1800,7 @@
           "Indonesia,Iraq,Nigeria,Ukraine,Myanmar"
         ],
         "WEAPONS": [
-          "ZTM-1",
+          "2A72",
           "PKT",
           "9M113"
         ],
