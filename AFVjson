@@ -1,5 +1,5 @@
 {
-  "1.1.98": {
+  "1.1.99": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3379,39 +3379,142 @@
       }
     },
     "ENG": {
-      "Empty vehicle": {
+      "BREM Recovery*": {
+        "BREM-1": {
+          "MANUFACTURE": [
+            "UVZ",
+            1984,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Russia,Ukraine"
+          ],
+          "WEAPONS": [
+            "NSVT"
+          ],
+          "DATA": {
+            "Weight": "41t",
+            "Length": "9.53m",
+            "Width": "3.37m",
+            "Height": "2.43m",
+            "Range": "300km",
+            "Speed": "60kph",
+            "HP": 780
+          },
+          "IMAGES": [
+            "brem11",
+            "brem12"
+          ],
+          "DESCRIPTION": "The BREM-1 is a Soviet armoured recovery vehicle (ARV) based on the T-72, around 342 were produced, it was designed to supplement the T-64 and T-80 battalions as well, so an evident shortage of armoured recovery vehicles is a big problem in the Russian Ground Forces, solidified by the many tanks lost to being bogged in during the 2022 Russian invasion of Ukraine. There were also extremely low numbers seen in country.  is fitted with a 4.4m crane. It has a 19t capacity at 2m and 3t capacity at 4.4m. It is used to lift damaged or stuck vehicles. Also the crane can be used to lift vehicles for access and repair. It is worth noting that cranes of modern Western ARV’s can lift much more. The main winch has 25 t capacity, that can be increased to 100 t using snatch blocks. The cable is 200 m long. It can be also used for self-recovery. It can also tow armoured vehicles upto 50t.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The BREM-1 has a large box in the centre of the hull, this is for stowage of tools and equipment. The crane runs parallel to the hull alongside the left side when folded down, raising towards the rear. The commander and crane operator have 2 raised cupolas next to each other in the centre hull. The running gear remains the same as that of the T-72 that it is based on. Note that the BREM-1 is usually never fitted with side skirts.": "brem1rf1",
+            "Upon closer inspection of the vehicle, you will notice the hull has much more of an upwards angle, you can see the 2 cupolas, the commanders being the one on the right, noted by the IR searchlight. You can also see the crane which almost looks like its cut into the side of the superstructure. ": "brem1rf2"
+          }
+        },
+        "BREM-L": {
+          "MANUFACTURE": [
+            "KMZ",
+            1992,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union",
+            "Russia,UAE,Venezuela "
+          ],
+          "WEAPONS": [
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "18.7t",
+            "Length": "7.64m",
+            "Width": "3.15m",
+            "Height": "2.35m",
+            "Range": "600km",
+            "Speed": "70kph",
+            "HP": 5000
+          },
+          "IMAGES": [
+            "breml1",
+            "breml2"
+          ],
+          "DESCRIPTION": "The BREM-L is a light armoured recovery vehicle based on the BMP-3, it is intended to replace the BMP-1 based BREM-2, although this process is slow. It is comparable in the west to the FV513 Warrior AR&RV, the recovery equipment is a hydraulic crane with 11t lift capability, as well as winches which can straight pull a weight of 40t.",
+          "CREW": 3,
+          "R_FEAT": {
+            "The BREM-L is quite distinctive, the commander has a large cylindrical raised cupola in the centre, offset to the right, the driver remains in the same place as on the BMP-3. To the left off the drivers position is a large cylinder which is the base mount for the crane, the crane runs down the right side of the vehicle when stowed. The front of the vehicle is fitted with a dozer blade.": "bremlrf1",
+            " The BREM-L from the side has some noticeable features; it has a tray behind the commander for stowage of spare parts and tools. You can see how the crane runs across the vehicle at an angle, from front left to rear right. The hull remains the same as the BMP-3, with the exhaust at the rear right, the rectangular slit. The roadwheels are also in the same format with prominent gaps between the 1st,2nd,3rd and also 5th and 6th.": "bremlrf2"
+          }
+        },
+        "BREM-K": {
+          "MANUFACTURE": [
+            "GAZ",
+            1993,
+            "Present"
+          ],
+          "COO": [
+            "Russia",
+            "Azerbaijan,Russia"
+          ],
+          "WEAPONS": [
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "14t",
+            "Length": "7.7m",
+            "Width": "2.9m",
+            "Height": "3m",
+            "Range": "600m",
+            "Speed": "80kph",
+            "HP": 240
+          },
+          "IMAGES": [
+            "bremk1",
+            "bremk2"
+          ],
+          "DESCRIPTION": "The BREM-K is a Russian light armoured recovery vehicle, based on the BTR-80. It has an unusual design, rather than a crane it has an A frame hoist boom, winch with 2 spools of cable attached to the turret. It is designed to work in BTR BTG’S its primary role being to recover bogged in vehicles. It has space for extra mechanics or the crew of the recovered vehicle. ",
+          "CREW": "4+6",
+          "R_FEAT": {
+            "The turret is similar to the standard BTR-80, except it now has the 14.5mm KPVT removed, although it retains the PKT mount for local defence. Fitted to the rear of the turret are 2 large spools for the A frame, they give a distinct recognition feature.": "bremkrf1",
+            "On the side of the vehicle you will see extra equipment for tools, not usually seen on a standard BTR-80. Behind the turret is a crate for stowage of tools and equipment, the rest of the hull remains the same.": "bremkrf2"
+          }
+        }
+      },
+      "IMR-2": {
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "UVZ",
+          1982,
+          1990
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union",
+          "Russia"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "NSVT"
+        ],
+        "ARMOUR": [
+          "Composite"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "44.5t",
+          "Length": "9.55m",
+          "Width": "4.35m",
+          "Height": "3.68m",
+          "Range": "500km",
+          "Speed": "50kph",
+          "HP": 780
         },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "imr21",
+          "imr23",
+          "imr23"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "The IMR-2 is a Soviet/Russian engineering vehicle, its main purposes are to clear obstacles and dig trenches, it is based on the T-72 hull. Its western equivalent would be the British Trojan AVRE. The IMR-2 saw heavy use in the 1986 Chernobyl Disaster, most of the vehicles that were used are currently buried due to the heavy amount of radiation they absorbed.",
+        "CREW": 3,
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The IMR-2 is easily remembered by the pneumonic ‘I Move Rocks’. In the centre is a tall cupola for the commander with vision blocks giving 360 degrees FoV. Directly mounted on the rear of his cupola is a large crane arm, when stowed it runs parallel to the vehicle, the claw attachment hangs off the rear or can be folded. Down the side there are 3 stowage boxes for tools and equipment.": "imr2rf1",
+          "The front blade is typically raised when not in use, as seen here. Note that the IMR-2 is rarely seen with side skirts, they are barely ever fitted.": "imr2rf2"
         }
       }
     },
