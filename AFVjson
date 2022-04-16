@@ -1,5 +1,5 @@
 {
-  "1.1.101": {
+  "1.1.102": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3563,6 +3563,39 @@
           "The MTU-72, like any other bridgelayer, is instantly recognisable for what it is,the bridge has the edges folded inwards on top of the largest part of the bridge. The bridge has 6 holes, with 2 larger holes paired together in the centre. The hull is that of a T-72, the road wheels are equally spaced, with the exhaust at the rear left.": "mtu72rf1",
           "An interesting feature is that the MTU-72 lays the bridge horizontally rather than vertically like most western bridgelayers, this makes it much harder to spot. So to conclude on this, western bridges go up, Russian bridges go down.": "mtu72rf2",
           "Seen here is a British Titan AVLB, note the way it bridges vertically.": "mtu72rf3"
+        }
+      },
+      "BAT-2": {
+        "MANUFACTURE": [
+          "Malyshev",
+          1988,
+          1991
+        ],
+        "COO": [
+          "Soviet Union",
+          "Russia,Hungary,Ukraine"
+        ],
+        "WEAPONS": [
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "39t",
+          "Length": "9.64m",
+          "Width": "4.2m",
+          "Height": "3.69m",
+          "Range": "500km",
+          "Speed": "60kph",
+          "HP": 700
+        },
+        "IMAGES": [
+          "bat1",
+          "bat2"
+        ],
+        "DESCRIPTION": "The BAT-2 is an armoured tracklayer/engineering vehicle based on the T-64, although it uses a version of the T-72 diesel engine, the V-64-4. It is designed to make tracks, as well as dig ditches.",
+        "CREW": 2,
+        "R_FEAT": {
+          "The BAT-2 is identifiable by its large front earth moving blade, when not used it is raised above the cab. The cab is prominent with its 3 front windows, the side of the vehicle has multiple boxes to stow tools. There is also a large crane that is stored down the centre of the vehicle. You may notice that the road wheels are that of the T-64, which is a good feature for recognition, they are equally spaced throughout.": "batrf1",
+          "Here is a BAT-2 with the front dozer blade removed, there are 2 prominent headlights below the windows, as well as a ladder on the side.": "batrf2"
         }
       }
     },
