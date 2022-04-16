@@ -1,5 +1,5 @@
 {
-  "1.1.112": {
+  "1.1.113": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3503,6 +3503,7 @@
           "Present"
         ],
         "COO": [
+          "Russia",
           "Russia,Ukraine"
         ],
         "WEAPONS": [
