@@ -1,5 +1,5 @@
 {
-  "1.1.115": {
+  "1.1.116": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3577,7 +3577,7 @@
           "Russia"
         ],
         "WEAPONS": [
-          "PKT"
+          "1RL257"
         ],
         "DATA": {
           "Base": "Kamaz-6350"
@@ -4363,6 +4363,19 @@
               "Track",
               "",
               "18km"
+            ]
+          }
+        },
+        "1RL257": {
+          "NAME": "Jamming radar",
+          "Designation": "1RL257",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The Krasukha-4 broadband multifunctional jamming radar counters AWACS and other airborne radar systems. It has the ability to target low earth orbit satellites and cause permanent electronic damage. It can target adversaries up to 300km away.",
+          "Ammunition": {
+            "1": [
+              "Jam",
+              "",
+              "300km"
             ]
           }
         },
@@ -5349,6 +5362,12 @@
           "NAME": "Detection",
           "IMAGES": {
             "Detection is where the radar system can see approaching objects, usually aircraft or vehicles. Detection radars then pass off the targets towards the targeting and tracking systems ready for engagement.": "detectionradar"
+          }
+        },
+        "Jam": {
+          "NAME": "Jamming",
+          "IMAGES": {
+            "Jamming is the process of attacking sensors, be they radars or communitions equipment with electrical energy. This blocks the equipment from doing its job and renders the enemy blind and unable to communicate.": "jamming"
           }
         },
         "Track": {
