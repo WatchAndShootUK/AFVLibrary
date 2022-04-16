@@ -1,5 +1,5 @@
 {
-  "1.1.111": {
+  "1.1.112": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3494,6 +3494,43 @@
           "The BMP-1Ksh is easily remembered with an easy to remember pneumonic ‘Keep Sending Home’ due to it being a command vehicle, if taken out it can no longer send home. The turret  is the same as the BMP-1 except it has a large mast in place of the 73mm gun. There are boxes at the rear of the hull, as well as more mounts for antennae on the rear, you can see the antennae base sticking out at the rear right.": "kshrf1",
           "On the right side, there is a box in the centre of the hull, above that is a stowage box for a mast. The turret has an IR searchlight above the hatch.": "kshrf2",
           "You can see on this image that the turret is fixed in place, there is also a searchlight above the vehicle commanders hatch.\n": "kshrf3"
+        }
+      },
+      "R-330BMV": {
+        "MANUFACTURE": [
+          "SVD",
+          2015,
+          "Present"
+        ],
+        "COO": [
+          "Russia,Ukraine"
+        ],
+        "WEAPONS": [
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "15t",
+          "Length": "7.2m",
+          "Width": "2.8m",
+          "Height": "1.9m",
+          "Range": "500km",
+          "Speed": "60kph",
+          "HP": 300
+        },
+        "IMAGES": [
+          "r330bmv1",
+          "r3302",
+          "r3303",
+          "ksh3",
+          "ksh4"
+        ],
+        "DESCRIPTION": "The R-330BMV Borisoglebsk-2 is a Russian electronic warfare system, it is used for deception and jamming, it can track and jam most radio systems (HF,VHF,UHF) both air and ground comms, with its wide frequency bandwidth, as well as a high probability of identifying radar emissions, it was used in Eastern Ukraine in 2015, in what could be assessed to be a field test. It was also used in the 2022 Russian invasion of Ukraine, 1 was destroyed and 2 captured.",
+        "CREW": 5,
+        "R_FEAT": {
+          "The R-330BMV is based on the MTLBu hull, the hull is tall with sloping on the sides, it has 2 visors for the driver and vehicle commander. It also has a boat-shaped hull, this is due to the amphibious capability. There is a large mast at the rear left, it has a very obscure mast, it has 6 vertically placed antennae coming off of the main mast, with a circular dish at the top. The large cage at the front is a protective and retaining cage for the mast.": "r3303",
+          "Upon a closer look at the side, this time with the mast folded you can see what the vehicle looks like when not in use. There is a stowage box on the left side towards the front. There is a part of the hull at the front which is angled downwards, with what looks like an air grille above the final drive, although this is just a cover. There is a large gap between the tracks and hull, with no side skirts. The vehicle has 7 road wheels, all of which are equally spaced throughout.": "r3302",
+          "On the right side, there are 2 long stowage boxes, there are some hatches towards the rear, the rest of this side remains the same. This one was captured by the Ukrainian 10th Mountain Assault Brigade; the current fate of the vehicle is unknown. \n\n\n\n\n\n\n(Almost definitely the CIA does not have this).": "r330rf3",
+          "Interior of the R-330BMV Borisoglebsk-2.": "r330rf4"
         }
       }
     },
