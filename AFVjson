@@ -1,5 +1,5 @@
 {
-  "1.1.104": {
+  "1.1.105": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3420,6 +3420,43 @@
         "R_FEAT": {
           "The R-166 0.5 is evidently based on the BTR-80, it is immediately noticeable as a command vehicle with the sheer amount of antennae fitted to the vehicle, also the superstructure is much different, it is widened and heightened to accommodate the communications equipment. The top of the hull has a prominent frame antennae above the unarmed turret, behind this is the generator to keep the vehicle running without the need for the main engine to run. Moving down to the front there are 2 large hatches on the slope that open forwards, these are above the normal BTR BP glass windows. Above these is another frame antenna. Along the sides of the vehicle are antennas and masts to set up the brigade HQ.": "r166rf1",
           "From the rear the R-166 0.5 has a lot of visible modifications from a standard BTR-80, you can see the antennae, the spool next to the generator and the masts, as well as the widened superstructure. Whilst the rear part of the vehicle is the same as the standard BTR-80, the front is widened. When comparing this to the R-149MA1, you will notice that the R-149MA1 does not have the antennae, or the masts on the sides.": "r166rf2"
+        }
+      },
+      "9S932-1 Barnaul-T": {
+        "MANUFACTURE": [
+          "KhTZ",
+          2019,
+          "Present"
+        ],
+        "COO": [
+          "Russia"
+        ],
+        "WEAPONS": [
+          "1L122-1E",
+          "RPK"
+        ],
+        "DATA": {
+          "Weight": "15t",
+          "Length": "7.5m",
+          "Width": "2.85m",
+          "Height": "1.9m",
+          "Range": "500km",
+          "Speed": "61kph",
+          "HP": 300
+        },
+        "IMAGES": [
+          "barnaul1",
+          "barnaul2",
+          "barnaul3"
+        ],
+        "DESCRIPTION": "The 9S932-1 Barnaul-T is an air defence command vehicle. It is contained within the MTLBu chassis. The system provides C2 for mobile surface to air systems such as the Buk, Tor and Pantsir as well as Manpad units. The system works by receiving data from surveillance radars and transmitting it to the SAM batteries, enabling them to layer air defences. It also has its own surveillance radar, the 1L122-1E 'Garmon', which can find air targets up from 1-40km.",
+        "CREW": "2+4",
+        "R_FEAT": {
+          "The MTLBu chassis is built higher than the standard MTLB, this means there is more space inside required for the crew to operate. The key recognising feature is the 1L122 'Garmon' radar, it is rectangular with 4 rows of 'fins' and a section of smaller squares at the bottom.": "barnaulrf1",
+          "On the right hand side of the vehicle, at the rear, is a collapsable mast.": "barnaulrf2",
+          "This image shows the addition of a rectangular storage bin on the right hand side of the chassis and the mast in the elevated position.": "barnaulrf3",
+          "The left hand side of the MTLBu has two triangular mounting brackets with a pair of cable reels in between.": "barnaulrf4",
+          "9S932-1 Barnaul-T captured in Ukraine, April 2022. Note the large bin on the rear right of the vehicle.": "barnaulrf5"
         }
       }
     },
