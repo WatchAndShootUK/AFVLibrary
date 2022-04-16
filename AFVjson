@@ -1,5 +1,5 @@
 {
-  "1.1.105": {
+  "1.1.106": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2735,7 +2735,7 @@
             "Russia"
           ],
           "WEAPONS": [
-            "9S112"
+            "9S18"
           ],
           "DATA": {
             "Range": "160km",
@@ -4229,6 +4229,24 @@
             ]
           }
         },
+        "1L122-1E": {
+          "NAME": "'Garmon' Air Surveillance Radar",
+          "Designation": "1L122-1E",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 1L122-1E 'Garmon' air defence radar is used to distribute air targets to highly mobile manpad units. It can detect, position, and track aircraft, cruise missiles, and unmanned aerial vehicles, conduct friend-or-foe identification and automatically transmit tracking data to the automated control system. This is a highly capable radar for its size.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              1000,
+              40000
+            ],
+            "2": [
+              "Track",
+              1000,
+              40000
+            ]
+          }
+        },
         "1RS2-1E": {
           "NAME": "Pantsir targetting radar ",
           "Designation": "1RS2-1E",
@@ -4280,6 +4298,19 @@
               "Detect",
               "",
               "Unknown"
+            ]
+          }
+        },
+        "9S18": {
+          "NAME": "'Snow Drift'",
+          "Designation": "9S18",
+          "Calibre": "N/A",
+          "DESCRIPTION": "The 9S18 is the family of radars that acquire targets for the Buk surface to air missile system. Originally named the 'Tube Arm', it has been upgraded to the 'Snow Drift' with various software upgrades for use with the Buk M2 & Buk M3.",
+          "Ammunition": {
+            "1": [
+              "Detect",
+              5000,
+              "150km"
             ]
           }
         },
