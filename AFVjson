@@ -1,5 +1,5 @@
 {
-  "1.1.102": {
+  "1.1.103": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3351,39 +3351,43 @@
       }
     },
     "CEW": {
-      "Empty vehicle": {
+      "R-149MA1": {
+        "DATA": {
+          "Weight": "15.2t",
+          "Length": "7.7m",
+          "Width": "3.7m",
+          "Height": "3.9m",
+          "Range": "600km",
+          "Speed": "90kph",
+          "HP": 260
+        },
         "MANUFACTURE": [
-          "Manufacturer",
-          "FROM",
-          "To"
+          "GAZ",
+          "Unknown",
+          "Present"
         ],
         "COO": [
-          "Manufacturing COuntry"
+          "Soviet Union",
+          "Russia"
         ],
         "WEAPONS": [
-          "Main",
-          "Second",
-          "Third"
+          "PKT"
         ],
-        "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
-        },
         "IMAGES": [
-          "",
-          "",
-          ""
+          "r1491",
+          "r1492",
+          "r1493",
+          "r1494"
         ],
-        "DESCRIPTION": "",
-        "CREW": 4,
+        "DESCRIPTION": "Unified command vehicle (UCV) R-149MA1 was designed to command bridgade/regiment sized units both on the move and in static locations. This vehicle can also be used at the operational (battalion) level to coordinate the close fight. The vehicle is a modified BTR-80, with additional communications equipment and GLONASS navigation system.",
+        "CREW": "2+6",
         "R_FEAT": {
-          "": "rfeat",
-          " (copy)": "rfeat"
+          "The R-149MA1 is a modified BTR-80, it has 8 wheels in 12-23 configuration. The superstructure of the vehicle is much taller and wider, with a generator on the very top. You can see the two square air vents on the left-hand side.": "r149rf1",
+          "Front. The modified BTR-80 has a wider and taller superstructure. The drivers and commanders hatch sit higher than on the standard BTR-80. There is an IR searchlight beneath the right hand hatche.": "r149rf2",
+          "Left side. There are two storage bins on the left hand side of the vehicle and with one rectangular one immediatedly above the exhausts. There is a cable reel attached to the front of this bin. There is a single antenna port in front superstructure and one on the back left.": "r149rf3",
+          "Right side. The right hand side of the vehicle has various cable reel mounts above the exhaust and a long thin bin attached to the superstructure (this has two antenna ports attached)": "r149rf4",
+          "The rear of the R-149MA1 has a large cable reel on the back right and a collapsable mast on the rear centre (stowed in this picture). ": "r149rf5",
+          "Russian R-149MA1 captured in Ukraine (2022).": "r149rf6"
         }
       }
     },
