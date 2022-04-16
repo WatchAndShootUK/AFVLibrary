@@ -1,5 +1,5 @@
 {
-  "1.1.100": {
+  "1.1.101": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -363,7 +363,9 @@
             "t64bv1",
             "t64bv2",
             "t64bv3",
-            "t64bv4"
+            "t64bv4",
+            "npt64bv1",
+            "npt64bv2"
           ],
           "DESCRIPTION": "The T-64B is an extensive modification of the T-64A, including redesigned armour, a new 1A33 FCS, the ability to fire the 9K112 Kobra(AT-8 Songster) GLATGM and Stabilisation upgrades to name a few, this upgrade brought it in line with the newer tanks in service like the T-72 and T-80, the T-64BV was fitted with Kontakt-1 ERA on the hull and turret, it is still in service today, mainly with the Ukrainian Land Forces. The T-64BV is still produced to this day in Ukraine.",
           "CREW": 3,
@@ -775,7 +777,8 @@
           "IMAGES": [
             "t72b3obr20161",
             "t72b3obr20162",
-            "t72b3obr20163"
+            "t72b3obr20163",
+            "npt72b320161"
           ],
           "DESCRIPTION": "The T-72B3 Obr.2016 is the latest iteration of the T-72 family, it includes upgrades to the ERA (Relikt package), a new powerpack, new FCS to name a few. You may see photos of some T-72B3’s with a commanders independent sight fitted, this is incorrectly stated to be a T-72B3 Obr.2016, it is a T-72B3 Obr.2014 made for the Tank Biathlon.",
           "CREW": 3,
@@ -1039,7 +1042,10 @@
             "t80bvm1",
             "t80bvm2",
             "t80bvm3",
-            "t80bvm4"
+            "t80bvm4",
+            "npt80bvm1",
+            "npt80bvm2",
+            "npt80bvm3"
           ],
           "DESCRIPTION": "The T-80BVM is a modernised T-80BV, fitted with a new Relikt ERA armour package, which reportedly reduces APFSDS effectiveness by 50%, it has a new 2A46M-4 Gun, Sosna-U sight, a newer GT engine and is reportedly fitted with a passive CM system. It was first shown in 2017 and entered service in 2018. It is sometimes called the T-80BVM Arctic, it’s also incorrectly called a T-80BV Obr.2017.",
           "CREW": 3,
@@ -1129,7 +1135,9 @@
             "t90a1",
             "t90a2",
             "t90a3",
-            "t90a4"
+            "t90a4",
+            "npt90a",
+            "npt90a2"
           ],
           "DESCRIPTION": "The T-90A is an extensive modification and modernisation of the T-72B, including a brand new welded turret, new engine, new FCS, new armour layout and so on. It shares features with the T-80U, it also has the Shtora ECM to disrupt ATGM guidance. It was until the T-14, Russia’s most modern tank series.",
           "CREW": 3,
@@ -2007,7 +2015,8 @@
         "IMAGES": [
           "mtlb1",
           "mtlb2",
-          "mtlb3"
+          "mtlb3",
+          "npmtlb1"
         ],
         "DESCRIPTION": "The MTLB is an amphibious APC, it is still widely used by Russia, most commonly in units based in boggy areas, like 138 Bde in St.Petersburg and other units in the far east, this is due to its extremely low ground pressure. It is the base for many variants built upon it.",
         "CREW": "2+11",
@@ -3515,6 +3524,45 @@
         "R_FEAT": {
           "The IMR-2 is easily remembered by the pneumonic ‘I Move Rocks’. In the centre is a tall cupola for the commander with vision blocks giving 360 degrees FoV. Directly mounted on the rear of his cupola is a large crane arm, when stowed it runs parallel to the vehicle, the claw attachment hangs off the rear or can be folded. Down the side there are 3 stowage boxes for tools and equipment.": "imr2rf1",
           "The front blade is typically raised when not in use, as seen here. Note that the IMR-2 is rarely seen with side skirts, they are barely ever fitted.": "imr2rf2"
+        }
+      },
+      "MTU-72": {
+        "MANUFACTURE": [
+          "UVZ",
+          1974,
+          1991
+        ],
+        "COO": [
+          "Soviet Union",
+          "Russia,Ukraine"
+        ],
+        "WEAPONS": [
+          "PKT"
+        ],
+        "ARMOUR": [
+          "Composite"
+        ],
+        "DATA": {
+          "Weight": "40t",
+          "Length": "11.96m",
+          "Width": "3.46m",
+          "Height": "3.38m",
+          "Range": "500km",
+          "Speed": "60kph",
+          "HP": 780
+        },
+        "IMAGES": [
+          "mtu721",
+          "mtu722",
+          "mtu723",
+          "mtu724"
+        ],
+        "DESCRIPTION": "The MTU-72 is a Soviet/Russian armoured bridgelayer based on the T-72 hull, it is used by engineers to bridge wet crossings in order for other armoured vehicles to move over, bridge specs are as follows.\nSingle span:20m\nThe bridge has a gap crossing of 18m. An interesting feature of the MTU-72 is that it lays the bridge horizontally, rather than vertically like most western vehicles, this is so it is harder to spot when laying the bridge.",
+        "CREW": 2,
+        "R_FEAT": {
+          "The MTU-72, like any other bridgelayer, is instantly recognisable for what it is,the bridge has the edges folded inwards on top of the largest part of the bridge. The bridge has 6 holes, with 2 larger holes paired together in the centre. The hull is that of a T-72, the road wheels are equally spaced, with the exhaust at the rear left.": "mtu72rf1",
+          "An interesting feature is that the MTU-72 lays the bridge horizontally rather than vertically like most western bridgelayers, this makes it much harder to spot. So to conclude on this, western bridges go up, Russian bridges go down.": "mtu72rf2",
+          "Seen here is a British Titan AVLB, note the way it bridges vertically.": "mtu72rf3"
         }
       }
     },
