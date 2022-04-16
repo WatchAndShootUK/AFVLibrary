@@ -1,5 +1,5 @@
 {
-  "1.1.106": {
+  "1.1.108": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -30,7 +30,7 @@
         "IMAGES": [
           "brdm21",
           "brdm22"
-        ], 
+        ],
         "DESCRIPTION": "A Soviet developed Recce vehicle, designed to replace the BRDM-1, it would usually be found in the recce screen. The BRDM-2 was extensively exported like most Soviet vehicles and is still in service with more than 30 countries.",
         "CREW": 4
       },
@@ -3457,6 +3457,41 @@
           "This image shows the addition of a rectangular storage bin on the right hand side of the chassis and the mast in the elevated position.": "barnaulrf3",
           "The left hand side of the MTLBu has two triangular mounting brackets with a pair of cable reels in between.": "barnaulrf4",
           "9S932-1 Barnaul-T captured in Ukraine, April 2022. Note the large bin on the rear right of the vehicle.": "barnaulrf5"
+        }
+      },
+      "BMP-1Ksh": {
+        "MANUFACTURE": [
+          "Rubtovsk",
+          1972,
+          1990
+        ],
+        "COO": [
+          "Soviet Union",
+          "Russia,Ukraine"
+        ],
+        "WEAPONS": [
+          "PKT"
+        ],
+        "DATA": {
+          "Weight": "13t",
+          "Length": "6.7m",
+          "Width": "2.9m",
+          "Height": "2m",
+          "Range": "600km",
+          "Speed": "60kph",
+          "HP": 300
+        },
+        "IMAGES": [
+          "ksh1",
+          "ksh2",
+          "ksh3"
+        ],
+        "DESCRIPTION": "The BMP-1Ksh is a Soviet/Russian command vehicle of the battalion level, commonly used by motor rifle regiments based on the BMP series of vehicles, the gun is removed and replaced with a ‘HAWK EYE’ mast, as well as other additions for comms equipment.",
+        "CREW": 7,
+        "R_FEAT": {
+          "The BMP-1Ksh is easily remembered with an easy to remember pneumonic ‘Keep Sending Home’ due to it being a command vehicle, if taken out it can no longer send home. The turret  is the same as the BMP-1 except it has a large mast in place of the 73mm gun. There are boxes at the rear of the hull, as well as more mounts for antennae on the rear, you can see the antennae base sticking out at the rear right.": "kshrf1",
+          "On the right side, there is a box in the centre of the hull, above that is a stowage box for a mast. The turret has an IR searchlight above the hatch.": "kshrf2",
+          "You can see on this image that the turret is fixed in place, there is also a searchlight above the vehicle commanders hatch.\n": "kshrf3"
         }
       }
     },
