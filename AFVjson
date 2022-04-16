@@ -1,5 +1,5 @@
 {
-  "1.1.103": {
+  "1.1.104": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3367,11 +3367,10 @@
           "Present"
         ],
         "COO": [
-          "Soviet Union",
           "Russia"
         ],
         "WEAPONS": [
-          "PKT"
+          "RPK"
         ],
         "IMAGES": [
           "r1491",
@@ -3382,12 +3381,45 @@
         "DESCRIPTION": "Unified command vehicle (UCV) R-149MA1 was designed to command bridgade/regiment sized units both on the move and in static locations. This vehicle can also be used at the operational (battalion) level to coordinate the close fight. The vehicle is a modified BTR-80, with additional communications equipment and GLONASS navigation system.",
         "CREW": "2+6",
         "R_FEAT": {
-          "The R-149MA1 is a modified BTR-80, it has 8 wheels in 12-23 configuration. The superstructure of the vehicle is much taller and wider, with a generator on the very top. You can see the two square air vents on the left-hand side.": "r149rf1",
-          "Front. The modified BTR-80 has a wider and taller superstructure. The drivers and commanders hatch sit higher than on the standard BTR-80. There is an IR searchlight beneath the right hand hatche.": "r149rf2",
-          "Left side. There are two storage bins on the left hand side of the vehicle and with one rectangular one immediatedly above the exhausts. There is a cable reel attached to the front of this bin. There is a single antenna port in front superstructure and one on the back left.": "r149rf3",
+          "The R-149MA1 is a modified BTR-80, it has 8 wheels in 12-34 configuration. The superstructure of the vehicle is much taller and wider, with a generator on the very top. You can see the two square air vents on the left-hand side.": "r149rf1",
+          "Front. The modified BTR-80 has a wider and taller superstructure. The drivers and commanders hatch sit higher than on the standard BTR-80. There is an IR searchlight beneath the right hand hatch.": "r149rf2",
+          "Left side. There are two storage bins on the left hand side of the vehicle and with one rectangular bin immediatedly above the exhausts. There is a cable reel attached to the front of this bin. There is a single antenna port in front superstructure and one on the back left.": "r149rf3",
           "Right side. The right hand side of the vehicle has various cable reel mounts above the exhaust and a long thin bin attached to the superstructure (this has two antenna ports attached)": "r149rf4",
           "The rear of the R-149MA1 has a large cable reel on the back right and a collapsable mast on the rear centre (stowed in this picture). ": "r149rf5",
           "Russian R-149MA1 captured in Ukraine (2022).": "r149rf6"
+        }
+      },
+      "R-166-05": {
+        "DATA": {
+          "Weight": "15.2t",
+          "Length": "7.7m",
+          "Width": "3.7m",
+          "Height": "3.9m",
+          "Range": "600km",
+          "Speed": "90kph",
+          "HP": 260
+        },
+        "MANUFACTURE": [
+          "GAZ",
+          "Unknown",
+          "Present"
+        ],
+        "COO": [
+          "Russia"
+        ],
+        "WEAPONS": [
+          "RPK"
+        ],
+        "IMAGES": [
+          "r1661",
+          "r1662",
+          "r1663"
+        ],
+        "DESCRIPTION": "The R-166 0.5 is a Russian radio communication vehicle based on the BTR-80, eight of these vehicles are in a brigade comms battalion, therefore the sighting of an R-166 0.5 likely means the sighting of a brigade HQ. The R-166 has an unjammable range of comms between 500-1000km. \nMax range:\nHF, stationary (with deployed antenna) – up to 1000 km\nHF, on the move – up to 250 km\nUHF, stationary – up to 70 km\nUHF, on the move – up to 25 km\nFrequency range:\nHF – 1.5-29.99999 MHz\nUHF – 30-107.975 MHz\n7 vehicles were lost during the 2022 Russian invasion of Ukraine.\n",
+        "CREW": 4,
+        "R_FEAT": {
+          "The R-166 0.5 is evidently based on the BTR-80, it is immediately noticeable as a command vehicle with the sheer amount of antennae fitted to the vehicle, also the superstructure is much different, it is widened and heightened to accommodate the communications equipment. The top of the hull has a prominent frame antennae above the unarmed turret, behind this is the generator to keep the vehicle running without the need for the main engine to run. Moving down to the front there are 2 large hatches on the slope that open forwards, these are above the normal BTR BP glass windows. Above these is another frame antenna. Along the sides of the vehicle are antennas and masts to set up the brigade HQ.": "r166rf1",
+          "From the rear the R-166 0.5 has a lot of visible modifications from a standard BTR-80, you can see the antennae, the spool next to the generator and the masts, as well as the widened superstructure. Whilst the rear part of the vehicle is the same as the standard BTR-80, the front is widened. When comparing this to the R-149MA1, you will notice that the R-149MA1 does not have the antennae, or the masts on the sides.": "r166rf2"
         }
       }
     },
