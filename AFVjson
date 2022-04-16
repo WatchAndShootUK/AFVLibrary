@@ -1,5 +1,5 @@
 {
-  "1.1.113": {
+  "1.1.114": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3532,6 +3532,39 @@
           "Upon a closer look at the side, this time with the mast folded you can see what the vehicle looks like when not in use. There is a stowage box on the left side towards the front. There is a part of the hull at the front which is angled downwards, with what looks like an air grille above the final drive, although this is just a cover. There is a large gap between the tracks and hull, with no side skirts. The vehicle has 7 road wheels, all of which are equally spaced throughout.": "r3302",
           "On the right side, there are 2 long stowage boxes, there are some hatches towards the rear, the rest of this side remains the same. This one was captured by the Ukrainian 10th Mountain Assault Brigade; the current fate of the vehicle is unknown. \n\n\n\n\n\n\n(Almost definitely the CIA does not have this).": "r330rf3",
           "Interior of the R-330BMV Borisoglebsk-2.": "r330rf4"
+        }
+      },
+      "Murmansk-BN": {
+        "MANUFACTURE": [
+          "KRET",
+          2016,
+          "Present"
+        ],
+        "COO": [
+          "Russia"
+        ],
+        "WEAPONS": [
+          "RPK"
+        ],
+        "DATA": {
+          "Height": "32m",
+          "EW Range": "5000km"
+        },
+        "IMAGES": [
+          "murmanskbn1",
+          "murmanskbn2",
+          "murmanskbn3",
+          "murmanskbn4"
+        ],
+        "DESCRIPTION": "The Murmansk-BN is a Russian strategic level EW complex, designed to disrupt communications in the high frequency (HF) radio band (3 MHz to 30 MHz). It is optimised to target the U.S. HF Global Communications System (HFGCS). It is designed to interfere with tactical, operational and strategic communications. Each Murmansk-BN antenna group consists of four 105 ft (32 m) telescopic masts that are interlinked to create a single, large array. The arrays are controlled by Kamaz trucks, it takes several days to set up, once set up the Murmansk-BN has a range of upto 5000km, in theory it could essentially ‘cover’ the whole of europe. It has been deployed in Kaliningrad, near the Finnish border and also the Crimea.\n",
+        "CREW": "N/A",
+        "R_FEAT": {
+          "The Murmansk-BN is mounted on Kamaz-6350 8x8 Trucks, the trucks are adapted for use with the system, they have stabilising arms on each side to hold the vehicle in place. The mast has a spool towards the bottom.": "murmanskbn3",
+          "Once fully set up, the masts are tall but recognisable due to the telescopic design, getting skinnier as it gets to the top. Between each of the 4 masts is a cable antennae, giving a large web-like appearance.": "murmanskbn4",
+          "Ground level photograph of a Murmansk-BN battery, this can give the appearance of 4 cranes from a distance, remembering the telescopic masts is a key feature.": "murmanskbn2",
+          "The Murmansk-BN’s working configuration is a semi circle, it is easy to spot on satellite photos when running with it being such a large array.": "mbnrf4",
+          "Here you can see a battery of Murmansk-BN’s set up on a satellite image, this particular one was photographed in Sevastopol, the Crimea.": "mbnrf5",
+          "Inside the command post of the Murmansk-BN.": "mbnrf6"
         }
       }
     },
