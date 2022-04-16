@@ -1,5 +1,5 @@
 {
-  "1.1.114": {
+  "1.1.115": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3565,6 +3565,35 @@
           "The Murmansk-BN’s working configuration is a semi circle, it is easy to spot on satellite photos when running with it being such a large array.": "mbnrf4",
           "Here you can see a battery of Murmansk-BN’s set up on a satellite image, this particular one was photographed in Sevastopol, the Crimea.": "mbnrf5",
           "Inside the command post of the Murmansk-BN.": "mbnrf6"
+        }
+      },
+      "1RL257 Krasukha-4": {
+        "MANUFACTURE": [
+          "KRET",
+          2014,
+          "Present"
+        ],
+        "COO": [
+          "Russia"
+        ],
+        "WEAPONS": [
+          "PKT"
+        ],
+        "DATA": {
+          "Base": "Kamaz-6350"
+        },
+        "IMAGES": [
+          "1rl257krasukha4",
+          2572
+        ],
+        "DESCRIPTION": "The Krasukha-4 is a Russian wheeled, EW vehicle. It is a broadband multifunctional jamming station, with a range of upto 300km, it is mounted on a Kamaz-6350 Truck. The Krasukha-4 is primarily designed to counter AWACS as well as UAV’s The Krasukha-4 has the range to, in theory, disrupt Low Earth Orbit (LEO) satellites and it can also cause permanent damage to targeted radio-electronic devices. Ground-based radars are also a viable target for the Krasukha-4. It is a 2 part system consisting of a command post and the EW system itself. Additionally, the mobile system can be deployed to jam ground-based large radars and shield Russian assets from surveillance systems. ",
+        "CREW": "N/A",
+        "R_FEAT": {
+          "The Krasukha-4 is mounted on the Kamaz-6350, it has a KUNG style mobile command room on the back of the truck, above this is the EW system itself, noticeable with its 3 circular dishes, almost like mickey mouse ears, with a smaller dish at the top, behind these is a mast.": "257rf1",
+          "From a rear view you can see the large mast, at the top it has many antennae that point out horizontally, at the rear of the vehicle is a large box and also ladders, there are also stabilising points at the rear and the front behind the truck cab.": "257rf2",
+          "Seen here is a complete Krasukha-4 unit, the vehicle on the left carries the command post which is essentially an iso container, it can be removed from the vehicle and placed on the ground, one of these was captured by Ukrainian forces during the 2022 Russian invasion of Ukraine.": "257rf3",
+          "Krasukha-4 shown on Russian TV, reportedly in Ukraine.": "257rf4",
+          "Pictured here is the captured Krasukha-4 command post during the 2022 Russian invasion of Ukraine.": "257rf5"
         }
       }
     },
