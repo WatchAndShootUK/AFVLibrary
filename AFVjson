@@ -3484,7 +3484,9 @@
         "IMAGES": [
           "ksh1",
           "ksh2",
-          "ksh3"
+          "ksh3",
+          "ksh4",
+          "ksh5"
         ],
         "DESCRIPTION": "The BMP-1Ksh is a Soviet/Russian command vehicle of the battalion level, commonly used by motor rifle regiments based on the BMP series of vehicles, the gun is removed and replaced with a ‘HAWK EYE’ mast, as well as other additions for comms equipment.",
         "CREW": 7,
