@@ -1,5 +1,5 @@
 {
-  "1.1.108": {
+  "1.1.109": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3445,8 +3445,8 @@
           "HP": 300
         },
         "IMAGES": [
-          "barnaul1",
           "barnaul2",
+          "barnaul1",
           "barnaul3"
         ],
         "DESCRIPTION": "The 9S932-1 Barnaul-T is an air defence command vehicle. It is contained within the MTLBu chassis. The system provides C2 for mobile surface to air systems such as the Buk, Tor and Pantsir as well as Manpad units. The system works by receiving data from surveillance radars and transmitting it to the SAM batteries, enabling them to layer air defences. It also has its own surveillance radar, the 1L122-1E 'Garmon', which can find air targets up from 1-40km.",
