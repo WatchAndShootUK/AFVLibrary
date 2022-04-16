@@ -1,5 +1,5 @@
 {
-  "1.1.109": {
+  "1.1.111": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3445,9 +3445,9 @@
           "HP": 300
         },
         "IMAGES": [
-          "barnaul2",
+          "barnaul3",
           "barnaul1",
-          "barnaul3"
+          "barnaul2"
         ],
         "DESCRIPTION": "The 9S932-1 Barnaul-T is an air defence command vehicle. It is contained within the MTLBu chassis. The system provides C2 for mobile surface to air systems such as the Buk, Tor and Pantsir as well as Manpad units. The system works by receiving data from surveillance radars and transmitting it to the SAM batteries, enabling them to layer air defences. It also has its own surveillance radar, the 1L122-1E 'Garmon', which can find air targets up from 1-40km.",
         "CREW": "2+4",
@@ -3482,11 +3482,11 @@
           "HP": 300
         },
         "IMAGES": [
+          "ksh5",
           "ksh1",
           "ksh2",
           "ksh3",
-          "ksh4",
-          "ksh5"
+          "ksh4"
         ],
         "DESCRIPTION": "The BMP-1Ksh is a Soviet/Russian command vehicle of the battalion level, commonly used by motor rifle regiments based on the BMP series of vehicles, the gun is removed and replaced with a ‘HAWK EYE’ mast, as well as other additions for comms equipment.",
         "CREW": 7,
