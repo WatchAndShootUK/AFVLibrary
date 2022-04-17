@@ -1,5 +1,5 @@
 {
-  "1.1.118": {
+  "1.1.119": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3810,6 +3810,133 @@
       }
     },
     "RW": {
+      "Hip*": {
+        "Mi-8": {
+          "MANUFACTURE": [
+            "Mil",
+            1967,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "7.2t",
+            "Length": "18.7m",
+            "Rotor dia.": "21.29m",
+            "Height": "5.56m",
+            "Load cap.": "4.7t",
+            "Speed": "260kph"
+          },
+          "IMAGES": [
+            "mi81",
+            "mi82",
+            "mi83"
+          ],
+          "DESCRIPTION": "The Mil Mi-8, NATO reporting name 'Hip', is Soviet era multi-role helicopter. It is the most widely exported and used military helicopter worldwide. It has multiple variants but the base Mi-8 'Hip-B' is used primarily for troop transport and aerial C2.",
+          "CREW": "3+24",
+          "R_FEAT": {
+            "The Hip has a rounded fuselage with twin air intakes above the cockpit. There is a third intake directly beneath the rotor mast. Large, circular exhaust ports sit beneath the rotor mast, on the upper portion of the fuselage. There are 5 circular port windows in the passenger compartment.": "mi8rf1",
+            "The tail boom is straight, and extends from the top of the fuselage. There is a single stabiliser on the connection from boom to rudder, with the tail rotor being on the starboard (right) side.": "mi8rf2",
+            "The Mi-8 cannot retrack its landing gear. There are two single wheels at the rear of the fuselage and a single double wheel beneath the cockpit. There is a cylindrical muffler running along the base of the fuselage on each side.": "mi8rf3"
+          }
+        },
+        "Mi-8TV": {
+          "MANUFACTURE": [
+            "Mil",
+            1967,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "7.2t",
+            "Length": "18.7m",
+            "Rotor dia.": "21.29m",
+            "Height": "5.56m",
+            "Load cap.": "4.7t",
+            "Speed": "260kph"
+          },
+          "IMAGES": [
+            "mi8tv1",
+            "mi8tv2"
+          ],
+          "DESCRIPTION": "The Mil Mi-8TV, NATO reportingn name 'Hip-C', is an armed version of the base Mi-8. It is used for close air support as well as recconassiance roles in addition to being able to carry 24 passengers.",
+          "CREW": "3+24",
+          "R_FEAT": {
+            "The only difference visually between the Mi-8 and Mi-8TV is the addition of weapon pylons on either side above the mufflers. Each pylon has 2 hardpoints, allowing a total of 4 weapons to be added.": "mi8tvrf1"
+          }
+        },
+        "Mi-17": {
+          "MANUFACTURE": [
+            "Mil",
+            1975,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "7.2t",
+            "Length": "18.7m",
+            "Rotor dia.": "21.29m",
+            "Height": "5.56m",
+            "Load cap.": "4.7t",
+            "Speed": "280kph"
+          },
+          "IMAGES": [
+            "mi171",
+            "mi172"
+          ],
+          "DESCRIPTION": "The Mil Mi-17, known in Russia as the Mi-8M, is an improved Mi-8 'Hip' family. It has larger engines and improved rotors. It was designed for operating in higher altitude and hotter environments. In 2008, China began produce Mi-17 helicopters on licence.",
+          "CREW": "3+24",
+          "R_FEAT": {
+            "The key recognising feature to differentiate the Mi-17 from the Mi-8 is the fact that the tail rotor now sits on the port (right) side of the rudder. Some Mi-17s also have the lower section of the cockpit in metal, as opposed to glass on the Mi-8.": "mi17rf1",
+            "Another recognising feature is the addition of covers over the dual air intakes above the cockpit.": "mi17rf2"
+          }
+        },
+        "Mi-8MT": {
+          "MANUFACTURE": [
+            "Mil",
+            1975,
+            "Present"
+          ],
+          "COO": [
+            "Soviet Union"
+          ],
+          "WEAPONS": [
+            "PKT"
+          ],
+          "DATA": {
+            "Weight": "7.2t",
+            "Length": "18.7m",
+            "Rotor dia.": "21.29m",
+            "Height": "5.56m",
+            "Load cap.": "4.7t",
+            "Speed": "280kph"
+          },
+          "IMAGES": [
+            "mi8mt1",
+            "mi8mt2"
+          ],
+          "DESCRIPTION": "The Mil Mi-8MT, or M-17T is the attack variant of the M-17. Like the Mi-8TV, it has the addition of weapon pylons but can carry more and upgraded weaponry.",
+          "CREW": "3+24",
+          "R_FEAT": {
+            "Like the Mi-17, the tail rotor is on the starboard (port) side of the rudder.": "mi8mtrf1",
+            "The weapon pylons have three hardpoints, enabling a total of six weapons or rocket pods to be employed.": "mi8mtrf2"
+          }
+        }
+      },
       "Hind*": {
         "Mi-24V": {
           "MANUFACTURE": [
