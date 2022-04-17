@@ -1,5 +1,5 @@
 {
-  "1.1.119": {
+  "1.1.120": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3832,7 +3832,7 @@
             "Speed": "260kph"
           },
           "IMAGES": [
-            "mi81",
+            "mi81new",
             "mi82",
             "mi83"
           ],
@@ -3840,8 +3840,8 @@
           "CREW": "3+24",
           "R_FEAT": {
             "The Hip has a rounded fuselage with twin air intakes above the cockpit. There is a third intake directly beneath the rotor mast. Large, circular exhaust ports sit beneath the rotor mast, on the upper portion of the fuselage. There are 5 circular port windows in the passenger compartment.": "mi8rf1",
-            "The tail boom is straight, and extends from the top of the fuselage. There is a single stabiliser on the connection from boom to rudder, with the tail rotor being on the starboard (right) side.": "mi8rf2",
-            "The Mi-8 cannot retrack its landing gear. There are two single wheels at the rear of the fuselage and a single double wheel beneath the cockpit. There is a cylindrical muffler running along the base of the fuselage on each side.": "mi8rf3"
+            "The tail boom is straight, and extends from the top of the fuselage. There is a single stabiliser on the connection from boom to rudder, with the tail rotor being on the starboard (right) side.": "mi8rf3",
+            "The Mi-8 cannot retrack its landing gear. There are two single wheels at the rear of the fuselage and a single double wheel beneath the cockpit. There is a cylindrical muffler running along the base of the fuselage on each side.": "mi8rf2"
           }
         },
         "Mi-8TV": {
