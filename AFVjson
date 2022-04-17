@@ -1,5 +1,5 @@
 {
-  "1.1.120": {
+  "1.1.121": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -1365,7 +1365,7 @@
           "WEAPONS": [
             "2A42",
             "PKMT",
-            "9M113M",
+            "9M113",
             "AGS-30"
           ],
           "DATA": {
@@ -3901,8 +3901,8 @@
           "DESCRIPTION": "The Mil Mi-17, known in Russia as the Mi-8M, is an improved Mi-8 'Hip' family. It has larger engines and improved rotors. It was designed for operating in higher altitude and hotter environments. In 2008, China began produce Mi-17 helicopters on licence.",
           "CREW": "3+24",
           "R_FEAT": {
-            "The key recognising feature to differentiate the Mi-17 from the Mi-8 is the fact that the tail rotor now sits on the port (right) side of the rudder. Some Mi-17s also have the lower section of the cockpit in metal, as opposed to glass on the Mi-8.": "mi17rf1",
-            "Another recognising feature is the addition of covers over the dual air intakes above the cockpit.": "mi17rf2"
+            "The key recognising feature to differentiate the Mi-17 from the Mi-8 is the fact that the tail rotor now sits on the port (right) side of the rudder.": "mi17rf1",
+            "Another recognising feature is the addition of covers over the dual air intakes above the cockpit. Some Mi-17s also have the lower section of the cockpit in a metal cone, as opposed to glass on the Mi-8.": "mi17rf2"
           }
         },
         "Mi-8MT": {
