@@ -1,5 +1,5 @@
 {
-  "1.1.117": {
+  "1.1.118": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -4106,6 +4106,29 @@
             ]
           }
         },
+        "KORD": {
+          "NAME": "RUS Heavy Machine Gun",
+          "Designation": "KORD",
+          "Calibre": "12.7mm",
+          "DESCRIPTION": "The KORD is a Russian 12.7mm HMG, designed to replace the older NSVT, externally it is quite similar to the NSVT. However the internal mechanisms are all new, as well as a new gas system. This allows greater accuracy during sustained fire. It is fitted to later Russian tanks.",
+          "Ammunition": {
+            "1": [
+              "Ball",
+              "",
+              1500
+            ],
+            "2": [
+              "Tracer",
+              "",
+              1500
+            ],
+            "3": [
+              "AP",
+              "",
+              1500
+            ]
+          }
+        },
         "RPK": {
           "NAME": "Kalashnikov LMG",
           "Designation": "RPK",
@@ -5008,7 +5031,7 @@
               4000
             ],
             "2": [
-              "HE-FRAG",
+              "HE",
               "",
               1300
             ]
@@ -5026,7 +5049,7 @@
               2000
             ],
             "2": [
-              "HE-FRAG",
+              "HE",
               "",
               4000
             ],
