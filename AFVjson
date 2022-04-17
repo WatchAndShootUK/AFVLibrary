@@ -1,5 +1,5 @@
 {
-  "1.1.124": {
+  "1.1.125": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2924,7 +2924,8 @@
             1991
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Algeria,Angola,Armenia,Azerbaijan,Bosnia and Herzegovina,Belarus,Bulgaria,Chad,Cuba,Croatia,Eritrea,Ethiopia,Finland,Georgia,South Ossetia,India,Iran,Kazakhstan,Libya,Moldova,Transnistria,Poland,Russia,Serbia,Slovakia,Syria,Turkmenistan,Ukraine,Uruguay,Uzbekistan,Vietnam,Yemen"
           ],
           "WEAPONS": [
             "2A18"
@@ -2957,7 +2958,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Azerbaijan,Belarus,China,Kazakhstan,Kyrgyzstan,Moldova,Russia,Syria,Turkmenistan,Ukraine,Uzbekistan,Venezuela "
           ],
           "WEAPONS": [
             "2A60"
@@ -2990,7 +2992,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Russia,Venezuela"
           ],
           "WEAPONS": [
             "2A60"
@@ -3023,7 +3026,8 @@
             1993
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Algeria,Angola,Armenia,Azerbaijan,Belarus,Cuba,Democratic Republic of the Congo,Ethiopia,Georgia,Kazakhstan,Libya,Russia,Syria,Turkmenistan,Ukraine,Uzbekistan,Vietnam"
           ],
           "WEAPONS": [
             "2A33",
@@ -3056,7 +3060,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Azerbaijan,Belarus,Ethiopia,Georgia,Morocco,Russia,Ukraine,Venezuela"
           ],
           "WEAPONS": [
             "2A64",
@@ -3126,7 +3131,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Russia,Syria,Ukraine"
           ],
           "WEAPONS": [
             "M240",
@@ -3158,7 +3164,8 @@
             1990
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Angola,Azerbaijan,Belarus,Georgia,North Korea,Russia,Slovakia,Ukraine,Uzbekistan"
           ],
           "WEAPONS": [
             "2A44"
@@ -3950,7 +3957,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Belarus,Brazil,Bulgaria,Burkina Faso,Burundi,Chad,Democratic Republic of the Congo,Cuba,Cyprus,Czech Republic,Djibouti,Egypt,Equatorial Guinea,Eritrea,Ethiopia,Georgia,Guinea,Hungary,India,Indonesia,Iraq,Kazakhstan,Kyrgyzstan,Libya,Mali,Mozambique,Myanmar,Namibia,Nicaragua,Niger,Nigeria,North Korea,North Macedonia,Pakistan,Peru,Poland,Russia,Rwanda,Serbia,Senegal,Sierra Leone,Sri Lanka,Sudan,Syria,Tajikistan,Turkmenistan,Uganda,Ukraine,United States,Uzbekistan,Venezuela,Vietnam,Yemen,Zimbabwe"
           ],
           "WEAPONS": [
             "Yak-B",
@@ -3982,7 +3990,8 @@
             "Present"
           ],
           "COO": [
-            "Russia"
+            "Russia",
+            "Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Belarus,Brazil,Bulgaria,Burkina Faso,Burundi,Chad,Democratic Republic of the Congo,Cuba,Cyprus,Czech Republic,Djibouti,Egypt,Equatorial Guinea,Eritrea,Ethiopia,Georgia,Guinea,Hungary,India,Indonesia,Iraq,Kazakhstan,Kyrgyzstan,Libya,Mali,Mozambique,Myanmar,Namibia,Nicaragua,Niger,Nigeria,North Korea,North Macedonia,Pakistan,Peru,Poland,Russia,Rwanda,Serbia,Senegal,Sierra Leone,Sri Lanka,Sudan,Syria,Tajikistan,Turkmenistan,Uganda,Ukraine,United States,Uzbekistan,Venezuela,Vietnam,Yemen,Zimbabwe"
           ],
           "WEAPONS": [
             "GSh-23V"
