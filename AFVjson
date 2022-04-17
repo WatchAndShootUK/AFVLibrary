@@ -1,5 +1,5 @@
 {
-  "1.1.122": {
+  "1.1.123": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -5459,11 +5459,11 @@
             "drozd2": "Drozd also requires a control box, fitted at the rear of the turret."
           }
         },
-        "Bar armour": {
+        "Bar": {
           "NAME": "Bar armour",
           "DESCRIPTION": "Bar, or slat, armour is used to protect vehicles from attacks by HEAT rounds used predominantlt by RPG and ATGMs. It works by trapping the projectile in the gaps of the armour, thus removing the energy required for the fuze to detonate against the side of the vehicle. Modern ATGMs can inbuilt capabilities to counter this, such as double stage fuses.  ",
           "IMAGES": {
-            "barrmour": "Bar armour is lightwieght and easy to manufacture, so can cover large parts of vehicles.",
+            "bararmour": "Bar armour is lightwieght and easy to manufacture, so can cover large parts of vehicles.",
             "bararmour2": "It can be fitted to vunerable areas not protected by vehicles integral armour, such as the rear of this T90M turret.",
             "bararmour3": "Bar armour used to defend Russian MBTs from top attack missiles during the invasion of Ukraine (2022).",
             "bararmour4": "RPG caught in bar armour during Operation Enduring Freedom, Iraq (2003)."
