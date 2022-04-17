@@ -1,5 +1,5 @@
 {
-  "1.1.128": {
+  "1.1.130": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3227,7 +3227,7 @@
             "A BM-21 captured in Ukraine in 2022. Note the make-shift armour on the windows made out of logs to protect against small arms and RPG attack.": "gradrf2"
           }
         },
-        "BM-27 Uralgan": {
+        "BM-27 Uragan": {
           "MANUFACTURE": [
             "NPO Splav",
             1975,
@@ -3248,7 +3248,7 @@
             "bm272",
             "bm273"
           ],
-          "DESCRIPTION": "The BM-27 Uralgan is a 220mm multiple launch rocket system (MLRS). The base vehicle is a Zil-135, with 16 launch tubes. The system has a maximum range, depending on the rocket type, of up to 35km.",
+          "DESCRIPTION": "The BM-27 Uragan is a 220mm multiple launch rocket system (MLRS). The base vehicle is a Zil-135, with 16 launch tubes. The system has a maximum range, depending on the rocket type, of up to 35km.",
           "CREW": 6,
           "R_FEAT": {
             "The Zil-135 chassis is an 8 wheeled vehicle in a 1-2-1 configuration. The rocket launcher is arrayed in two rows of 6 tubes and one row of 4, giving it the ability to fire 16 rockets in a 20 seconds.": "bm27rf1",
