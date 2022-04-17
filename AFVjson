@@ -1,5 +1,5 @@
 {
-  "1.1.125": {
+  "1.1.126": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -153,13 +153,13 @@
           "PKT"
         ],
         "DATA": {
-          "Weight": "",
-          "Length": "",
-          "Width": "",
-          "Height": "",
-          "Range": "",
-          "Speed": "",
-          "HP": ""
+          "Weight": "11.9t",
+          "Length": "6.4m",
+          "Width": "2.8m",
+          "Height": "1.8m",
+          "Range": "500km",
+          "Speed": "61kmh",
+          "HP": "240hp"
         },
         "IMAGES": [
           "snar101",
