@@ -1,5 +1,5 @@
 {
-  "1.1.121": {
+  "1.1.122": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -285,7 +285,7 @@
           "CREW": 4,
           "R_FEAT": {
             "Turret, new gunners sight, prominent box on LHS, KTD-2 LRF fitted above the gun, BDD Appliqué armour fitted to the turret cheeks. Hull, Appliqué armour on the front glacis plate along with more armour on the lower glacis plate": "rfeatt62mv1",
-            "The Turret fitting has the typical ‘clamshell’ layout, along the front of the vehicle it covers the front glacis apart from the headlight fitting, it also has bricks down the sides": "rfeatt62mv21",
+            "The Turret fitting has the typical ‘clamshell’ layout, along the front of the vehicle it covers the front glacis apart from the headlight fitting, it also has bricks down the sides": "rfeatt62mv2",
             "The fittings for the ERA, that give them that distinctive clamshell appearance": "rfeatt62mv3"
           }
         }
@@ -2013,10 +2013,10 @@
           "HP": "240hp"
         },
         "IMAGES": [
+          "npmtlb1",
           "mtlb1",
           "mtlb2",
-          "mtlb3",
-          "npmtlb1"
+          "mtlb3"
         ],
         "DESCRIPTION": "The MTLB is an amphibious APC, it is still widely used by Russia, most commonly in units based in boggy areas, like 138 Bde in St.Petersburg and other units in the far east, this is due to its extremely low ground pressure. It is the base for many variants built upon it.",
         "CREW": "2+11",
@@ -3818,7 +3818,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Albania,Algeria,Angola,Argentina,Armenia,Azerbaijan,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Burkina Faso,Cambodia,China,Colombia,Congo-Brazzaville,Congo-Kinshasa,Croatia,Cuba,Czech Republic,Djibouti,Egypt,Eritrea,Ethiopia,Georgia,Germany,Guinea,Guinea-Bissau,HungaryIndiaIran,Iraq,Kazakhstan,Kyrgyzstan,Latvia,Laos,Libya,Lithuania,Maldives,Mexico,Mali,Moldova,Mongolia,Mozambique,Nepal,North Korea,Pakistan,Peru,Poland,Romania,Russia,Serbia,Slovakia,SomaliaSudan,Syria,Turkey,Turkmenistan,Tajikistan,Ukraine,United States of America,Uzbekistan,Venezuela,Vietnam"
           ],
           "WEAPONS": [
             "PKT"
@@ -3851,7 +3852,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Albania,Algeria,Angola,Argentina,Armenia,Azerbaijan,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Burkina Faso,Cambodia,China,Colombia,Congo-Brazzaville,Congo-Kinshasa,Croatia,Cuba,Czech Republic,Djibouti,Egypt,Eritrea,Ethiopia,Georgia,Germany,Guinea,Guinea-Bissau,HungaryIndiaIran,Iraq,Kazakhstan,Kyrgyzstan,Latvia,Laos,Libya,Lithuania,Maldives,Mexico,Mali,Moldova,Mongolia,Mozambique,Nepal,North Korea,Pakistan,Peru,Poland,Romania,Russia,Serbia,Slovakia,SomaliaSudan,Syria,Turkey,Turkmenistan,Tajikistan,Ukraine,United States of America,Uzbekistan,Venezuela,Vietnam"
           ],
           "WEAPONS": [
             "PKT"
@@ -3881,7 +3883,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Albania,Algeria,Angola,Argentina,Armenia,Azerbaijan,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Burkina Faso,Cambodia,China,Colombia,Congo-Brazzaville,Congo-Kinshasa,Croatia,Cuba,Czech Republic,Djibouti,Egypt,Eritrea,Ethiopia,Georgia,Germany,Guinea,Guinea-Bissau,HungaryIndiaIran,Iraq,Kazakhstan,Kyrgyzstan,Latvia,Laos,Libya,Lithuania,Maldives,Mexico,Mali,Moldova,Mongolia,Mozambique,Nepal,North Korea,Pakistan,Peru,Poland,Romania,Russia,Serbia,Slovakia,SomaliaSudan,Syria,Turkey,Turkmenistan,Tajikistan,Ukraine,United States of America,Uzbekistan,Venezuela,Vietnam"
           ],
           "WEAPONS": [
             "PKT"
@@ -3912,7 +3915,8 @@
             "Present"
           ],
           "COO": [
-            "Soviet Union"
+            "Soviet Union",
+            "Afghanistan,Albania,Algeria,Angola,Argentina,Armenia,Azerbaijan,Belarus,Bhutan,Bosnia and Herzegovina,Bulgaria,Burkina Faso,Cambodia,China,Colombia,Congo-Brazzaville,Congo-Kinshasa,Croatia,Cuba,Czech Republic,Djibouti,Egypt,Eritrea,Ethiopia,Georgia,Germany,Guinea,Guinea-Bissau,HungaryIndiaIran,Iraq,Kazakhstan,Kyrgyzstan,Latvia,Laos,Libya,Lithuania,Maldives,Mexico,Mali,Moldova,Mongolia,Mozambique,Nepal,North Korea,Pakistan,Peru,Poland,Romania,Russia,Serbia,Slovakia,SomaliaSudan,Syria,Turkey,Turkmenistan,Tajikistan,Ukraine,United States of America,Uzbekistan,Venezuela,Vietnam"
           ],
           "WEAPONS": [
             "PKT"
@@ -5453,6 +5457,16 @@
           "IMAGES": {
             "drozd": "Drozd gives a prominent recognition feature when fitted, it gives distinctive ‘ears’ to the sides of the turret.",
             "drozd2": "Drozd also requires a control box, fitted at the rear of the turret."
+          }
+        },
+        "Bar armour": {
+          "NAME": "Bar armour",
+          "DESCRIPTION": "Bar, or slat, armour is used to protect vehicles from attacks by HEAT rounds used predominantlt by RPG and ATGMs. It works by trapping the projectile in the gaps of the armour, thus removing the energy required for the fuze to detonate against the side of the vehicle. Modern ATGMs can inbuilt capabilities to counter this, such as double stage fuses.  ",
+          "IMAGES": {
+            "barrmour": "Bar armour is lightwieght and easy to manufacture, so can cover large parts of vehicles.",
+            "bararmour2": "It can be fitted to vunerable areas not protected by vehicles integral armour, such as the rear of this T90M turret.",
+            "bararmour3": "Bar armour used to defend Russian MBTs from top attack missiles during the invasion of Ukraine (2022).",
+            "bararmour4": "RPG caught in bar armour during Operation Enduring Freedom, Iraq (2003)."
           }
         }
       },
