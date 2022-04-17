@@ -1,5 +1,5 @@
 {
-  "1.1.123": {
+  "1.1.124": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -772,7 +772,8 @@
           "ARMOUR": [
             "Composite",
             "Kontakt-5",
-            "Relikt"
+            "Relikt",
+            "Bar"
           ],
           "IMAGES": [
             "t72b3obr20161",
@@ -1036,7 +1037,8 @@
           "ARMOUR": [
             "Composite",
             "Kontakt-5",
-            "Relikt"
+            "Relikt",
+            "Bar"
           ],
           "IMAGES": [
             "t80bvm1",
@@ -1178,7 +1180,8 @@
           "ARMOUR": [
             "Composite",
             "Relikt",
-            "Shtora-1"
+            "Shtora-1",
+            "Bar"
           ],
           "IMAGES": [
             "t90m1",
@@ -1814,7 +1817,7 @@
           "9M113"
         ],
         "ARMOUR": [
-          "Bar armour"
+          "Bar"
         ],
         "DATA": {
           "Weight": "21t",
@@ -2061,8 +2064,8 @@
         "DESCRIPTION": "The BMO-T is a heavy APC used to transport the rocket flamethrower troops of the NBC Protection Troops, it is based on the T-72 and is therefore extremely heavily armoured for an APC, with composite armour and Kontakt-5 ERA Tiles it is well protected.",
         "CREW": "2+7",
         "R_FEAT": {
-          "The BMO-T has the same hull as the T-72, instead of a turret it has a raised superstructure. The superstructure is heavily sloped at the front with Kontakt-5 tiles covering the entirety; the commander’s hatch is at the central top of the vehicle with a KORD MG fitted on a pintle mount. There are 2 banks of SGD’s above each front mudguard, the sides are flat, also there are also 6 ERA panel tiles covering the lower side.": "rfbmot1",
-          "The rear of the BMO-T, it has 2 stowage boxes that extend all the way to the rear, with a large gap in between for access to the engine decks, the exhaust is at the rear left like on T-72.": "rfbmot2"
+          "The BMO-T has the same hull as the T-72, instead of a turret it has a raised superstructure. The superstructure is heavily sloped at the front with Kontakt-5 tiles covering the entirety; the commander’s hatch is at the central top of the vehicle with a KORD MG fitted on a pintle mount. There are 2 banks of SGD’s above each front mudguard, the sides are flat, also there are also 6 ERA panel tiles covering the lower side.": "rfbmot1cropped",
+          "The rear of the BMO-T, it has 2 stowage boxes that extend all the way to the rear, with a large gap in between for access to the engine decks, the exhaust is at the rear left like on T-72.": "rfbmot2cropped"
         }
       }
     },
@@ -2092,7 +2095,7 @@
           },
           "IMAGES": [
             "btrrdrobot1",
-            "btrrdrobot2"
+            "btrrdrobot2cropped"
           ],
           "DESCRIPTION": "The BTR-RD Robot is a BTR-D for use with anti-tank platoons within the VDV, the interior has been redesigned for stowage of ATGM.s. The ATGM’s can either be used in the dismounted role or mounted on the pintle on the vehicle; there are usually 6 vehicles per VDV regiment.",
           "CREW": 5,
@@ -2163,7 +2166,7 @@
           "CREW": 4,
           "R_FEAT": {
             "The 9P149 Shturm-S barely changes the MTLB hull, the biggest recognising feature being the optical guidance tracker that replaces the 1 man MG turret. The launch tube is at the rear right, it folds down to load and also when its not in use, which can be very deceiving, so it is key to remember the optical guidance tracker, for more info on recog features see MTLB in APC section.": "rf9p1491",
-            "Here the photo shows the missile stowed away, another point to note is the lack of a second viewport for the commander.": "rf9p1492"
+            "Here the photo shows the missile stowed away, another point to note is the lack of a second viewport for the commander.": "rf9p1492cropped"
           }
         }
       },
@@ -3186,7 +3189,7 @@
       "MLRS*": {
         "BM-21 Grad": {
           "MANUFACTURE": [
-            "NPO Slav",
+            "NPO Splav",
             1963,
             "Present"
           ],
@@ -3521,9 +3524,7 @@
         "IMAGES": [
           "r330bmv1",
           "r3302",
-          "r3303",
-          "ksh3",
-          "ksh4"
+          "r3303"
         ],
         "DESCRIPTION": "The R-330BMV Borisoglebsk-2 is a Russian electronic warfare system, it is used for deception and jamming, it can track and jam most radio systems (HF,VHF,UHF) both air and ground comms, with its wide frequency bandwidth, as well as a high probability of identifying radar emissions, it was used in Eastern Ukraine in 2015, in what could be assessed to be a field test. It was also used in the 2022 Russian invasion of Ukraine, 1 was destroyed and 2 captured.",
         "CREW": 5,
@@ -3590,7 +3591,7 @@
         "CREW": "N/A",
         "R_FEAT": {
           "The Krasukha-4 is mounted on the Kamaz-6350, it has a KUNG style mobile command room on the back of the truck, above this is the EW system itself, noticeable with its 3 circular dishes, almost like mickey mouse ears, with a smaller dish at the top, behind these is a mast.": "257rf1",
-          "From a rear view you can see the large mast, at the top it has many antennae that point out horizontally, at the rear of the vehicle is a large box and also ladders, there are also stabilising points at the rear and the front behind the truck cab.": "257rf2",
+          "From a rear view you can see the large mast, at the top it has many antennae that point out horizontally, at the rear of the vehicle is a large box and also ladders, there are also stabilising points at the rear and the front behind the truck cab.": "257rf2new",
           "Seen here is a complete Krasukha-4 unit, the vehicle on the left carries the command post which is essentially an iso container, it can be removed from the vehicle and placed on the ground, one of these was captured by Ukrainian forces during the 2022 Russian invasion of Ukraine.": "257rf3",
           "Krasukha-4 shown on Russian TV, reportedly in Ukraine.": "257rf4",
           "Pictured here is the captured Krasukha-4 command post during the 2022 Russian invasion of Ukraine.": "257rf5"
@@ -3622,13 +3623,13 @@
             "HP": 780
           },
           "IMAGES": [
-            "brem11",
+            "brem11cropped",
             "brem12"
           ],
           "DESCRIPTION": "The BREM-1 is a Soviet armoured recovery vehicle (ARV) based on the T-72, around 342 were produced, it was designed to supplement the T-64 and T-80 battalions as well, so an evident shortage of armoured recovery vehicles is a big problem in the Russian Ground Forces, solidified by the many tanks lost to being bogged in during the 2022 Russian invasion of Ukraine. There were also extremely low numbers seen in country.  is fitted with a 4.4m crane. It has a 19t capacity at 2m and 3t capacity at 4.4m. It is used to lift damaged or stuck vehicles. Also the crane can be used to lift vehicles for access and repair. It is worth noting that cranes of modern Western ARV’s can lift much more. The main winch has 25 t capacity, that can be increased to 100 t using snatch blocks. The cable is 200 m long. It can be also used for self-recovery. It can also tow armoured vehicles upto 50t.",
           "CREW": 3,
           "R_FEAT": {
-            "The BREM-1 has a large box in the centre of the hull, this is for stowage of tools and equipment. The crane runs parallel to the hull alongside the left side when folded down, raising towards the rear. The commander and crane operator have 2 raised cupolas next to each other in the centre hull. The running gear remains the same as that of the T-72 that it is based on. Note that the BREM-1 is usually never fitted with side skirts.": "brem1rf1",
+            "The BREM-1 has a large box in the centre of the hull, this is for stowage of tools and equipment. The crane runs parallel to the hull alongside the left side when folded down, raising towards the rear. The commander and crane operator have 2 raised cupolas next to each other in the centre hull. The running gear remains the same as that of the T-72 that it is based on. Note that the BREM-1 is usually never fitted with side skirts.": "brem1rf1cropped",
             "Upon closer inspection of the vehicle, you will notice the hull has much more of an upwards angle, you can see the 2 cupolas, the commanders being the one on the right, noted by the IR searchlight. You can also see the crane which almost looks like its cut into the side of the superstructure. ": "brem1rf2"
           }
         },
@@ -3688,7 +3689,7 @@
             "HP": 240
           },
           "IMAGES": [
-            "bremk1",
+            "bremk1new",
             "bremk2"
           ],
           "DESCRIPTION": "The BREM-K is a Russian light armoured recovery vehicle, based on the BTR-80. It has an unusual design, rather than a crane it has an A frame hoist boom, winch with 2 spools of cable attached to the turret. It is designed to work in BTR BTG’S its primary role being to recover bogged in vehicles. It has space for extra mechanics or the crew of the recovered vehicle. ",
@@ -3842,7 +3843,7 @@
           "R_FEAT": {
             "The Hip has a rounded fuselage with twin air intakes above the cockpit. There is a third intake directly beneath the rotor mast. Large, circular exhaust ports sit beneath the rotor mast, on the upper portion of the fuselage. There are 5 circular port windows in the passenger compartment.": "mi8rf1",
             "The tail boom is straight, and extends from the top of the fuselage. There is a single stabiliser on the connection from boom to rudder, with the tail rotor being on the starboard (right) side.": "mi8rf3",
-            "The Mi-8 cannot retrack its landing gear. There are two single wheels at the rear of the fuselage and a single double wheel beneath the cockpit. There is a cylindrical muffler running along the base of the fuselage on each side.": "mi8rf2"
+            "The Mi-8 cannot retract its landing gear. There are two single wheels at the rear of the fuselage and a single double wheel beneath the cockpit. There is a cylindrical muffler running along the base of the fuselage on each side.": "mi8rf2"
           }
         },
         "Mi-8TV": {
@@ -4252,11 +4253,24 @@
               "Tracer",
               "",
               1500
-            ],
-            "3": [
-              "AP",
+            ]
+          }
+        },
+        "Yak-B": {
+          "NAME": "Yak-B gatling gun",
+          "Designation": "Yak-B",
+          "Calibre": "12.7mm",
+          "DESCRIPTION": "The Yak-B is a four barrelled, remotely controlled chaingun. It is used on Soviet era helicopters such as the Mi-24 'Hind'. It has a fire rate of up to 5000 rounds per minute. It is similiar to the American GAU-19 gatling gun.",
+          "Ammunition": {
+            "1": [
+              "Ball",
               "",
-              1500
+              2000
+            ],
+            "2": [
+              "HE",
+              "",
+              2000
             ]
           }
         },
@@ -4354,7 +4368,7 @@
         },
         "2A64": {
           "NAME": "Soviet 152mm Msta Barrel",
-          "Designation": "2A66",
+          "Designation": "2A64",
           "Calibre": 152,
           "DESCRIPTION": "The 2A64 is an upgrade to the 2A33 152mm howitzer barrel. The barrel is used in the Msta-B towed gun and the 2S19 Msta self-propelled artillery gun (SPAAG). It is 7.2m long, significantly longer than its predessor - this gives it a much improved range.",
           "Ammunition": {
@@ -5481,7 +5495,7 @@
         "HE": {
           "NAME": "High Explosive",
           "IMAGES": {
-            "High Explosive, is a type of munition designed to cause a high explosive effect, it’s commonly used against infantry and softer targets. High explosive can be used against tanks with little effect to the crew, but great effect on sighting systems, antennae, weapon systems etc. It has many variations, including HE-FRAG, which causes a high explosive effect and HESH-High Explosive Squash Head. HE for the 125mm 2A46 series of guns is usually fin stabilised, noted by the ‘HE’ nomenclature. It is also the main munition of artillery.": "he1",
+            "High Explosive, is a type of munition designed to cause a high explosive effect, it’s commonly used against infantry and softer targets. High explosive can be used against tanks with little effect to the crew, but great effect on sighting systems, antennae, weapon systems etc. It has many variations, including HE-FRAG, which causes a high explosive effect and HESH-High Explosive Squash Head. HE for the 125mm 2A46 series of guns is usually fin stabilised, noted by the ‘HE-FS’ nomenclature. It is also the main munition of artillery.": "he1",
             "155mm artillery high-explosive (HE) shells.": "he2"
           }
         },
