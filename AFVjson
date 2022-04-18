@@ -1,5 +1,5 @@
 {
-  "1.1.132": {
+  "1.1.133": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -2018,8 +2018,7 @@
         "IMAGES": [
           "npmtlb1",
           "mtlb1",
-          "mtlb2",
-          "mtlb3"
+          "mtlb2"
         ],
         "DESCRIPTION": "The MTLB is an amphibious APC, it is still widely used by Russia, most commonly in units based in boggy areas, like 138 Bde in St.Petersburg and other units in the far east, this is due to its extremely low ground pressure. It is the base for many variants built upon it.",
         "CREW": "2+11",
