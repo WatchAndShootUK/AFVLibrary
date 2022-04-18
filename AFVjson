@@ -1,5 +1,5 @@
 {
-  "1.1.130": {
+  "1.1.132": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -5198,7 +5198,7 @@
           "DESCRIPTION": "The 2A72 is a late Soviet upgrade of the 2A42, the design is simplified with less parts, produced by Tulamashzavod, as well as factories in Ukraine and China that build licensed and unlicensed copies. It is named the ZTM-1/KBA-2 in Ukrainian service and the ZPT99 in Chinese service.",
           "Ammunition": {
             "1": [
-              "APBC-T",
+              "AP",
               "",
               2000
             ],
@@ -5208,7 +5208,7 @@
               4000
             ],
             "3": [
-              "HEI",
+              "HEI-T",
               "",
               4000
             ]
