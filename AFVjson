@@ -1,5 +1,5 @@
 {
-  "1.1.136": {
+  "1.1.137": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3152,9 +3152,9 @@
           "CREW": 5,
           "R_FEAT": {
             "The AS90 chassis is scratch built, although shares many internal features as the CRII. It has 6 evenly spaced road wheels, with the final drive at the front. The front glacis plate is curved slightly, with an inset centre. Each track link has a pair of track pads.": "as90rf1",
-            "The hull of the AS90 is sloped at the front and straight at the rear. The L31 gun turret is attached to the hull at the rear, flat section of the hull. THe barrel clamp is triangular and is attached at the very front of the hull, just above the front glacis plate.": "as90rf2",
+            "The hull of the AS90 is sloped at the front and straight at the rear. The L31 gun turret is attached to the hull on the flat rear section. The barrel clamp is triangular and is attached at the very front of the hull, just above the front glacis plate.": "as90rf2",
             "The L31 gun turret is sloped at the front and straight at the rear. The gun extrudes from the centre of the sloped section via a large rectangular shroud. On the left hand side of the turret there are two storage bins with a hatch between them.": "as90rf3",
-            "The fume extractor is positioned 2/3's up the barrel, with a rubber bellow extending from it down to the shroud. The muzzle break has two baffles, the forwardmost being rectangular and the other triangular in shape. ": "as90rf4",
+            "The fume extractor is positioned 1/3rd of the way up the barrel, with a rubber bellow extending from it down to the shroud. The muzzle break has two baffles, the forwardmost being rectangular and the other triangular in shape. ": "as90rf4",
             "There are three storage boxes on the right hand side of the turret, with a gap between the first and second. At the rear of the AS90 there is a configuration of overhanging storage bins that sit above one large rear door.": "as90rf5",
             "The drivers hatch is position front left on the hull and there are two hatches in the turret, one for the commander and one for the GPMG (FN MAG) gunner.": "as90rf6"
           }
