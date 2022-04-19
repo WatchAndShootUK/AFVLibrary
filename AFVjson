@@ -1,5 +1,5 @@
 {
-  "1.1.137": {
+  "1.1.138": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3132,7 +3132,7 @@
           ],
           "WEAPONS": [
             "L31",
-            "FN MAG"
+            "FN-MAG"
           ],
           "DATA": {
             "Weight": "45t",
@@ -4307,9 +4307,9 @@
             ]
           }
         },
-        "FN MAG": {
+        "FN-MAG": {
           "NAME": "FN MAG machine gun",
-          "Designation": "FN MAG",
+          "Designation": "FN-MAG",
           "Calibre": "7.62mm",
           "DESCRIPTION": "The FN MAG machine gun is used by many nations. It is a general purpose machine gun with a gas operated, long-stroke, open bolt mechanism. It can fire 1000 rounds a minute. It has the following designations worldwide:\n\nUnited Kingdom: L7A1 'General purpose machine gun'\n\nUSA: M240\n\nSweden: Ksp 58\n",
           "Ammunition": {
