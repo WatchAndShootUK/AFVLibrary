@@ -1,5 +1,5 @@
 {
-  "1.1.134": {
+  "1.1.136": {
     "RECCE": {
       "BRDM-2": {
         "MANUFACTURE": [
@@ -3120,6 +3120,44 @@
             "The 2S33 barrel is longer than the 2S19 barrel. Seen here in Ukraine (2022), the barrel is double the length of the turret. The fume extractor is also situated nearer to the muzzle break, whereas the 2S19 fume extractor was in the centre of the barrel.": "rf2s332",
             "Another example of how long the barrel is on the 2S33 Msta-SM2.": "rf2s333"
           }
+        },
+        "AS90": {
+          "MANUFACTURE": [
+            "VSEL",
+            1992,
+            1995
+          ],
+          "COO": [
+            "United Kingdom"
+          ],
+          "WEAPONS": [
+            "L31",
+            "FN MAG"
+          ],
+          "DATA": {
+            "Weight": "45t",
+            "Length": "9.07m",
+            "Width": "3.5m",
+            "Height": "2.49m",
+            "Range": "420km",
+            "Speed": "53kph",
+            "HP": "660hp"
+          },
+          "IMAGES": [
+            "as901",
+            "as902",
+            "as903"
+          ],
+          "DESCRIPTION": "The AS90 is a 155mm self propelled gun (SPG) used by the British Army. Its official designation is Gun Equipment 155mm L131, and was brought in as the 'Artillery system for the 1990s'. The AS90 replaced the Abbot and M109 guns previously in service.",
+          "CREW": 5,
+          "R_FEAT": {
+            "The AS90 chassis is scratch built, although shares many internal features as the CRII. It has 6 evenly spaced road wheels, with the final drive at the front. The front glacis plate is curved slightly, with an inset centre. Each track link has a pair of track pads.": "as90rf1",
+            "The hull of the AS90 is sloped at the front and straight at the rear. The L31 gun turret is attached to the hull at the rear, flat section of the hull. THe barrel clamp is triangular and is attached at the very front of the hull, just above the front glacis plate.": "as90rf2",
+            "The L31 gun turret is sloped at the front and straight at the rear. The gun extrudes from the centre of the sloped section via a large rectangular shroud. On the left hand side of the turret there are two storage bins with a hatch between them.": "as90rf3",
+            "The fume extractor is positioned 2/3's up the barrel, with a rubber bellow extending from it down to the shroud. The muzzle break has two baffles, the forwardmost being rectangular and the other triangular in shape. ": "as90rf4",
+            "There are three storage boxes on the right hand side of the turret, with a gap between the first and second. At the rear of the AS90 there is a configuration of overhanging storage bins that sit above one large rear door.": "as90rf5",
+            "The drivers hatch is position front left on the hull and there are two hatches in the turret, one for the commander and one for the GPMG (FN MAG) gunner.": "as90rf6"
+          }
         }
       },
       "Heavy*": {
@@ -4141,6 +4179,29 @@
             ]
           }
         },
+        "L31": {
+          "NAME": "Royal Artillery 152mm gun",
+          "Designation": "L31",
+          "Calibre": "155mm",
+          "DESCRIPTION": "The L31 is the name given to the gun used in the British AS90 self-propelled howitzer. The gun uses a sliding breech block and bagged charges, instead of the previous metal cartidge cases. The gun is largely autonomous and can be operated without the vehicle running. It takes less than 1 minute to bring into action.",
+          "Ammunition": {
+            "1": [
+              "HE",
+              "",
+              24500
+            ],
+            "2": [
+              "Smoke",
+              "",
+              24500
+            ],
+            "3": [
+              "Illum",
+              "",
+              24500
+            ]
+          }
+        },
         "3M9": {
           "NAME": "3M9 surface to air missile",
           "Designation": "3M9",
@@ -4243,6 +4304,29 @@
               "AP",
               "",
               1500
+            ]
+          }
+        },
+        "FN MAG": {
+          "NAME": "FN MAG machine gun",
+          "Designation": "FN MAG",
+          "Calibre": "7.62mm",
+          "DESCRIPTION": "The FN MAG machine gun is used by many nations. It is a general purpose machine gun with a gas operated, long-stroke, open bolt mechanism. It can fire 1000 rounds a minute. It has the following designations worldwide:\n\nUnited Kingdom: L7A1 'General purpose machine gun'\n\nUSA: M240\n\nSweden: Ksp 58\n",
+          "Ammunition": {
+            "1": [
+              "Ball",
+              "",
+              1800
+            ],
+            "2": [
+              "Tracer",
+              "",
+              1800
+            ],
+            "3": [
+              "AP",
+              "",
+              1800
             ]
           }
         },
