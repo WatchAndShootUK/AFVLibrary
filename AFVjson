@@ -1,5 +1,5 @@
 {
- "1.1.143": {
+ "1.1.145": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -4193,6 +4193,29 @@
   },
   "MISC": {
    "WEAPONS": {
+    "L31": {
+     "NAME": "Royal Artillery 152mm gun",
+     "Designation": "L31",
+     "Calibre": "155mm",
+     "DESCRIPTION": "The L31 is the name given to the gun used in the British AS90 self-propelled howitzer. The gun uses a sliding breech block and bagged charges, instead of the previous metal cartidge cases. The gun is largely autonomous and can be operated without the vehicle running. It takes less than 1 minute to bring into action.",
+     "Ammunition": {
+      "1": [
+       "HE",
+       "",
+       24500
+      ],
+      "2": [
+       "Smoke",
+       "",
+       24500
+      ],
+      "3": [
+       "Illum",
+       "",
+       24500
+      ]
+     }
+    },
     "L18": {
      "NAME": "BAE 105mm ordnance",
      "Designation": "L18",
