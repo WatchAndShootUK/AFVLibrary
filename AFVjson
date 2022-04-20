@@ -1,5 +1,5 @@
 {
- "1.1.140": {
+ "1.1.142": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -2892,35 +2892,6 @@
       "To bring the gun in or out of action, a wheel must be removed to rotate the barrel. A well trained crew can bring the gun into or out of action in less than 50 seconds.": "l118rf6"
      }
     },
-    "D-20": {
-     "MANUFACTURE": [
-      "PJSC",
-      1950,
-      "Present"
-     ],
-     "COO": [
-      "Soviet Union",
-      "Angola,Armenia,Azerbaijan,Bulgaria,Ethiopia,Georgia,China,Hungary,Iran,Iraq,Laos,Moldova,Myanmar,Nicaragua,Nigeria,Russia,Romania,Sri Lanka,Syria,Turkmenistan,Ukraine,Vietnam"
-     ],
-     "WEAPONS": [
-      "2A33"
-     ],
-     "DATA": {
-      "Weight": "5.7t",
-      "Length": "8.7m",
-      "Width": "2.35m",
-      "Height": "1.93m"
-     },
-     "IMAGES": [
-      "d201",
-      "d202"
-     ],
-     "DESCRIPTION": "The D-20 is a towed 152mm howitzer, first introduced in 1950s. It is still in use by both the Russian Federation and various countries worlwide. It is simple but effective technology that can engage targets up to 17km away (24km with RAP).",
-     "CREW": 8,
-     "R_FEAT": {
-      "The D-20 can be identified by the armoured plate shield in front of the gun to protect the crew from small arms whilst firing. The muzzle break has unique baffles, a square one at the front and a rectangular at the rear. Two arms fold out whilst deployed and a circular plate jack raises the wheels up to level the gun whilst firing.": "d20rf1"
-     }
-    },
     "D-30": {
      "MANUFACTURE": [
       "PJSC",
@@ -2950,43 +2921,38 @@
       "The D-30 is easy to recognise to the D-20 from its unique mounting, the arms fold out to form a tripod. The muzzle break is similiar to the D-20, however it has a large towing eye welded to the bottom of it, allowing the gun to be towed. Another key recoginise feature is the recoil system that is a tube that sits directly above the barrel. The raised wheels also tell this system apart from other towed guns.": "d30rf1",
       "When stowed, the D-30s arms are folded towards the front of the gun and secured to the barrel, allowing the howitzer to be towed.": "d30rf2"
      }
-    }
-   },
-   "Light*": {
-    "2S1 Gvozdika": {
+    },
+    "D-20": {
      "MANUFACTURE": [
-      "KhTZ",
-      1971,
-      1991
+      "PJSC",
+      1950,
+      "Present"
      ],
      "COO": [
       "Soviet Union",
-      "Algeria,Angola,Armenia,Azerbaijan,Bosnia and Herzegovina,Belarus,Bulgaria,Chad,Cuba,Croatia,Eritrea,Ethiopia,Finland,Georgia,South Ossetia,India,Iran,Kazakhstan,Libya,Moldova,Transnistria,Poland,Russia,Serbia,Slovakia,Syria,Turkmenistan,Ukraine,Uruguay,Uzbekistan,Vietnam,Yemen"
+      "Angola,Armenia,Azerbaijan,Bulgaria,Ethiopia,Georgia,China,Hungary,Iran,Iraq,Laos,Moldova,Myanmar,Nicaragua,Nigeria,Russia,Romania,Sri Lanka,Syria,Turkmenistan,Ukraine,Vietnam"
      ],
      "WEAPONS": [
-      "2A18"
+      "2A33"
      ],
      "DATA": {
-      "Weight": "16t",
-      "Length": "7.26m",
-      "Width": "2.85m",
-      "Height": "2.73m",
-      "Range": "500km",
-      "Speed": "Road: 37mph\nOffroad:  18mph\nSwim: 2.8mph"
+      "Weight": "5.7t",
+      "Length": "8.7m",
+      "Width": "2.35m",
+      "Height": "1.93m"
      },
      "IMAGES": [
-      "2s1gvozdika1",
-      "2s1gvozdika2",
-      "2s1gvozdika3"
+      "d201",
+      "d202"
      ],
-     "DESCRIPTION": "The 2S1 Gvozdika is a fully amphibious Soviet self-propelled howitzer. It is armed with a 122mm 2A18 howitzer, the same as D-30, and has a range of up to 21.9km. The 2S1 is fully NBC proof. The 2S1 has been replaced in Russian Land Forces by the 2S19 Msta.",
-     "CREW": 4,
+     "DESCRIPTION": "The D-20 is a towed 152mm howitzer, first introduced in 1950s. It is still in use by both the Russian Federation and various countries worlwide. It is simple but effective technology that can engage targets up to 17km away (24km with RAP).",
+     "CREW": 8,
      "R_FEAT": {
-      "The 2S1 is mounted on an MTLBu chassis with its distinctive slack tracks of 7 road wheels with the final drive at the front. ": "rf2s11",
-      "The 2A18 is a relatively short barrelled Artillery system and a key recognising feature is that the barrel does not extend forward of the MTLBu chassis.": "rf2s12",
-      "The turret of the 2S1 is a distinctive U-shape. The front is rounded and the rear is straight. The rear of the turret has two rollers with distinctive protective grates above.": "rf2s13"
+      "The D-20 can be identified by the armoured plate shield in front of the gun to protect the crew from small arms whilst firing. The muzzle break has unique baffles, a square one at the front and a rectangular at the rear. Two arms fold out whilst deployed and a circular plate jack raises the wheels up to level the gun whilst firing.": "d20rf1"
      }
-    },
+    }
+   },
+   "Light*": {
     "2S9 Nona": {
      "MANUFACTURE": [
       "MOTZ.MM",
@@ -3051,6 +3017,40 @@
      "R_FEAT": {
       "The 2S23 Nona is mounted on a BTR-80 chassis with the prominent gap between the second and third wheel. The turret sits forward on the vehicle, above the first and second wheel.": "rf2s231",
       "The 2A60 barrel is short, only 1.8metres, making it more of a mortar than a howitzer. The key recognising feature is the lack of muzzle break on the end of the barrel and the tripe smoke dischargers either side on the turret.": "rf2s232"
+     }
+    },
+    "2S1 Gvozdika": {
+     "MANUFACTURE": [
+      "KhTZ",
+      1971,
+      1991
+     ],
+     "COO": [
+      "Soviet Union",
+      "Algeria,Angola,Armenia,Azerbaijan,Bosnia and Herzegovina,Belarus,Bulgaria,Chad,Cuba,Croatia,Eritrea,Ethiopia,Finland,Georgia,South Ossetia,India,Iran,Kazakhstan,Libya,Moldova,Transnistria,Poland,Russia,Serbia,Slovakia,Syria,Turkmenistan,Ukraine,Uruguay,Uzbekistan,Vietnam,Yemen"
+     ],
+     "WEAPONS": [
+      "2A18"
+     ],
+     "DATA": {
+      "Weight": "16t",
+      "Length": "7.26m",
+      "Width": "2.85m",
+      "Height": "2.73m",
+      "Range": "500km",
+      "Speed": "Road: 37mph\nOffroad:  18mph\nSwim: 2.8mph"
+     },
+     "IMAGES": [
+      "2s1gvozdika1",
+      "2s1gvozdika2",
+      "2s1gvozdika3"
+     ],
+     "DESCRIPTION": "The 2S1 Gvozdika is a fully amphibious Soviet self-propelled howitzer. It is armed with a 122mm 2A18 howitzer, the same as D-30, and has a range of up to 21.9km. The 2S1 is fully NBC proof. The 2S1 has been replaced in Russian Land Forces by the 2S19 Msta.",
+     "CREW": 4,
+     "R_FEAT": {
+      "The 2S1 is mounted on an MTLBu chassis with its distinctive slack tracks of 7 road wheels with the final drive at the front. ": "rf2s11",
+      "The 2A18 is a relatively short barrelled Artillery system and a key recognising feature is that the barrel does not extend forward of the MTLBu chassis.": "rf2s12",
+      "The turret of the 2S1 is a distinctive U-shape. The front is rounded and the rear is straight. The rear of the turret has two rollers with distinctive protective grates above.": "rf2s13"
      }
     }
    },
@@ -4193,6 +4193,29 @@
   },
   "MISC": {
    "WEAPONS": {
+    "L18": {
+     "NAME": "BAE 105mm ordnance",
+     "Designation": "L18",
+     "Calibre": "105mm",
+     "DESCRIPTION": "The L18 105mm ordnance, built by Royal Ordnance (now BAE systems), is a British made barrel & breech combination for the L118 light gun. It has a sliding breech, which enables the use of bagged ammunition. It out performs its rival gun, the D-30, in both range and accuracy.",
+     "Ammunition": {
+      "1": [
+       "HE",
+       "",
+       17700
+      ],
+      "2": [
+       "Smoke",
+       "",
+       17700
+      ],
+      "3": [
+       "Illum",
+       "",
+       17700
+      ]
+     }
+    },
     "L30A1": {
      "NAME": "Royal Ordnance Rifled Gun",
      "Designation": "L30A1",
@@ -4213,29 +4236,6 @@
        "Smoke",
        0,
        5000
-      ]
-     }
-    },
-    "L31": {
-     "NAME": "Royal Artillery 152mm gun",
-     "Designation": "L31",
-     "Calibre": "155mm",
-     "DESCRIPTION": "The L31 is the name given to the gun used in the British AS90 self-propelled howitzer. The gun uses a sliding breech block and bagged charges, instead of the previous metal cartidge cases. The gun is largely autonomous and can be operated without the vehicle running. It takes less than 1 minute to bring into action.",
-     "Ammunition": {
-      "1": [
-       "HE",
-       "",
-       24500
-      ],
-      "2": [
-       "Smoke",
-       "",
-       24500
-      ],
-      "3": [
-       "Illum",
-       "",
-       24500
       ]
      }
     },
