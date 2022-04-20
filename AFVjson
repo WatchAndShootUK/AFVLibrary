@@ -1,5 +1,5 @@
 {
- "1.1.139": {
+ "1.1.140": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -2866,7 +2866,7 @@
       "Bahrain,Benin,Bosnia-Herzegovina,Botswana,Brazil,Ireland,Kenya,Malawi,Morocco,Nepal,New Zealand,Oman,Portugal,Spain,Thailand,Turkey,United Arab Emirates,United Kingdom,United States"
      ],
      "WEAPONS": [
-      "L31"
+      "L18"
      ],
      "DATA": {
       "Weight": "1.8t",
