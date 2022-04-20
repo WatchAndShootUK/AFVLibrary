@@ -1,5 +1,5 @@
 {
- "1.1.142": {
+ "1.1.143": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -2863,7 +2863,7 @@
      ],
      "COO": [
       "United Kingdom",
-      "Bahrain,Benin,Bosnia-Herzegovina,Botswana,Brazil,Ireland,Kenya,Malawi,Morocco,Nepal,New Zealand,Oman,Portugal,Spain,Thailand,Turkey,United Arab Emirates,United Kingdom,United States"
+      "Bahrain,Benin,Bosnia-Herzegovina,Botswana,Brazil,Ireland,Kenya,Malawi,Morocco,Nepal,New Zealand,Oman,Portugal,Spain,Thailand,Turkey,United Arab Emirates,United Kingdom,United States of America"
      ],
      "WEAPONS": [
       "L18"
@@ -2881,13 +2881,13 @@
       "l1182",
       "l1183"
      ],
-     "DESCRIPTION": "The L118 light gun is a 105mm towed howitzers built by Royal Ordnance, now BAE systems. The British weapon system was brought out to replace the older pack howitzers and rival the 122mm D-30. Despite being a small calibre, it out performs the Soviet D-30 in every aspect and has been exported worldwide. It's small size allows the L118 to be air lifted via helicopter and towed by light wheel vehicles, it is for this reason it is favoured by the airborne and commando units of the British Army & Royal Marines.",
+     "DESCRIPTION": "The L118 light gun is a 105mm towed howitzer built by Royal Ordnance, now BAE systems. The British weapon system was brought out to replace the older pack howitzers and rival the 122mm D-30. Despite being a small calibre, it out performs the Soviet D-30 in every aspect and has been exported worldwide. It's small size allows the L118 to be air lifted via helicopter and towed by light wheel vehicles, it is for this reason it is favoured by the airborne and commando units of the British Army & Royal Marines.",
      "CREW": 6,
      "R_FEAT": {
       "The gun has two wheels that sit each side of the cradle, that connects the ordnance (barrel & breech) to the trials. The trials are cylindrical and form a tear drop shape, at the thinnest part of the tear sits the towing eye. ": "l118rf1",
       "The L31 barrel has no fume extractor. Earlier variants have a single baffle muzzle break, however most have double baffles. A key recognising feature of the L118 is the horizontal cylindrical tank that sits above the breech assembly. It is part of the recoil system and tapers on each side, a bit like a divers oxygen tank.": "l118rf2",
       "The L31 has a sliding breech block, seen here in the open position. More of the recoil system can be seen here. The two tubes that flank each side of the barrel, in this photo they have red bolts - although this varies by unit.": "l118rf3",
-      "The M118 is the American variant, used by thier airborne forces. Note the shorter barrel and single baffle muzzle break.": "l118rf4",
+      "The M118 is the American variant, used by thier airborne forces. Note the shorter barrel and single baffle muzzle break.": "l118rf4new",
       "When the gun is being towed a long distance, it is rotated 180 degrees. It is still identifiable by the recoil system and cylindrical trials.": "l118rf5",
       "To bring the gun in or out of action, a wheel must be removed to rotate the barrel. A well trained crew can bring the gun into or out of action in less than 50 seconds.": "l118rf6"
      }
