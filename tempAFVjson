@@ -1,5 +1,5 @@
 {
- "1.1.147": {
+ "9.1.148": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -2856,82 +2856,270 @@
   "Artillery": {
    "%GRAU": "",
    "Towed*": {
-    "L118": {
+    "D-30": {
      "MANUFACTURE": [
-      "BAE",
-      1976,
-      1987
+      "PJSC",
+      1960,
+      "Present"
      ],
      "COO": [
-      "United Kingdom",
-      "Bahrain,Benin,Bosnia-Herzegovina,Botswana,Brazil,Ireland,Kenya,Malawi,Morocco,Nepal,New Zealand,Oman,Portugal,Spain,Thailand,Turkey,United Arab Emirates,United Kingdom,United States of America"
+      "Soviet Union",
+      "Afghanistan,Algeria,Angola,Armenia,Azerbaijan,Bangladesh,Belarus,Bosnia-Herzegovina,Burundi,Cambodia,China,Democratic Republic of the Congo,Croatia,Cuba,Egypt,Djibouti,Eritrea,Estonia,Ethiopia,Finland,Ghana,Georgia,Guinea-Bissau,India,Iran,Iraq,Kazakhstan,Kyrgyzstan,Laos,Lebanon,Libya,Madagascar,Mauritania,Mongolia,Montenegro,Mozambique,Myanmar,Nicaragua,Nigeria,Korea North,Oman,Pakistan,Peru,Russia,Rwanda,Serbia,South Sudan,Sudan,Syria,Tajikistan,Tanzania,Turkmenistan,Ukraine,Uzbekistan,Vietnam,Zambia,Zimbabwe"
      ],
      "WEAPONS": [
-      "L18"
+      "2A18"
      ],
      "DATA": {
-      "Weight": "1.8t",
-      "Length": "8.8m",
-      "Width": "1.7m",
-      "Height": "2.3m",
-      "Calibre": 105,
-      "Rate": 8
+      "Weight": "3.2t",
+      "Length": "5.4m",
+      "Width": "1.9m",
+      "Height": "1.6m"
      },
      "IMAGES": [
-      "l1181",
-      "l1182",
-      "l1183"
+      "d301",
+      "d302"
      ],
-     "DESCRIPTION": "The L118 light gun is a 105mm towed howitzer built by Royal Ordnance, now BAE systems. The British weapon system was brought out to replace the older pack howitzers and rival the 122mm D-30. Despite being a small calibre, it out performs the Soviet D-30 in every aspect and has been exported worldwide. It's small size allows the L118 to be air lifted via helicopter and towed by light wheel vehicles, it is for this reason it is favoured by the airborne and commando units of the British Army & Royal Marines.",
+     "DESCRIPTION": "The D-30 is a towed howitzer in service since 1960. It uses the 122mm 2A18 gun, mounted on a tripod which folds away to become the towing aparatus when in transit. The D-30 is one of the most commonly used light role howitzers in the world and has a range of up to 21km (RAP).",
      "CREW": 6,
      "R_FEAT": {
-      "The gun has two wheels that sit each side of the cradle, that connects the ordnance (barrel & breech) to the trials. The trials are cylindrical and form a tear drop shape, at the thinnest part of the tear sits the towing eye. ": "l118rf1",
-      "The L31 barrel has no fume extractor. Earlier variants have a single baffle muzzle break, however most have double baffles. A key recognising feature of the L118 is the horizontal cylindrical tank that sits above the breech assembly. It is part of the recoil system and tapers on each side, a bit like a divers oxygen tank.": "l118rf2",
-      "The L31 has a sliding breech block, seen here in the open position. More of the recoil system can be seen here. The two tubes that flank each side of the barrel, in this photo they have red bolts - although this varies by unit.": "l118rf3",
-      "The M118 is the American variant, used by thier airborne forces. Note the shorter barrel and single baffle muzzle break.": "l118rf4new",
-      "When the gun is being towed a long distance, it is rotated 180 degrees. It is still identifiable by the recoil system and cylindrical trials.": "l118rf5",
-      "To bring the gun in or out of action, a wheel must be removed to rotate the barrel. A well trained crew can bring the gun into or out of action in less than 50 seconds.": "l118rf6"
+      "The D-30 is easy to recognise to the D-20 from its unique mounting, the arms fold out to form a tripod. The muzzle break is similiar to the D-20, however it has a large towing eye welded to the bottom of it, allowing the gun to be towed. Another key recoginise feature is the recoil system that is a tube that sits directly above the barrel. The raised wheels also tell this system apart from other towed guns.": "d30rf1",
+      "When stowed, the D-30s arms are folded towards the front of the gun and secured to the barrel, allowing the howitzer to be towed.": "d30rf2"
+     }
+    },
+    "D-20": {
+     "MANUFACTURE": [
+      "PJSC",
+      1950,
+      "Present"
+     ],
+     "COO": [
+      "Soviet Union",
+      "Angola,Armenia,Azerbaijan,Bulgaria,Ethiopia,Georgia,China,Hungary,Iran,Iraq,Laos,Moldova,Myanmar,Nicaragua,Nigeria,Russia,Romania,Sri Lanka,Syria,Turkmenistan,Ukraine,Vietnam"
+     ],
+     "WEAPONS": [
+      "2A33"
+     ],
+     "DATA": {
+      "Weight": "5.7t",
+      "Length": "8.7m",
+      "Width": "2.35m",
+      "Height": "1.93m"
+     },
+     "IMAGES": [
+      "d201",
+      "d202"
+     ],
+     "DESCRIPTION": "The D-20 is a towed 152mm howitzer, first introduced in 1950s. It is still in use by both the Russian Federation and various countries worlwide. It is simple but effective technology that can engage targets up to 17km away (24km with RAP).",
+     "CREW": 8,
+     "R_FEAT": {
+      "The D-20 can be identified by the armoured plate shield in front of the gun to protect the crew from small arms whilst firing. The muzzle break has unique baffles, a square one at the front and a rectangular at the rear. Two arms fold out whilst deployed and a circular plate jack raises the wheels up to level the gun whilst firing.": "d20rf1"
      }
     }
    },
-   "Light*": {},
-   "Medium*": {
-    "AS90": {
+   "Light*": {
+    "2S9 Nona": {
      "MANUFACTURE": [
-      "VSEL",
-      1992,
-      1995
+      "MOTZ.MM",
+      1981,
+      "Present"
      ],
      "COO": [
-      "United Kingdom"
+      "Soviet Union",
+      "Azerbaijan,Belarus,China,Kazakhstan,Kyrgyzstan,Moldova,Russia,Syria,Turkmenistan,Ukraine,Uzbekistan,Venezuela "
      ],
      "WEAPONS": [
-      "L31",
-      "FN-MAG"
+      "2A60"
      ],
      "DATA": {
-      "Weight": "45t",
-      "Length": "9.07m",
-      "Width": "3.5m",
-      "Height": "2.49m",
-      "Range": "420km",
-      "Speed": "53kph",
-      "HP": "660hp"
+      "Weight": "8.7t",
+      "Length": "6.02m",
+      "Width": "2.63m",
+      "Height": "2.3m",
+      "Range": "500km",
+      "Speed": "Road: 60mph\nSwim: 9mph"
      },
      "IMAGES": [
-      "as901",
-      "as902",
-      "as903"
+      "2s91",
+      "2s92",
+      "2s93"
      ],
-     "DESCRIPTION": "The AS90 is a 155mm self propelled gun (SPG) used by the British Army. Its official designation is Gun Equipment 155mm L131, and was brought in as the 'Artillery system for the 1990s'. The AS90 replaced the Abbot and M109 guns previously in service.",
+     "DESCRIPTION": "The 2S9 Nona is a light-weight howitzer, mounted on the BTR-D chassis. The 2S9 is used by Russian Airborne troops (VDV) due to its ability to be air dropped into battle. The gun is medium range, and more than enough for supporting Airborne troops.",
+     "CREW": 4,
+     "R_FEAT": {
+      "The 2S9 is mounted on the lightweight BTR-D chassis, which has 6 road wheels and the final drive at the rear.": "rf2s91",
+      "2S9 seen in Ukraine in 2022.": "rf2s92",
+      "The turret of the 2S9 is round with a circular bulge on the left hand side of the turret. The key recognising feature of the 2S9 is the fact that the 2A51 barrel has no muzzle break.": "rf2s93"
+     }
+    },
+    "2S23 Nona-SVK": {
+     "MANUFACTURE": [
+      "MOTZ.MM",
+      1981,
+      "Present"
+     ],
+     "COO": [
+      "Soviet Union",
+      "Russia,Venezuela"
+     ],
+     "WEAPONS": [
+      "2A60"
+     ],
+     "DATA": {
+      "Weight": "8.7t",
+      "Length": "6.02m",
+      "Width": "2.63m",
+      "Height": "2.3m",
+      "Range": "500km",
+      "Speed": "Road: 60mph\nSwim: 9mph"
+     },
+     "IMAGES": [
+      "2s231",
+      "2s232"
+     ],
+     "DESCRIPTION": "The 2S23 is an upgrade of the 2S9 Nona system, mounted instead on the BTR-80, and is used by Russian marines. The barrel is 120mm and only 1.8m long, making it a hybrid between a mortar and a howitzer.",
+     "CREW": 4,
+     "R_FEAT": {
+      "The 2S23 Nona is mounted on a BTR-80 chassis with the prominent gap between the second and third wheel. The turret sits forward on the vehicle, above the first and second wheel.": "rf2s231",
+      "The 2A60 barrel is short, only 1.8metres, making it more of a mortar than a howitzer. The key recognising feature is the lack of muzzle break on the end of the barrel and the tripe smoke dischargers either side on the turret.": "rf2s232"
+     }
+    },
+    "2S1 Gvozdika": {
+     "MANUFACTURE": [
+      "KhTZ",
+      1971,
+      1991
+     ],
+     "COO": [
+      "Soviet Union",
+      "Algeria,Angola,Armenia,Azerbaijan,Bosnia and Herzegovina,Belarus,Bulgaria,Chad,Cuba,Croatia,Eritrea,Ethiopia,Finland,Georgia,South Ossetia,India,Iran,Kazakhstan,Libya,Moldova,Transnistria,Poland,Russia,Serbia,Slovakia,Syria,Turkmenistan,Ukraine,Uruguay,Uzbekistan,Vietnam,Yemen"
+     ],
+     "WEAPONS": [
+      "2A18"
+     ],
+     "DATA": {
+      "Weight": "16t",
+      "Length": "7.26m",
+      "Width": "2.85m",
+      "Height": "2.73m",
+      "Range": "500km",
+      "Speed": "Road: 37mph\nOffroad:  18mph\nSwim: 2.8mph"
+     },
+     "IMAGES": [
+      "2s1gvozdika1",
+      "2s1gvozdika2",
+      "2s1gvozdika3"
+     ],
+     "DESCRIPTION": "The 2S1 Gvozdika is a fully amphibious Soviet self-propelled howitzer. It is armed with a 122mm 2A18 howitzer, the same as D-30, and has a range of up to 21.9km. The 2S1 is fully NBC proof. The 2S1 has been replaced in Russian Land Forces by the 2S19 Msta.",
+     "CREW": 4,
+     "R_FEAT": {
+      "The 2S1 is mounted on an MTLBu chassis with its distinctive slack tracks of 7 road wheels with the final drive at the front. ": "rf2s11",
+      "The 2A18 is a relatively short barrelled Artillery system and a key recognising feature is that the barrel does not extend forward of the MTLBu chassis.": "rf2s12",
+      "The turret of the 2S1 is a distinctive U-shape. The front is rounded and the rear is straight. The rear of the turret has two rollers with distinctive protective grates above.": "rf2s13"
+     }
+    }
+   },
+   "Medium*": {
+    "2S3 Akatsiya": {
+     "MANUFACTURE": [
+      "UralTM",
+      1967,
+      1993
+     ],
+     "COO": [
+      "Soviet Union",
+      "Algeria,Angola,Armenia,Azerbaijan,Belarus,Cuba,Democratic Republic of the Congo,Ethiopia,Georgia,Kazakhstan,Libya,Russia,Syria,Turkmenistan,Ukraine,Uzbekistan,Vietnam"
+     ],
+     "WEAPONS": [
+      "2A33",
+      "PKT"
+     ],
+     "DATA": {
+      "Weight": "28t",
+      "Length": "8.4m",
+      "Width": "3.25m",
+      "Height": "3.05m"
+     },
+     "IMAGES": [
+      "2s31",
+      "2s32",
+      "2s33"
+     ],
+     "DESCRIPTION": "The 2S3 Akatsiya is a 152mm self-propelled howitzer. It was designed and manufactured in direct competition to the American M-109. It has a range of around 18km.",
+     "CREW": 4,
+     "R_FEAT": {
+      "The 2S3 is mounted on a modified GM-124 chassis (also used by the 2k11 Krug). It has 6 roadwheels, with a prominent gap between 1-2 and 2-3. The final drive is at the front with 4 inset top rollers.": "rf2s31",
+      "The turret is circular at the front and taller than a standard AFV turret. The rear of the turret is flat. The turret has a hatch on the right hand side, for the commander. The gun protrudes over the forward edge of the vehicle. There are two tubes sitting directly above the barrel, attached to the turret, these are part of the recoil system.": "rf2s32",
+      "On the right hand side of the turret there is a square door which is used to load ammunition into the turret during engagements.": "rf2s33",
+      "Inside the gun compartment on the 2S3. The 152mm rounds can be seen to the left.": "rf2s34"
+     }
+    },
+    "2S19 Msta": {
+     "MANUFACTURE": [
+      "UralTM",
+      1989,
+      "Present"
+     ],
+     "COO": [
+      "Soviet Union",
+      "Azerbaijan,Belarus,Ethiopia,Georgia,Morocco,Russia,Ukraine,Venezuela"
+     ],
+     "WEAPONS": [
+      "2A64",
+      "NSVT"
+     ],
+     "DATA": {
+      "Weight": "42t",
+      "Length": "7.15m",
+      "Width": "3.38m",
+      "Height": "2.99m",
+      "Speed": "37mph"
+     },
+     "IMAGES": [
+      "2s19msta1",
+      "2s192",
+      "2s193"
+     ],
+     "DESCRIPTION": "The 2S19 Msta-S is an upgrade to the 2S3 Akatsiya system and is the current primary in service 152mm howitzer in Russian ground forces. The 2A46 howitzer is mounted on a T-80 chassis, although it has the T-72 diesel engine instead of the gas turbine engine used in T-80s. It rivals in service NATO howitzers such as the US M-109 A6 Paladin and British AS90. It has a range of 25km with standard projectiles and up to 40km with rocket assisted projectiles (RAP).",
      "CREW": 5,
      "R_FEAT": {
-      "The AS90 chassis is scratch built, although shares many internal features as the CRII. It has 6 evenly spaced road wheels, with the final drive at the front. The front glacis plate is curved slightly, with an inset centre. Each track link has a pair of track pads.": "as90rf1",
-      "The hull of the AS90 is sloped at the front and straight at the rear. The L31 gun turret is attached to the hull on the flat rear section. The barrel clamp is triangular and is attached at the very front of the hull, just above the front glacis plate.": "as90rf2",
-      "The L31 gun turret is sloped at the front and straight at the rear. The gun extrudes from the centre of the sloped section via a large rectangular shroud. On the left hand side of the turret there are two storage bins with a hatch between them.": "as90rf3",
-      "The fume extractor is positioned 1/3rd of the way up the barrel, with a rubber bellow extending from it down to the shroud. The muzzle break has two baffles, the forwardmost being rectangular and the other triangular in shape. ": "as90rf4",
-      "There are three storage boxes on the right hand side of the turret, with a gap between the first and second. At the rear of the AS90 there is a configuration of overhanging storage bins that sit above one large rear door.": "as90rf5",
-      "The drivers hatch is position front left on the hull and there are two hatches in the turret, one for the commander and one for the GPMG (FN MAG) gunner.": "as90rf6"
+      "The 2S19 is mounted on the T-80 chassis, because of the size difference however, the road wheels are in a slighty different configuration (1-2-3-456). As per the T-80 the final drive is to the rear, with the top rollers being obscured by flaps.": "rf2s191",
+      "The key recognising feature of the 2S19 is the massive square 2A46 gun turret. The barrel lock is another obvious feature, the triangular frame being nearly as wide as the tracks.": "rf2s192",
+      "The barrel is as long as the chassis, with a fume extractor exactly half way along the barrel. The muzzle break has 3 baffles, unlike the 2S3 (which has 2) or the 2S35 (which has 5).": "rf2s195",
+      "View from the commanders hatch showing the NSVT and two recoil tubes above the barrel.": "rf2s193",
+      "2S19 Msta-S that was abandoned in Ukraine after going off road (2022).": "rf2s194"
+     }
+    },
+    "2S33 Msta-SM2": {
+     "MANUFACTURE": [
+      "UralTM",
+      2013,
+      "Present"
+     ],
+     "COO": [
+      "Russia"
+     ],
+     "WEAPONS": [
+      "2A79",
+      "NSVT"
+     ],
+     "DATA": {
+      "Weight": "42t",
+      "Length": "7.15m",
+      "Width": "3.38m",
+      "Height": "2.99m",
+      "Speed": "37mph"
+     },
+     "IMAGES": [
+      "2s331",
+      "2s332",
+      "2s333"
+     ],
+     "DESCRIPTION": "The 2S33 Msta-SM2 is an upgraded variant of the 2S19 Msta. It is fitted with the 2A79 cannon, which is significantly longer and has improved ballistics. It can fire ammunition with more propellant charges and with a higher breech pressure, which improves the range of fire. The maximum range for standard ammunition is 30km and rocket propelled up to 40km.",
+     "CREW": 5,
+     "R_FEAT": {
+      "The key identifible feature on the 2S33 is the longer side skirts, that cover 50% of the T-80 chassis road wheels. The road wheel configuration is still 1-2-3-456. ": "rf2s331",
+      "The 2S33 barrel is longer than the 2S19 barrel. Seen here in Ukraine (2022), the barrel is double the length of the turret. The fume extractor is also situated nearer to the muzzle break, whereas the 2S19 fume extractor was in the centre of the barrel.": "rf2s332",
+      "Another example of how long the barrel is on the 2S33 Msta-SM2.": "rf2s333"
      }
     }
    },
@@ -2995,7 +3183,7 @@
       "2s73",
       "2s74"
      ],
-     "DESCRIPTION": "The 2S7 Pion (later upgrade variant known as the 2S7M Malka) is a 203 calibre self-propelled howizter. It has an impressive range of 37km for standard ammunition and up to 50km with rocket assisted projecties. The firing range is so far that the howitzer can re position after firing the first round and be well out of counter battery range by the time the rounds impact. The 2S7 is supported by",
+     "DESCRIPTION": "The 2S7 Pion (later upgrade variant known as the 2S7M Malka) is a 203 calibre self-propelled howizter. It has an impressive range of 37km for standard ammunition and up to 50km with rocket assisted projecties. The firing range is so far that the howitzer can re position after firing the first round and be well out of counter battery range by the time the rounds impact.",
      "CREW": 7,
      "R_FEAT": {
       "The 2S7 Pion/Malka is mounted on an extended T-80 chassis with 7 evenly placed roadwheels. The final drive is on the front. The 2A44 gun is longer than the chassis and extends over the front when in the lowered position.": "rf2s71",
@@ -3171,8 +3359,414 @@
      }
     }
    },
-   "%China": "",
-   "%NATO": ""
+   "%PLA": "",
+   "Light***": {
+    "PLL 05": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    }
+   },
+   "Medium***": {
+    "PLL 09": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    },
+    "PLZ 06": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    },
+    "PLZ 07": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    }
+   },
+   "Heavy***": {
+    "PLC 171": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    },
+    "PLC 181": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    }
+   },
+   "%NATO": "",
+   "Towed**": {
+    "L118": {
+     "MANUFACTURE": [
+      "BAE",
+      1976,
+      1987
+     ],
+     "COO": [
+      "United Kingdom",
+      "Bahrain,Benin,Bosnia-Herzegovina,Botswana,Brazil,Ireland,Kenya,Malawi,Morocco,Nepal,New Zealand,Oman,Portugal,Spain,Thailand,Turkey,United Arab Emirates,United Kingdom,United States of America"
+     ],
+     "WEAPONS": [
+      "L18"
+     ],
+     "DATA": {
+      "Weight": "1.8t",
+      "Length": "8.8m",
+      "Width": "1.7m",
+      "Height": "2.3m",
+      "Calibre": 105,
+      "Rate": 8
+     },
+     "IMAGES": [
+      "l1181",
+      "l1182",
+      "l1183"
+     ],
+     "DESCRIPTION": "The L118 light gun is a 105mm towed howitzer built by Royal Ordnance, now BAE systems. The British weapon system was brought out to replace the older pack howitzers and rival the 122mm D-30. Despite being a small calibre, it out performs the Soviet D-30 in every aspect and has been exported worldwide. It's small size allows the L118 to be air lifted via helicopter and towed by light wheel vehicles, it is for this reason it is favoured by the airborne and commando units of the British Army & Royal Marines.",
+     "CREW": 6,
+     "R_FEAT": {
+      "The gun has two wheels that sit each side of the cradle, that connects the ordnance (barrel & breech) to the trials. The trials are cylindrical and form a tear drop shape, at the thinnest part of the tear sits the towing eye. ": "l118rf1",
+      "The L31 barrel has no fume extractor. Earlier variants have a single baffle muzzle break, however most have double baffles. A key recognising feature of the L118 is the horizontal cylindrical tank that sits above the breech assembly. It is part of the recoil system and tapers on each side, a bit like a divers oxygen tank.": "l118rf2",
+      "The L31 has a sliding breech block, seen here in the open position. More of the recoil system can be seen here. The two tubes that flank each side of the barrel, in this photo they have red bolts - although this varies by unit.": "l118rf3",
+      "The M118 is the American variant, used by thier airborne forces. Note the shorter barrel and single baffle muzzle break.": "l118rf4new",
+      "When the gun is being towed a long distance, it is rotated 180 degrees. It is still identifiable by the recoil system and cylindrical trials.": "l118rf5",
+      "To bring the gun in or out of action, a wheel must be removed to rotate the barrel. A well trained crew can bring the gun into or out of action in less than 50 seconds.": "l118rf6"
+     }
+    }
+   },
+   "Light**": {},
+   "Medium**": {
+    "AS90": {
+     "MANUFACTURE": [
+      "VSEL",
+      1992,
+      1995
+     ],
+     "COO": [
+      "United Kingdom"
+     ],
+     "WEAPONS": [
+      "L31",
+      "FN-MAG"
+     ],
+     "DATA": {
+      "Weight": "45t",
+      "Length": "9.07m",
+      "Width": "3.5m",
+      "Height": "2.49m",
+      "Range": "420km",
+      "Speed": "53kph",
+      "HP": "660hp"
+     },
+     "IMAGES": [
+      "as901",
+      "as902",
+      "as903"
+     ],
+     "DESCRIPTION": "The AS90 is a 155mm self propelled gun (SPG) used by the British Army. Its official designation is Gun Equipment 155mm L131, and was brought in as the 'Artillery system for the 1990s'. The AS90 replaced the Abbot and M109 guns previously in service.",
+     "CREW": 5,
+     "R_FEAT": {
+      "The AS90 chassis is scratch built, although shares many internal features as the CRII. It has 6 evenly spaced road wheels, with the final drive at the front. The front glacis plate is curved slightly, with an inset centre. Each track link has a pair of track pads.": "as90rf1",
+      "The hull of the AS90 is sloped at the front and straight at the rear. The L31 gun turret is attached to the hull on the flat rear section. The barrel clamp is triangular and is attached at the very front of the hull, just above the front glacis plate.": "as90rf2",
+      "The L31 gun turret is sloped at the front and straight at the rear. The gun extrudes from the centre of the sloped section via a large rectangular shroud. On the left hand side of the turret there are two storage bins with a hatch between them.": "as90rf3",
+      "The fume extractor is positioned 1/3rd of the way up the barrel, with a rubber bellow extending from it down to the shroud. The muzzle break has two baffles, the forwardmost being rectangular and the other triangular in shape. ": "as90rf4",
+      "There are three storage boxes on the right hand side of the turret, with a gap between the first and second. At the rear of the AS90 there is a configuration of overhanging storage bins that sit above one large rear door.": "as90rf5",
+      "The drivers hatch is position front left on the hull and there are two hatches in the turret, one for the commander and one for the GPMG (FN MAG) gunner.": "as90rf6"
+     }
+    },
+    "M109": {
+     "MANUFACTURE": [
+      "VSEL",
+      1992,
+      1995
+     ],
+     "COO": [
+      "United Kingdom"
+     ],
+     "WEAPONS": [
+      "L31",
+      "FN-MAG"
+     ],
+     "DATA": {
+      "Weight": "45t",
+      "Length": "9.07m",
+      "Width": "3.5m",
+      "Height": "2.49m",
+      "Range": "420km",
+      "Speed": "53kph",
+      "HP": "660hp"
+     },
+     "IMAGES": [
+      "as901",
+      "as902",
+      "as903"
+     ],
+     "DESCRIPTION": "The AS90 is a 155mm self propelled gun (SPG) used by the British Army. Its official designation is Gun Equipment 155mm L131, and was brought in as the 'Artillery system for the 1990s'. The AS90 replaced the Abbot and M109 guns previously in service.",
+     "CREW": 5,
+     "R_FEAT": {
+      "The AS90 chassis is scratch built, although shares many internal features as the CRII. It has 6 evenly spaced road wheels, with the final drive at the front. The front glacis plate is curved slightly, with an inset centre. Each track link has a pair of track pads.": "as90rf1",
+      "The hull of the AS90 is sloped at the front and straight at the rear. The L31 gun turret is attached to the hull on the flat rear section. The barrel clamp is triangular and is attached at the very front of the hull, just above the front glacis plate.": "as90rf2",
+      "The L31 gun turret is sloped at the front and straight at the rear. The gun extrudes from the centre of the sloped section via a large rectangular shroud. On the left hand side of the turret there are two storage bins with a hatch between them.": "as90rf3",
+      "The fume extractor is positioned 1/3rd of the way up the barrel, with a rubber bellow extending from it down to the shroud. The muzzle break has two baffles, the forwardmost being rectangular and the other triangular in shape. ": "as90rf4",
+      "There are three storage boxes on the right hand side of the turret, with a gap between the first and second. At the rear of the AS90 there is a configuration of overhanging storage bins that sit above one large rear door.": "as90rf5",
+      "The drivers hatch is position front left on the hull and there are two hatches in the turret, one for the commander and one for the GPMG (FN MAG) gunner.": "as90rf6"
+     }
+    }
+   },
+   "MLRS**": {
+    "M270": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    },
+    "HIMARS": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    }
+   }
   },
   "CEW": {
    "R-149MA1": {
