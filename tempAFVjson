@@ -1,5 +1,5 @@
 {
- "9.1": {
+ "9.2": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -2378,6 +2378,7 @@
    }
   },
   "AD": {
+   "%GRAU": "",
    "Kub*": {
     "2K12 Kub": {
      "MANUFACTURE": [
@@ -2891,6 +2892,217 @@
      "R_FEAT": {
       "The M4 upgrade now has 2 x 9K38 'Igla' surface to air missiles mounted on the rear of the turret. It also has improved protection, including side skirts and flaps beneath the front glacis plate.": "zsum4rf"
      }
+    }
+   },
+   "%PLA": "",
+   "HQ-7": {
+    "MANUFACTURE": [
+     "Manufacturer",
+     "FROM",
+     "To"
+    ],
+    "COO": [
+     "Manufacturing COuntry"
+    ],
+    "WEAPONS": [
+     "Main",
+     "Second",
+     "Third"
+    ],
+    "DATA": {
+     "Weight": "",
+     "Length": "",
+     "Width": "",
+     "Height": "",
+     "Range": "",
+     "Speed": "",
+     "HP": ""
+    },
+    "IMAGES": [
+     "",
+     "",
+     ""
+    ],
+    "DESCRIPTION": "",
+    "CREW": 4,
+    "R_FEAT": {
+     "": "rfeat",
+     " (copy)": "rfeat"
+    }
+   },
+   "Yitian": {
+    "MANUFACTURE": [
+     "Manufacturer",
+     "FROM",
+     "To"
+    ],
+    "COO": [
+     "Manufacturing COuntry"
+    ],
+    "WEAPONS": [
+     "Main",
+     "Second",
+     "Third"
+    ],
+    "DATA": {
+     "Weight": "",
+     "Length": "",
+     "Width": "",
+     "Height": "",
+     "Range": "",
+     "Speed": "",
+     "HP": ""
+    },
+    "IMAGES": [
+     "",
+     "",
+     ""
+    ],
+    "DESCRIPTION": "",
+    "CREW": 4,
+    "R_FEAT": {
+     "": "rfeat",
+     " (copy)": "rfeat"
+    }
+   },
+   "HQ-6D": {
+    "MANUFACTURE": [
+     "Manufacturer",
+     "FROM",
+     "To"
+    ],
+    "COO": [
+     "Manufacturing COuntry"
+    ],
+    "WEAPONS": [
+     "Main",
+     "Second",
+     "Third"
+    ],
+    "DATA": {
+     "Weight": "",
+     "Length": "",
+     "Width": "",
+     "Height": "",
+     "Range": "",
+     "Speed": "",
+     "HP": ""
+    },
+    "IMAGES": [
+     "",
+     "",
+     ""
+    ],
+    "DESCRIPTION": "",
+    "CREW": 4,
+    "R_FEAT": {
+     "": "rfeat",
+     " (copy)": "rfeat"
+    }
+   },
+   "HQ-16": {
+    "MANUFACTURE": [
+     "Manufacturer",
+     "FROM",
+     "To"
+    ],
+    "COO": [
+     "Manufacturing COuntry"
+    ],
+    "WEAPONS": [
+     "Main",
+     "Second",
+     "Third"
+    ],
+    "DATA": {
+     "Weight": "",
+     "Length": "",
+     "Width": "",
+     "Height": "",
+     "Range": "",
+     "Speed": "",
+     "HP": ""
+    },
+    "IMAGES": [
+     "",
+     "",
+     ""
+    ],
+    "DESCRIPTION": "",
+    "CREW": 4,
+    "R_FEAT": {
+     "": "rfeat",
+     " (copy)": "rfeat"
+    }
+   },
+   "HQ-17A": {
+    "MANUFACTURE": [
+     "Manufacturer",
+     "FROM",
+     "To"
+    ],
+    "COO": [
+     "Manufacturing COuntry"
+    ],
+    "WEAPONS": [
+     "Main",
+     "Second",
+     "Third"
+    ],
+    "DATA": {
+     "Weight": "",
+     "Length": "",
+     "Width": "",
+     "Height": "",
+     "Range": "",
+     "Speed": "",
+     "HP": ""
+    },
+    "IMAGES": [
+     "",
+     "",
+     ""
+    ],
+    "DESCRIPTION": "",
+    "CREW": 4,
+    "R_FEAT": {
+     "": "rfeat",
+     " (copy)": "rfeat"
+    }
+   },
+   "HQ-22": {
+    "MANUFACTURE": [
+     "Manufacturer",
+     "FROM",
+     "To"
+    ],
+    "COO": [
+     "Manufacturing COuntry"
+    ],
+    "WEAPONS": [
+     "Main",
+     "Second",
+     "Third"
+    ],
+    "DATA": {
+     "Weight": "",
+     "Length": "",
+     "Width": "",
+     "Height": "",
+     "Range": "",
+     "Speed": "",
+     "HP": ""
+    },
+    "IMAGES": [
+     "",
+     "",
+     ""
+    ],
+    "DESCRIPTION": "",
+    "CREW": 4,
+    "R_FEAT": {
+     "": "rfeat",
+     " (copy)": "rfeat"
     }
    }
   },
