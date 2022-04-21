@@ -1,5 +1,5 @@
 {
- "9.2": {
+ "9.3": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -2895,214 +2895,218 @@
     }
    },
    "%PLA": "",
-   "HQ-7": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
+   "Tactical*": {
+    "HQ-7": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
     },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
+    "Yitian": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    },
+    "HQ-6D": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    },
+    "HQ-16": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
     }
    },
-   "Yitian": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
+   "Operational*": {
+    "HQ-17A": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
     },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
-    }
-   },
-   "HQ-6D": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
-    },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
-    }
-   },
-   "HQ-16": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
-    },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
-    }
-   },
-   "HQ-17A": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
-    },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
-    }
-   },
-   "HQ-22": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
-    },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
+    "HQ-22": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
     }
    }
   },
