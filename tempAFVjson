@@ -1,5 +1,5 @@
 {
- "9.4": {
+ "9.5": {
   "RECCE": {
    "BRDM-2": {
     "MANUFACTURE": [
@@ -3481,109 +3481,148 @@
     }
    },
    "%NATO": "",
-   "Rapier": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
+   "Guided*": {
+    "Rapier": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
     },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
+    "MIM-104 Patriot": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
+    },
+    "Sky Sabre": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
     }
    },
-   "Sky Sabre": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
-    },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
-    }
-   },
-   "Stormer HVM": {
-    "MANUFACTURE": [
-     "Manufacturer",
-     "FROM",
-     "To"
-    ],
-    "COO": [
-     "Manufacturing COuntry"
-    ],
-    "WEAPONS": [
-     "Main",
-     "Second",
-     "Third"
-    ],
-    "DATA": {
-     "Weight": "",
-     "Length": "",
-     "Width": "",
-     "Height": "",
-     "Range": "",
-     "Speed": "",
-     "HP": ""
-    },
-    "IMAGES": [
-     "",
-     "",
-     ""
-    ],
-    "DESCRIPTION": "",
-    "CREW": 4,
-    "R_FEAT": {
-     "": "rfeat",
-     " (copy)": "rfeat"
+   "Ballistic*": {
+    "Stormer HVM": {
+     "MANUFACTURE": [
+      "Manufacturer",
+      "FROM",
+      "To"
+     ],
+     "COO": [
+      "Manufacturing COuntry"
+     ],
+     "WEAPONS": [
+      "Main",
+      "Second",
+      "Third"
+     ],
+     "DATA": {
+      "Weight": "",
+      "Length": "",
+      "Width": "",
+      "Height": "",
+      "Range": "",
+      "Speed": "",
+      "HP": ""
+     },
+     "IMAGES": [
+      "",
+      "",
+      ""
+     ],
+     "DESCRIPTION": "",
+     "CREW": 4,
+     "R_FEAT": {
+      "": "rfeat",
+      " (copy)": "rfeat"
+     }
     }
    }
   },
