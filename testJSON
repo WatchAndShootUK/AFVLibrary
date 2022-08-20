@@ -1864,6 +1864,7 @@
         }
       },
       "BTR-4": {
+      "TYPE": "IFV",
         "MANUFACTURE": [
           "KMDB",
           2008,
