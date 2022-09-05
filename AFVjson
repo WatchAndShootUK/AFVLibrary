@@ -1,5 +1,5 @@
 {
-  "1.1.146" : {
+  "1.1.147" : {
     "RECCE" : {
       "BRDM-2" : {
         "MANUFACTURE" : [
@@ -3097,7 +3097,7 @@
           ],
           "COO" : [
             "Soviet Union",
-            "Belarus\nEritrea\nEthiopia\nRussia\nUkraine\nBelarus\nEritrea\nEthiopia\nRussia\nUkraine\nBelarus,Eritrea,Ethiopia,Russia,Ukraine"
+            "Belarus,Eritrea,Ethiopia,Russia,Ukraine"
           ],
           "WEAPONS" : [
             "2A36",
@@ -3117,9 +3117,9 @@
           "DESCRIPTION" : "The 2S5 Giatsint-S is a Soviet produced 152mm SPG, the chassis used is the GM-123 chassis, also used for the 2K11 Krug SAM, Deploying to fire the gun takes 3 minutes, and it can sustain a rate of fire of 5 to 6 rounds per minute. Most of the crew, with the exception of the gunner, deploys outside of the vehicle while firing. It is usually accompanied by an ammunition carrier with an additional 30 rounds of ammunition. It is capable of firing nuclear projectiles.\n\nThe 2S5 Giatsint-S is a Soviet produced 152mm SPG, the chassis used is the GM-123 chassis, also used for the 2K11 Krug SAM, Deploying to fire the gun takes 3 minutes, and it can sustain a rate of fire of 5 to 6 rounds per minute. Most of the crew, with the exception of the gunner, deploys outside of the vehicle while firing. It is usually accompanied by an ammunition carrier with an additional 30 rounds of ammunition. It is capable of firing nuclear projectiles.",
           "CREW" : 7,
           "R_FEAT" : {
-            "The 2S5 Giatsint-S has a prominent 152mm gun, with the breech exposed at the rear, a gun clamp halfway down the vehicle for transport and a prominent 6 baffle muzzle brake. The hull has a prominent look, the vehicle commander has a large cupola on the left side, the driver is seated in front of him with 2 periscopes.It has a splash plate at the front, with 2 headlights either side of the hull. The crew mostly ride in a TCV (Troop carrying vehicle-Truck) until the time to fire comes. " : "rf2s51",
+            "The 2S5 Giatsint-S has a prominent 152mm gun, with the breech exposed at the rear, a gun clamp halfway down the vehicle for transport and a prominent 6 baffle muzzle brake. The hull has a prominent look, the vehicle commander has a large cupola on the left side, the driver is seated in front of him with 2 periscopes.It has a splash plate at the front, with 2 headlights either side of the hull. The crew mostly ride in a TCV (Troop carrying vehicle-Truck) until the time to fire comes. " : "rf2s53",
             "The running gear has prominent gaps between the 1st-2nd-3rd-4th, the final 3 are equally spaced, the final drive is at the front." : "rf2s52",
-            "The rear of the 2S5 shows the exposed gun breech, along with a large earth stabiliser that is lowered when firing to reduce recoil and keep the vehicle in the same position." : "rf2s53"
+            "The rear of the 2S5 shows the exposed gun breech, along with a large earth stabiliser that is lowered when firing to reduce recoil and keep the vehicle in the same position." : "rf2s51"
           }
         },
         "2S19 Msta" : {
