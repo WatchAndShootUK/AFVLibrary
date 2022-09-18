@@ -1,6 +1,30 @@
 {
   "1.1.147" : {
     "RECCE" : {
+    "RKhM-4-01":
+{
+"MANUFACTURE":[
+"VPK",
+"Unknown",
+"Unknown"],
+"COO":["Russia",
+"Russia"],
+"R_FEAT":{"The RKhM-4-01 is easily confused as a standard BTR-80, the key differences are the sensors, the first one being behind the headlight, it is a fixed mount going upwards, the second sensor on the rear right of the turret, next to the smoke grenade dischargers, the final prominent feature is at the rear, behind the engine decks, below this are yellow markers.":"rkhm41",
+"Seen here are the yellow markers, they are to place in positions that a chemical has been detected in.":"rkhm42"},
+"WEAPONS":["KPVT",
+"PKT"],
+"DATA":{"Weight":"13.6t",
+"Length":"7.7m",
+"Width":"2.9m",
+"Height":"2.41m"},
+"IMAGES":["rkhm41",
+"rkhm42",
+"rkhm43",
+"rkhm44"],
+"DESCRIPTION":"The RKhM-4-01 is a Russian radiation and chemical reconnaissance platform based on the BTR-80, it has a variety of sensors for both testing, detecting and finding chemical and nuclear agents. These are mainly internal, although there are some features outside to help identify it. As well as chemical and nuclear recce, it can also conduct weather sampling, a motor rifle brigade will usually have a company equipped with this kind of platform, usually RKhM-4 or RKhM-6, although there are separate NBC/CBRN protection brigades.",
+"CREW":"6",
+"TYPE":"RECCE",
+},
       "BRDM-2" : {
         "MANUFACTURE" : [
           "GAZ",
